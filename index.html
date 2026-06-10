@@ -1,1 +1,373 @@
-### This is a test when learning Git !
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🎸 Zpěvník</title>
+<style>
+  :root {
+    --bg:           #1a1209;
+    --surface:      #251c10;
+    --border:       #4a3820;
+    --accent:       #e8a040;
+    --accent-dim:   #a06820;
+    --text:         #f0e8d8;
+    --text-dim:     #a09080;
+    --chord-bg:     #2e1f08;
+    --chord-color:  #f0c060;
+    --chord-border: #5a3a10;
+    --header-h:     52px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 16px;
+    line-height: 1.65;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+
+  header {
+    background: var(--surface);
+    border-bottom: 2px solid var(--border);
+    padding: 14px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    height: var(--header-h);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  header h1 {
+    font-size: 1.1rem;
+    color: var(--accent);
+    font-weight: normal;
+    letter-spacing: 0.04em;
+  }
+
+  nav.obsah {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 20px 18px;
+  }
+  nav.obsah h2 {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--text-dim);
+    margin-bottom: 10px;
+  }
+  nav.obsah ol {
+    list-style: none;
+    counter-reset: song;
+  }
+  nav.obsah li {
+    counter-increment: song;
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    padding: 3px 0;
+  }
+  nav.obsah li::before {
+    content: counter(song) ".";
+    color: var(--accent-dim);
+    font-family: 'Courier New', monospace;
+    font-size: 0.85rem;
+    min-width: 20px;
+  }
+  nav.obsah a {
+    color: var(--text);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: color .15s, border-color .15s;
+  }
+  nav.obsah a:hover,
+  nav.obsah a:focus {
+    color: var(--accent);
+    border-bottom-color: var(--accent-dim);
+    outline: none;
+  }
+
+  main { padding-bottom: 80px; }
+
+  article.pisen {
+    margin-top: 28px;
+    scroll-margin-top: calc(var(--header-h) + 8px);
+  }
+  .pisen-hlavicka {
+    padding: 10px 20px 8px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px;
+  }
+  .pisen-cislo {
+    font-family: 'Courier New', monospace;
+    font-size: 0.85rem;
+    color: var(--accent-dim);
+  }
+  .pisen-nazev {
+    font-size: 1.2rem;
+    color: var(--accent);
+    font-weight: bold;
+  }
+  .pisen-interpret {
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    font-style: italic;
+  }
+
+  .blok { position: relative; }
+
+  .blok-label {
+    padding: 8px 20px 0;
+    font-size: 0.62rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--text-dim);
+  }
+
+  .akordy {
+    position: sticky;
+    top: var(--header-h);
+    z-index: 10;
+    background: var(--chord-bg);
+    border-top: 1px solid var(--chord-border);
+    border-bottom: 1px solid var(--chord-border);
+    padding: 5px 20px;
+    font-family: 'Courier New', monospace;
+    font-size: 1rem;
+    color: var(--chord-color);
+    letter-spacing: 0.06em;
+    white-space: pre;
+    overflow-x: auto;
+  }
+
+  .blok-text {
+    padding: 8px 20px 20px;
+    font-size: 1rem;
+    line-height: 1.75;
+    white-space: pre-wrap;
+  }
+
+  .blok.refren .akordy {
+    color: #7ec8f0;
+    background: #0a1e2e;
+    border-color: #1a3a50;
+  }
+  .blok.refren .blok-text {
+    font-style: italic;
+    color: #c8dcf0;
+  }
+
+  .blok.bridge .akordy {
+    color: #b0e0a0;
+    background: #0e1e0e;
+    border-color: #2a4a20;
+  }
+  .blok.bridge .blok-text { color: #d0f0c8; }
+
+  hr.separator {
+    border: none;
+    border-top: 2px solid var(--border);
+    margin: 32px 20px 0;
+    opacity: 0.4;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <span>🎸</span>
+  <h1>Zpěvník u táboráku</h1>
+</header>
+
+<nav class="obsah">
+  <h2>Obsah</h2>
+  <ol>
+    <li><a href="#pisen-1">Nebe plný hvězd</a></li>
+    <li><a href="#pisen-2">Červená řeka</a></li>
+    <li><a href="#pisen-3">Valerie</a></li>
+  </ol>
+</nav>
+
+<main>
+
+<article class="pisen" id="pisen-1">
+  <div class="pisen-hlavicka">
+    <span class="pisen-cislo">1.</span>
+    <span class="pisen-nazev">Nebe plný hvězd</span>
+    <span class="pisen-interpret">— ukázková píseň</span>
+  </div>
+
+  <div class="blok sloka">
+    <div class="blok-label">Sloka 1</div>
+    <div class="akordy">Am        F         C         G</div>
+    <div class="blok-text">Sedíme u ohně, plamen táhne výš,
+dřevo praská tiše, nikdo nemluví víš.
+Nebe nad námi se rozsvítilo dnes,
+hvězdy jako tečky v modrém plátně nes.
+
+Kytara se ladí, někdo zpívá sám,
+vítr přináší vůni smoly k nám.
+Tohle místo znám, byl jsem tady vždy,
+každé léto stejné — přijdu sem i kdys.</div>
+  </div>
+
+  <div class="blok refren">
+    <div class="blok-label">Refrén</div>
+    <div class="akordy">C         G         Am        F</div>
+    <div class="blok-text">Nebe plný hvězd nad námi dnes stojí,
+táborák nám hřeje, nikdo se tu nebojí.
+Zpívej, zpívej se mnou, ať nás slyší les,
+nebe plný hvězd — to je náš dnes.</div>
+  </div>
+
+  <div class="blok sloka">
+    <div class="blok-label">Sloka 2</div>
+    <div class="akordy">Am        F         C         G</div>
+    <div class="blok-text">Ráno přijde brzy, oheň dohořel,
+spacák je zas mokrý, rosa na něm spel.
+Ale teď je noc ještě před námi,
+píseň ať se nese temnými háji.
+
+Hrnky plné čaje, někdo pálí chleba,
+kdo chce jít spát dřív, tomu tohle třeba.
+Zůstanem tu spolu, dokud svítí tma,
+každej z nás to ví — ráno přijde sama.</div>
+  </div>
+
+  <div class="blok refren">
+    <div class="blok-label">Refrén</div>
+    <div class="akordy">C         G         Am        F</div>
+    <div class="blok-text">Nebe plný hvězd nad námi dnes stojí,
+táborák nám hřeje, nikdo se tu nebojí.
+Zpívej, zpívej se mnou, ať nás slyší les,
+nebe plný hvězd — to je náš dnes.</div>
+  </div>
+
+  <div class="blok bridge">
+    <div class="blok-label">Bridge</div>
+    <div class="akordy">Dm        Em        F         G7</div>
+    <div class="blok-text">A až bude konec, až zas půjdem pryč,
+vzpomenem si na to — nebude to nic.
+Tohle bylo naše, tohle bylo tady,
+vzpomínka zůstane navždy bez náhrady.</div>
+  </div>
+
+  <div class="blok refren">
+    <div class="blok-label">Refrén (outro — opakovat 2×)</div>
+    <div class="akordy">C         G         Am        F    → C</div>
+    <div class="blok-text">Nebe plný hvězd nad námi dnes stojí,
+táborák nám hřeje, nikdo se tu nebojí.
+Zpívej, zpívej se mnou, ať nás slyší les,
+nebe plný hvězd — to je náš dnes.</div>
+  </div>
+</article>
+
+<hr class="separator">
+
+<article class="pisen" id="pisen-2">
+  <div class="pisen-hlavicka">
+    <span class="pisen-cislo">2.</span>
+    <span class="pisen-nazev">Červená řeka</span>
+    <span class="pisen-interpret">— ukázková píseň</span>
+  </div>
+
+  <div class="blok sloka">
+    <div class="blok-label">Sloka 1</div>
+    <div class="akordy">D         A         Bm        G</div>
+    <div class="blok-text">Tečou vody, tečou vody,
+červená řeka protéká polem.
+Kdo se napil z té studánky,
+ten si odnes píseň s sebou bolem.</div>
+  </div>
+
+  <div class="blok refren">
+    <div class="blok-label">Refrén</div>
+    <div class="akordy">G         D         A         D</div>
+    <div class="blok-text">Hej, hej, hej, zpívejme spolu,
+u táboráku za letní noci.
+Hej, hej, hej, plameny hoří,
+srdce nám hřeje do rána mocí.</div>
+  </div>
+
+  <div class="blok sloka">
+    <div class="blok-label">Sloka 2</div>
+    <div class="akordy">D         A         Bm        G</div>
+    <div class="blok-text">Za kopcem svítí první hvězda,
+kytara hraje tichý zpěv.
+Vítr přináší vůni lesa,
+sbohem léto, přijdeš zas.</div>
+  </div>
+
+  <div class="blok refren">
+    <div class="blok-label">Refrén</div>
+    <div class="akordy">G         D         A         D</div>
+    <div class="blok-text">Hej, hej, hej, zpívejme spolu,
+u táboráku za letní noci.
+Hej, hej, hej, plameny hoří,
+srdce nám hřeje do rána mocí.</div>
+  </div>
+</article>
+
+<hr class="separator">
+
+<article class="pisen" id="pisen-3">
+  <div class="pisen-hlavicka">
+    <span class="pisen-cislo">3.</span>
+    <span class="pisen-nazev">Valerie</span>
+    <span class="pisen-interpret">— Amy Winehouse / The Zutons</span>
+  </div>
+
+  <div class="blok sloka">
+    <div class="blok-label">Sloka 1</div>
+    <div class="akordy">F                   Gm</div>
+    <div class="blok-text">Well sometimes I go out by myself
+and I look across the water.
+And I think of all the things,
+what you're doing and in my head I paint a picture.
+
+Since I've come home, well my body's been a mess,
+and I miss your ginger hair and the way you like to dress.
+Won't you come on over, stop making a fool out of me?</div>
+  </div>
+
+  <div class="blok refren">
+    <div class="blok-label">Refrén</div>
+    <div class="akordy">Bb        F         Gm        Eb</div>
+    <div class="blok-text">Valerie, Valerie,
+Valerie, Valerie.
+Why won't you come on over,
+stop making a fool out of me.</div>
+  </div>
+
+  <div class="blok sloka">
+    <div class="blok-label">Sloka 2</div>
+    <div class="akordy">F                   Gm</div>
+    <div class="blok-text">Did you have to go to jail, put your house up for sale?
+Did you get a good lawyer? I hope you won't forget me
+'cause I know you won't, I know you won't.</div>
+  </div>
+
+  <div class="blok refren">
+    <div class="blok-label">Refrén</div>
+    <div class="akordy">Bb        F         Gm        Eb</div>
+    <div class="blok-text">Valerie, Valerie,
+Valerie, Valerie.
+Why won't you come on over,
+stop making a fool out of me.</div>
+  </div>
+</article>
+
+</main>
+
+</body>
+</html>
