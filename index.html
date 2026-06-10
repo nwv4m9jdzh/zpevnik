@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Pivka a buřty</title>
+<link rel="icon" type="image/png" sizes="180x180" href="apple-touch-icon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="Pivka a buřty">
 <style>
   :root {
     --bg:           #16120d;
@@ -11,12 +14,13 @@
     --border:       #40372a;
     --accent:       #be9a6a;
     --accent-dim:   #806440;
-    --text:         #eae6de;
-    --text-dim:     #989088;
+    --text:         #dad6ce;
+    --text-zvyraz:  #f5f3ef;   /* první slovo řádku — lehce "svítí" */
     --chord-bg:     #241d12;
-    --chord-color:  #ccb484;
+    --chord-color:  #d3c5a9;   /* půl cesty mezi původní akordovou a barvou textu */
     --chord-border: #483823;
     --header-h:     52px;
+    --titul-h:      2.4rem;    /* výška přilepeného pruhu s názvem skladby */
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -128,44 +132,86 @@
 
   article.pisen {
     margin-top: 28px;
-    scroll-margin-top: calc(var(--header-h) + 8px);
+    scroll-margin-top: var(--header-h);
   }
+
+  /* Pruh s názvem skladby — lepí se hned pod hlavičku stránky */
   .pisen-hlavicka {
-    padding: 10px 20px 8px;
-    border-top: 1px solid var(--border);
+    position: sticky;
+    top: var(--header-h);
+    z-index: 20;
+    height: var(--titul-h);
+    background: var(--chord-bg);
+    border-top: 1px solid var(--chord-border);
+    border-bottom: 1px solid var(--chord-border);
+    padding: 0 20px;
     display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
+    align-items: center;
     gap: 8px;
+  }
+  .pisen-titul {
+    flex: 1;
+    min-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   .pisen-cislo {
     font-family: 'Courier New', monospace;
     font-size: 0.85rem;
     color: var(--accent-dim);
   }
-  .pisen-nazev {
-    font-size: 1.2rem;
-    color: var(--accent);
-    font-weight: bold;
-  }
   .pisen-interpret {
     font-size: 0.82rem;
     color: var(--text-dim);
     font-style: italic;
   }
+  .pisen-interpret::after { content: " —"; }
+  .pisen-nazev {
+    font-size: 1.2rem;
+    color: var(--accent);
+    font-weight: bold;
+  }
+
+  /* Tlačítka transpozice (doplňuje skript do každé hlavičky) */
+  .transpozice {
+    display: flex;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+  .transpozice button {
+    background: var(--surface);
+    border: 1px solid var(--chord-border);
+    border-radius: 6px;
+    color: var(--accent);
+    font-family: inherit;
+    font-size: 0.9rem;
+    line-height: 1;
+    width: 1.7rem;
+    height: 1.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
 
   .blok { position: relative; }
 
+  /* Pruh s akordy — lepí se pod pruh s názvem skladby.
+     Akordy jsou ve zdroji oddělené JEDNOU mezerou; viditelný rozestup
+     mezi nimi určuje word-spacing na dalším řádku — uprav podle chuti. */
   .akordy {
+    word-spacing: 2ch;
     position: sticky;
-    top: var(--header-h);
+    top: calc(var(--header-h) + var(--titul-h));
     z-index: 10;
-    background: var(--chord-bg);
+    background: var(--bg);
     border-top: 1px solid var(--chord-border);
     border-bottom: 1px solid var(--chord-border);
     padding: 5px 20px;
     font-family: 'Courier New', monospace;
-    font-size: 1rem;
+    font-size: 1.3rem;
+    font-weight: bold;
     color: var(--chord-color);
     letter-spacing: 0.06em;
     white-space: pre;
@@ -182,12 +228,15 @@
      a je předsazené, takže je na první pohled poznat. */
   .radek {
     line-height: 1.3;
-    margin-top: 0.35em;
+    margin-top: 0.65em;
     padding-left: 1.2em;
     text-indent: -1.2em;
   }
   .radek:first-child { margin-top: 0; }
   .mezera { height: 1em; }
+
+  /* První slovo každého řádku (doplňuje skript) */
+  .prvni-slovo { color: var(--text-zvyraz); }
 </style>
 </head>
 <body>
@@ -201,8 +250,9 @@
   </div>
 </header>
 
+<!-- zde v h2 byl OBSAH -->
 <nav class="obsah">
-  <h2>Obsah</h2>
+  <h2></h2>
   <ol id="seznam-pisni"></ol>
 </nav>
 
@@ -210,13 +260,15 @@
 
 <article class="pisen">
   <div class="pisen-hlavicka">
-    <span class="pisen-cislo"></span>
-    <span class="pisen-nazev">Nebe plný hvězd</span>
-    <span class="pisen-interpret">— ukázková píseň</span>
+    <div class="pisen-titul">
+      <span class="pisen-cislo"></span>
+      <span class="pisen-interpret">ukázková píseň</span>
+      <span class="pisen-nazev">Nebe plný hvězd</span>
+    </div>
   </div>
 
   <div class="blok">
-    <div class="akordy">Am    F    C    G</div>
+    <div class="akordy">Am F C G</div>
     <div class="blok-text">
       <div class="radek">Sedíme u ohně, plamen táhne výš,</div>
       <div class="radek">dřevo praská tiše, nikdo nemluví víš.</div>
@@ -231,7 +283,7 @@
   </div>
 
   <div class="blok">
-    <div class="akordy">C    G    Am    F</div>
+    <div class="akordy">C G Am F</div>
     <div class="blok-text">
       <div class="radek">Nebe plný hvězd nad námi dnes stojí,</div>
       <div class="radek">táborák nám hřeje, nikdo se tu nebojí.</div>
@@ -241,7 +293,7 @@
   </div>
 
   <div class="blok">
-    <div class="akordy">Am    F    C    G</div>
+    <div class="akordy">Am F C G</div>
     <div class="blok-text">
       <div class="radek">Ráno přijde brzy, oheň dohořel,</div>
       <div class="radek">spacák je zas mokrý, rosa na něm spel.</div>
@@ -256,7 +308,7 @@
   </div>
 
   <div class="blok">
-    <div class="akordy">C    G    Am    F</div>
+    <div class="akordy">C G Am F</div>
     <div class="blok-text">
       <div class="radek">Nebe plný hvězd nad námi dnes stojí,</div>
       <div class="radek">táborák nám hřeje, nikdo se tu nebojí.</div>
@@ -266,7 +318,7 @@
   </div>
 
   <div class="blok">
-    <div class="akordy">Dm    Em    F    G7</div>
+    <div class="akordy">Dm Em F G7</div>
     <div class="blok-text">
       <div class="radek">A až bude konec, až zas půjdem pryč,</div>
       <div class="radek">vzpomenem si na to — nebude to nic.</div>
@@ -276,7 +328,7 @@
   </div>
 
   <div class="blok">
-    <div class="akordy">C    G    Am    F  → C</div>
+    <div class="akordy">C G Am F → C</div>
     <div class="blok-text">
       <div class="radek">Nebe plný hvězd nad námi dnes stojí,</div>
       <div class="radek">táborák nám hřeje, nikdo se tu nebojí.</div>
@@ -288,13 +340,15 @@
 
 <article class="pisen">
   <div class="pisen-hlavicka">
-    <span class="pisen-cislo"></span>
-    <span class="pisen-nazev">Červená řeka</span>
-    <span class="pisen-interpret">— ukázková píseň</span>
+    <div class="pisen-titul">
+      <span class="pisen-cislo"></span>
+      <span class="pisen-interpret">ukázková píseň</span>
+      <span class="pisen-nazev">Červená řeka</span>
+    </div>
   </div>
 
   <div class="blok">
-    <div class="akordy">D    A    Bm    G</div>
+    <div class="akordy">D A Bm G</div>
     <div class="blok-text">
       <div class="radek">Tečou vody, tečou vody,</div>
       <div class="radek">červená řeka protéká polem.</div>
@@ -304,7 +358,7 @@
   </div>
 
   <div class="blok">
-    <div class="akordy">G    D    A    D</div>
+    <div class="akordy">G D A D</div>
     <div class="blok-text">
       <div class="radek">Hej, hej, hej, zpívejme spolu,</div>
       <div class="radek">u táboráku za letní noci.</div>
@@ -314,7 +368,7 @@
   </div>
 
   <div class="blok">
-    <div class="akordy">D    A    Bm    G</div>
+    <div class="akordy">D A Bm G</div>
     <div class="blok-text">
       <div class="radek">Za kopcem svítí první hvězda,</div>
       <div class="radek">kytara hraje tichý zpěv.</div>
@@ -324,7 +378,7 @@
   </div>
 
   <div class="blok">
-    <div class="akordy">G    D    A    D</div>
+    <div class="akordy">G D A D</div>
     <div class="blok-text">
       <div class="radek">Hej, hej, hej, zpívejme spolu,</div>
       <div class="radek">u táboráku za letní noci.</div>
@@ -336,13 +390,15 @@
 
 <article class="pisen">
   <div class="pisen-hlavicka">
-    <span class="pisen-cislo"></span>
-    <span class="pisen-nazev">Valerie</span>
-    <span class="pisen-interpret">— Amy Winehouse / The Zutons</span>
+    <div class="pisen-titul">
+      <span class="pisen-cislo"></span>
+      <span class="pisen-interpret">Amy Winehouse / The Zutons</span>
+      <span class="pisen-nazev">Valerie</span>
+    </div>
   </div>
 
   <div class="blok">
-    <div class="akordy">F          Gm</div>
+    <div class="akordy">F Gm</div>
     <div class="blok-text">
       <div class="radek">Well sometimes I go out by myself</div>
       <div class="radek">and I look across the water.</div>
@@ -356,7 +412,7 @@
   </div>
 
   <div class="blok">
-    <div class="akordy">Bb    F    Gm    Eb</div>
+    <div class="akordy">A# F Gm D#</div>
     <div class="blok-text">
       <div class="radek">Valerie, Valerie,</div>
       <div class="radek">Valerie, Valerie.</div>
@@ -366,7 +422,7 @@
   </div>
 
   <div class="blok">
-    <div class="akordy">F          Gm</div>
+    <div class="akordy">F Gm</div>
     <div class="blok-text">
       <div class="radek">Did you have to go to jail, put your house up for sale?</div>
       <div class="radek">Did you get a good lawyer? I hope you won't forget me</div>
@@ -375,7 +431,7 @@
   </div>
 
   <div class="blok">
-    <div class="akordy">Bb    F    Gm    Eb</div>
+    <div class="akordy">A# F Gm D#</div>
     <div class="blok-text">
       <div class="radek">Valerie, Valerie,</div>
       <div class="radek">Valerie, Valerie.</div>
@@ -388,16 +444,53 @@
 </main>
 
 <script>
-// Seznam písní se sestaví automaticky z <article class="pisen"> na stránce.
-// Stačí vložit novou píseň do <main> a obsah i číslování se doplní samy.
+// ===== Nastavení =====
+var TRANSPOZICE_KROK = 7;    // půltóny na jeden stisk +/− (případně změň na 1 nebo 2)
+var PAMATOVAT_PISMO = false; // true = pamatovat zvolenou velikost písma i po obnovení stránky
+
+// ===== Transpozice akordů (česká notace: H = půltón pod C, B se bere jako H) =====
+var NOTY = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'H'];
+var HODNOTA = { 'C': 0, 'C#': 1, 'D': 2, 'D#': 3, 'E': 4, 'F': 5, 'F#': 6,
+                'G': 7, 'G#': 8, 'A': 9, 'A#': 10, 'H': 11, 'B': 11 };
+
+function transponujTon(ton, krok) {
+  var m = ton.match(/^([A-H]#?)(.*)$/);
+  if (!m || !(m[1] in HODNOTA)) return ton;
+  var idx = ((HODNOTA[m[1]] + krok) % 12 + 12) % 12;
+  return NOTY[idx] + m[2];
+}
+
+function transponujAkord(akord, krok) {
+  // bass za lomítkem se transponuje taky
+  return akord.split('/').map(function (cast) {
+    return transponujTon(cast, krok);
+  }).join('/');
+}
+
+function transponujRadek(text, krok) {
+  return text.split(/(\s+)/).map(function (kus) {
+    return /^\s/.test(kus) ? kus : transponujAkord(kus, krok);
+  }).join('');
+}
+
+function transponujPisen(pisen, krok) {
+  pisen.querySelectorAll('.akordy').forEach(function (el) {
+    el.textContent = transponujRadek(el.textContent, krok);
+  });
+}
+
+// ===== Sestavení stránky =====
+// Seznam písní, čísla, tlačítka transpozice i zvýraznění prvních slov
+// se doplní automaticky — novou píseň stačí vložit do <main>.
 (function () {
   var seznam = document.getElementById('seznam-pisni');
-  var pisne = document.querySelectorAll('article.pisen');
-  pisne.forEach(function (pisen, i) {
+
+  document.querySelectorAll('article.pisen').forEach(function (pisen, i) {
     var n = i + 1;
     pisen.id = 'pisen-' + n;
     var cislo = pisen.querySelector('.pisen-cislo');
     if (cislo) cislo.textContent = n + '.';
+
     var nazev = pisen.querySelector('.pisen-nazev');
     var li = document.createElement('li');
     var a = document.createElement('a');
@@ -405,17 +498,52 @@
     a.textContent = nazev ? nazev.textContent : 'Píseň ' + n;
     li.appendChild(a);
     seznam.appendChild(li);
+
+    // tlačítka transpozice do hlavičky písně
+    var hlavicka = pisen.querySelector('.pisen-hlavicka');
+    if (hlavicka) {
+      var box = document.createElement('span');
+      box.className = 'transpozice';
+      [['−', -TRANSPOZICE_KROK, 'Transponovat dolů'],
+       ['+',  TRANSPOZICE_KROK, 'Transponovat nahoru']].forEach(function (def) {
+        var b = document.createElement('button');
+        b.textContent = def[0];
+        b.title = def[2];
+        b.addEventListener('click', function () { transponujPisen(pisen, def[1]); });
+        box.appendChild(b);
+      });
+      hlavicka.appendChild(box);
+    }
+  });
+
+  // první slovo každého řádku do zvýrazňovacího spanu
+  document.querySelectorAll('.radek').forEach(function (radek) {
+    var text = radek.textContent;
+    var i = text.indexOf(' ');
+    var prvni = i === -1 ? text : text.slice(0, i);
+    var zbytek = i === -1 ? '' : text.slice(i);
+    radek.textContent = '';
+    var span = document.createElement('span');
+    span.className = 'prvni-slovo';
+    span.textContent = prvni;
+    radek.appendChild(span);
+    radek.appendChild(document.createTextNode(zbytek));
   });
 })();
 
-// Zvětšování/zmenšování písma — mění root font-size, vše je v rem.
-// Výchozí 26px = původních 16px zvětšených o 60 %. Volba se pamatuje.
+// ===== Zvětšování/zmenšování písma =====
+// Mění root font-size, vše je v rem. Výchozí 26px = 16px zvětšených o 60 %.
 (function () {
   var KLIC = 'zpevnik-pismo';
-  var velikost = parseInt(localStorage.getItem(KLIC), 10) || 26;
+  var velikost = 26;
+  if (PAMATOVAT_PISMO) {
+    velikost = parseInt(localStorage.getItem(KLIC), 10) || 26;
+  }
   function nastav() {
     document.documentElement.style.fontSize = velikost + 'px';
-    try { localStorage.setItem(KLIC, velikost); } catch (e) {}
+    if (PAMATOVAT_PISMO) {
+      try { localStorage.setItem(KLIC, velikost); } catch (e) {}
+    }
   }
   nastav();
   document.getElementById('pismo-mensi').addEventListener('click', function () {

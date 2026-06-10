@@ -11,11 +11,13 @@
     --border:       #40372a;
     --accent:       #be9a6a;
     --accent-dim:   #806440;
-    --text:         #eae6de;
+    --text:         #dad6ce;
+    --text-zvyraz:  #f5f3ef;
     --text-dim:     #989088;
     --chord-bg:     #241d12;
-    --chord-color:  #ccb484;
+    --chord-color:  #d3c5a9;
     --chord-border: #483823;
+    --varovani:     #c08858;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -93,6 +95,16 @@
     font-size: 0.85rem;
   }
 
+  #varovani {
+    display: none;
+    margin-top: 12px;
+    padding: 10px 14px;
+    border: 1px solid var(--varovani);
+    border-radius: 8px;
+    color: var(--varovani);
+    font-size: 0.9rem;
+  }
+
   /* Náhled — stejné styly jako v index.html */
   #nahled {
     margin-top: 24px;
@@ -101,28 +113,34 @@
     overflow: hidden;
   }
   .pisen-hlavicka {
-    padding: 10px 20px 8px;
+    background: var(--chord-bg);
+    border-bottom: 1px solid var(--chord-border);
+    padding: 8px 20px;
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
     gap: 8px;
-  }
-  .pisen-nazev {
-    font-size: 1.2rem;
-    color: var(--accent);
-    font-weight: bold;
   }
   .pisen-interpret {
     font-size: 0.82rem;
     color: var(--text-dim);
     font-style: italic;
   }
+  .pisen-interpret::after { content: " —"; }
+  .pisen-nazev {
+    font-size: 1.2rem;
+    color: var(--accent);
+    font-weight: bold;
+  }
   .akordy {
-    background: var(--chord-bg);
+    word-spacing: 2ch;   /* viditelný rozestup mezi akordy — stejně jako v index.html */
+    background: var(--bg);
     border-top: 1px solid var(--chord-border);
     border-bottom: 1px solid var(--chord-border);
     padding: 5px 20px;
     font-family: 'Courier New', monospace;
+    font-size: 1.3em;
+    font-weight: bold;
     color: var(--chord-color);
     letter-spacing: 0.06em;
     white-space: pre;
@@ -131,12 +149,13 @@
   .blok-text { padding: 8px 20px 20px; }
   .radek {
     line-height: 1.3;
-    margin-top: 0.35em;
+    margin-top: 0.65em;
     padding-left: 1.2em;
     text-indent: -1.2em;
   }
   .radek:first-child { margin-top: 0; }
   .mezera { height: 1em; }
+  .prvni-slovo { color: var(--text-zvyraz); }
 </style>
 </head>
 <body>
@@ -145,7 +164,9 @@
 <p class="napoveda">
   Vlož text ve formátu: <code>## Název písně ##</code>, <code>&amp;&amp; Interpret &amp;&amp;</code>,
   <code>[A D E F#mi]</code> = řádek akordů, pod ním text. Prázdný řádek = mezera mezi slokami.
-  Výsledné HTML vlož do <code>&lt;main&gt;</code> v index.html — číslování a obsah se doplní samy.
+  Výsledné HTML vlož do <code>&lt;main&gt;</code> v index.html — číslování, obsah, transpozice
+  i zvýraznění prvních slov se doplní samy. Béčka (Bb, Eb…) nepoužívej — místo nich křížky
+  (A#, D#…), formátovač na ně upozorní.
 </p>
 
 <label for="vstup">Vstup</label>
@@ -162,6 +183,8 @@ text refrenu</textarea>
   <span id="stav"></span>
 </div>
 
+<div id="varovani"></div>
+
 <label for="vystup">Výstup — HTML k vložení do index.html</label>
 <textarea id="vystup" spellcheck="false" readonly></textarea>
 
@@ -173,15 +196,27 @@ function escapeHtml(s) {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
-// [A D E F#mi] -> "A    D    E    F#mi" (4 mezery mezi akordy)
+// Akordy se ve zdroji oddělují jednou mezerou; rozestup řeší CSS (word-spacing).
 function radekAkordu(obsah) {
-  return obsah.trim().split(/\s+/).join('    ');
+  return obsah.trim().split(/\s+/).join(' ');
+}
+
+// Najde akordy s béčkem (Bb, Eb, A♭…) včetně basů za lomítkem — ty do zpěvníku nepatří.
+function najdiBecka(obsahAkordu) {
+  var becka = [];
+  obsahAkordu.trim().split(/\s+/).forEach(function (akord) {
+    akord.split('/').forEach(function (cast) {
+      if (/^[A-H][b♭]/.test(cast)) becka.push(akord);
+    });
+  });
+  return becka;
 }
 
 function formatuj(vstup) {
   var radky = vstup.split(/\r?\n/);
   var nazev = 'Bez názvu';
   var interpret = '';
+  var becka = [];
   var bloky = [];   // { akordy: '...', radky: [ ... ] }  ('' v radky = mezera)
   var aktualni = null;
 
@@ -191,6 +226,7 @@ function formatuj(vstup) {
     if ((m = r.match(/^##\s*(.*?)\s*##$/))) { nazev = m[1]; return; }
     if ((m = r.match(/^&&\s*(.*?)\s*&&$/))) { interpret = m[1]; return; }
     if ((m = r.match(/^\[(.*)\]$/))) {
+      becka = becka.concat(najdiBecka(m[1]));
       aktualni = { akordy: radekAkordu(m[1]), radky: [] };
       bloky.push(aktualni);
       return;
@@ -205,11 +241,13 @@ function formatuj(vstup) {
 
   var html = '<article class="pisen">\n';
   html += '  <div class="pisen-hlavicka">\n';
-  html += '    <span class="pisen-cislo"></span>\n';
-  html += '    <span class="pisen-nazev">' + escapeHtml(nazev) + '</span>\n';
+  html += '    <div class="pisen-titul">\n';
+  html += '      <span class="pisen-cislo"></span>\n';
   if (interpret) {
-    html += '    <span class="pisen-interpret">— ' + escapeHtml(interpret) + '</span>\n';
+    html += '      <span class="pisen-interpret">' + escapeHtml(interpret) + '</span>\n';
   }
+  html += '      <span class="pisen-nazev">' + escapeHtml(nazev) + '</span>\n';
+  html += '    </div>\n';
   html += '  </div>\n';
 
   bloky.forEach(function (blok) {
@@ -236,19 +274,43 @@ function formatuj(vstup) {
   });
 
   html += '</article>';
-  return html;
+  return { html: html, becka: becka };
 }
 
 var vstup = document.getElementById('vstup');
 var vystup = document.getElementById('vystup');
 var nahled = document.getElementById('nahled');
 var stav = document.getElementById('stav');
+var varovani = document.getElementById('varovani');
+
+function zvyrazniPrvniSlova(koren) {
+  koren.querySelectorAll('.radek').forEach(function (radek) {
+    var text = radek.textContent;
+    var i = text.indexOf(' ');
+    var prvni = i === -1 ? text : text.slice(0, i);
+    var zbytek = i === -1 ? '' : text.slice(i);
+    radek.textContent = '';
+    var span = document.createElement('span');
+    span.className = 'prvni-slovo';
+    span.textContent = prvni;
+    radek.appendChild(span);
+    radek.appendChild(document.createTextNode(zbytek));
+  });
+}
 
 function spust() {
-  var html = formatuj(vstup.value);
-  vystup.value = html;
-  nahled.innerHTML = html;
+  var vysledek = formatuj(vstup.value);
+  vystup.value = vysledek.html;
+  nahled.innerHTML = vysledek.html;
+  zvyrazniPrvniSlova(nahled);
   stav.textContent = '';
+  if (vysledek.becka.length) {
+    varovani.style.display = 'block';
+    varovani.textContent = '⚠ Pozor, béčka v akordech: ' + vysledek.becka.join(', ')
+      + ' — přepiš na křížky (Bb → A#, Eb → D#, B = H).';
+  } else {
+    varovani.style.display = 'none';
+  }
 }
 
 document.getElementById('formatuj').addEventListener('click', spust);
