@@ -1,41 +1,43 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="cs" id="top">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>🎸 Zpěvník</title>
+<title>Pivka a buřty</title>
 <style>
   :root {
-    --bg:           #1a1209;
-    --surface:      #251c10;
-    --border:       #4a3820;
-    --accent:       #e8a040;
-    --accent-dim:   #a06820;
-    --text:         #f0e8d8;
-    --text-dim:     #a09080;
-    --chord-bg:     #2e1f08;
-    --chord-color:  #f0c060;
-    --chord-border: #5a3a10;
+    --bg:           #16120d;
+    --surface:      #201b15;
+    --border:       #40372a;
+    --accent:       #be9a6a;
+    --accent-dim:   #806440;
+    --text:         #eae6de;
+    --text-dim:     #989088;
+    --chord-bg:     #241d12;
+    --chord-color:  #ccb484;
+    --chord-border: #483823;
     --header-h:     52px;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  html { scroll-behavior: smooth; }
+
+  /* 16px × 1.6 = výchozí zvětšení o 60 %; tlačítka a/A to mění za běhu */
+  html { font-size: 26px; scroll-behavior: smooth; }
 
   body {
     background: var(--bg);
     color: var(--text);
-    font-family: Georgia, 'Times New Roman', serif;
-    font-size: 16px;
-    line-height: 1.65;
+    font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
     max-width: 640px;
     margin: 0 auto;
   }
 
   header {
-    background: var(--surface);
+    background: var(--bg);
     border-bottom: 2px solid var(--border);
-    padding: 14px 20px;
+    padding: 8px 20px;
     position: sticky;
     top: 0;
     z-index: 100;
@@ -49,7 +51,35 @@
     color: var(--accent);
     font-weight: normal;
     letter-spacing: 0.04em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
+
+  .nastroje {
+    margin-left: auto;
+    display: flex;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+  .nastroje button,
+  .nastroje a {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--accent);
+    font-family: inherit;
+    text-decoration: none;
+    width: 38px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 0.8rem;
+    line-height: 1;
+  }
+  .nastroje .mensi { font-size: 0.6rem; }
 
   nav.obsah {
     background: var(--surface);
@@ -126,14 +156,6 @@
 
   .blok { position: relative; }
 
-  .blok-label {
-    padding: 8px 20px 0;
-    font-size: 0.62rem;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
-    color: var(--text-dim);
-  }
-
   .akordy {
     position: sticky;
     top: var(--header-h);
@@ -153,221 +175,257 @@
   .blok-text {
     padding: 8px 20px 20px;
     font-size: 1rem;
-    line-height: 1.75;
-    white-space: pre-wrap;
   }
 
-  .blok.refren .akordy {
-    color: #7ec8f0;
-    background: #0a1e2e;
-    border-color: #1a3a50;
+  /* Každý řádek textu zvlášť: zalomené pokračování řádku má menší
+     svislý odskok (line-height) než nový řádek (margin-top navíc)
+     a je předsazené, takže je na první pohled poznat. */
+  .radek {
+    line-height: 1.3;
+    margin-top: 0.35em;
+    padding-left: 1.2em;
+    text-indent: -1.2em;
   }
-  .blok.refren .blok-text {
-    font-style: italic;
-    color: #c8dcf0;
-  }
-
-  .blok.bridge .akordy {
-    color: #b0e0a0;
-    background: #0e1e0e;
-    border-color: #2a4a20;
-  }
-  .blok.bridge .blok-text { color: #d0f0c8; }
-
-  hr.separator {
-    border: none;
-    border-top: 2px solid var(--border);
-    margin: 32px 20px 0;
-    opacity: 0.4;
-  }
+  .radek:first-child { margin-top: 0; }
+  .mezera { height: 1em; }
 </style>
 </head>
 <body>
 
 <header>
-  <span>🎸</span>
-  <h1>Zpěvník u táboráku</h1>
+  <h1>Pivka a buřty</h1>
+  <div class="nastroje">
+    <button class="mensi" id="pismo-mensi" title="Zmenšit písmo" aria-label="Zmenšit písmo">a</button>
+    <button id="pismo-vetsi" title="Zvětšit písmo" aria-label="Zvětšit písmo">A</button>
+    <a href="#top" title="Na začátek — seznam písní" aria-label="Na začátek stránky">☰</a>
+  </div>
 </header>
 
 <nav class="obsah">
   <h2>Obsah</h2>
-  <ol>
-    <li><a href="#pisen-1">Nebe plný hvězd</a></li>
-    <li><a href="#pisen-2">Červená řeka</a></li>
-    <li><a href="#pisen-3">Valerie</a></li>
-  </ol>
+  <ol id="seznam-pisni"></ol>
 </nav>
 
-<main>
+<main id="pisne">
 
-<article class="pisen" id="pisen-1">
+<article class="pisen">
   <div class="pisen-hlavicka">
-    <span class="pisen-cislo">1.</span>
+    <span class="pisen-cislo"></span>
     <span class="pisen-nazev">Nebe plný hvězd</span>
     <span class="pisen-interpret">— ukázková píseň</span>
   </div>
 
-  <div class="blok sloka">
-    <div class="blok-label">Sloka 1</div>
-    <div class="akordy">Am        F         C         G</div>
-    <div class="blok-text">Sedíme u ohně, plamen táhne výš,
-dřevo praská tiše, nikdo nemluví víš.
-Nebe nad námi se rozsvítilo dnes,
-hvězdy jako tečky v modrém plátně nes.
-
-Kytara se ladí, někdo zpívá sám,
-vítr přináší vůni smoly k nám.
-Tohle místo znám, byl jsem tady vždy,
-každé léto stejné — přijdu sem i kdys.</div>
+  <div class="blok">
+    <div class="akordy">Am    F    C    G</div>
+    <div class="blok-text">
+      <div class="radek">Sedíme u ohně, plamen táhne výš,</div>
+      <div class="radek">dřevo praská tiše, nikdo nemluví víš.</div>
+      <div class="radek">Nebe nad námi se rozsvítilo dnes,</div>
+      <div class="radek">hvězdy jako tečky v modrém plátně nes.</div>
+      <div class="mezera"></div>
+      <div class="radek">Kytara se ladí, někdo zpívá sám,</div>
+      <div class="radek">vítr přináší vůni smoly k nám.</div>
+      <div class="radek">Tohle místo znám, byl jsem tady vždy,</div>
+      <div class="radek">každé léto stejné — přijdu sem i kdys.</div>
+    </div>
   </div>
 
-  <div class="blok refren">
-    <div class="blok-label">Refrén</div>
-    <div class="akordy">C         G         Am        F</div>
-    <div class="blok-text">Nebe plný hvězd nad námi dnes stojí,
-táborák nám hřeje, nikdo se tu nebojí.
-Zpívej, zpívej se mnou, ať nás slyší les,
-nebe plný hvězd — to je náš dnes.</div>
+  <div class="blok">
+    <div class="akordy">C    G    Am    F</div>
+    <div class="blok-text">
+      <div class="radek">Nebe plný hvězd nad námi dnes stojí,</div>
+      <div class="radek">táborák nám hřeje, nikdo se tu nebojí.</div>
+      <div class="radek">Zpívej, zpívej se mnou, ať nás slyší les,</div>
+      <div class="radek">nebe plný hvězd — to je náš dnes.</div>
+    </div>
   </div>
 
-  <div class="blok sloka">
-    <div class="blok-label">Sloka 2</div>
-    <div class="akordy">Am        F         C         G</div>
-    <div class="blok-text">Ráno přijde brzy, oheň dohořel,
-spacák je zas mokrý, rosa na něm spel.
-Ale teď je noc ještě před námi,
-píseň ať se nese temnými háji.
-
-Hrnky plné čaje, někdo pálí chleba,
-kdo chce jít spát dřív, tomu tohle třeba.
-Zůstanem tu spolu, dokud svítí tma,
-každej z nás to ví — ráno přijde sama.</div>
+  <div class="blok">
+    <div class="akordy">Am    F    C    G</div>
+    <div class="blok-text">
+      <div class="radek">Ráno přijde brzy, oheň dohořel,</div>
+      <div class="radek">spacák je zas mokrý, rosa na něm spel.</div>
+      <div class="radek">Ale teď je noc ještě před námi,</div>
+      <div class="radek">píseň ať se nese temnými háji.</div>
+      <div class="mezera"></div>
+      <div class="radek">Hrnky plné čaje, někdo pálí chleba,</div>
+      <div class="radek">kdo chce jít spát dřív, tomu tohle třeba.</div>
+      <div class="radek">Zůstanem tu spolu, dokud svítí tma,</div>
+      <div class="radek">každej z nás to ví — ráno přijde sama.</div>
+    </div>
   </div>
 
-  <div class="blok refren">
-    <div class="blok-label">Refrén</div>
-    <div class="akordy">C         G         Am        F</div>
-    <div class="blok-text">Nebe plný hvězd nad námi dnes stojí,
-táborák nám hřeje, nikdo se tu nebojí.
-Zpívej, zpívej se mnou, ať nás slyší les,
-nebe plný hvězd — to je náš dnes.</div>
+  <div class="blok">
+    <div class="akordy">C    G    Am    F</div>
+    <div class="blok-text">
+      <div class="radek">Nebe plný hvězd nad námi dnes stojí,</div>
+      <div class="radek">táborák nám hřeje, nikdo se tu nebojí.</div>
+      <div class="radek">Zpívej, zpívej se mnou, ať nás slyší les,</div>
+      <div class="radek">nebe plný hvězd — to je náš dnes.</div>
+    </div>
   </div>
 
-  <div class="blok bridge">
-    <div class="blok-label">Bridge</div>
-    <div class="akordy">Dm        Em        F         G7</div>
-    <div class="blok-text">A až bude konec, až zas půjdem pryč,
-vzpomenem si na to — nebude to nic.
-Tohle bylo naše, tohle bylo tady,
-vzpomínka zůstane navždy bez náhrady.</div>
+  <div class="blok">
+    <div class="akordy">Dm    Em    F    G7</div>
+    <div class="blok-text">
+      <div class="radek">A až bude konec, až zas půjdem pryč,</div>
+      <div class="radek">vzpomenem si na to — nebude to nic.</div>
+      <div class="radek">Tohle bylo naše, tohle bylo tady,</div>
+      <div class="radek">vzpomínka zůstane navždy bez náhrady.</div>
+    </div>
   </div>
 
-  <div class="blok refren">
-    <div class="blok-label">Refrén (outro — opakovat 2×)</div>
-    <div class="akordy">C         G         Am        F    → C</div>
-    <div class="blok-text">Nebe plný hvězd nad námi dnes stojí,
-táborák nám hřeje, nikdo se tu nebojí.
-Zpívej, zpívej se mnou, ať nás slyší les,
-nebe plný hvězd — to je náš dnes.</div>
+  <div class="blok">
+    <div class="akordy">C    G    Am    F  → C</div>
+    <div class="blok-text">
+      <div class="radek">Nebe plný hvězd nad námi dnes stojí,</div>
+      <div class="radek">táborák nám hřeje, nikdo se tu nebojí.</div>
+      <div class="radek">Zpívej, zpívej se mnou, ať nás slyší les,</div>
+      <div class="radek">nebe plný hvězd — to je náš dnes.</div>
+    </div>
   </div>
 </article>
 
-<hr class="separator">
-
-<article class="pisen" id="pisen-2">
+<article class="pisen">
   <div class="pisen-hlavicka">
-    <span class="pisen-cislo">2.</span>
+    <span class="pisen-cislo"></span>
     <span class="pisen-nazev">Červená řeka</span>
     <span class="pisen-interpret">— ukázková píseň</span>
   </div>
 
-  <div class="blok sloka">
-    <div class="blok-label">Sloka 1</div>
-    <div class="akordy">D         A         Bm        G</div>
-    <div class="blok-text">Tečou vody, tečou vody,
-červená řeka protéká polem.
-Kdo se napil z té studánky,
-ten si odnes píseň s sebou bolem.</div>
+  <div class="blok">
+    <div class="akordy">D    A    Bm    G</div>
+    <div class="blok-text">
+      <div class="radek">Tečou vody, tečou vody,</div>
+      <div class="radek">červená řeka protéká polem.</div>
+      <div class="radek">Kdo se napil z té studánky,</div>
+      <div class="radek">ten si odnes píseň s sebou bolem.</div>
+    </div>
   </div>
 
-  <div class="blok refren">
-    <div class="blok-label">Refrén</div>
-    <div class="akordy">G         D         A         D</div>
-    <div class="blok-text">Hej, hej, hej, zpívejme spolu,
-u táboráku za letní noci.
-Hej, hej, hej, plameny hoří,
-srdce nám hřeje do rána mocí.</div>
+  <div class="blok">
+    <div class="akordy">G    D    A    D</div>
+    <div class="blok-text">
+      <div class="radek">Hej, hej, hej, zpívejme spolu,</div>
+      <div class="radek">u táboráku za letní noci.</div>
+      <div class="radek">Hej, hej, hej, plameny hoří,</div>
+      <div class="radek">srdce nám hřeje do rána mocí.</div>
+    </div>
   </div>
 
-  <div class="blok sloka">
-    <div class="blok-label">Sloka 2</div>
-    <div class="akordy">D         A         Bm        G</div>
-    <div class="blok-text">Za kopcem svítí první hvězda,
-kytara hraje tichý zpěv.
-Vítr přináší vůni lesa,
-sbohem léto, přijdeš zas.</div>
+  <div class="blok">
+    <div class="akordy">D    A    Bm    G</div>
+    <div class="blok-text">
+      <div class="radek">Za kopcem svítí první hvězda,</div>
+      <div class="radek">kytara hraje tichý zpěv.</div>
+      <div class="radek">Vítr přináší vůni lesa,</div>
+      <div class="radek">sbohem léto, přijdeš zas.</div>
+    </div>
   </div>
 
-  <div class="blok refren">
-    <div class="blok-label">Refrén</div>
-    <div class="akordy">G         D         A         D</div>
-    <div class="blok-text">Hej, hej, hej, zpívejme spolu,
-u táboráku za letní noci.
-Hej, hej, hej, plameny hoří,
-srdce nám hřeje do rána mocí.</div>
+  <div class="blok">
+    <div class="akordy">G    D    A    D</div>
+    <div class="blok-text">
+      <div class="radek">Hej, hej, hej, zpívejme spolu,</div>
+      <div class="radek">u táboráku za letní noci.</div>
+      <div class="radek">Hej, hej, hej, plameny hoří,</div>
+      <div class="radek">srdce nám hřeje do rána mocí.</div>
+    </div>
   </div>
 </article>
 
-<hr class="separator">
-
-<article class="pisen" id="pisen-3">
+<article class="pisen">
   <div class="pisen-hlavicka">
-    <span class="pisen-cislo">3.</span>
+    <span class="pisen-cislo"></span>
     <span class="pisen-nazev">Valerie</span>
     <span class="pisen-interpret">— Amy Winehouse / The Zutons</span>
   </div>
 
-  <div class="blok sloka">
-    <div class="blok-label">Sloka 1</div>
-    <div class="akordy">F                   Gm</div>
-    <div class="blok-text">Well sometimes I go out by myself
-and I look across the water.
-And I think of all the things,
-what you're doing and in my head I paint a picture.
-
-Since I've come home, well my body's been a mess,
-and I miss your ginger hair and the way you like to dress.
-Won't you come on over, stop making a fool out of me?</div>
+  <div class="blok">
+    <div class="akordy">F          Gm</div>
+    <div class="blok-text">
+      <div class="radek">Well sometimes I go out by myself</div>
+      <div class="radek">and I look across the water.</div>
+      <div class="radek">And I think of all the things,</div>
+      <div class="radek">what you're doing and in my head I paint a picture.</div>
+      <div class="mezera"></div>
+      <div class="radek">Since I've come home, well my body's been a mess,</div>
+      <div class="radek">and I miss your ginger hair and the way you like to dress.</div>
+      <div class="radek">Won't you come on over, stop making a fool out of me?</div>
+    </div>
   </div>
 
-  <div class="blok refren">
-    <div class="blok-label">Refrén</div>
-    <div class="akordy">Bb        F         Gm        Eb</div>
-    <div class="blok-text">Valerie, Valerie,
-Valerie, Valerie.
-Why won't you come on over,
-stop making a fool out of me.</div>
+  <div class="blok">
+    <div class="akordy">Bb    F    Gm    Eb</div>
+    <div class="blok-text">
+      <div class="radek">Valerie, Valerie,</div>
+      <div class="radek">Valerie, Valerie.</div>
+      <div class="radek">Why won't you come on over,</div>
+      <div class="radek">stop making a fool out of me.</div>
+    </div>
   </div>
 
-  <div class="blok sloka">
-    <div class="blok-label">Sloka 2</div>
-    <div class="akordy">F                   Gm</div>
-    <div class="blok-text">Did you have to go to jail, put your house up for sale?
-Did you get a good lawyer? I hope you won't forget me
-'cause I know you won't, I know you won't.</div>
+  <div class="blok">
+    <div class="akordy">F          Gm</div>
+    <div class="blok-text">
+      <div class="radek">Did you have to go to jail, put your house up for sale?</div>
+      <div class="radek">Did you get a good lawyer? I hope you won't forget me</div>
+      <div class="radek">'cause I know you won't, I know you won't.</div>
+    </div>
   </div>
 
-  <div class="blok refren">
-    <div class="blok-label">Refrén</div>
-    <div class="akordy">Bb        F         Gm        Eb</div>
-    <div class="blok-text">Valerie, Valerie,
-Valerie, Valerie.
-Why won't you come on over,
-stop making a fool out of me.</div>
+  <div class="blok">
+    <div class="akordy">Bb    F    Gm    Eb</div>
+    <div class="blok-text">
+      <div class="radek">Valerie, Valerie,</div>
+      <div class="radek">Valerie, Valerie.</div>
+      <div class="radek">Why won't you come on over,</div>
+      <div class="radek">stop making a fool out of me.</div>
+    </div>
   </div>
 </article>
 
 </main>
+
+<script>
+// Seznam písní se sestaví automaticky z <article class="pisen"> na stránce.
+// Stačí vložit novou píseň do <main> a obsah i číslování se doplní samy.
+(function () {
+  var seznam = document.getElementById('seznam-pisni');
+  var pisne = document.querySelectorAll('article.pisen');
+  pisne.forEach(function (pisen, i) {
+    var n = i + 1;
+    pisen.id = 'pisen-' + n;
+    var cislo = pisen.querySelector('.pisen-cislo');
+    if (cislo) cislo.textContent = n + '.';
+    var nazev = pisen.querySelector('.pisen-nazev');
+    var li = document.createElement('li');
+    var a = document.createElement('a');
+    a.href = '#pisen-' + n;
+    a.textContent = nazev ? nazev.textContent : 'Píseň ' + n;
+    li.appendChild(a);
+    seznam.appendChild(li);
+  });
+})();
+
+// Zvětšování/zmenšování písma — mění root font-size, vše je v rem.
+// Výchozí 26px = původních 16px zvětšených o 60 %. Volba se pamatuje.
+(function () {
+  var KLIC = 'zpevnik-pismo';
+  var velikost = parseInt(localStorage.getItem(KLIC), 10) || 26;
+  function nastav() {
+    document.documentElement.style.fontSize = velikost + 'px';
+    try { localStorage.setItem(KLIC, velikost); } catch (e) {}
+  }
+  nastav();
+  document.getElementById('pismo-mensi').addEventListener('click', function () {
+    velikost = Math.max(14, velikost - 2); nastav();
+  });
+  document.getElementById('pismo-vetsi').addEventListener('click', function () {
+    velikost = Math.min(48, velikost + 2); nastav();
+  });
+})();
+</script>
 
 </body>
 </html>

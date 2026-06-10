@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Formátovač písní — Pivka a buřty</title>
+<style>
+  :root {
+    --bg:           #16120d;
+    --surface:      #201b15;
+    --border:       #40372a;
+    --accent:       #be9a6a;
+    --accent-dim:   #806440;
+    --text:         #eae6de;
+    --text-dim:     #989088;
+    --chord-bg:     #241d12;
+    --chord-color:  #ccb484;
+    --chord-border: #483823;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 1.2rem;
+    color: var(--accent);
+    font-weight: normal;
+    margin-bottom: 4px;
+  }
+  p.napoveda {
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    margin-bottom: 16px;
+  }
+
+  label {
+    display: block;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--text-dim);
+    margin: 16px 0 6px;
+  }
+
+  textarea {
+    width: 100%;
+    min-height: 220px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    padding: 12px;
+    resize: vertical;
+  }
+  textarea:focus {
+    outline: none;
+    border-color: var(--accent-dim);
+  }
+  #vystup { min-height: 220px; }
+
+  .tlacitka {
+    display: flex;
+    gap: 10px;
+    margin-top: 12px;
+  }
+  button {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--accent);
+    font-family: inherit;
+    font-size: 0.95rem;
+    padding: 10px 18px;
+    cursor: pointer;
+  }
+  button:hover { border-color: var(--accent-dim); }
+  #stav {
+    align-self: center;
+    color: var(--text-dim);
+    font-size: 0.85rem;
+  }
+
+  /* Náhled — stejné styly jako v index.html */
+  #nahled {
+    margin-top: 24px;
+    border: 1px dashed var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .pisen-hlavicka {
+    padding: 10px 20px 8px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px;
+  }
+  .pisen-nazev {
+    font-size: 1.2rem;
+    color: var(--accent);
+    font-weight: bold;
+  }
+  .pisen-interpret {
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    font-style: italic;
+  }
+  .akordy {
+    background: var(--chord-bg);
+    border-top: 1px solid var(--chord-border);
+    border-bottom: 1px solid var(--chord-border);
+    padding: 5px 20px;
+    font-family: 'Courier New', monospace;
+    color: var(--chord-color);
+    letter-spacing: 0.06em;
+    white-space: pre;
+    overflow-x: auto;
+  }
+  .blok-text { padding: 8px 20px 20px; }
+  .radek {
+    line-height: 1.3;
+    margin-top: 0.35em;
+    padding-left: 1.2em;
+    text-indent: -1.2em;
+  }
+  .radek:first-child { margin-top: 0; }
+  .mezera { height: 1em; }
+</style>
+</head>
+<body>
+
+<h1>Formátovač písní</h1>
+<p class="napoveda">
+  Vlož text ve formátu: <code>## Název písně ##</code>, <code>&amp;&amp; Interpret &amp;&amp;</code>,
+  <code>[A D E F#mi]</code> = řádek akordů, pod ním text. Prázdný řádek = mezera mezi slokami.
+  Výsledné HTML vlož do <code>&lt;main&gt;</code> v index.html — číslování a obsah se doplní samy.
+</p>
+
+<label for="vstup">Vstup</label>
+<textarea id="vstup" spellcheck="false">## Název písně ##
+&amp;&amp; Interpret &amp;&amp;
+[A D E F#mi]
+text sloky
+[E D C#mi A]
+text refrenu</textarea>
+
+<div class="tlacitka">
+  <button id="formatuj">Formátovat</button>
+  <button id="kopiruj">Zkopírovat HTML</button>
+  <span id="stav"></span>
+</div>
+
+<label for="vystup">Výstup — HTML k vložení do index.html</label>
+<textarea id="vystup" spellcheck="false" readonly></textarea>
+
+<label>Náhled</label>
+<div id="nahled"></div>
+
+<script>
+function escapeHtml(s) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+// [A D E F#mi] -> "A    D    E    F#mi" (4 mezery mezi akordy)
+function radekAkordu(obsah) {
+  return obsah.trim().split(/\s+/).join('    ');
+}
+
+function formatuj(vstup) {
+  var radky = vstup.split(/\r?\n/);
+  var nazev = 'Bez názvu';
+  var interpret = '';
+  var bloky = [];   // { akordy: '...', radky: [ ... ] }  ('' v radky = mezera)
+  var aktualni = null;
+
+  radky.forEach(function (radek) {
+    var r = radek.trim();
+    var m;
+    if ((m = r.match(/^##\s*(.*?)\s*##$/))) { nazev = m[1]; return; }
+    if ((m = r.match(/^&&\s*(.*?)\s*&&$/))) { interpret = m[1]; return; }
+    if ((m = r.match(/^\[(.*)\]$/))) {
+      aktualni = { akordy: radekAkordu(m[1]), radky: [] };
+      bloky.push(aktualni);
+      return;
+    }
+    if (!aktualni) {
+      if (r === '') return;
+      aktualni = { akordy: null, radky: [] };
+      bloky.push(aktualni);
+    }
+    aktualni.radky.push(r);
+  });
+
+  var html = '<article class="pisen">\n';
+  html += '  <div class="pisen-hlavicka">\n';
+  html += '    <span class="pisen-cislo"></span>\n';
+  html += '    <span class="pisen-nazev">' + escapeHtml(nazev) + '</span>\n';
+  if (interpret) {
+    html += '    <span class="pisen-interpret">— ' + escapeHtml(interpret) + '</span>\n';
+  }
+  html += '  </div>\n';
+
+  bloky.forEach(function (blok) {
+    // odstranit prázdné řádky na začátku a konci bloku
+    var r = blok.radky.slice();
+    while (r.length && r[0] === '') r.shift();
+    while (r.length && r[r.length - 1] === '') r.pop();
+    if (!r.length && blok.akordy === null) return;
+
+    html += '\n  <div class="blok">\n';
+    if (blok.akordy !== null) {
+      html += '    <div class="akordy">' + escapeHtml(blok.akordy) + '</div>\n';
+    }
+    html += '    <div class="blok-text">\n';
+    r.forEach(function (radek) {
+      if (radek === '') {
+        html += '      <div class="mezera"></div>\n';
+      } else {
+        html += '      <div class="radek">' + escapeHtml(radek) + '</div>\n';
+      }
+    });
+    html += '    </div>\n';
+    html += '  </div>\n';
+  });
+
+  html += '</article>';
+  return html;
+}
+
+var vstup = document.getElementById('vstup');
+var vystup = document.getElementById('vystup');
+var nahled = document.getElementById('nahled');
+var stav = document.getElementById('stav');
+
+function spust() {
+  var html = formatuj(vstup.value);
+  vystup.value = html;
+  nahled.innerHTML = html;
+  stav.textContent = '';
+}
+
+document.getElementById('formatuj').addEventListener('click', spust);
+vstup.addEventListener('input', spust);
+
+document.getElementById('kopiruj').addEventListener('click', function () {
+  if (!vystup.value) spust();
+  navigator.clipboard.writeText(vystup.value).then(function () {
+    stav.textContent = 'Zkopírováno ✓';
+  }, function () {
+    vystup.select();
+    document.execCommand('copy');
+    stav.textContent = 'Zkopírováno ✓';
+  });
+});
+
+spust();
+</script>
+
+</body>
+</html>
