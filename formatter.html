@@ -11,7 +11,7 @@
     --border:       #40372a;
     --accent:       #be9a6a;
     --accent-dim:   #806440;
-    --text:         #dad6ce;
+    --text:         #bfb9ad;
     --text-zvyraz:  #f5f3ef;
     --text-dim:     #989088;
     --chord-bg:     #241d12;
@@ -121,30 +121,27 @@
     align-items: baseline;
     gap: 8px;
   }
-  .pisen-interpret {
-    font-size: 0.82rem;
-    color: var(--text-dim);
-    font-style: italic;
-  }
-  .pisen-interpret::after { content: " —"; }
   .pisen-nazev {
     font-size: 1.2rem;
     color: var(--accent);
     font-weight: bold;
   }
+  .pisen-interpret {
+    font-size: 1.2rem;
+    font-weight: normal;
+    color: var(--text-dim);
+  }
+  .pisen-interpret::before { content: "— "; }
+  .blok + .blok { margin-top: 0.75rem; }
   .akordy {
-    word-spacing: 2ch;   /* viditelný rozestup mezi akordy — stejně jako v index.html */
+    word-spacing: 1ch;   /* rozestup akordů — stejně jako v index.html */
     background: var(--bg);
     border-top: 1px solid var(--chord-border);
     border-bottom: 1px solid var(--chord-border);
     padding: 5px 20px;
-    font-family: 'Courier New', monospace;
     font-size: 1.3em;
     font-weight: bold;
     color: var(--chord-color);
-    letter-spacing: 0.06em;
-    white-space: pre;
-    overflow-x: auto;
   }
   .blok-text { padding: 8px 20px 20px; }
   .radek {
@@ -164,9 +161,9 @@
 <p class="napoveda">
   Vlož text ve formátu: <code>## Název písně ##</code>, <code>&amp;&amp; Interpret &amp;&amp;</code>,
   <code>[A D E F#mi]</code> = řádek akordů, pod ním text. Prázdný řádek = mezera mezi slokami.
-  Výsledné HTML vlož do <code>&lt;main&gt;</code> v index.html — číslování, obsah, transpozice
-  i zvýraznění prvních slov se doplní samy. Béčka (Bb, Eb…) nepoužívej — místo nich křížky
-  (A#, D#…), formátovač na ně upozorní.
+  Výsledné HTML vlož do <code>pisne.js</code> před závěrečný zpětný apostrof (<code>`</code>) —
+  číslování, obsah, transpozice i zvýraznění prvních slov se doplní samy.
+  Béčka (Bb, Eb…) nepoužívej — místo nich křížky (A#, D#…), formátovač na ně upozorní.
 </p>
 
 <label for="vstup">Vstup</label>
@@ -185,7 +182,7 @@ text refrenu</textarea>
 
 <div id="varovani"></div>
 
-<label for="vystup">Výstup — HTML k vložení do index.html</label>
+<label for="vystup">Výstup — HTML k vložení do pisne.js</label>
 <textarea id="vystup" spellcheck="false" readonly></textarea>
 
 <label>Náhled</label>
@@ -210,6 +207,14 @@ function najdiBecka(obsahAkordu) {
     });
   });
   return becka;
+}
+
+// Znaky, které by rozbily template literal v pisne.js
+function najdiZakazane(text) {
+  var nalezy = [];
+  if (text.indexOf('`') !== -1) nalezy.push('`');
+  if (text.indexOf('${') !== -1) nalezy.push('${');
+  return nalezy;
 }
 
 function formatuj(vstup) {
@@ -243,10 +248,10 @@ function formatuj(vstup) {
   html += '  <div class="pisen-hlavicka">\n';
   html += '    <div class="pisen-titul">\n';
   html += '      <span class="pisen-cislo"></span>\n';
+  html += '      <span class="pisen-nazev">' + escapeHtml(nazev) + '</span>\n';
   if (interpret) {
     html += '      <span class="pisen-interpret">' + escapeHtml(interpret) + '</span>\n';
   }
-  html += '      <span class="pisen-nazev">' + escapeHtml(nazev) + '</span>\n';
   html += '    </div>\n';
   html += '  </div>\n';
 
@@ -274,7 +279,7 @@ function formatuj(vstup) {
   });
 
   html += '</article>';
-  return { html: html, becka: becka };
+  return { html: html, becka: becka, zakazane: najdiZakazane(vstup) };
 }
 
 var vstup = document.getElementById('vstup');
@@ -304,10 +309,19 @@ function spust() {
   nahled.innerHTML = vysledek.html;
   zvyrazniPrvniSlova(nahled);
   stav.textContent = '';
+
+  var zpravy = [];
   if (vysledek.becka.length) {
+    zpravy.push('⚠ Pozor, béčka v akordech: ' + vysledek.becka.join(', ')
+      + ' — přepiš na křížky (Bb → A#, Eb → D#, B = H).');
+  }
+  if (vysledek.zakazane.length) {
+    zpravy.push('⚠ Text obsahuje ' + vysledek.zakazane.join(' a ')
+      + ' — tyto znaky by rozbily pisne.js, odstraň je.');
+  }
+  if (zpravy.length) {
     varovani.style.display = 'block';
-    varovani.textContent = '⚠ Pozor, béčka v akordech: ' + vysledek.becka.join(', ')
-      + ' — přepiš na křížky (Bb → A#, Eb → D#, B = H).';
+    varovani.textContent = zpravy.join(' ');
   } else {
     varovani.style.display = 'none';
   }
