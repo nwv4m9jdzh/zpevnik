@@ -9,18 +9,21 @@
 <meta name="apple-mobile-web-app-title" content="Pivka a buřty">
 <style>
   :root {
-    --bg:           #16120d;   /* 16120d */
-    --surface:      #201b15;   /* 201b15 */
-    --border:       #40372a;   /* 40372a */
-    --accent:       #d3c5a9;   /* be9a6a */
-    --accent-dim:   #d3c5a9;   /* 806440 */
-    --text:         #bfb9ad;   /* bfb9ad, běžný text — ztlumený, ať první slova vyniknou */
-    --text-zvyraz:  #f5f3ef;   /* f5f3ef, první slovo řádku — lehce "svítí" */
-    --text-dim:     #d3c5a9;   /* 989088 */
-    --chord-bg:     #241d12;   /* 241d12 */
-    --chord-color:  #be9a6a;   /* d3c5a9 */
-    --chord-border: #483823;   /* 483823 */
-    --header-h:     52px;
+    --bg:           #16120d;   
+    --surface:      #201b15;  
+    --border:       #40372a;   
+    --accent:       #d3c5a9;  
+    --accent-dim:   #d3c5a9;   
+    --text:         #bfb9ad;   /* běžný text — ztlumený, ať první slova vyniknou */
+    --text-zvyraz:  #f5f3ef;   /* první slovo řádku — lehce "svítí" */
+    --text-dim:     #d3c5a9;
+    --ztlumene:     #7a705f;   /* čísla písní a interpret — přesně mezi #d3c5a9 a pozadím obsahu #201b15 */
+    --chord-bg:     #241d12;   
+    --chord-color:  #be9a6a;   
+    --chord-border: #483823;   
+    /* stejný volný okraj nahoře a dole jako u pruhu s názvem skladby:
+       text 1.1rem + 1.2rem volného místa (u skladby 1.2rem + 1.2rem = 2.4rem) */
+    --header-h:     max(2.3rem, 52px);
     --titul-h:      max(2.4rem, 46px);  /* výška přilepeného pruhu s názvem skladby */
   }
 
@@ -60,6 +63,8 @@
     overflow: hidden;
     text-overflow: ellipsis;
   }
+  /* plynulé prolnutí při výměně názvu zpěvníku */
+  #nazev-zpevniku { transition: opacity 1.2s ease; }
 
   .nastroje {
     margin-left: auto;
@@ -106,17 +111,15 @@
   }
   nav.obsah li {
     counter-increment: song;
-    display: flex;
-    align-items: baseline;
-    gap: 8px;
     padding: 3px 0;
   }
+  /* číslování v seznamu — stejný styl i odsazení jako v řádku názvu skladby:
+     číslo, tečka, mezera, název */
   nav.obsah li::before {
-    content: counter(song) ".";
-    color: var(--accent-dim);
-    font-family: 'Courier New', monospace;
-    font-size: 0.85rem;
-    min-width: 20px;
+    content: counter(song) ".\00a0";
+    color: var(--ztlumene);
+    font-size: 1.2rem;
+    font-weight: normal;
   }
   nav.obsah a {
     color: var(--text);
@@ -162,7 +165,7 @@
   .pisen-cislo {
     font-size: 1.2rem;
     font-weight: normal;
-    color: var(--accent-dim);
+    color: var(--ztlumene);
   }
   .pisen-nazev {
     font-size: 1.2rem;
@@ -172,7 +175,7 @@
   .pisen-interpret {
     font-size: 1.2rem;
     font-weight: normal;
-    color: var(--text-dim);
+    color: var(--ztlumene);
   }
   .pisen-interpret::before { content: "— "; }
 
@@ -231,7 +234,7 @@
 <body>
 
 <header>
-  <h1>🪵🔥🏔️ Pivka a buřty</h1>
+  <h1>🪵🔥🏔️ <span id="nazev-zpevniku">Pivka a buřty</span></h1>
   <div class="nastroje">
     <button class="mensi" id="pismo-mensi" title="Zmenšit písmo" aria-label="Zmenšit písmo">a</button>
     <button id="pismo-vetsi" title="Zvětšit písmo" aria-label="Zvětšit písmo">A</button>
@@ -245,14 +248,36 @@
   <ol id="seznam-pisni"></ol>
 </nav>
 
-<!-- Písně jsou v souboru pisne.js — stačí vyměnit soubor za jiný zpěvník. -->
+<!-- Písně se načítají skriptem níže: napřed pisne.js (skutečný zpěvník,
+     kvůli autorským právům není v repu ani viditelný při ladění — viz .claudeignore),
+     a teprve když chybí, vezmou se ukázkové písně z demo_pisne.js. -->
 <main id="pisne"></main>
 
-<script src="pisne.js"></script>
 <script>
 // ===== Nastavení =====
-var TRANSPOZICE_KROK = 7;    // půltóny na jeden stisk +/− (případně změň na 1 nebo 2)
+var TRANSPOZICE_KROK = 7;    // půltóny na jeden stisk ↓♭/↑♯ (případně změň na 1 nebo 2)
 var PAMATOVAT_PISMO = false; // true = pamatovat zvolenou velikost písma i po obnovení stránky
+
+// Název zpěvníku se při načtení vybere náhodně a pak se co 10 minut plynule vymění.
+var NAZEV_INTERVAL = 10 * 60 * 1000;
+var NAZVY_ZPEVNIKU = [
+  'Pivka a buřty',
+  'Blábol č. M',
+  'Pojďme si zazpívat!',
+  'Olympic hadra',
+  'Kéžby Urdel',
+  'Barréčko musíš!',
+  'Stánky a jiné písně',
+  'Nečekej úsměv od želvy, co měls rád.',
+  'Eva Hodila Granát Do Atomové Elektrárny.',
+  'Já, písnička 9000',
+  'Songy k ohňu',
+  'Pomsta Dalibora Jandy',
+  'Džexna zahraj!',
+  'Nějakou naši, có?',
+  'Udavač z Těšína',
+  'Kabáti jsou nejlepší'
+];
 
 // ===== Transpozice akordů (česká notace: H = půltón pod C, B se bere jako H) =====
 var NOTY = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'H'];
@@ -274,7 +299,14 @@ function transponujAkord(akord, krok) {
 }
 
 function transponujRadek(text, krok) {
-  return text.split(/(\s+)/).map(function (kus) {
+  // popisek před dvojtečkou (např. "ref.:", "sloka:") nejsou akordy — nechá se být
+  var popisek = '';
+  var deleni = text.indexOf(':');
+  if (deleni !== -1) {
+    popisek = text.slice(0, deleni + 1);
+    text = text.slice(deleni + 1);
+  }
+  return popisek + text.split(/(\s+)/).map(function (kus) {
     return /^\s/.test(kus) ? kus : transponujAkord(kus, krok);
   }).join('');
 }
@@ -285,12 +317,109 @@ function transponujPisen(pisen, krok) {
   });
 }
 
-// ===== Sestavení stránky =====
-// Písně se načtou z pisne.js; seznam, čísla, tlačítka transpozice
-// i zvýraznění prvních slov se doplní automaticky.
+// ===== Parser písní =====
+// Písně jsou v pisne.js jako prostý text:
+//   ## Název písně ##
+//   && Interpret &&
+//   [A D E F#mi]   = řádek akordů
+//   text sloky     (prázdný řádek = mezera mezi slokami)
+// Každé "## ... ##" začíná novou píseň.
+function escapeHtml(s) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function parsujPisne(text) {
+  var pisne = [];
+  var pisen = null;
+  var blok = null;
+
+  text.split(/\r?\n/).forEach(function (radek) {
+    var r = radek.trim();
+    var m;
+    if ((m = r.match(/^##\s*(.*?)\s*##$/))) {
+      pisen = { nazev: m[1], interpret: '', bloky: [] };
+      pisne.push(pisen);
+      blok = null;
+      return;
+    }
+    if (!pisen) return;
+    if ((m = r.match(/^&&\s*(.*?)\s*&&$/))) { pisen.interpret = m[1]; return; }
+    if ((m = r.match(/^\[(.*)\]$/))) {
+      blok = { akordy: m[1].trim().split(/\s+/).join(' '), radky: [] };
+      pisen.bloky.push(blok);
+      return;
+    }
+    if (!blok) {
+      if (r === '') return;
+      blok = { akordy: null, radky: [] };
+      pisen.bloky.push(blok);
+    }
+    blok.radky.push(r);
+  });
+
+  var html = '';
+  pisne.forEach(function (p) {
+    html += '<article class="pisen">\n';
+    html += '  <div class="pisen-hlavicka"><div class="pisen-titul">';
+    html += '<span class="pisen-cislo"></span> ';
+    html += '<span class="pisen-nazev">' + escapeHtml(p.nazev) + '</span>';
+    if (p.interpret) {
+      html += ' <span class="pisen-interpret">' + escapeHtml(p.interpret) + '</span>';
+    }
+    html += '</div></div>\n';
+
+    p.bloky.forEach(function (b) {
+      var radky = b.radky.slice();
+      while (radky.length && radky[0] === '') radky.shift();
+      while (radky.length && radky[radky.length - 1] === '') radky.pop();
+      if (!radky.length && b.akordy === null) return;
+
+      html += '  <div class="blok">\n';
+      if (b.akordy !== null) {
+        html += '    <div class="akordy">' + escapeHtml(b.akordy) + '</div>\n';
+      }
+      html += '    <div class="blok-text">\n';
+      radky.forEach(function (r) {
+        html += r === ''
+          ? '      <div class="mezera"></div>\n'
+          : '      <div class="radek">' + escapeHtml(r) + '</div>\n';
+      });
+      html += '    </div>\n  </div>\n';
+    });
+
+    html += '</article>\n';
+  });
+  return html;
+}
+
+// ===== Název zpěvníku =====
+// Při načtení se vybere náhodně, pak se co NAZEV_INTERVAL plynule prolne do jiného.
 (function () {
-  if (typeof PISNE_HTML !== 'undefined') {
-    document.getElementById('pisne').innerHTML = PISNE_HTML;
+  var el = document.getElementById('nazev-zpevniku');
+  var aktualni = '';
+  function nahodnyNazev() {
+    var n;
+    do { n = NAZVY_ZPEVNIKU[Math.floor(Math.random() * NAZVY_ZPEVNIKU.length)]; }
+    while (n === aktualni && NAZVY_ZPEVNIKU.length > 1);
+    return n;
+  }
+  function nastav(n) { aktualni = n; el.textContent = n; document.title = n; }
+  nastav(nahodnyNazev());
+  setInterval(function () {
+    el.style.opacity = 0;
+    setTimeout(function () {
+      nastav(nahodnyNazev());
+      el.style.opacity = 1;
+    }, 1300);   // počká, až doběhne prolnutí (1.2 s v CSS)
+  }, NAZEV_INTERVAL);
+})();
+
+// ===== Sestavení stránky =====
+// Spouští se až po načtení písní (viz nactiPisne na konci); seznam, čísla,
+// tlačítka transpozice i zvýraznění prvních slov se doplní automaticky.
+function sestavStranku() {
+  if (typeof PISNE_TEXT !== 'undefined') {
+    document.getElementById('pisne').innerHTML = parsujPisne(PISNE_TEXT);
   }
 
   var seznam = document.getElementById('seznam-pisni');
@@ -314,8 +443,8 @@ function transponujPisen(pisen, krok) {
     if (hlavicka) {
       var box = document.createElement('span');
       box.className = 'transpozice';
-      [['−', -TRANSPOZICE_KROK, 'Transponovat dolů'],
-       ['+',  TRANSPOZICE_KROK, 'Transponovat nahoru']].forEach(function (def) {
+      [['↓♭', -TRANSPOZICE_KROK, 'Transponovat dolů'],
+       ['↑♯',  TRANSPOZICE_KROK, 'Transponovat nahoru']].forEach(function (def) {
         var b = document.createElement('button');
         b.textContent = def[0];
         b.title = def[2];
@@ -326,12 +455,16 @@ function transponujPisen(pisen, krok) {
     }
   });
 
-  // první slovo každého řádku do zvýrazňovacího spanu
+  // první slovo každého řádku do zvýrazňovacího spanu;
+  // má-li první slovo do tří písmen, svítí i druhé slovo
   document.querySelectorAll('.radek').forEach(function (radek) {
     var text = radek.textContent;
-    var i = text.indexOf(' ');
-    var prvni = i === -1 ? text : text.slice(0, i);
-    var zbytek = i === -1 ? '' : text.slice(i);
+    var slova = text.split(' ');
+    var pocet = 1;
+    var pismena = slova[0].replace(/[^\p{L}\p{N}]/gu, '');
+    if (pismena.length <= 3 && slova.length > 1) pocet = 2;
+    var prvni = slova.slice(0, pocet).join(' ');
+    var zbytek = text.slice(prvni.length);
     radek.textContent = '';
     var span = document.createElement('span');
     span.className = 'prvni-slovo';
@@ -339,7 +472,24 @@ function transponujPisen(pisen, krok) {
     radek.appendChild(span);
     radek.appendChild(document.createTextNode(zbytek));
   });
-})();
+}
+
+// ===== Načtení písní =====
+// Napřed pisne.js — skutečný zpěvník, který kvůli autorským právům není v repu
+// ani viditelný při ladění (.claudeignore). Teprve když neexistuje, načtou se
+// ukázkové písně z demo_pisne.js. Oba soubory definují proměnnou PISNE_TEXT.
+function nactiPisne(zdroje) {
+  if (!zdroje.length) { sestavStranku(); return; }
+  var s = document.createElement('script');
+  s.src = zdroje[0];
+  s.onload = sestavStranku;
+  s.onerror = function () {
+    document.head.removeChild(s);
+    nactiPisne(zdroje.slice(1));
+  };
+  document.head.appendChild(s);
+}
+nactiPisne(['pisne.js', 'demo_pisne.js']);
 
 // ===== Zvětšování/zmenšování písma =====
 // Mění root font-size, vše je v rem. Výchozí 26px = 16px zvětšených o 60 %.

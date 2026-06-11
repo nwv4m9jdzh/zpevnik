@@ -161,8 +161,9 @@
 <p class="napoveda">
   Vlož text ve formátu: <code>## Název písně ##</code>, <code>&amp;&amp; Interpret &amp;&amp;</code>,
   <code>[A D E F#mi]</code> = řádek akordů, pod ním text. Prázdný řádek = mezera mezi slokami.
-  Výsledné HTML vlož do <code>pisne.js</code> před závěrečný zpětný apostrof (<code>`</code>) —
-  číslování, obsah, transpozice i zvýraznění prvních slov se doplní samy.
+  Tento textový formát se vkládá rovnou do <code>pisne.js</code> před závěrečný zpětný
+  apostrof (<code>`</code>) — stránka si ho naformátuje sama. Tahle stránka slouží jen
+  ke kontrole, jak bude píseň vypadat.
   Béčka (Bb, Eb…) nepoužívej — místo nich křížky (A#, D#…), formátovač na ně upozorní.
 </p>
 
@@ -288,12 +289,16 @@ var nahled = document.getElementById('nahled');
 var stav = document.getElementById('stav');
 var varovani = document.getElementById('varovani');
 
+// První slovo každého řádku zesvětlí; má-li do tří písmen, zvýrazní i druhé slovo.
 function zvyrazniPrvniSlova(koren) {
   koren.querySelectorAll('.radek').forEach(function (radek) {
     var text = radek.textContent;
-    var i = text.indexOf(' ');
-    var prvni = i === -1 ? text : text.slice(0, i);
-    var zbytek = i === -1 ? '' : text.slice(i);
+    var slova = text.split(' ');
+    var pocet = 1;
+    var pismen = (slova[0].match(/[\p{L}\p{N}]/gu) || []).length;
+    if (slova.length > 1 && pismen <= 3) pocet = 2;
+    var prvni = slova.slice(0, pocet).join(' ');
+    var zbytek = text.slice(prvni.length);
     radek.textContent = '';
     var span = document.createElement('span');
     span.className = 'prvni-slovo';
