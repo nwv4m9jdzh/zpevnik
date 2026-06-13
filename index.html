@@ -357,6 +357,13 @@ function parsujPisne(text) {
     blok.radky.push(r);
   });
 
+  // Řazení napřed podle interpreta, pak podle názvu — písně téhož autora
+  // jsou pospolu, i když jsou ve zdrojovém souboru přeházené.
+  var porovnej = new Intl.Collator('cs').compare;
+  pisne.sort(function (a, b) {
+    return porovnej(a.interpret, b.interpret) || porovnej(a.nazev, b.nazev);
+  });
+
   var html = '';
   pisne.forEach(function (p) {
     html += '<article class="pisen">\n';

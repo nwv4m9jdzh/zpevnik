@@ -9,6 +9,145 @@
 // Formátování si můžeš předem zkontrolovat ve formatter.html.
 var PISNE_TEXT = `
 
+
+## Sen ##
+&& Lucie &&
+
+[Verse: E A F#mi H]
+Stíny dnů a snů se k obratníku stáčí
+Ruce snů černejch se snaží zakrýt oči
+Světlo tvý prozradí proč já vím
+S novým dnem že se zas navrátí
+
+Mraky se plazí, vítr je láme
+Stíny tvý duše rozplynou se v šeru
+Ve vlnách opouští po hodinách mizí
+A měsíc nový stíny vyplaší
+
+[Chorus: E A C#mi H]
+Proud motýlů unáší strach
+Na listy sedá hvěznej prach
+Proletí ohněm a mizí stále dál
+Neslišný kroky stepují
+V nebeským rytmu swingují
+Že se ráno, že se ráno vytrátí
+
+Stíny dnů vyrostou a zmizí
+Nebeský znamení, rosvěcujou hvězdy
+Všechno ví z povzdálí vedou naše kroky
+A měsíc nový stíny vyplaší
+
+[Chorus: E A C#mi H]
+Proud motýlů unáší strach
+Na listy sedá hvěznej prach
+A nový stíny vyplaší.
+
+
+
+## Šrouby a matice ##
+&& Mandrage &&
+
+[A E Hmi D E]
+Mezi zemí a nebem
+A širým světem
+Je jeden náš
+Tak dobře ho znáš
+
+[A E Hmi D]
+Tahat tě za vlasy, dýchat ti do tváři,
+Dělat si nároky na tvoje polštáře
+Sahat ti pod sukni, kousat tě na ruce
+Dělat ti snídani, říkat ti opice.
+
+[A E Hmi D E]
+Mezi světlem a nocí
+Houpu tě v bocích
+Na tisíc krát, dělám to rád
+
+[A E Hmi D]
+Mezi nocí a světlem
+Zimou i létem
+Je spousta rán,
+kdy můžu jen sám
+
+Tahat tě za vlasy, dýchat ti do tváři,
+Dělat si nároky na tvoje polštáře
+Sahat ti pod sukni, kousat tě na ruce
+Dělat ti snídani, říkat ti opice.
+
+Platit ti výdaje, prdět si vě vaně
+Kvůli tvé pověsti porvat se v hospodě
+nosit ti lekníny, vrtat ti police.
+Jsme časem kalený šrouby a matice
+
+Tahat tě za vlasy, dýchat ti do tváři,
+Dělat si nároky na tvoje polštáře
+Sahat ti pod sukni, kousat tě na ruce
+Dělat ti snídani, říkat ti opice.
+
+Platit ti výdaje, prdět si vě vaně
+Kvůli tvé pověsti porvat se v hospodě
+nosit ti lekníny, vrtat ti police.
+Jsme časem kalený šrouby a matice
+
+Tahat tě za vlasy, dýchat ti do tváři,
+Dělat si nároky na tvoje polštáře
+Sahat ti pod sukni, kousat tě na ruce
+Dělat ti snídani, říkat ti opice.
+
+Platit ti výdaje, prdět si vě vaně
+Kvůli tvé pověsti porvat se v hospodě
+nosit ti lekníny, vrtat ti police.
+Jsme časem kalený šrouby a matice
+
+Vysoko nad zemí,
+životem kalený,
+navěky spojení.
+Šrouby a matice
+
+[A]
+Šrouby a matice
+Šrouby a matice
+Šrouby a matice
+Šrouby a matice
+
+
+
+## Yesterday ##
+&& Beatles &&
+
+[C E Ami F G C Ami D F C]
+1.  Yesterday  all my troubles seemed so  far away
+ now it  looks as though they're  here to stay
+oh  I be lieve in  yester day.
+
+2. Suddenly I'm not half the man I used to be
+there's a shadow hanging over me
+oh yesterday came suddenly.
+
+[E Ami G F Emi Dmi G C Ami E F Emi Dmi G C]
+Why she had to go I don't [know she [wouldn't say
+ I said  somet hing  wrong now I  long for  yeste rday .
+
+[C E Ami F G C Ami D F C]
+3. Yesterday love was such an easy game to play
+now I need a place to hide away
+oh I believe in yesterday.
+
+[E Ami G F Emi Dmi G C Ami E F Emi Dmi G C]
+Why she had to go I don't [know she [wouldn't say
+ I said  somet hing  wrong now I  long for  yeste rday .
+
+[C E Ami F G C Ami D F C]
+3. Yesterday love was such an easy game to play
+now I need a place to hide away
+oh I believe in yesterday.
+
+[Ami D F C]
+Mm mm mm mm mm...  
+
+
+
 ## Dobrý Mravenci ##
 && Tomáš Klus &&
 
@@ -145,6 +284,51 @@ my dva, dvě nahý těla,
 Tak neříkej, že jinak jsi to chtěla,
 tak neříkej
 Neříkej, neříkej mi nic
+
+
+## Podvod ##
+&& Nedvědi &&
+
+[Verse: Emi Ami D G Ami C Emi Ami H7]
+Na dlani jednu z tvých řas do tmy se koukám
+hraju si písničky svý co jsem ti psal
+Je skoro půlnoc a z kostela zvon mi noc připo míná
+půjdu se mejt a pozhasínám co bude dál?
+
+Pod polštář dopisů pár co poslalas dávám
+píšeš že ráda mě máš a trápí tě stesk
+Je skoro půlnoc a z kostela zvon mi noc připo míná
+půjdu se mejt a pozhasínám co bude dál?
+
+[Refrain: Ami G Emi Ami D G H7 Emi]
+Chtěl jsem to ráno kdy naposled snídal
+jsem s tebou ti říct že už ti nezavo lám
+pro jednu pitomou holku pro pár nocí touhy
+podved jsem všechno o čem doma si sníš teď je mi to líto
+
+[Interlude: Emi D Emi G D Emi / Emi Ami D G Ami C Emi Ami H7]
+
+[Verse: Emi Ami D G Ami C Emi Ami H7]
+Kolikrát člověk může mít rád tak opravdu z lásky
+dvakrát či třikrát to ne i jednou je dost
+Je skoro půlnoc a z kostela zvon mi noc připo míná
+půjdu se mejt a pozhasínám co bude dál?
+
+[Refrain: Ami G Emi Ami D G H7 Emi]
+Chtěl jsem to ráno kdy naposled snídal
+jsem s tebou ti říct že už ti nezavo lám
+pro jednu pitomou holku pro pár nocí touhy
+podved jsem všechno o čem doma si sníš teď je mi to líto
+
+[Interlude: Emi D Emi G D Emi / Emi Ami D G Ami C Emi Ami H7]
+
+[Verse: Emi Ami D G Ami C Emi Ami H7]
+
+[Refrain: Ami G Emi Ami D G H7 Emi]
+Chtěl jsem to ráno kdy naposled snídal
+jsem s tebou ti říct že už ti nezavo lám
+pro jednu pitomou holku pro pár nocí touhy
+podved jsem všechno o čem doma si sníš teď je mi to líto
 
 
 
@@ -462,6 +646,728 @@ Now I know I have met an angel
 In person and she looks perfect
 No I don't deserve this,
 You look perfect tonight
+
+
+## Zabili, zabili ##
+&& Balada pro banditu &&
+
+[Verse: C F Dmi F C]
+Zabili, zabili chlapa z Koločavy,
+řekněte hrobaři, kde je pochovaný.
+
+[Refrain: C F]
+Bylo tu, není tu, havrani na plotu,
+bylo víno v sudě, teď tam voda bude,
+není, není tu.
+
+[Verse: C F Dmi F C]
+Špatně ho zabili, špatně pochovali,
+vlci ho pojedli, ptáci rozklovali.
+
+[Refrain: C F]
+Bylo tu, není tu, havrani na plotu,
+bylo víno v sudě, teď tam voda bude,
+není, není tu.
+
+[Verse: C F Dmi F C]
+Vítr ho roznesl po dalekém kraji,
+havrani pro něho po poli krákají.
+
+[Refrain: C F]
+Bylo tu, není tu, havrani na plotu,
+bylo víno v sudě, teď tam voda bude,
+není, není tu.
+
+[Verse: C F Dmi F C]
+Kráká starý havran, krákat nepřestane,
+dokud v Koločavě živý chlap zůstane,
+živý chlap zůstane,
+a-a-a-a-a-a
+
+
+
+## Living Next Door To Alice ##
+&& Smokie &&
+
+[Verse: A D E A E A D E A E]
+Sally called when she got the word.
+And she said: "I suppose you've heard - about Alice".
+Well, I rushed to the window, and I looked outside,
+and I could hardly believe my eyes.
+The big limousine rolled up, into Alice's drive.
+
+[Chorus: A D E A E A D E D A E]
+Oh, I don't know why she's leaving, or where she's gonna go.
+I guess she's got her reasons, but I just don't wanna know.
+'Cause for twenty-four years I've been living next door to Alice.
+Twenty-four years just waiting for a chance,
+to tell her how I feel, and maybe get a second glance,
+now I gotta get used to not living next door to Alice.
+
+[Verse: A D E A E A D E A E]
+We grew up together, two kids in the park.
+We carved our initials, deep in the bark. Me and Alice
+Now she walks through the door with her head held high
+Just for a moment I caught her eye
+As the big limousine pulled slowly out of Alice's drive
+
+[Chorus: A D E A E A D E D A E]
+Oh, I don't know why she's leaving, or where she's gonna go.
+I guess she's got her reasons, but I just don't wanna know.
+'Cause for twenty-four years I've been living next door to Alice.
+Twenty-four years just waiting for a chance,
+to tell her how I feel, and maybe get a second glance,
+now I gotta get used to not living next door to Alice.
+
+[Verse: A D E A E A D E*]
+Then Sally called back and asked how I felt,
+And she said: "I know how to help - get over Alice".
+She said: "Now Alice is gone, but I'm still here,
+you know I've been waiting for twenty-four years..."
+And the big limousine disappeared...
+
+[Chorus: A D E A E A D E D A]
+I don't know why she's leaving, or where she's gonna go.
+I guess she's got her reasons, but I just don't wanna know.
+'Cause for twenty-four years I've been living next door to Alice.
+Twenty-four years just waiting for a chance,
+to tell her how I feel, and maybe get a second glance,
+But I'll never get used to not living next door to Alice.
+
+[E* D* A*]
+No, I'll never get used to not living next door to Alice...
+
+
+
+
+## Chtěl jsem mít ##
+&& Turbo &&
+
+[C Ami F G Ami]
+Chtěl jsem mít to, co chlapi mívaj
+za sebe, když zpátky se dívaj 
+a když můžou říct, dobře jsem žil, ó...
+
+Já jsem však předčasně teď soudě,
+vale dal rodný svojí hroudě,
+do světa jsem šel, tam kam mně táh kytary tón.
+
+[C G Ami G F G ]
+A tak - chtěl jsem jednou mít
+krásnej bílej dům,
+s krásnou dívkou žít 
+a s ní  spoustu dětí mít.
+
+[C Ami F G Ami]
+Čas však mi jak tu pěnu z píva,
+mládí vzal a teď už mi zbývá,
+dál světem se hnát a pro lidi hrát, ó....
+
+[C G Ami G F G, Ami]
+Krásnej dům už mám,
+zůstal jsem v něm sám,
+já a mých šest strun,
+téměř prázdnej dům.
+
+[Ami G F]
+(mezihra)
+
+[C G Ami G F G]
+A tak - chtěl jsem jednou mít
+krásnej bílej dům,
+s krásnou dívkou žít 
+a s ní  spoustu dětí mít.
+
+Krásnej dům už mám,
+zůstal jsem v něm sám,
+já a mých šest strun,
+téměř prázdnej dům.
+
+
+
+## Otevřená zlomenina srdečního svalu ##
+&& Wanastowi Vjecy &&
+
+[Verse: G D Am C Es]
+Jsem jako vítr kterej zfoukne, pírko ze Tvejch dlaní,
+špínu jedný noci, jako hygiena ranní.
+Velká voda slzí, který spláchnou noční hříchy,
+tamburiny zvoní, k operaci míchy...
+
+Narovnám Ti páteř, poškrábu Ti záda,
+pofoukám Ti srdce, zrada kamaráda.
+Lásky účel světí, prostředky a smetí,
+špínu jedný noci, který neuletíš...
+
+Otevřená zlomenina, srdečního svalu,
+trápení a kocovina, vůně Tvýho žalu.
+Vypustíš svou hříšnou duši do slanýho moře,
+neumírej děvče moje, chci Ti říct, že...
+
+[Refrain: G D Am C F D]
+
+Ohořelou károu, chtěl bych dojet ke hvězdám,
+který svítily z Tvejch očí, dřív než červotoči,
+se do Tvýho srdce daj, hm, hm...
+V ohořelým autě, už dva měsíce nedejchám,
+sám se svojí vinou, už nikdy nechci jinou,
+už asi nedoufám, hm, hm...
+
+[Verse: G D Am C Es]
+
+Pláčem solíš otevřený rány co se hojí,
+Tvoji krev i tělo, příjímám pod obojí.
+Stejný lidi se soumrakem, mají stejný stíny,
+zmizelas jak před přízrakem, padám do hlubiny...
+
+Tvůj pramínek vlasů, zaliju včelím voskem,
+koukám na tu krásu a nechápu to mozkem.
+To, co jsi mi dala, já nikomu už nedám,
+tak mi řekni, má opičko, proč tě marně hledám...
+
+Otevřená zlomenina srdečního svalu,
+trápení a kocovina, vůně Tvýho žalu.
+Vypustíš svou hříšnou duši do slanýno moře,
+neumírej děvče moje, chci Ti říct, že...
+
+[Refrain: G D Am C F D]
+
+Ohořelou károu, chtěl bych dojet ke hvězdám,
+který svítily z Tvejch očí, dřív než červotoči
+se do Tvýho srdce daj, hm, hm...
+V ohořelým autě, už dva měsíce nedejchám,
+sám se svojí vinou, už nikdy nechci jinou,
+už asi nedoufám, hm, hm...
+
+
+
+
+## V stínu kapradiny ##
+&& Jana Kratochvílová &&
+
+[Verse: D(sus4) C D Ami]
+V stínu kapradiny spal, svět pod hlavou měl.
+V stínu kapradiny snil, vím o mně ne, žel.
+V háji po zbojnících spal, když lámal se den.
+Kéž by do spánku mě vzal, jen pro jednou jen.
+
+Víly možná v hlavě měl, snad umřít si přál.
+Rej těch rukou, nohou, těl má na čele dál.
+V stínu kapradiny zhas, měl na čele šrám.
+Z touhy vílám na pospas, já znovu ho dám.
+
+[Refrain: D(sus4)]
+No tak vstávej na pár chvil, zbývá touha jedné z víl.
+Že cinkot zní všech tambu rin, tak se stává stříbrem cín.
+
+[Verse: D(sus4) C D Ami]
+V stínu kapradiny spal, sám splácel si daň.
+V stínu kapradiny dál bil stohlavou saň.
+Já tam zrovna stála jen, tak náhodou jen.
+Touha má sto nálad, sen je naštěstí sen.
+
+Víly možná v hlavě měl, snad umřít si přál.
+Rej těch rukou, nohou, těl má na čele dál.
+V stínu kapradiny zhas, měl na čele šrám.
+Z úcty k vílám na ten čas já nový mu dám.
+
+[Refrain: D(sus4)]
+No tak vstávej na pár chvil, zbývá touha jedné z víl.
+Že cinkot zní všech tambu rin, tak se stává stříbrem cín.
+No tak vstávej na pár chvil, zbývá touha jedné z víl.
+Že cinkot zní všech tambu rin, tak se stává stříbrem cín.
+No tak vstávej na pár chvil, zbývá touha jedné z víl.
+Že cinkot zní všech tambu rin, tak se stává stříbrem cín.
+No tak vstávej....
+
+
+
+
+## Nagasaki Hirošima ##
+&& Mňága & Žďorp &&
+
+[G D C D]
+Tramvají dvojkou jezdíval jsem - do Židenic,
+z takový lásky - většinou nezbyde nic,
+z takový lásky - jsou kruhy pod očima
+a dvě - spálený srdce – Nagasaki, Hirošima.
+
+Jsou jistý věci, co bych tesal do kamene,
+tam, kde je láska, tam je všechno dovolené,
+a tam, kde není, tam mě to nezajímá,
+jó, dvě spálený srdce – Nagasaki, Hirošima.
+
+Já nejsem svatej, ani ty nejsi svatá,
+jablka z ráje bejvala jedovatá,
+jenže! - hezky jsi hřála, když mi někdy byla zima,
+jó, dvě spálený srdce – Nagasaki, Hirošima.
+
+a dvě spálený srdce – Nagasaki, Hirošima
+a dvě spálený srdce – Nagasaki, Hirošima
+a dvě spálený srdce – Nagasaki, Hirošima
+
+
+
+## Blame It On Me ##
+&& George Ezra &&
+
+[Verse: C]
+The garden was blessed by the gods of me and you
+We headed west for to find ourselves some truth
+
+[Am C(*) G(2)]
+Oh, what you waiting for, now what you waiting for
+
+[C]
+We counted all our reasons, excuses that we made
+We found ourselves some treasure and threw it all away
+
+[Am C(*) G(2)]
+Oh, what you waiting for, now what you waiting for
+Oh, what you waiting for, now what you waiting for
+
+[Chorus: G(2) Am C G(2)]
+When I dance alone and the sun's bleeding down, blame it on me
+
+[Am C G(2)]
+When I lose control and the veil's overused, blame it on me
+
+What you waiting for, now what you waiting for
+
+[C]
+Caught in the tide of blossom, caught in the carnival
+Your confidence forgotten, I see the gypsies run
+
+[Am C(*) G(2)]
+Oh, what you waiting for, now what you waiting for
+Oh, what you waiting for, now what you waiting for
+
+[Chorus: G(2) Am C G(2)]
+When I dance alone and the sun is bleeding down, blame it on me
+
+[Am C G(2)]
+When I lose control and the veil's overused, blame it on me
+When I dance alone, I know, I'll go, blame it on me
+When I lose control, I know, I'll go, blame it on me
+
+[Ending: Am C(*) G(2)]
+Oh, what you waiting for, now what you waiting for
+
+
+
+
+## Budapest ##
+&& George Ezra &&
+
+[Verse: F]
+My house in Budapest; My hidden treasure chest,
+Golden grand piano; My beautiful Castillo
+
+[Bridge: A# F]
+For you
+I'd leave it all
+
+[Verse: F]
+My acres of a land; I have achieved
+It may be hard for you to; Stop and believe
+
+[Bridge: A# F]
+But for you
+I'd Leave it all
+
+[Chorus: C A# F]
+Give me one good reason why I should never make a change
+And baby if you hold me then all of this will go away
+
+[Verse: F]
+My many artifacts, the list goes on
+If you just say the words, I'll up and run
+
+[Bridge: A# F]
+Oh, to you
+I'd leave it all
+
+[Chorus: C A# F]
+Give me one good reason why I should never make a change
+And baby if you hold me then all of this will go away
+Give me one good reason why I should never make a change
+And baby if you hold me then all of this will go away
+
+[Verse: F]
+My friends and family; They, don't understand
+They fear they'd lose so much; If, you took my hand
+
+[Bridge: A# F]
+But, for you,
+I'd lose it all.
+
+[Chorus: C A# F]
+Give me one good reason why I should never make a change
+And baby if you hold me then all of this will go away
+Give me one good reason why I should never make a change
+And baby if you hold me then all of this will go away
+
+[Verse: F]
+My house in Budapest; My hidden treasure chest,
+Golden grand piano; My beautiful Castillo
+
+[Bridge: A# F]
+You
+I'd leave it all.
+
+
+
+
+## Dokud se zpívá ##
+&& Jaromír Nohavica &&
+[C Em Dm7 F C Em Dm7 G
+ C Em Dm7 F C Em Dm7 G
+ F G C G
+ F G F G C Em Dm7 G]
+Z Těšína vyjíždí vlaky co čtvrthodinu,
+včera jsem nespal a ani dnes nespočinu,
+svatý Medard, můj patron, ťuká si na čelo,
+ale dokud se zpívá, ještě se neumřelo.
+
+Ve stánku koupím si housku a slané tyčky,
+srdce mám pro lásku a hlavu pro písničky,
+ze školy dobře vím, co by se dělat mělo,
+ale dokud se zpívá, ještě se neumřelo.
+
+Do alba jízdenek lepím si další jednu,
+vyjel jsem před chvílí, konec je v nedohlednu,
+za oknem míhá se život jak leporelo,
+ale dokud se zpívá, ještě se neumřelo.
+
+Stokrát jsem prohloupil a stokrát platil draze,
+houpe to, houpe to na housenkové dráze,
+i kdyby supi se slítali na mé tělo,
+tak dokud se zpívá, ještě se neumřelo.
+
+Z Těšína vyjíždí vlaky až na kraj světa,
+zvedl jsem telefon a ptám se: "Lidi, jste tam?"
+A z veliké dálky do uší mi zaznělo,
+[: že dokud se zpívá, ještě se neumřelo. :]
+
+
+
+
+## Napojen ##
+&& Tomáš Klus &&
+
+[Verse: E A E H E A E H F# A F# A H]
+Vzpomeň, jak's očima dítěte
+hleděl na letící ptáky,
+jak krásné bylo být na světě
+s vědomím, že umíš to taky.
+Dnes už nelétáš, neboť okolí
+zmátlo Tě strachem, že pády bolí.
+
+Zastav se, čas nikam nespěchá,
+jen rozum nutí ho k běhu.
+věř však Ty, synu člověka,
+že's nedílná součást příběhu.
+Ty jsi já, jako já Tebou jsem,
+společná je nám planeta Zem.
+
+[Chorus: E A E H]
+Ničeho nelituj,
+Život, co máš, je Tvůj,
+žij a měj rád, co je.
+Nechť srdce se rozbijí
+láskou, tak přijmi ji.
+cítíš, jak jsi napojen,
+jak jsi napojen.
+Přes všechny pochyby život je krásný.
+Jsi napojen
+a svět je Tvá továrna na sny.
+
+[Verse: E A E H E A E H F# A F# A H]
+Nebe až najde jas ve vodní hladině,
+až měsíc opře se o břeh
+a padne hvězda, zkus si přát jediné,
+to aby dopadla dobře.
+Ztiš se a poprvé k sobě se obrať,
+bez zbraní a krve porazíš obra.
+
+Obra, co založil duhy stín,
+když před léty zotročil Zem.
+A člověka Bůh ví proč znejistil
+v otázce, kdo vlastně jsem.
+Poznej, že být je jednoduché,
+ucítíš klid, že vše jedno je duchem.
+
+[Chorus: E A E H]
+Ničeho nelituj,
+Život, co máš, je Tvůj,
+žij a měj rád, co je.
+Nechť srdce se rozbijí
+láskou, tak přijmi ji.
+cítíš, jak jsi napojen,
+jak jsi napojen.
+Přes všechny pochyby život je krásný.
+Jsi napojen
+a svět je Tvá továrna na sny.
+
+
+
+
+## Sluneční hrob ##
+&& Blue Effect &&
+
+[E F#m G#m F#m]
+Usínám a chtěl bych se vrátit
+o nějakej ten rok zpátky,
+bejt zase malým klukem,
+kterej si rád hraje a který je s tebou.
+
+Zdá se mi, je to moc let,
+já byl kluk, kterej chtěl
+znáti svět, s tebou jsem si hrál.
+
+Vrátím se a chtěl bych rád
+být s tebou, zavzpomínat,
+mám tu teď ale zprávu zlou.
+
+[Ref: C#m D#m A G#m F#m G#m H]
+Suchá hlína tady,
+bez kvítí, bez vody,
+já na ni poklekám,
+vzpomínkou pocta se vzdává.
+
+[E F#m G#m F#m]
+Loučím se a něco však
+tam zůstalo z těch našich dnů,
+já teď vím, věrný zůstanu.
+
+Loučím se a něco však
+tam zůstalo z těch našich dnů,
+
+já teď vím, věrný zůstanu.
+Nemohu spát, probouzím se
+a zase se nemohu ubránit myšlence,
+vrátit se o nějakej ten rok zpátky,
+bejt zase malým klukem,
+kterej si rád hraje, který je s tebou.
+
+
+
+
+## Tu kytaru jsem koupil kvůli tobě ##
+&& Václav Neckář &&
+
+[C A(7) Dm G(7) C]
+Jak můžeš bejt tak krutá, copak nemáš kouska citu v těle?
+
+[Verse: C G C(7) F Fm C G C]
+Tu kytáru jsem koupil kvůli Tobě
+a dal jsem za ni celej tátův plat.
+Ta dávno ještě byla ve výrobě
+a já už věděl, co Ti budu hrát.
+
+To ještě rostla v javorovém lese
+a jenom vítr na to dřevo hrál.
+A já už trnul, jestli někdy snese,
+žár, který ve mně, denně narůstal.
+
+[Chorus: Am Em Am C F G(7) C(7) F Fm C G(7) C]
+S tou kytárou teď stojím před Tvým domem,
+měj soucit aspoň k tomu javoru.
+Jen kvůli Tobě přestal býti stromem,
+tak už nás oba, pozvi nahoru.
+
+[Verse: C G C(7) F Fm C G C]
+Tu kytáru jsem koupil kvůli Tobě
+a dal jsem za ni celej tátův plat.
+Ta dávno ještě byla ve výrobě
+a já už věděl, co Ti budu hrát.
+
+[Chorus: Am Em Am C F G(7) C(7) F Fm C G(7) C G(7) C A# H C]
+S tou kytárou teď stojím před Tvým domem,
+měj soucit aspoň k tomu javoru.
+Jen kvůli Tobě přestal býti stromem,
+tak už nás oba pozvi nahoru,
+pozvi nahoru,
+pozvi nahoru.
+
+
+
+## Hrobař ##
+&& Premiér &&
+
+[Verse: G Emi C D7]
+V mládí jsem se učil hrobařem,
+jezdit s hlínou, jezdit s trakařem,
+kopat hroby byl můj ideál.
+
+Jezdit s hlínou, jezdit s vozíkem,
+s černou rakví, s bílým pomníkem,
+toho bych se nikdy nenadál.
+
+Že do módy přijde kremace,
+černý hrobař bude bez práce,
+toho bych se nikdy nenadál.
+
+Kolem projel vůz milionáře,
+záblesk světel pad' mi do tváře,
+marně skřípěj' kola brzdící.
+
+Stoupám vzhůru, stoupám ke hvězdám,
+tam se s černou rakví neshledám,
+sbohem, bílé město zářící.
+
+[Verse: G Emi C D7 G Emi C D7]
+Sbohem, moje město,
+vzpomínat budu přesto,
+jak jsem poznal tvůj smích a tvůj pláč.
+
+[Verse: G Emi C D7]
+Na na na na...
+
+
+
+## Okno mé lásky ##
+&& Olympic &&
+
+[Verse: C F B]
+Kdo tě líbá, když ne já,
+kdo tě hlídá, když ne já,
+okno v přízemí je zavřené i dnes, lásko má.
+
+Kdo ti zpívá, když ne já,
+kdo tě mívá, když ne já,
+okno v přízemí je zavřené i dnes, lásko má.
+
+[Chorus: Ami G F C]
+A v jeho lesku vidím přicházet
+sebe ve věku patnáct let
+a znovu říkám spoustu něžných vět:
+Ty, já, jsme my, my a náš je svět.
+
+[Verse: C F B]
+Kdo tě budí, když ne já,
+kdo tě nudí, když ne já,
+okno v přízemí je zavřené i dnes, lásko má.
+
+[Chorus: Ami G F C]
+A v jeho lesku vidím přicházet
+sebe ve věku patnáct let
+a znovu říkám spoustu něžných vět:
+Ty, já, jsme my, my a náš je svět.
+
+[Verse: C F G]
+Kdo tě hladí, když ne já,
+kdo tě svádí, když ne já,
+kdo tě zradí, když ne já.
++  Ty, já, jsme my, my a náš byl svět.
+
+
+
+## Je jaká je ##
+&& Karel Gott &&
+[C  Emi  F  G  C  Emi
+F  G  C  Emi  F  G  C  Ami
+F  G  C  Ami
+F  G  C  Ami  F  G]
+
+Je jaká je, tak mi náhle padla do klína,
+ani černá ani blondýna, někdy tak a jindy taková-áá,
+vždycky hádám jak se zachová-áá,
+zřejmě nikdy jak chci já á á á á...
+
+Je jaká je, trochu dítě, trochu mondéna,
+nemám právě paměť na jména, tak jí říkám lásko má-áá,
+nejsi skvost a nejsi zlá-áá,
+jsi jen jiná než chci já á á á á...
+
+Je jaká je, že se změní čekat nedá se,
+snad jí záleží jen na kráse, tak, že člověk málem nedutá-áá,
+jak je štíhlá, jak je klenutá-áá,
+jenže jinak, než chci já á á á á...
+
+Je jaká je, až ji zítra spatříš u pláže,
+vzkáž jí, ať se na mě neváže, ať si pro mě vrásky nedělá-áá,
+ať je jaká je a veselá-áá,
+i když jiná než chci já á á á á...
+
+
+
+
+## Povídej ##
+&& Petr Novák &&
+
+[Verse: C G C / G C / Emi F C G C]
+Povídej, jestli tě má hodně rád, víc než já,
+jestli, když večer jdeš spát, ti polibek dá,
+tak jako já, to už je dávno, tak povídej, hej, povídej.
+
+Povídej, nechal tě být, vždyť měl tě tak rád,
+nebos' ho nechala jít, když šel k jiný spát,
+tak jako mě, to už je dávno, tak povídej, hej, povídej.
+
+[Ref: Emi C D F C / C D F C]
+Povídej: Á á á á á á á á á á
+Á á á á á á á á á á
+
+[Ref: Emi C D F C / D F C]
+Povídej, jestli se ti po mně stýská, když jdeš večer spát,
+jestli, když večer se blýská, nepřestala ses bát.
+
+[Verse: C G C / G C / Emi F C G C / Emi F C]
+Povídej, ne, já se nevrátím, jdi domů spát,
+svou lásku ti vyplatím, víc nemůžu dát,
+jak jsem dal dřív, to už je dávno, tak povídej, hej, povídej.
+Povídej, povídej, povídej.
+
+
+
+## Maja ##
+&& Nightwork &&
+[Fm  Es  C#  C]
+
+Maja, Maja, Maja, Maja...
+
+Učení páni zkušení, já bych Vám rád teď podotknul.
+Nikdo z Vás nemá tušení, že v dálce stojí malý úl.
+
+Z něj každé ráno vylétává včelka Mája,
+malá uličnice včelka Mája.
+Z něj každé ráno vylétává včelka Mája,
+naše kamarádka včelka Má-jajajajaja...
+
+Učení páni zkušení, já bych Vám rád teď podotknul, nul, nul, nul.
+Nikdo z Vás nemá tušení, že v dálce stojí malý úl.
+
+Z něj každé ráno vylétává včelka Mája,
+malá uličnice včelka Mája.
+Z něj každé ráno vylétává Mája, Mája ja ja ja...
+naše kamarádka včelka Má- tadady,daptop
+
+Maja, Maja, Maja, Maja...
+Respekt, Respekt Maja
+
+[Fm  F]
+
+
+
+
+## Toxic Chords ##
+&& AnnenMayKantereit &&
+
+[Verse: Hm D F#(7)]
+Baby, can't you see
+I'm calling
+A guy like you
+Should wear a warning
+It's dangerous
+I'm fallin'
+
+There's no..............
+
+
+
+
+
 
 
 
