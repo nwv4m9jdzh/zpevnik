@@ -63,6 +63,11 @@
     overflow: hidden;
     text-overflow: ellipsis;
   }
+  /* nadpis je zároveň odkaz na vršek stránky (seznam písní) — bez podtržení */
+  header h1 a {
+    color: inherit;
+    text-decoration: none;
+  }
   /* plynulé prolnutí při výměně názvu zpěvníku */
   #nazev-zpevniku { transition: opacity 1.2s ease; }
 
@@ -74,7 +79,6 @@
   }
   /* společný vzhled tlačítek v hlavičce stránky i u transpozice */
   .nastroje button,
-  .nastroje a,
   .transpozice button {
     background: var(--surface);
     border: 1px solid var(--border);
@@ -92,6 +96,11 @@
     line-height: 1;
   }
   .nastroje .mensi { font-size: 0.6rem; }
+  /* zvýraznění tlačítka, když automatický posun běží */
+  .nastroje .aktivni {
+    background: var(--accent);
+    color: var(--bg);
+  }
 
   nav.obsah {
     background: var(--surface);
@@ -234,11 +243,11 @@
 <body>
 
 <header>
-  <h1>🪵🔥🏔️ <span id="nazev-zpevniku">Pivka a buřty</span></h1>
+  <h1><a href="#top" title="Na začátek — seznam písní" aria-label="Na začátek stránky">🪵🔥🏔️ <span id="nazev-zpevniku">Pivka a buřty</span></a></h1>
   <div class="nastroje">
     <button class="mensi" id="pismo-mensi" title="Zmenšit písmo" aria-label="Zmenšit písmo">a</button>
     <button id="pismo-vetsi" title="Zvětšit písmo" aria-label="Zvětšit písmo">A</button>
-    <a href="#top" title="Na začátek — seznam písní" aria-label="Na začátek stránky">☰</a>
+    <button id="auto-posun" title="Spustit automatické posouvání stránky" aria-label="Spustit automatické posouvání stránky" aria-pressed="false">▶</button>
   </div>
 </header>
 
@@ -257,6 +266,7 @@
 // ===== Nastavení =====
 var TRANSPOZICE_KROK = 7;    // půltóny na jeden stisk ↓♭/↑♯ (případně změň na 1 nebo 2)
 var PAMATOVAT_PISMO = false; // true = pamatovat zvolenou velikost písma i po obnovení stránky
+var AUTO_POSUN_RYCHLOST = 20; // pixely za sekundu — rychlost automatického posouvání stránky
 
 // Název zpěvníku se při načtení vybere náhodně a pak se co 10 minut plynule vymění.
 var NAZEV_INTERVAL = 10 * 60 * 1000;
@@ -518,6 +528,62 @@ nactiPisne(['pisne.js', 'demo_pisne.js']);
   });
   document.getElementById('pismo-vetsi').addEventListener('click', function () {
     velikost = Math.min(48, velikost + 2); nastav();
+  });
+})();
+
+// ===== Automatický posun stránky (ať kytarista nemusí skrolovat ručně) =====
+(function () {
+  var tlacitko = document.getElementById('auto-posun');
+  var bezi = false;
+  var posledniCas = null;
+  var zbytek = 0; // necelý pixel přenesený mezi snímky
+
+  function zastavit() {
+    bezi = false;
+    posledniCas = null;
+    tlacitko.textContent = '▶';
+    tlacitko.classList.remove('aktivni');
+    tlacitko.title = 'Spustit automatické posouvání stránky';
+    tlacitko.setAttribute('aria-label', 'Spustit automatické posouvání stránky');
+    tlacitko.setAttribute('aria-pressed', 'false');
+  }
+
+  function krok(cas) {
+    if (!bezi) return;
+    if (posledniCas !== null) {
+      zbytek += AUTO_POSUN_RYCHLOST * (cas - posledniCas) / 1000;
+      var posun = Math.floor(zbytek);
+      if (posun > 0) {
+        window.scrollBy({ top: posun, left: 0, behavior: 'auto' });
+        zbytek -= posun;
+      }
+      if (window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 1) {
+        zastavit();
+        return;
+      }
+    }
+    posledniCas = cas;
+    requestAnimationFrame(krok);
+  }
+
+  function spustit() {
+    bezi = true;
+    zbytek = 0;
+    tlacitko.textContent = '⏸';
+    tlacitko.classList.add('aktivni');
+    tlacitko.title = 'Zastavit automatické posouvání stránky';
+    tlacitko.setAttribute('aria-label', 'Zastavit automatické posouvání stránky');
+    tlacitko.setAttribute('aria-pressed', 'true');
+    requestAnimationFrame(krok);
+  }
+
+  tlacitko.addEventListener('click', function () {
+    if (bezi) zastavit(); else spustit();
+  });
+
+  // ruční posun stránky (kolečko, prst) automatický posun zastaví
+  ['wheel', 'touchstart'].forEach(function (typ) {
+    window.addEventListener(typ, function () { if (bezi) zastavit(); }, { passive: true });
   });
 })();
 </script>
