@@ -101,6 +101,12 @@
     background: var(--accent);
     color: var(--bg);
   }
+  /* bliknutí tlačítka — upozornění na ruční posun, aniž by se automatický posun vypnul */
+  @keyframes auto-posun-bliknuti {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+  .nastroje .blik { animation: auto-posun-bliknuti 0.3s ease; }
 
   nav.obsah {
     background: var(--surface);
@@ -577,13 +583,23 @@ nactiPisne(['pisne.js', 'demo_pisne.js']);
     requestAnimationFrame(krok);
   }
 
+  function bliknout() {
+    tlacitko.classList.remove('blik');
+    // vynutit reflow, aby animace naběhla znovu i při rychle opakovaném bliknutí
+    void tlacitko.offsetWidth;
+    tlacitko.classList.add('blik');
+  }
+
   tlacitko.addEventListener('click', function () {
     if (bezi) zastavit(); else spustit();
   });
+  tlacitko.addEventListener('animationend', function () {
+    tlacitko.classList.remove('blik');
+  });
 
-  // ruční posun stránky (kolečko, prst) automatický posun zastaví
+  // ruční posun stránky (kolečko, prst) automatický posun nezastaví — jen tlačítko blikne
   ['wheel', 'touchstart'].forEach(function (typ) {
-    window.addEventListener(typ, function () { if (bezi) zastavit(); }, { passive: true });
+    window.addEventListener(typ, function () { if (bezi) bliknout(); }, { passive: true });
   });
 })();
 </script>
