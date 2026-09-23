@@ -61,10 +61,12 @@
     letter-spacing: 0.04em;
     white-space: nowrap;
     overflow: hidden;
-    text-overflow: ellipsis;
+    min-width: 0;
   }
-  /* nadpis je zároveň odkaz na vršek stránky (seznam písní) — bez podtržení */
+  /* nadpis je zároveň odkaz na vršek stránky (seznam písní) — bez podtržení;
+     inline-block, aby se dal změřit a posouvat, když se do hlavičky nevejde */
   header h1 a {
+    display: inline-block;
     color: inherit;
     text-decoration: none;
   }
@@ -253,7 +255,7 @@
   <div class="nastroje">
     <button class="mensi" id="pismo-mensi" title="Zmenšit písmo" aria-label="Zmenšit písmo">a</button>
     <button id="pismo-vetsi" title="Zvětšit písmo" aria-label="Zvětšit písmo">A</button>
-    <button id="auto-posun" title="Spustit automatické posouvání stránky" aria-label="Spustit automatické posouvání stránky" aria-pressed="false">▶</button>
+    <button id="auto-posun" title="Spustit automatické posouvání stránky" aria-label="Spustit automatické posouvání stránky" aria-pressed="false"><svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M4 2.5v11l9-5.5z" fill="currentColor"/></svg></button>
   </div>
 </header>
 
@@ -273,6 +275,8 @@
 var TRANSPOZICE_KROK = 7;    // půltóny na jeden stisk ↓♭/↑♯ (případně změň na 1 nebo 2)
 var PAMATOVAT_PISMO = false; // true = pamatovat zvolenou velikost písma i po obnovení stránky
 var AUTO_POSUN_RYCHLOST = 20; // pixely za sekundu — rychlost automatického posouvání stránky
+var NADPIS_RYCHLOST = 30;     // pixely za sekundu — posun dlouhého nadpisu, který se nevejde
+var NADPIS_PAUZA = 1000;      // ms — zastavení nadpisu na začátku a na konci posunu
 
 // Název zpěvníku se při načtení vybere náhodně a pak se co 10 minut plynule vymění.
 var NAZEV_INTERVAL = 10 * 60 * 1000;
@@ -437,6 +441,46 @@ function parsujPisne(text) {
   }, NAZEV_INTERVAL);
 })();
 
+// ===== Posun dlouhého nadpisu =====
+// Když se nadpis (i s emoji) do hlavičky nevejde, pomalu jede doleva až na konec,
+// chvíli počká a vrátí se zpět; pak zase chvíli počká a znovu dokola.
+(function () {
+  var h1 = document.querySelector('header h1');
+  var odkaz = h1.querySelector('a');
+  var animace = null;
+  var posledniPresah = -1;
+
+  function prepocitat() {
+    var presah = Math.ceil(odkaz.getBoundingClientRect().width - h1.getBoundingClientRect().width);
+    if (presah === posledniPresah) return;
+    posledniPresah = presah;
+    if (animace) { animace.cancel(); animace = null; }
+    if (presah <= 0 || !odkaz.animate) return;
+
+    var jizda = presah / NADPIS_RYCHLOST * 1000;
+    var celkem = 2 * (NADPIS_PAUZA + jizda);
+    var start = 'translateX(0)';
+    var konec = 'translateX(' + (-presah) + 'px)';
+    animace = odkaz.animate([
+      { transform: start, offset: 0 },
+      { transform: start, offset: NADPIS_PAUZA / celkem, easing: 'ease-in-out' },
+      { transform: konec, offset: (NADPIS_PAUZA + jizda) / celkem },
+      { transform: konec, offset: (2 * NADPIS_PAUZA + jizda) / celkem, easing: 'ease-in-out' },
+      { transform: start, offset: 1 }
+    ], { duration: celkem, iterations: Infinity });
+  }
+
+  // přepočítat při změně šířky okna, velikosti písma (a/A) i při výměně názvu
+  if (window.ResizeObserver) {
+    var ro = new ResizeObserver(prepocitat);
+    ro.observe(h1);
+    ro.observe(odkaz);
+  } else {
+    window.addEventListener('resize', prepocitat);
+  }
+  prepocitat();
+})();
+
 // ===== Sestavení stránky =====
 // Spouští se až po načtení písní (viz nactiPisne na konci); seznam, čísla,
 // tlačítka transpozice i zvýraznění prvních slov se doplní automaticky.
@@ -543,11 +587,15 @@ nactiPisne(['pisne.js', 'demo_pisne.js']);
   var bezi = false;
   var posledniCas = null;
   var zbytek = 0; // necelý pixel přenesený mezi snímky
+  // ikony jako SVG — znaky ▶/⏸ iOS vykresluje jako barevné emoji
+  var IKONA_START = '<svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M4 2.5v11l9-5.5z" fill="currentColor"/></svg>';
+  var IKONA_STOP = '<svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><rect x="3.5" y="2.5" width="3" height="11" rx="0.5" fill="currentColor"/><rect x="9.5" y="2.5" width="3" height="11" rx="0.5" fill="currentColor"/></svg>';
 
   function zastavit() {
     bezi = false;
     posledniCas = null;
-    tlacitko.textContent = '▶';
+    document.documentElement.style.scrollBehavior = '';
+    tlacitko.innerHTML = IKONA_START;
     tlacitko.classList.remove('aktivni');
     tlacitko.title = 'Spustit automatické posouvání stránky';
     tlacitko.setAttribute('aria-label', 'Spustit automatické posouvání stránky');
@@ -560,7 +608,9 @@ nactiPisne(['pisne.js', 'demo_pisne.js']);
       zbytek += AUTO_POSUN_RYCHLOST * (cas - posledniCas) / 1000;
       var posun = Math.floor(zbytek);
       if (posun > 0) {
-        window.scrollBy({ top: posun, left: 0, behavior: 'auto' });
+        // 'instant' — 'auto' by převzalo scroll-behavior: smooth z CSS a na iOS by se
+        // plynulé animace po 1 px navzájem rušily, takže by stránka stála na místě
+        window.scrollBy({ top: posun, left: 0, behavior: 'instant' });
         zbytek -= posun;
       }
       if (window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 1) {
@@ -575,7 +625,9 @@ nactiPisne(['pisne.js', 'demo_pisne.js']);
   function spustit() {
     bezi = true;
     zbytek = 0;
-    tlacitko.textContent = '⏸';
+    // pojistka pro starší Safari, které 'instant' nezná
+    document.documentElement.style.scrollBehavior = 'auto';
+    tlacitko.innerHTML = IKONA_STOP;
     tlacitko.classList.add('aktivni');
     tlacitko.title = 'Zastavit automatické posouvání stránky';
     tlacitko.setAttribute('aria-label', 'Zastavit automatické posouvání stránky');
