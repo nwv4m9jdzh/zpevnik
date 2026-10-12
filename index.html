@@ -101,9 +101,10 @@
     line-height: 1;
   }
   .nastroje .mensi { font-size: 0.6rem; }
-  /* tlačítka v hlavičce rostou s písmem (a/A) — 1.46rem = 38px při výchozích 26px,
-     ale nikdy menší než 30px, ať se dají pohodlně trefit prstem */
-  .nastroje button {
+  /* tlačítka v hlavičce i u transpozice rostou s písmem (a/A) — 1.46rem = 38px
+     při výchozích 26px, ale nikdy menší než 30px, ať se dají pohodlně trefit prstem */
+  .nastroje button,
+  .transpozice button {
     width: max(1.46rem, 30px);
     height: max(1.46rem, 30px);
   }
@@ -205,6 +206,17 @@
     color: var(--ztlumene);
   }
   .pisen-interpret::before { content: "— "; }
+
+  /* Status (poznámka k písni) — zobrazí se klikem na název písně */
+  .ma-status .pisen-titul { cursor: pointer; }
+  .pisen-status {
+    display: none;
+    padding: 0.3rem 20px 0;
+    font-size: 0.55rem;
+    color: var(--ztlumene);
+    white-space: pre-line;
+  }
+  .status-zobrazen .pisen-status { display: block; }
 
   /* Tlačítka transpozice (doplňuje skript do každé hlavičky) */
   .transpozice {
@@ -352,6 +364,7 @@ function transponujPisen(pisen, krok) {
 // Písně jsou v pisne.js jako prostý text:
 //   ## Název písně ##
 //   && Interpret &&
+//   ++ Status ++   = poznámka, zobrazí se po kliknutí na název (nepovinné)
 //   [A D E F#mi]   = řádek akordů
 //   text sloky     (prázdný řádek = mezera mezi slokami)
 // Každé "## ... ##" začíná novou píseň.
@@ -368,13 +381,14 @@ function parsujPisne(text) {
     var r = radek.trim();
     var m;
     if ((m = r.match(/^##\s*(.*?)\s*##$/))) {
-      pisen = { nazev: m[1], interpret: '', bloky: [] };
+      pisen = { nazev: m[1], interpret: '', status: '', bloky: [] };
       pisne.push(pisen);
       blok = null;
       return;
     }
     if (!pisen) return;
     if ((m = r.match(/^&&\s*(.*?)\s*&&$/))) { pisen.interpret = m[1]; return; }
+    if ((m = r.match(/^\+\+\s*(.*?)\s*\+\+$/))) { pisen.status = m[1]; return; }
     if ((m = r.match(/^\[(.*)\]$/))) {
       blok = { akordy: m[1].trim().split(/\s+/).join(' '), radky: [] };
       pisen.bloky.push(blok);
@@ -397,7 +411,7 @@ function parsujPisne(text) {
 
   var html = '';
   pisne.forEach(function (p) {
-    html += '<article class="pisen">\n';
+    html += '<article class="pisen' + (p.status ? ' ma-status' : '') + '">\n';
     html += '  <div class="pisen-hlavicka"><div class="pisen-titul">';
     html += '<span class="pisen-cislo"></span> ';
     html += '<span class="pisen-nazev">' + escapeHtml(p.nazev) + '</span>';
@@ -405,6 +419,9 @@ function parsujPisne(text) {
       html += ' <span class="pisen-interpret">' + escapeHtml(p.interpret) + '</span>';
     }
     html += '</div></div>\n';
+    if (p.status) {
+      html += '  <div class="pisen-status">' + escapeHtml(p.status) + '</div>\n';
+    }
 
     p.bloky.forEach(function (b) {
       var radky = b.radky.slice();
@@ -528,6 +545,14 @@ function sestavStranku() {
     a.textContent = nazev ? nazev.textContent : 'Píseň ' + n;
     li.appendChild(a);
     seznam.appendChild(li);
+
+    // klik na název/interpreta zobrazí nebo skryje status písně
+    var titul = pisen.querySelector('.pisen-titul');
+    if (titul && pisen.classList.contains('ma-status')) {
+      titul.addEventListener('click', function () {
+        pisen.classList.toggle('status-zobrazen');
+      });
+    }
 
     // tlačítka transpozice do hlavičky písně
     var hlavicka = pisen.querySelector('.pisen-hlavicka');

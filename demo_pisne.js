@@ -5,6 +5,8 @@
 // Písně jsou v prostém textu, naformátuje je až stránka. Formát:
 //   ## Název písně ##
 //   && Interpret &&
+//   ++ Status ++   = poznámka (např. kdy jsem kontroloval akordy), nepovinné;
+//                    zobrazí se po kliknutí na název písně
 //   [A D E F#mi]   = řádek akordů (začíná nový blok / sloku)
 //   text sloky     (prázdný řádek = mezera mezi slokami)
 // Nové písně vkládej před závěrečný zpětný apostrof (`).

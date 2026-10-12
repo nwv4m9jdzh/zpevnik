@@ -231,6 +231,7 @@ function formatuj(vstup) {
     var m;
     if ((m = r.match(/^##\s*(.*?)\s*##$/))) { nazev = m[1]; return; }
     if ((m = r.match(/^&&\s*(.*?)\s*&&$/))) { interpret = m[1]; return; }
+    if (/^\+\+.*\+\+$/.test(r)) return;  // status — zobrazuje jen index.html
     if ((m = r.match(/^\[(.*)\]$/))) {
       becka = becka.concat(najdiBecka(m[1]));
       aktualni = { akordy: radekAkordu(m[1]), radky: [] };

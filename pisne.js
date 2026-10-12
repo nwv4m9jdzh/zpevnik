@@ -2,6 +2,8 @@
 // Formát:
 //   ## Název písně ##
 //   && Interpret &&
+//   ++ Status ++   = poznámka (např. kdy jsem kontroloval akordy), nepovinné;
+//                    zobrazí se po kliknutí na název písně
 //   [A D E F#mi]   = řádek akordů (začíná nový blok / sloku)
 //   text sloky     (prázdný řádek = mezera mezi slokami)
 // Nové písně vkládej před závěrečný zpětný apostrof (`).
@@ -12,6 +14,7 @@ var PISNE_TEXT = `
 
 ## Sen ##
 && Lucie &&
+++ čeká na kontrolu ++
 
 [Verse: E A F#mi H]
 Stíny dnů a snů se k obratníku stáčí
@@ -46,6 +49,7 @@ A nový stíny vyplaší.
 
 ## Šrouby a matice ##
 && Mandrage &&
+++ čeká na kontrolu ++
 
 [A E Hmi D E]
 Mezi zemí a nebem
@@ -115,6 +119,7 @@ navěky spojení.
 
 ## Yesterday ##
 && Beatles &&
+++ čeká na kontrolu ++
 
 [C E Ami F G C Ami D F C]
 1.  Yesterday  all my troubles seemed so  far away
@@ -150,6 +155,7 @@ Mm mm mm mm mm...
 
 ## Dobrý Mravenci ##
 && Tomáš Klus &&
+++ čeká na kontrolu ++
 
 [Intro: H Em]
 
@@ -230,6 +236,7 @@ la la lalalaj lalalaj lalalaj lalalalalaláááj
 
 ## Pocity ##
 && Tomáš Klus &&
+++ čeká na kontrolu ++
 
 [G D Em C]
 Z posledních pocitů
@@ -288,6 +295,7 @@ Neříkej, neříkej mi nic
 
 ## Podvod ##
 && Nedvědi &&
+++ čeká na kontrolu ++
 
 [Verse: Emi Ami D G Ami C Emi Ami H7]
 Na dlani jednu z tvých řas do tmy se koukám
@@ -334,6 +342,7 @@ podved jsem všechno o čem doma si sníš teď je mi to líto
 
 ## Nina ##
 && Tomáš Klus &&
+++ čeká na kontrolu ++
 
 [D Hm G A]
 Dnes v noci jsem ze spaní křičela tvoje jméno,
@@ -395,6 +404,7 @@ jsi zvuk, když padnou mi na rety slzy múz.
 
 ## With Or Without You ##
 && U2 &&
+++ čeká na kontrolu ++
 
 [D A Hm G]
 See the stone set in your eyes
@@ -441,6 +451,7 @@ With or without you
 
 ## Cesta ##
 && Kryštof &&
+++ čeká na kontrolu ++
 
 [C G Ami F G]
 
@@ -501,6 +512,7 @@ Co řvou
 
 ## Kometa ##
 && Jaromír Nohavica &&
+++ čeká na kontrolu ++
 
 [Verse: Ami Dmi G7 C E7]
 Spatřil jsem kometu, oblohou letěla,
@@ -552,6 +564,7 @@ bude to písnička o nás a kometě ...
 
 ## Kde si včera bol ##
 && Romstar Vyškov &&
+++ čeká na kontrolu ++
 
 [F# B D#mi G#mi C#]
 Kde si včera bol
@@ -604,6 +617,7 @@ Ja si ťa zoberem
 
 ## Perfect ##
 && Ed Sheeran &&
+++ čeká na kontrolu ++
 
 [C Ami F G]
 I found a love for me
@@ -650,6 +664,7 @@ You look perfect tonight
 
 ## Zabili, zabili ##
 && Balada pro banditu &&
+++ čeká na kontrolu ++
 
 [Verse: C F Dmi F C]
 Zabili, zabili chlapa z Koločavy,
@@ -688,6 +703,7 @@ a-a-a-a-a-a
 
 ## Living Next Door To Alice ##
 && Smokie &&
+++ čeká na kontrolu ++
 
 [Verse: A D E A E A D E A E]
 Sally called when she got the word.
@@ -742,6 +758,7 @@ No, I'll never get used to not living next door to Alice...
 
 ## Chtěl jsem mít ##
 && Turbo &&
+++ čeká na kontrolu ++
 
 [C Ami F G Ami]
 Chtěl jsem mít to, co chlapi mívaj
@@ -787,6 +804,7 @@ téměř prázdnej dům.
 
 ## Otevřená zlomenina srdečního svalu ##
 && Wanastowi Vjecy &&
+++ čeká na kontrolu ++
 
 [Verse: G D Am C Es]
 Jsem jako vítr kterej zfoukne, pírko ze Tvejch dlaní,
@@ -844,6 +862,7 @@ už asi nedoufám, hm, hm...
 
 ## V stínu kapradiny ##
 && Jana Kratochvílová &&
+++ čeká na kontrolu ++
 
 [Verse: D(sus4) C D Ami]
 V stínu kapradiny spal, svět pod hlavou měl.
@@ -885,6 +904,7 @@ No tak vstávej....
 
 ## Nagasaki Hirošima ##
 && Mňága & Žďorp &&
+++ čeká na kontrolu ++
 
 [G D C D]
 Tramvají dvojkou jezdíval jsem - do Židenic,
@@ -910,6 +930,7 @@ a dvě spálený srdce – Nagasaki, Hirošima
 
 ## Blame It On Me ##
 && George Ezra &&
+++ čeká na kontrolu ++
 
 [Verse: C]
 The garden was blessed by the gods of me and you
@@ -958,6 +979,7 @@ Oh, what you waiting for, now what you waiting for
 
 ## Budapest ##
 && George Ezra &&
+++ čeká na kontrolu ++
 
 [Verse: F]
 My house in Budapest; My hidden treasure chest,
@@ -1020,6 +1042,7 @@ I'd leave it all.
 
 ## Dokud se zpívá ##
 && Jaromír Nohavica &&
+++ čeká na kontrolu ++
 [C Em Dm7 F C Em Dm7 G
  C Em Dm7 F C Em Dm7 G
  F G C G
@@ -1054,6 +1077,7 @@ A z veliké dálky do uší mi zaznělo,
 
 ## Napojen ##
 && Tomáš Klus &&
+++ čeká na kontrolu ++
 
 [Verse: E A E H E A E H F# A F# A H]
 Vzpomeň, jak's očima dítěte
@@ -1114,6 +1138,7 @@ a svět je Tvá továrna na sny.
 
 ## Sluneční hrob ##
 && Blue Effect &&
+++ čeká na kontrolu ++
 
 [E F#m G#m F#m]
 Usínám a chtěl bych se vrátit
@@ -1155,6 +1180,7 @@ kterej si rád hraje, který je s tebou.
 
 ## Tu kytaru jsem koupil kvůli tobě ##
 && Václav Neckář &&
+++ čeká na kontrolu ++
 
 [C A(7) Dm G(7) C]
 Jak můžeš bejt tak krutá, copak nemáš kouska citu v těle?
@@ -1194,6 +1220,7 @@ pozvi nahoru.
 
 ## Hrobař ##
 && Premiér &&
+++ čeká na kontrolu ++
 
 [Verse: G Emi C D7]
 V mládí jsem se učil hrobařem,
@@ -1228,6 +1255,7 @@ Na na na na...
 
 ## Okno mé lásky ##
 && Olympic &&
+++ čeká na kontrolu ++
 
 [Verse: C F B]
 Kdo tě líbá, když ne já,
@@ -1265,6 +1293,7 @@ kdo tě zradí, když ne já.
 
 ## Je jaká je ##
 && Karel Gott &&
+++ čeká na kontrolu ++
 [C  Emi  F  G  C  Emi
 F  G  C  Emi  F  G  C  Ami
 F  G  C  Ami
@@ -1295,6 +1324,7 @@ i když jiná než chci já á á á á...
 
 ## Povídej ##
 && Petr Novák &&
+++ čeká na kontrolu ++
 
 [Verse: C G C / G C / Emi F C G C]
 Povídej, jestli tě má hodně rád, víc než já,
@@ -1323,6 +1353,7 @@ Povídej, povídej, povídej.
 
 ## Maja ##
 && Nightwork &&
+++ čeká na kontrolu ++
 [Fm  Es  C#  C]
 
 Maja, Maja, Maja, Maja...
@@ -1353,6 +1384,7 @@ Respekt, Respekt Maja
 
 ## Toxic Chords ##
 && AnnenMayKantereit &&
+++ čeká na kontrolu ++
 
 [Verse: Hm D F#(7)]
 Baby, can't you see

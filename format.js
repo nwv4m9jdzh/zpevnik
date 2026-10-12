@@ -56,6 +56,7 @@ function rozdelNaPisne(text) {
       novaPisen('');
     }
     if ((m = r.match(/^&&\s*(.*?)\s*&&$/))) { aktualniPisen.interpret = m[1]; return; }
+    if (/^\+\+.*\+\+$/.test(r)) return;  // status — zobrazuje jen index.html
     if ((m = r.match(/^\[(.*)\]$/))) {
       aktualniPisen.becka = aktualniPisen.becka.concat(najdiBecka(m[1]));
       aktualniBlok = { akordy: radekAkordu(m[1]), radky: [] };
