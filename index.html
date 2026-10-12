@@ -207,11 +207,16 @@
   }
   .pisen-interpret::before { content: "— "; }
 
-  /* Status (poznámka k písni) — zobrazí se klikem na název písně */
+  /* Status (poznámka k písni) — zobrazí se klikem na název písně
+     a lepí se pod pruh s názvem; akordy se pak lepí až pod něj (--status-h) */
   .ma-status .pisen-titul { cursor: pointer; }
   .pisen-status {
     display: none;
-    padding: 0.3rem 20px 0;
+    position: sticky;
+    top: calc(var(--header-h) + var(--titul-h));
+    z-index: 15;
+    background: var(--bg);
+    padding: 0.3rem 20px;
     font-size: 0.55rem;
     color: var(--ztlumene);
     white-space: pre-line;
@@ -238,7 +243,7 @@
   .akordy {
     word-spacing: 1ch;
     position: sticky;
-    top: calc(var(--header-h) + var(--titul-h));
+    top: calc(var(--header-h) + var(--titul-h) + var(--status-h, 0px));
     z-index: 10;
     background: var(--bg);
     border-top: 1px solid var(--chord-border);
@@ -548,10 +553,16 @@ function sestavStranku() {
 
     // klik na název/interpreta zobrazí nebo skryje status písně
     var titul = pisen.querySelector('.pisen-titul');
-    if (titul && pisen.classList.contains('ma-status')) {
+    var status = pisen.querySelector('.pisen-status');
+    if (titul && status) {
       titul.addEventListener('click', function () {
         pisen.classList.toggle('status-zobrazen');
       });
+      // výška statusu (0, když je skrytý) — o ni níž se lepí akordy;
+      // sleduje i změnu písma a zalomení na více řádků
+      new ResizeObserver(function () {
+        pisen.style.setProperty('--status-h', status.offsetHeight + 'px');
+      }).observe(status);
     }
 
     // tlačítka transpozice do hlavičky písně
