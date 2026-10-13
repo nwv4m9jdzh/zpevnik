@@ -29,8 +29,10 @@
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
-  /* 16px × 1.6 = výchozí zvětšení o 60 %; tlačítka a/A to mění za běhu */
-  html { font-size: 26px; scroll-behavior: smooth; }
+  /* 16px × 1.6 = výchozí zvětšení o 60 %; tlačítka a/A to mění za běhu.
+     Bez scroll-behavior: smooth — plynulý skok přes stovky písní iOS Safari
+     nezvládne paměťově a stránku shodí (restartuje). */
+  html { font-size: 26px; }
 
   body {
     background: var(--bg);
@@ -167,6 +169,10 @@
   article.pisen {
     margin-top: 28px;
     scroll-margin-top: var(--header-h);
+    /* písně mimo obrazovku prohlížeč nevykresluje (jen drží odhadované místo),
+       takže i zpěvník se stovkami písní zabere málo paměti */
+    content-visibility: auto;
+    contain-intrinsic-size: auto 2500px;
   }
 
   /* Pruh s názvem skladby — lepí se hned pod hlavičku stránky */
