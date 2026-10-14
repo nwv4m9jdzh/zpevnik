@@ -624,6 +624,33 @@ function nactiPisne(zdroje) {
 }
 nactiPisne(['pisne.js', 'demo_pisne.js']);
 
+// ===== Skok na píseň ze seznamu =====
+// Písně mimo obrazovku mají jen odhadovanou výšku (content-visibility: auto),
+// takže po prvním skoku se okolní písně vykreslí, stránka se posune a cíl
+// uteče o píseň vedle. Proto se doskakuje znovu, dokud se poloha neustálí.
+function skocNaPisen(cil) {
+  var pokusu = 0;
+  var posledni = null;
+  function krok() {
+    cil.scrollIntoView();
+    var top = Math.round(cil.getBoundingClientRect().top);
+    if (top === posledni || ++pokusu > 20) return;
+    posledni = top;
+    requestAnimationFrame(krok);
+  }
+  krok();
+}
+
+document.addEventListener('click', function (e) {
+  var a = e.target.closest && e.target.closest('a[href^="#pisen-"]');
+  if (!a) return;
+  var cil = document.getElementById(a.getAttribute('href').slice(1));
+  if (!cil) return;
+  e.preventDefault();
+  history.pushState(null, '', a.getAttribute('href'));
+  skocNaPisen(cil);
+});
+
 // ===== Zvětšování/zmenšování písma =====
 // Mění root font-size, vše je v rem. Výchozí 26px = 16px zvětšených o 60 %.
 (function () {
