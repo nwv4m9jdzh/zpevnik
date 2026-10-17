@@ -201,12 +201,20 @@
     font-weight: normal;
     color: var(--ztlumene);
   }
+  /* s ID skladby: bílo-černá jako první slova řádků a pozadí textu;
+     jen vyhledávání: béžovo-hnědá jako název písně a jeho pruh */
   .pisen-titul .spotify {
-    color: #1db954;
+    color: var(--text-zvyraz);
+    --spotify-vlny: var(--surface);
     display: inline-block;
     vertical-align: -0.2rem;
     margin-right: 6px;
   }
+  .pisen-titul .spotify.hledani {
+    color: var(--accent);
+    --spotify-vlny: var(--chord-bg);
+  }
+  .pisen-titul .spotify svg g { stroke: var(--spotify-vlny); }
   .pisen-titul .spotify svg { width: 1.2rem; height: 1.2rem; display: block; }
   .pisen-nazev {
     font-size: 1.2rem;
@@ -434,12 +442,12 @@ function parsujPisne(text) {
     html += '  <div class="pisen-hlavicka"><div class="pisen-titul">';
     // odkaz do Spotify: vyhledávání podle názvu a interpreta (na mobilu otevře aplikaci)
     var spotifyId = typeof SPOTIFY_ID !== 'undefined' && SPOTIFY_ID[p.nazev + '|' + p.interpret];
-    html += '<a class="spotify" target="_blank" rel="noopener" title="' +
+    html += '<a class="spotify' + (spotifyId ? '' : ' hledani') + '" target="_blank" rel="noopener" title="' +
       (spotifyId ? 'Pustit ve Spotify' : 'Hledat ve Spotify') + '" href="' +
       (spotifyId ? 'https://open.spotify.com/track/' + spotifyId
                  : 'https://open.spotify.com/search/' + encodeURIComponent(p.nazev + ' ' + p.interpret)) + '">' +
       '<svg viewBox="0 0 24 24" aria-label="Spotify"><circle cx="12" cy="12" r="12" fill="currentColor"/>' +
-      '<g fill="none" stroke="#201b15" stroke-linecap="round">' +
+      '<g fill="none" stroke-linecap="round">' +
       '<path d="M5.5 9.2c4.2-1.2 9-.9 13 1.4" stroke-width="2"/>' +
       '<path d="M6.3 12.6c3.5-1 7.4-.7 10.7 1.2" stroke-width="1.7"/>' +
       '<path d="M7.1 15.8c2.9-.8 5.8-.5 8.4 1" stroke-width="1.4"/></g></svg></a> ';
