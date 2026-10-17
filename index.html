@@ -310,6 +310,7 @@
      a teprve když chybí, vezmou se ukázkové písně z demo_pisne.js. -->
 <main id="pisne"></main>
 
+<script src="spotify_ids.js"></script>
 <script>
 // ===== Nastavení =====
 var TRANSPOZICE_KROK = 7;    // půltóny na jeden stisk ↓♭/↑♯ (případně změň na 1 nebo 2)
@@ -432,8 +433,11 @@ function parsujPisne(text) {
     html += '<article class="pisen' + (p.status ? ' ma-status' : '') + '">\n';
     html += '  <div class="pisen-hlavicka"><div class="pisen-titul">';
     // odkaz do Spotify: vyhledávání podle názvu a interpreta (na mobilu otevře aplikaci)
-    html += '<a class="spotify" target="_blank" rel="noopener" title="Hledat ve Spotify" href="' +
-      'https://open.spotify.com/search/' + encodeURIComponent(p.nazev + ' ' + p.interpret) + '">' +
+    var spotifyId = typeof SPOTIFY_ID !== 'undefined' && SPOTIFY_ID[p.nazev + '|' + p.interpret];
+    html += '<a class="spotify" target="_blank" rel="noopener" title="' +
+      (spotifyId ? 'Pustit ve Spotify' : 'Hledat ve Spotify') + '" href="' +
+      (spotifyId ? 'https://open.spotify.com/track/' + spotifyId
+                 : 'https://open.spotify.com/search/' + encodeURIComponent(p.nazev + ' ' + p.interpret)) + '">' +
       '<svg viewBox="0 0 24 24" aria-label="Spotify"><circle cx="12" cy="12" r="12" fill="currentColor"/>' +
       '<g fill="none" stroke="#201b15" stroke-linecap="round">' +
       '<path d="M5.5 9.2c4.2-1.2 9-.9 13 1.4" stroke-width="2"/>' +
