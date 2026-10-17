@@ -201,19 +201,16 @@
     font-weight: normal;
     color: var(--ztlumene);
   }
-  /* s ID skladby: bílo-černá jako první slova řádků a pozadí textu;
-     jen vyhledávání: béžovo-hnědá jako název písně a jeho pruh */
+  /* béžovo-hnědá jako název písně a jeho pruh; s ID skladby plná,
+     jen s vyhledáváním poloviční průhlednost */
   .pisen-titul .spotify {
-    color: var(--text-zvyraz);
-    --spotify-vlny: var(--surface);
+    color: var(--accent);
+    --spotify-vlny: var(--chord-bg);
     display: inline-block;
     vertical-align: -0.2rem;
     margin-right: 6px;
   }
-  .pisen-titul .spotify.hledani {
-    color: var(--accent);
-    --spotify-vlny: var(--chord-bg);
-  }
+  .pisen-titul .spotify.hledani { opacity: 0.5; }
   .pisen-titul .spotify svg g { stroke: var(--spotify-vlny); }
   .pisen-titul .spotify svg { width: 1.2rem; height: 1.2rem; display: block; }
   .pisen-nazev {
