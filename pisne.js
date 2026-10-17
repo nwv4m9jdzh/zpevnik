@@ -1382,29 +1382,13 @@ Respekt, Respekt Maja
 
 
 
-## Toxic Chords ##
-&& AnnenMayKantereit &&
-++ čeká na kontrolu ++
-
-[Verse: Hm D F#(7)]
-Baby, can't you see
-I'm calling
-A guy like you
-Should wear a warning
-It's dangerous
-I'm fallin'
-
-There's no..............
-
-
-
 ## 50 Ways To Leave Your Lover ##
 && Paul Simon &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Em D C(maj7) H(7) Em D C(maj7) D#(dim) Em C(maj7) H(7)]
+[0: Em D C(maj7) H(7) Em D C(maj7) D#(dim) Em C(maj7) H(7)]
 
-[Verse: Em D C(maj7) H(7) Em(7) D C(maj7) D#(dim) Em(7) D C(maj7) H(7) Em Am(7)]
+[1: Em D C(maj7) H(7) Em(7) D C(maj7) D#(dim) Em(7) D C(maj7) H(7) Em Am(7), Am(7) Em]
 "The problem is all inside your head", she said to me,
 The answer is easy if you take it logically.
 I'd like to help you in your struggle to be free.
@@ -1415,7 +1399,7 @@ But I'll repeat myself at the risk of being crude.
 There must be - fifty ways to leave your lover,
 Fifty ways to leave your lover."
 
-[Chorus: G A# C(7)]
+[R: G A# C(7)]
 Just slip out the back Jack, make a new plan Stan,
 No need to be coy Roy, just get yourself free
 Hop on the bus Gus, you don't need to discuss much,
@@ -1425,7 +1409,7 @@ You don't need to be coy Roy, you just listen to me.
 Hop on the bus Gus, you don't need to discuss much,
 Just drop off the key Lee, and get yourself free.
 
-[Verse: Em D C(maj7) H(7) Em D C(maj7) D#(dim) Em D C(maj7) H(7) Em Am(7)]
+[2: Em D C(maj7) H(7) Em D C(maj7) D#(dim) Em D C(maj7) H(7) Em Am(7), Am(7) Em]
 She said: "It grieves me so to see you in such pain.
 I wish there was something I could do to make you smile again."
 I said: "I appreciate that and would you please explain
@@ -1436,7 +1420,7 @@ Then she kissed me and I realised, she probably was right,
 There must be fifty ways to leave your lover,
 Fifty ways to leave your lover.
 
-[Chorus: G A# C(7)]
+[R: G A# C(7)]
 Just slip out the back Jack, make a new plan Stan,
 You don't need to be coy Roy, and get yourself free.
 Hop on the bus Gus, you don't need to discuss much.
@@ -1452,45 +1436,45 @@ Just drop off the key Lee, and set yourself free.
 && Jelen &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Am Dm(/A) G C(/H)]
+[0: Am Dm(/A) G C(/H)]
 
-[Verse: Am Dm(/A) G C(/H) Am Dm(/A) E]
+[1: Am Dm(/A) G C(/H) Am Dm(/A) E]
 Někdy si říkám, jestli ještě znáš mý jméno
 a jak často na mě myslíš, když jdeš spát
 na zítřek v televizi hlásí zataženo
 a v mý hlavě už tak bude napořád
 
-[Verse: Am Dm(/A) G C(/H) Am Dm(/A) E Am G]
+[2: Am Dm(/A) G C(/H) Am Dm(/A) E Am G]
 Život jde dál, lásko, musíme si zvykat
 a není dobrý na tý cestě zůstat sám
 pro jeden smutek nemá cenu stokrát vzlykat
 když má svět otevřenou náruč dokořán
 
-[Chorus: C Am F G Am]
+[R: C Am F G, Am]
 A co bylo dál, jenom vítr, áaa
 po nebi se mraky honily
 a co bylo dál, jenom vítr, áaa
 a stromy se až k zemi sklonily
 
-[Verse: Am Dm(/A) G C(/H) Am Dm(/A) E Am G]
+[3: Am Dm(/A) G C(/H) Am Dm(/A) E Am G]
 V uších mi pořád zněly tvoje něžný věty
 a do vlasů ti sedal bílej sníh
 z oblohy černý jak díra mezi světy
 se na mě snášel a studil na dlaních
 
-[Chorus: C Am F G Am]
+[R: C Am F G, Am]
 A co bylo dál, jenom vítr, áaa
 po nebi se mraky honily
 a co bylo dál, jenom vítr, áaa
 a stromy se až k zemi sklonily
 
-[Verse: Am Dm(/A) G C(/H) Am Dm(/A) E Am G]
+[4: Am Dm(/A) G C(/H) Am Dm(/A) E Am G]
 V tom baru nevěděli, že je venku krize
 z rádia zpíval Cohen "Lásko, jsem tvůj muž"
 tys vešla dovnitř jak zhmotnění mý vize
 jako když do srdce mi někdo vrazí nůž
 
-[Chorus: G Am F G C Am F]
+[R: G Am F G C Am F G C Am F G C Am F]
 A co bylo dál, jenom vítr, áaa
 po nebi se mraky honily, óoo
 a co bylo dál, jenom vítr, áaa
@@ -1506,25 +1490,25 @@ a stromy se až k zemi sklonily
 && Tomáš Klus &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: A C#m Hm E]
+[1: A C#m Hm E]
 Jednou štěstí dohoní i ty jezdce na koních
 co hledají ho v cizích stájích
 jednou hrana zazvoní i těm jezdcům na koních
 co stále vedou svou cestou šedou
 
-[Chorus: A C# D E]
+[R: A C# D E]
 A pak koně klus promění v cval
 nic stejné nebude dál, svět promění se
 pak koně klus promění v cval
 nic stejné nebude dál, svět promění se
 
-[Verse: A C#m Hm E]
+[2: A C#m Hm E]
 Až ten vítr zavane, vzplane srdce, hlava ne
 a začne bít, zavládne klid
 oči jezdců spatří svit obzoru, kam chtěli jít
 kde spočinou, kde spočinou
 
-[Chorus: A C# D E]
+[R: A C# D E]
 A pak koně klus promění v cval
 nic stejné nebude dál, svět promění se
 pak koně klus promění v cval
@@ -1539,9 +1523,9 @@ nic stejné nebude dál, svět promění se pak
 
 ## A Sky Full Of Stars ##
 && Coldplay &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 6 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Am F C Em]
+[0-1+R+I+2: D#m H F# A#m]
 x2
 
 'Cause you're a sky, 'cause you're a sky full of stars
@@ -1561,18 +1545,18 @@ I wanna die in your arms, oh, oh-oh
 'Cause you get lighter the more it gets dark
 I'm gonna give you my heart, oh
 
-[Chorus: Am F C Em Am F Em]
+[R: D#m H F# A#m, A#m]
 I don't care, go on and tear me apart
 I don't care if you do, ooh-ooh, ooh
 'Cause in a sky, 'cause in a sky full of stars
 I think I see you
 I think I see you
 
-[Verse: Am F C Em F G Am C]
+[3: D#m H F# A#m H C# D#m F#]
 x4
 x2
 
-[Outro: F G Am C]
+[Z: H C# D#m F#]
 'Cause you're a sky, you're a sky full of stars
 Such a heavenly view
 You're such a heavenly view
@@ -1584,48 +1568,48 @@ x3
 && The Beatles &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D F#m A]
+[0: D F#m A]
 
-[Verse: D Hm F#m Em(7) A(7) D Hm F#m Em(7) Gm]
+[1: D Hm F#m Em(7) A(7) D Hm F#m Em(7) Gm]
 Words are flowing out like endless rain into a paper cup
 They slither wildly as they slip away across the universe
 Pools of sorrow, waves of joy are drifting through my opened mind
 Possessing and caressing me
 
-[Chorus: D A(7/7sus4) G]
+[R: D A(7/7sus4) G]
 Jai guru deva om
 Nothing's gonna change my world
 Nothing's gonna change my world
 Nothing's gonna change my world
 Nothing's gonna change my world
 
-[Verse: D Hm F#m Em(7) A(7)]
+[2: D Hm F#m Em(7) A(7)]
 Images of broken light which dance before me like a million eyes
 They call me on and on across the universe
 Thoughts meander like a restless wind inside a letterbox
 They tumble blindly as they make their way across the universe
 
-[Chorus: D A(7/7sus4) G]
+[R: D A(7/7sus4) G]
 Jai guru deva om
 Nothing's gonna change my world
 Nothing's gonna change my world
 Nothing's gonna change my world
 Nothing's gonna change my world
 
-[Verse: D Hm F#m Em(7) Gm D Hm F#m Em(7) A(7)]
+[3: D Hm F#m Em(7) Gm D Hm F#m Em(7) A(7)]
 Sounds of laughter, shades of life are ringing through my opened ears
 Inciting and inviting me
 Limitless, undying love which shines around me like a million suns
 And calls me on and on across the universe
 
-[Chorus: D A(7/7sus4) G]
+[R: D A(7/7sus4) G]
 Jai guru deva om
 Nothing's gonna change my world
 Nothing's gonna change my world
 Nothing's gonna change my world
 Nothing's gonna change my world
 
-[Outro: D]
+[Z: D]
 Jai guru deva
 Jai guru deva
 
@@ -1635,9 +1619,9 @@ Jai guru deva
 && Toto &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: A G#m C#m]
+[0: A G#m C#m]
 
-[Verse: H D#m G#m H(/F#) A(/E) C#m G#m A G#m C#m H D#m G#m H(/F#) A(/E) H(sus4/F#) G#m A G#m C#m H D#m G#m A C#m]
+[1: H D#m G#m H(/F#) A(/E) C#m G#m A G#m C#m H D#m G#m H(/F#) A(/E) H(sus4/F#) G#m A G#m C#m H D#m G#m H(/F#) A(/E) H(sus4/F#) G#m A G#m C#m H D#m G#m A C#m]
 I hear the drums echoing tonight
 She hears only whispers of some quiet conversa tion
 She's coming in, twelve thirty flight
@@ -1646,14 +1630,14 @@ I stopped an old man along the way
 Hoping to find some old forgotten words or ancient melodies
 He turned to me as if to say “hurry boy, it's waiting there for you”
 
-[Chorus: F#m D A E F#m D A C#m E F#m E(/G#) A G#m C#m]
+[R: F#m D A E, C#m E F#m E(/G#) A G#m C#m A G#m C#m]
 Gonna take a lot to drag me away from you
 There's nothing that a hundred men or more could ever do
 I bless the rains down in Africa
 Gonna take some time to do the things we never had
 Ooo
 
-[Verse: H D#m G#m H(/F#) A(/E) H(sus4/F#) G#m A G#m C#m H D#m G#m A C#m]
+[2: H D#m G#m H(/F#) A(/E) H(sus4/F#) G#m A G#m C#m, A C#m]
 The wild dogs cry out in the night
 As they grow restless longing for some solitary compa-ny
 I know that I must do what's right
@@ -1661,19 +1645,19 @@ As sure as Kilimanjaro rises like Olympus above the Ser engeti
 I seek to cure what's deep inside
 Frightened of this thing that I've become
 
-[Chorus: F#m D A E F#m D A C#m E F#m E(/G#) A G#m C#m]
+[R: F#m D A E, C#m E F#m E(/G#) A G#m C#m A G#m C#m]
 Gonna take a lot to drag me away from you
 There's nothing that a hundred men or more could ever do
 I bless the rains down in Africa
 Gonna take some time to do the things we never had
 Ooo
 
-[Interlude: H D#m G#m H(/F#) A(/E) H(sus4/F#) G#m A G#m C#m]
+[I: H D#m G#m H(/F#) A(/E) H(sus4/F#) G#m A G#m C#m]
 
-[Bridge: G#m A C#m]
+[B: G#m A C#m]
 “hurry boy, she's waiting there for you”
 
-[Outro: F#m D A E F#m D A C#m E F#m E(/G#) A G#m C#m]
+[Z: F#m D A E, C#m E F#m E(/G#) A G#m C#m A G#m C#m]
 It’s gonna take a lot to drag me away from you
 There's nothing that a hundred men or more could ever do
 I bless the rains down in Africa
@@ -1690,7 +1674,7 @@ Ooo
 && Free &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: A D(sus2)]
+[1: A D(sus2)]
 There she stood in the street,
 Smiling from her head to her feet,
 I said Hey, what is this?
@@ -1700,12 +1684,12 @@ Maybe we can see things the same,
 Now don't you wait or hesitate,
 Let's move before they raise the parking rate, oh!
 
-[Chorus: A D G D]
+[R: A D G D]
 All right now, Baby it's all right now,
 all right now, baby it's all right now.
 Let me tell you now
 
-[Verse: A D(sus2)]
+[2: A D(sus2)]
 I took her home to my place
 Watching ev'ry move on her face,
 She said Look, what's your game, baby?
@@ -1715,7 +1699,7 @@ don't you think that love can last?
 She said Love, Lord above,
 now you're tryin' to trick me in love.
 
-[Chorus: A D G D]
+[R: A D G D]
 All right now, Baby it's all right now,
 all right now, baby it's all right now.
 Let me tell you now
@@ -1726,9 +1710,9 @@ Let me tell you now
 && Blink-182 &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C F G]
+[0: C F G]
 
-[Verse: C G F G]
+[1: C G F G]
 All the small things
 True care, truth brings
 I'll take one lift
@@ -1738,7 +1722,7 @@ You'll be at my show
 Watching, waiting
 Commiserating
 
-[Chorus: C G F]
+[R: C G F]
 Say it ain't so, I will not go
 Turn the lights off, carry me home
 
@@ -1747,15 +1731,15 @@ Nana nana nana nana na na
 Nana nana nana nana na na
 Nana nana nana nana na na
 
-[Interlude: C F G]
+[I: C F G]
 
-[Verse: C G F G]
+[2: C G F G]
 Late night, come home
 Work sucks, I know
 She left me roses by the stairs
 Surprises let me know she cares
 
-[Chorus: C G F]
+[R: C G F]
 Say it ain't so, I will not go
 Turn the lights off, carry me home
 
@@ -1764,9 +1748,9 @@ Nana nana nana nana na na
 Nana nana nana nana na na
 Nana nana nana nana na na
 
-[Interlude: C F G]
+[I: C F G]
 
-[Chorus: C G F]
+[R: C G F]
 Say it ain't so, I will not go
 Turn the lights off, carry me home
 Keep your head still, I'll be your thrill
@@ -1783,44 +1767,44 @@ My little windmill
 && Rolling Stones &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am E(7) G F C]
+[1: Am E(7) G F C]
 Angie, Angie, when will those clouds all disappear?
 Angie, Angie, where will it lead us from here?
 
-[Chorus: G Dm Am C F G Am E(7) G F C]
+[R: G Dm Am C F G Am E(7) G F C]
 With no loving in our souls and no money in our coats
 You can't say we're satisfied
 But Angie, Angie, you can't say we never tried
 
-[Verse: Am E(7) G F C]
+[2: Am E(7) G F C]
 Angie, you're beautiful, but ain't it time we said good-bye?
 Angie, I still love you, remember all those nights we cried?
 
-[Chorus: G Dm Am C F G Am E(7) G F C]
+[R: G Dm Am C F G Am E(7) G F C]
 All the dreams we held so close seemed to all go up in smoke
 Let me whisper in your ear:
 Angie, Angie, where will it lead us from here?
 
-[Interlude: Am E(7) G F C]
+[I: Am E(7) G F C]
 
-[Chorus: G Dm Am C F G Am E(7) G F C]
+[R: G Dm Am C F G Am E(7) G F C]
 Oh, Angie, don't you weep, all your kisses still taste sweet
 I hate that sadness in your eyes
 But Angie, Angie, ain't it time we said good-bye?
 
-[Verse: Am E(7) G F C]
+[2: Am E(7) G F C]
 
-[Chorus: G Dm Am C F]
+[R: G Dm Am C F]
 With no loving in our souls and no money in our coats
 You can't say we're satisfied
 
-[Bridge: Dm Am C F G]
+[B: Dm Am, C F G]
 But Angie, I still love you, baby
 Ev'rywhere I look I see your eyes
 There ain't a woman that comes close to you
 Come on Baby, dry your eyes
 
-[Verse: Am E(7) G F C]
+[3: Am E(7) G F C]
 But Angie, Angie, ain't it good to be alive?
 Angie, Angie, they can't say we never tried
 
@@ -1830,31 +1814,31 @@ Angie, Angie, they can't say we never tried
 && Pink Floyd &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Dm]
+[0: Dm]
 
-[Verse: Dm G]
+[1: Dm G]
 We don't need no education
 We don't need no thought control
 No dark sarcasm in the classroom
 Teacher, leave them kids alone
 Hey! Teacher, leave them kids alone
 
-[Interlude: Dm C G F C]
+[I: Dm C, G F C Dm F C Dm]
 All in all it's just a - nother brick in the wall
 All in all you're just a - nother brick in the wall
 
-[Verse: Dm G]
+[2: Dm G]
 We don't need no education
 We don't need no thought control
 No dark sarcasm in the classroom
 Teachers, leave them kids alone
 Hey! Teacher, leave those kids alone
 
-[Interlude: Dm C G F C]
+[I: Dm C, G F C Dm F C Dm]
 All in all you're just a - nother brick in the wall
 All in all you're just a - nother brick in the wall
 
-[Solo: Dm]
+[S: Dm]
 
 
 
@@ -1862,30 +1846,31 @@ All in all you're just a - nother brick in the wall
 && Ivan Hlas &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Hm G F# Hm G Hm A]
+[1: Hm G F#, Hm A Hm]
 Barevnej šátek do vlasů a jedem
 na zádech černejch Pegasů se svedem
 tohle je vůbec dobrej kraj
 kde ti všechno daj a nejjemnější z vín tu znaj
 
+[2: Hm G F#, Hm A]
 Ulicí proběh žlutej pes a volá
 rej čarodějnic ještě dnes hej hola
 na hlavu černej klobouk dej
 v tom stavu nejsi zlej a oči kryje stín
 
-[Chorus: D G D C Hm A Hm]
+[R: D G, C Hm A Hm]
 Aranka umí "hula hop" ty dy ty ty
 až pánbůh tiše úpí stop ty dy ty ty
 občas se ve tmě blejskne nůž
 i ty ho pilně bruš a srdce otvírej co s tím
 
-[Verse: Hm G F# Hm G Hm A]
+[3: Hm G F#, Hm A]
 Potáhnem na španělskou zem - kde leží?
 tam všechno víno vypijem - jsme svěží
 prej je tam vůbec dobrej kraj
 kde ti všechno daj a ženský divoký
 
-[Chorus: D G D C Hm A]
+[R: D G, C Hm A Hm A D]
 Aranka umí "hula hop" ty dy ty ty
 až pánbůh tiše úpí stop ty dy ty ty
 Aranka zpívá svoje blues ty dy ty ty
@@ -1900,7 +1885,9 @@ hej kam s ním
 && Tomáš Klus &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am D G C(/H)]
+[0: Am D G C(/H) Am D G]
+
+[1-2: Am D G C(/H)]
 Až rozpustím dým a k tomu skončí další den
 tak půjdem oba domů za tím svým štěstím
 jsem kolemjdoucím z davu, součást osudu
@@ -1911,7 +1898,7 @@ jednou je budu česat já, jsou plný krásy
 otevřu okno, aby všechno bylo blíž tady
 vždyť víš
 
-[Chorus: Em Am F C G]
+[R: Em Am F C, G]
 Zatím mi nikdo nevěří
 mý vzdušný zámky u dveří
 jen ty jsi na oko smutná
@@ -1919,13 +1906,13 @@ a co mám dělat, když jsme tři?
 Ty jsi ta, co s láskou nešetří
 ty jsi ta na oko smutná
 
-[Verse: Am D G C(/H)]
+[3: Am D G C(/H)]
 Láhev vína dohasíná a ty jsi zas tak jiná
 jsi moje, vím to jenom já
 jsi srdcevrah mých snění, na stěnách fotky mění
 slzy v hrách
 
-[Chorus: Em Am F C G]
+[R: Em Am F C, G]
 Zatím mi nikdo nevěří
 mý vzdušný zámky u dveří
 jen ty jsi na oko smutná
@@ -1933,13 +1920,13 @@ a co mám dělat, když jsme tři?
 Ty jsi ta, co s láskou nešetří
 ty jsi ta na oko smutná
 
-[Verse: Am D G C(/H)]
+[4: Am D G C(/H)]
 Jsme dva různý světy, dvě míjející se planety
 jsme dvě kosmický lodě
 starý fráze v křoví, poví ti je on, tvůj přítel
 plyšový seladón
 
-[Chorus: Em Am F C G]
+[R: Em Am F C, G]
 Zatím mi nikdo nevěří
 mý vzdušný zámky u dveří
 jen ty jsi na oko smutná
@@ -1947,7 +1934,7 @@ a co mám dělat, když jsme tři?
 Ty jsi ta, co s láskou nešetří
 ty jsi ta na oko smutná
 
-[Intro: Am D G C(/H)]
+[0: Am D G C(/H) Am D G]
 
 
 
@@ -1955,7 +1942,7 @@ ty jsi ta na oko smutná
 && Amy Winehouse &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Dm Gm A# A]
+[1-2: Dm Gm A# A]
 He left no time to re-gret,
 Kept his dick wet, with his same old safe bet.
 Me and my head high,
@@ -1966,11 +1953,11 @@ So far removed, from all that we went through.
 And I tread a troubled track,
 My odds are stacked; I'll go back to black.
 
-[Chorus: Dm Gm A Dm A# A]
+[R: Dm Gm A Dm A# A]
 We only said goodbye with words; I died a hundred times.
 You go back to her and I go back toI go back to us.
 
-[Verse: Dm Gm A# A]
+[3+R: Dm Gm A# A]
 I love you much,
 It's not e-nough; you love blow and I love puff.
 And life is like a pipe,
@@ -1981,13 +1968,13 @@ You go back to her and I go back to
 We only said goodbye with words; I died a hundred times.
 You go back to her and I go back to
 
-[Bridge: Dm A#(maj7) F A(7)]
+[B: Dm A#(maj7) F A(7)]
 Black black,
 Black black.
 Black black,
 Black I go back to I go back to
 
-[Chorus: Dm Gm A# A]
+[R: Dm Gm A# A]
 We only said goodbye with words; I died a hundred times.
 You go back to her and I go back to
 We only said goodbye with words; I died a hundred times.
@@ -1997,11 +1984,11 @@ You go back to her and I go back to black.
 
 ## Bad Guy ##
 && Billie Eilish &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Em Am H(7)]
+[0: Gm Cm D(7)]
 
-[Verse: Em(/A/7/A/9#11) H(5/7/aug) Em C(dim/E)]
+[1: Gm(/C/7/C/9#11) D(5/7/aug) Gm D#(dim/G) Gm D#(dim/G)]
 White shirt now red, my bloody nose
 Sleepin', you're on your tippy toes
 Creepin' around like no one knows
@@ -2011,7 +1998,7 @@ Don't say thank you or please I do
 What I want when I'm wanting to
 My soul? So cynical
 
-[Chorus: Em Am H(7) E]
+[R: Gm Cm D(7), G]
 So you're a tough guy
 Like it really rough guy
 Just can't get enough guy
@@ -2025,7 +2012,7 @@ Duh
 Q Q Q
 I'm the bad guy
 
-[Verse: Em C(dim/E) Em(/A/7/A) H(5/7/aug)]
+[2: Gm(/C/7/C) D#(dim/G), D(5/7/aug)]
 I like it when you take control
 Even if you know that you don't
 Own me, I'll let you play the role
@@ -2035,7 +2022,7 @@ With me, but she won't sing this song
 If she reads all the lyrics she'll
 Pity the men I know
 
-[Chorus: Em Am H(7) E]
+[R: Gm Cm D(7), G Gm Cm D(7) G Gm Cm D(7)]
 So you're a tough guy
 Like it really rough guy
 Just can't get enough guy
@@ -2052,7 +2039,7 @@ Duh
 Q Q Q
 I'm only good at bein' bad,,,,,,,,,,,,,,,, bad
 
-[Bridge: Em(/F)]
+[B+Z: Gm(/G#)]
 I like when you get mad
 I guess I'm pretty glad that you're alone
 You said she's scared of me?
@@ -2069,35 +2056,37 @@ Bad guy, bad guy, I'm a bad
 && Creedence Clearwater Revival &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: D A G]
+[1: D A G]
 I see the bad moon a-rising
 I see trouble on the way
 I see earthquakes and lightning
 I see bad times today
 
-[Chorus: G D A]
+[R: G D A]
 Don't go around tonight
 Well, it's bound to take your life
 There's a bad moon on the rise
 
-[Verse: D A G]
+[2: D A G]
 I hear hurricanes a-blowing
 I know the end is coming soon
 I fear rivers overflowing
 I hear the voice of rage and ruin
 
-[Chorus: G D A]
+[R: G D A]
 Don't go around tonight
 Well, it's bound to take your life
 There's a bad moon on the rise
 
-[Verse: D A G]
+[S: D A G, G D A G D]
+
+[3: D A G]
 Hope you got your things together
 Hope you are quite prepared to die
 Looks like we're in for nasty weather
 One eye is taken for an eye
 
-[Chorus: G D A]
+[R: G D A G D]
 Well, don't go around tonight
 Well, it's bound to take your life
 There's a bad moon on the rise
@@ -2111,7 +2100,7 @@ There's a bad moon on the rise
 && INXS &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[H E G#m D#m E F# H E F# G#m E H F# G#m E C#m E H E D#m E F# H E F# G#m E H F# H C#m E]
+[H E H E H E H E G#m D#m G#m D#m E F# E F# H E, H E H E H E F# G#m E H F# H F# G#m E C#m E H E H E H E H E H E H E H E H E D#m E F# E F# H E H E H E H E F# G#m E H F# H F# G#m E H F# H C#m E H E H E H E H E H]
 Nicky's in the corner, with a black coat on
 Running from a bad home, with some cat inside
 Now where did you find her, among the neon lights
@@ -2141,9 +2130,9 @@ Stay with me (beautiful girl)
 && The Who &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E(7sus4)]
+[0: E(7sus4)]
 
-[Verse: Em G D(sus4) C(add9) A(sus2)]
+[1: Em G D(sus4) C(add9) A(sus2)]
 No one knows what it's like
 To be the bad man, to be the sad man
 Behind blue eyes
@@ -2151,14 +2140,14 @@ No one knows what it's like
 To be hated, to be fated
 To telling only lies
 
-[Chorus: C D G C(/G) D E(sus4) Hm C D(sus4) A(sus2)]
+[R: C D G C(/G) G C D E(sus4) Hm C D(sus4) A(sus2)]
 But my dreams they aren't as empty
 As my conscience seems to be
 I have hours, only lonely
 My love is vengeance
 That's never free
 
-[Verse: Em G D(sus4) C(add9) A(sus2)]
+[2: Em G D(sus4) C(add9) A(sus2)]
 No one knows what it's like
 To feel these feelings
 Like I do
@@ -2167,16 +2156,16 @@ No one bites back as hard on their anger
 None of my pain and woe
 Can show through
 
-[Chorus: C D G C(/G) D E(sus4) Hm C D(sus4) A(sus2)]
+[R: C D G C(/G) G C D E(sus4) Hm C D(sus4) A(sus2)]
 But my dreams they aren't as empty
 As my conscience seems to be
 I have hours, only lonely
 My love is vengeance
 That's never free
 
-[Interlude: E Hm A]
+[I: E Hm A]
 
-[Verse: E Hm A E Hm G D Hm A]
+[3: E Hm A E Hm G D Hm A D Hm A E Hm A]
 When my fist clenches, crack it open
 Before I use it and lose my cool
 When I smile, tell me some bad news
@@ -2186,9 +2175,9 @@ Put your finger down my throat
 And if I shiver, please give me a blanket
 Keep me warm, let me wear your coat
 
-[Verse: H A D G]
+[3: H A D G]
 
-[Outro: Em G D(sus4) C(add9) A(sus2)]
+[Z: Em G D(sus4) C(add9) A(sus2)]
 No one knows what it's like
 To be the bad man, to be the sad man
 Behind blue eyes
@@ -2199,10 +2188,10 @@ Behind blue eyes
 && Billie Eilish &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D]
+[0: D]
 (I want you to stay)
 
-[Verse: D Hm Em A]
+[1: D Hm Em A]
 I want you to stay
 'Til I'm in the grave
 'Til I rot away, dead and buried
@@ -2212,13 +2201,13 @@ If you go, I'm goin' too, uh
 And if I'm turnin' blue, please don't save me
 Nothin' left to lose without my baby
 
-[Chorus: D Hm D Em A]
+[R: D Hm D Em A]
 Birds of a feather, we should stick together, I know
 I said I'd never think I wasn't better alone
 Can't change the weather, might not be forever
 But if it's forever, it's even better
 
-[Verse: D Hm Em A]
+[2+R+3-4: D Hm Em A]
 And I don't know what I'm cryin' for
 I don't think I could love you more
 It might not be long, but, baby, I
@@ -2255,11 +2244,11 @@ I love you, don't act so surprised
 
 ## Blowin’ In The Wind ##
 && Bob Dylan &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 5 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D]
+[0: G]
 
-[Verse: D G A D G]
+[1: G C, D G C G C G]
 How many roads must a man walk down
 Before you call him a man?
 Yes and how many seas must a white dove sail
@@ -2267,11 +2256,11 @@ Before she sleeps in the sand?
 Yes, 'n' how many times must the cannonballs fly
 Before they're forever banned?
 
-[Chorus: G A D]
+[R: C D G]
 The answer, my friend, is blowin' in the wind
 The answer is blowin' in the wind
 
-[Verse: D G A D G]
+[2: G C, D G C G C G]
 Yes, 'n' how many years can a mountain exist
 Before it's washed to the sea?
 And how many years can some people exist
@@ -2279,11 +2268,11 @@ Before they're allowed to be free?
 Yes, 'n' how many times can a man turn his head
 And pretend that he just doesn't see?
 
-[Chorus: G A D]
+[R: C D G]
 The answer, my friend, is blowin' in the wind
 The answer is blowin' in the wind
 
-[Verse: D G A D G]
+[3: G C, D G C G C G]
 Yes, 'n' how many times must a man look up
 Before he can see the sky?
 Yes n' how many ears must one man have
@@ -2291,7 +2280,7 @@ Before he can hear people cry?
 Yes, 'n' how many deaths will it take till he knows
 That too many people have died?
 
-[Chorus: G A D]
+[R: C D G]
 The answer, my friend, is blowin' in the wind
 The answer is blowin' in the wind
 
@@ -2299,9 +2288,9 @@ The answer is blowin' in the wind
 
 ## Bohemian Rhapsody ##
 && Queen &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Em(7) A(7) D(7) Am(7) D(7) G Em G(7) C Am D(7) G# G F# G C G(/H) A#(dim7) D(7/A) G]
+[0: Gm(7) C(7) F(7) Cm(7) F(7) A# Gm A#(7) D# Cm F(7) H A# A A# H A# A A# D# A#(/D) C#(dim7) F(7/C) A#]
 Is this the real life
 Is this just fantasy
 Caught in a landslide
@@ -2314,7 +2303,7 @@ little high, little low,
 Any way the wind blows, doesn't really matter to me,
 To me
 
-[Verse: G Em Am D G Em Am(/E//F//G//F#//G#) C G Am Dm G C G Am Fm C]
+[1: A# Gm Cm F A# Gm Cm(/A//G//H//A#//G#) D# A# Cm Fm A# D# A# Cm G#m D#]
 Mama, just killed a man,
 Put a gun against his head,
 Pulled my trigger, now he's dead,
@@ -2325,7 +2314,7 @@ Didn't mean to make you cry
 If I'm not back again this time tomorrow
 Carry on, carry on, as if nothing really matters
 
-[Verse: G Em Am D G Em Am(/E//F//G//F#//G#) C G Am Dm G C]
+[2: A# Gm Cm F A# Gm Cm(/A//G//H//A#//G#) D# A# Cm Fm A# D#]
 Too late, my time has come,
 Sends shivers down my spine
 Body's aching all the time,
@@ -2335,9 +2324,9 @@ Mama ooooh (any way the wind blows)
 I don't want to die,
 I sometimes wish I'd never been born at all
 
-[Solo: C G Am Dm G C G Am Dm A# A G# G F#]
+[S: D# A# Cm Fm A# D# A# Cm Fm C# C H A# A]
 
-[Interlude: H F# F F# H F# A# F A C# F# A# G# G F# G F C(/E/dim) D G F C(/E) D#(dim) Dm(7) G# G F# G C G D#(7) C G C F H Em G]
+[I: D A G# A, D A G# A D A C# G# C E A C# H A# A A# H A# A A# G# D#(dim) G# D#(dim) G# D#(/G) F A# G# D#(/G) F#(dim) Fm(7) H A# A A# H A# A A# D# A# D# A# D# A# D# A# F#(7) D# A# D# G# D Gm A#]
 I see a little silhouetto of a man,
 Scaramouche, scaramouche, will you do the Fandango
 Thunderbolt and lightning, very very frightening me
@@ -2354,24 +2343,24 @@ Will not let you go. Will not let you go. Ahhhhhhhhh
 No, no, no, no, no, no, no. Oh, mama mia, mama mia
 Mama mia, let me go. Beelzebub has a devil put aside for me,
 
-[Interlude: C D]
+[I: D# F]
 
-[Interlude: G C G A# G C F Dm]
+[I: A# D# A# C# A# D# G# Fm A# Fm A# Fm A# Fm]
 So you think you can stone me and spit in my eye
 So you think you can love me and leave me to die
 Oh, baby can't do this to me, baby
 Just gotta get out just gotta get right outta here
 
-[Interlude: C D G# F G C G Am E Am G C H Em F]
+[I: D# F H G# A# D# A# Cm G Cm G Cm A# D# D Gm G#]
 
-[Outro: Am Em Am Fm F(/G) C]
+[Z: Cm Gm, G#m G#(/A#) D#]
 Nothing really matters,
 Anyone can see,
 Nothing really matters, nothing really matters to me,
 
-[Interlude: C F(/C) C(dim) G(/H) Gm(/A#) A A#(dim) A(7) D]
+[I: D# G#(/D#) D#(dim) A#(/D) A#m(/C#) C C#(dim) C(7) F]
 
-[Outro: G D(/F#/dim/F) Em(7) D]
+[Z: A# F(/A/dim/G#) Gm(7) F]
 Any way the wind blows
 
 
@@ -2380,9 +2369,9 @@ Any way the wind blows
 && Pink Floyd &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D]
+[0: D]
 
-[Verse: D(7/sus2/7sus2) G(7/D) D E(/D) A(7)]
+[1-2: D G(7/D), E(/D) A(7) D(7/sus2/7sus2)]
 The lunatic is on the grass
 The lunatic is on the grass
 Remembering games and daisy chains and laughs
@@ -2393,13 +2382,13 @@ The lunatics are in my hall
 The paper holds their folded faces to the floor
 And every day the paper boy brings more
 
-[Chorus: G A C G Hm(7) Em A(sus4)]
+[R: G A C, Hm(7) Em A(sus4)]
 And if the dam breaks open many years too soon
 And if there is no room upon the hill
 And if your head explodes with dark forebodings too
 I'll see you on the dark side of the moon
 
-[Verse: D(7/sus2/7sus2) G(7/D) D(sus2) E(/D) A(7)]
+[3: D G(7/D), E(/D) A(7) D(sus2) E(/D) A(7) D(7/sus2/7sus2)]
 The lunatic is in my head (laughter)
 The lunatic is in my head
 You raise the blade, you make the change
@@ -2407,13 +2396,13 @@ You rearrange me till I'm sane
 You lock the door, and throw away the key
 There's someone in my head but it's not me
 
-[Chorus: G A C G Hm(7) Em A(sus4)]
+[R: G A C, Hm(7) Em A(sus4)]
 And if the cloud bursts, thunder in your ear
 You shout and no one seems to hear
 And if the band you're in starts playing different tunes
 I'll see you on the dark side of the moon
 
-[Outro: D(sus2) G(7/D) D(sus2) E(/D) A(7)]
+[Z: D G(7/D), E(/D) A(7) D(sus2) E(/D) A(7) D(sus2)]
 
 
 
@@ -2421,27 +2410,27 @@ I'll see you on the dark side of the moon
 && Pink Floyd &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Em A(7) C(maj7) Hm(7) F(maj7) G D(7#9/7b9)]
+[0: Em A(7), C(maj7) Hm(7) F(maj7) G D(7#9/7b9)]
 
-[Verse: Em A(7)]
+[1: Em A(7)]
 Breathe, breathe in the air
 Don't be afraid to care
 Leave, don't leave me
 Look around and choose your own ground
 
-[Chorus: C(maj7) Hm(7) F(maj7) G D(7#9/7b9)]
+[R: C(maj7) Hm(7) F(maj7) G D(7#9/7b9)]
 Long you live and high you fly
 Smiles you'll give and tears you'll cry
 All you touch and all you see
 Is all your life will ever be
 
-[Verse: Em A(7)]
+[2: Em A(7)]
 Run, rabbit run
 Dig that hole, forget the sun
 And when at last the work is done
 Don't sit down, it's time to dig another one
 
-[Chorus: C(maj7) Hm(7) F(maj7) G D(7#9/7b9) Em]
+[R: C(maj7) Hm(7) F(maj7) G D(7#9/7b9) Em]
 Long you live and high you fly
 But only if you ride the tide
 Balanced on the biggest wave
@@ -2453,7 +2442,7 @@ You race towards an early grave
 && Van Morrison &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G C G D]
+[1: G C G D]
 Hey, where did we go?
 Days when the rains came
 Down in the hollow
@@ -2463,11 +2452,11 @@ Skipping and a jumping
 In the misty morning fog with
 Our, our hearts a thumpin' and
 
-[Chorus: C D(7) G Em C D(7) G D]
+[R: C D(7) G Em C D(7) G D]
 You, my brown-eyed girl
 And you, my brown-eyed girl
 
-[Verse: G C G D]
+[2: G C G D]
 And what ever happened
 To Tuesday and so slow?
 Going down the old mine
@@ -2477,7 +2466,7 @@ Hiding behind a rainbow's wall
 Slipping and sliding
 All along the waterfall, with
 
-[Chorus: C D(7) G Em C D(7) G C G D(7) G]
+[R: C D(7) G Em C D(7) G D(7) G C G D(7) G C G D(7) G]
 You, my brown-eyed girl
 You, my brown-eyed girl
 Do you remember when
@@ -2486,7 +2475,7 @@ Sha la la la la la la, la la la la de da
 Just like that, sha la la la la la la
 La la la la de da, la de da
 
-[Verse: G C G D]
+[3: G C G D]
 So hard to find my way
 Now that I'm all on my own
 I saw you just the other day
@@ -2496,7 +2485,7 @@ Sometimes I'm overcome thinking 'about it
 Making love in the green grass
 Behind the stadium with
 
-[Chorus: C D(7) G Em C D(7) G C G D(7)]
+[R: C D(7) G Em C D(7) G D(7) G C G D(7) G C G D(7) G C G D(7) G C G D(7)]
 You my brown-eyed girl
 And you, my brown-eyed girl
 Do you remember when
@@ -2679,46 +2668,46 @@ NE!
 && Elvis Presley &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D]
+[0: D]
 
-[Verse: D G A]
+[1: D G A]
 Lord Almighty, I feel my temperature rising
 Higher, higher, it's burning through to my soul
 Girl, girl, girl, you're gonna set me on fire
 My brain is flamin', I don't know which way to go, yeah
 
-[Chorus: Hm A G A D]
+[R: Hm A G, A D]
 Your kisses lift me higher
 Like the sweet song of a choir
 You light my morning sky
 With burning love
 
-[Verse: D G A]
+[2: D G A]
 Ooh hoo hoo, I feel my temperature rising
 Help me, I'm flamin', I must be a hundred and nine
 Burnin', burnin', burnin', and nothing can cool me, yeah
 I just might turn into smoke, but I feel fine
 
-[Chorus: Hm A G A D]
+[R: Hm A G, A D]
 'Cause your kisses lift me higher
 Like the sweet song of a choir
 And you light my morning sky
 With burning love
 
-[Verse: D G A]
+[3: D G A]
 It's coming closer, the flames are now licking my body
 Won't you help me? I feel like I'm slipping away
 It's hard to breathe, my chest is a-heavin', mmm, hmm
 Lord have mercy, I'm burning a hole where I lay, yeah
 
-[Chorus: Hm A G A D G]
+[R: Hm A G, A D G D G]
 Your kisses lift me higher
 Like the sweet song of a choir
 You light my morning sky
 With burning love
 With burning love
 
-[Outro: D G]
+[Z: D G]
 I'm just a hunka hunka burning love
 Just a hunka hunka burning love
 Just a hunka hunka burning love
@@ -2729,13 +2718,13 @@ Just a hunka hunka burning love
 && Omi &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: E H A]
+[1: E H A]
 When I need motivation, my one solution is my
 queen cause she' stay strong, yeah yeah
 She is always in my corner, right there when I want her
 All these other girls are tempting, but I'm empty when you're gone and they say
 
-[Verse: E A H A]
+[2+R+3-4: E A H A]
 Do you need me? Do you think I'm pretty?
 Do I make you feel like cheating and I'm like no, not really cause
 
@@ -2757,9 +2746,9 @@ She is always right there when I need her
 Oh, I think that I found myself a cheerleader
 She is always right there when I need her
 
-[Interlude: E A H A E H A]
+[I: E A H A, H A E H A E H A E H A]
 
-[Verse: E A H A]
+[5+R: E A H A]
 She gives me love and affection, baby did I mention
 you're the only girl for me, no I don't need a next one
 Mama loves you too, she thinks I made the right selection
@@ -2774,49 +2763,49 @@ She is always right there when I need her
 
 ## Chlorine ##
 && Twenty One Pilots &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Em]
+[0: Fm]
 So where are you? It's been a little while
 
-[Chorus: C G Am F C G Am]
+[R: C# G# A#m F# C# G# A#m]
 Sippin' on straight chlorine, let the vibes slide over me
 This beat is a chemical, beat is a chemical
 When I leave don't save my seat, I'll be back when it's all complete
 The moment is medical, moment is medical
 Sippin' on straight chlorine
 
-[Verse: C G Am]
+[1: C# G# A#m]
 Lovin' what I'm tastin'
 Venom on my tongue
 Dependant at times
 Poisonous vibration
 Help my body run
 
-[Verse: F Am G]
+[2: F# A#m G#]
 I'm runnin' for my li-I-I-I-I-I-I-ife
 Runnin' for my li-I-I-I-I-I-I-ife
 
-[Chorus: C G Am F C G Am]
+[R: C# G# A#m F# C# G# A#m]
 Sippin' on straight chlorine, let the vibes slide over me
 This beat is a chemical, beat is a chemical
 When I leave don't save my seat, I'll be back when it's all complete
 The moment is medical, moment is medical
 Sippin' on straight chlorine
 
-[Verse: C G Am]
+[3: C# G# A#m]
 Fall out of formation
 I plan my escape from walls they confined
 Rebel red carnation
 Grows while I decay
 
-[Verse: F Am G]
+[4: F# A#m G#]
 I'm runnin' for my li-I-I-I-I-I-I-ife
 Runnin' for my li-I-I-I-I-I-I-ife
 Yeah, I'm runnin' for my li-I-I-I-I-I-I-ife
 Runnin' for my li-I-I-I-I-I-I-ife
 
-[Verse: C G Am F]
+[5: C# G# A#m F#]
 Had you in my coat pocket, where I kept my rebel red
 I felt I was invincible, you wrapped around my head
 Now different lives I lead, my body lives on lead
@@ -2825,14 +2814,14 @@ But now you double as a papermaker
 I despise you sometimes
 I love to hate the fight and you in my life is like
 
-[Chorus: C G Am F C G Am]
+[R: C# G# A#m F# C# G# A#m]
 Sippin' on straight chlorine, let the vibes slide over me
 This beat is a chemical, beat is a chemical
 When I leave don't save my seat, I'll be back when it's all complete
 The moment is medical, moment is medical
 Sippin' on straight chlorine
 
-[Interlude: C G Am F C G Am C F Am G Am]
+[I: C# G# A#m F# C# G# A#m C# F# A#m G# A#m F# A#m G# A#m]
 Let the vibe, let the vibe
 Let the vibe, let the vibe
 Beat is a chemical, yeah
@@ -2847,13 +2836,13 @@ Let the vibe, let the vibe
 Let the vibe, let the vibe
 Moment is medical, yeah
 
-[Bridge: C G Am F Am G Am]
+[B: C# G# A#m F# A#m G# A#m]
 I'm so sorry, I forgot you
 Let me catch you up to speed
 I've been tested like the end of
 A weathered flag that's by the sea
 
-[Outro: F Am G Am]
+[Z: F# A#m G# A#m]
 Can you build my house with pieces?
 I'm just a chemical
 Can you build my house with pieces?
@@ -2869,9 +2858,9 @@ I'm just a chemical
 && Tomáš Klus &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Am]
+[0: Am]
 
-[Verse: Am Dm G C E]
+[1+R+2-3: Am Dm G C E]
 Na malý posteli, ukojen koitem
 po nočním veselí ještě pořád vidím dvojitě
 ale v tvým ranním útěku střízlivím bolestně
@@ -2952,68 +2941,68 @@ aby uschla na mých vlhkých dlaních
 
 ## Cleopatra ##
 && The Lumineers &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: G]
+[0: G#]
 
-[Verse: G D]
+[1: G# D#]
 I was Cleopatra, I was young and an actress
 When you knelt by my mattress, and asked for my hand
 But I was sad you asked it, as I laid in a black dress
 With my father in a casket, I had no plans
 
-[Interlude: G]
+[I: G#]
 
-[Verse: G C G D]
+[2: G# C# G# D#]
 And I left the footprints, the mud stained on the carpet
 And it hardened like my heart did when you left town
 But I must admit it, that I would marry you in an instant
 Damn your wife, I'd be your mistress just to have you around
 
-[Chorus: G D C]
+[R: G# D# C# G# C# G# D#]
 But I was late for this, late for that, late for the love of my life
 And when I die alone, when I die alone, when I die I'll be on time
 
-[Interlude: G]
+[I: G#]
 
-[Verse: G C G D]
+[3: G# C# G# D# G# C#]
 While the church discouraged, any lust that burned within me
 Yes my flesh, it was my currency, but I held true
 So I drive a taxi, and the traffic distracts me
 From the strangers in my backseat, they remind me of you
 
-[Chorus: G D C]
+[R: G# D# C# G# C# G# D#]
 But I was late for this, late for that, late for the love of my life
 And when I die alone, when I die alone, when I die I'll be on time
 
-[Bridge: Em G C D Em G Em C D G]
+[B: Fm G# C# D# Fm G# Fm C# D# G#]
 And the only gifts from my Lord were a birth and a divorce
 But I've read this script and the costume fits, so I'll play my part
 
-[Interlude: G]
+[I: G#]
 
-[Verse: G C G D]
+[4: G# C# G# D# G# C#]
 I was Cleopatra, I was taller than the rafters
 But that's all in the past now, gone with the wind
 Now a nurse in white shoes leads me back to my guestroom
 It's a bed and a bathroom
 And a place for the end
 
-[Chorus: G D C]
+[R: G# D# C# G# C# G# D#]
 I won't be late for this, late for that, late for the love of my life
 And when I die alone, when I die alone, when I die I'll be on time
 
-[Outro: D G]
+[Z: D# G#]
 
 
 
 ## Clocks ##
 && Coldplay &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Em]
+[0: Fm]
 
-[Verse: D Am Em(/G)]
+[1+R+2: D# A#m Fm(/G#)]
 Lights go out and I can't be saved, tides that I tried to swim against
 Brought me down upon my knees, oh I beg, I beg and plead singing
 Come out of the things unsaid, shoot an apple off my head and a
@@ -3030,15 +3019,15 @@ You are You are
 You are You are
 You are You are
 
-[Bridge: F(maj7) C G]
+[B: F#(maj7) C# G#]
 And nothing else compares
 Oh, nothing else compares
 And nothing else compares
 
-[Chorus: Em D Am]
+[R: Fm D# A#m]
 You are You are
 
-[Outro: D Am Em(/G)]
+[Z: D# A#m Fm(/G#), D# A#m Fm(/G#) D# A#m Fm]
 Home, home, where I wanted to go
 Home, home, where I wanted to go
 Home, home, where I wanted to go
@@ -3052,7 +3041,7 @@ You are
 && The Cure &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: H G#m F#]
+[1-2: H G#m F#]
 I've waited hours for this
 I've made myself so sick
 I wish I'd stayed
@@ -3068,13 +3057,13 @@ I make the shapes come much too close
 I pull my eyes out
 hold my breath and wait until I shake
 
-[Bridge: E H]
+[B: E H]
 But if I had your faith
 then I could make it safe and clean
 If only I was sure
 that my head on the door was a dream
 
-[Verse: H G#m F#]
+[3: H G#m F#]
 I've waited hours for this
 I've made myself so sick
 I wish I'd stayed asleep today
@@ -3082,7 +3071,7 @@ I never thought this day would end
 I never thought tonight could ever be
 this close to me
 
-[Bridge: E H]
+[B: E H]
 But if I had your face
 then I could make it safe and clean
 if only I was sure that my head on the door was a dream
@@ -3093,7 +3082,7 @@ if only I was sure that my head on the door was a dream
 && Pink Floyd &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Hm A G D(/F#) Em]
+[1-3: Hm A G D(/F#) Em]
 Hello?
 Is there anybody in there?
 Just nod if you can hear me.
@@ -3109,7 +3098,7 @@ I'll need some information first.
 Just the basic facts.
 Can you show me where it hurts?
 
-[Chorus: D A G(/H) C G]
+[R: D A D A G(/H) C G C G, A G(/H) C G D]
 There is no pain you are receding
 A distant ship smoke on the horizon.
 You are only coming through in waves.
@@ -3121,10 +3110,10 @@ I can't explain you would not understand
 This is not how I am.
 I have become comfortably numb.
 
-[Verse: A G(/H) C G D]
+[4: A G(/H) C G D]
 I have become comfortably numb.
 
-[Verse: Hm A G D(/F#) Em]
+[5-6: Hm A G D(/F#) Em]
 O.K.
 Just a little pinprick.
 There'll be no more, ah!
@@ -3135,7 +3124,7 @@ I do believe it's working, good.
 That'll keep you going through the show
 Come on it's time to go.
 
-[Chorus: D A G(/H) C G]
+[R: D A D A G(/H) C G C G, A G(/H) C G D]
 There is no pain you are receding
 A distant ship, smoke on the horizon.
 You are only coming through in waves.
@@ -3204,21 +3193,21 @@ I don't belong here
 
 ## Die With A Smile ##
 && Lady Gaga &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G(6) C(maj7)]
+[1: A(6) D(maj7)]
 I, I just woke up from a dream
 Where you and I had to say goodbye
 And I don't know what it all means
 But since I survived, I realised
 
-[Verse: G(6) Hm(7) E(sus4)]
+[2: A(6) C#m(7) F#(sus4)]
 Wherever you go, that's where I'll follow
 Nobody's promised tomorrow
 So I'ma love you every night like it's the last night
 Like it's the last night
 
-[Chorus: Am(7/7/D) Hm(7) Em Am(7/7/D) G(6) C(maj7)]
+[R: Hm(7/7/E) C#m(7) F#m, A(6) D(maj7)]
 If the world was ending,
 I'd wanna be next to you
 If the party was over
@@ -3228,19 +3217,19 @@ just for a while and die with a smile
 If the world was ending,
 I'd wanna be next to you
 
-[Verse: G(6) C(maj7)]
+[3: A(6) D(maj7)]
 Ooh, lost, lost in the words that we scream
 I don't even wanna do this anymore
 'Cause you already know what you mean to me
 And our love's the only war worth fighting for
 
-[Verse: G(6) Hm(7) E(sus4)]
+[4: A(6) C#m(7) F#(sus4)]
 Wherever you go, that's where I'll follow
 Nobody's promised tomorrow
 So I'ma love you every night like it's the last night
 Like it's the last night
 
-[Chorus: Am(7/7/D) Hm(7) Em Am(7/7/D) G(6) C(maj7)]
+[R: Hm(7/7/E) C#m(7) F#m, A(6) D(maj7)]
 If the world was ending,
 I'd wanna be next to you
 If the party was over
@@ -3250,15 +3239,15 @@ just for a while and die with a smile
 If the world was ending,
 I'd wanna be next to you
 
-[Chorus: G(6) C(maj7)]
+[R: A(6) D(maj7)]
 Right next to you
 Next to you
 Right next to you
 Oh-oh, oh
 
-[Interlude: Em]
+[I: F#m]
 
-[Chorus: Am(7/7/D) Hm(7) Em Am(7/7/D) G D(/F#) Em Hm(7) Am(7/7/D) G]
+[R: Hm(7/7/E) C#m(7) F#m, A E(/G#) F#m C#m(7) Hm(7/7/E) A Hm]
 If the world was ending,
 I'd wanna be next to you
 If the party was over
@@ -3269,11 +3258,11 @@ and die with a smile
 If the world was ending,
 I'd wanna be next to you
 
-[Chorus: Am(7/7/D) G(6)]
+[R: Hm(7/7/E) A(6)]
 If the world was ending,
 I'd wanna be next to you
 
-[Chorus: C(maj7) G(6)]
+[R: D(maj7) A(6)]
 Ooh
 I'd wanna be next to you
 
@@ -3283,33 +3272,33 @@ I'd wanna be next to you
 && The Beatles &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E(sus4)]
+[0: E(sus4)]
 
-[Verse: E(sus4) F#m(7) A(maj7)]
+[1: E(sus4) F#m(7) A(maj7)]
 Don't let me down Don't let me down
 Don't let me down Don't let me down
 
-[Verse: E(sus4) F#m(7)]
+[2: E(sus4) F#m(7)]
 Nobody ever loved me like she does, oo, she does, yes, she does
 And if somebody loved me like she do me, oo, she do me, yes, she does
 
-[Verse: E(sus4) F#m(7) A(maj7)]
+[3: E(sus4) F#m(7) A(maj7)]
 Don't let me down Don't let me down
 Don't let me down Don't let me down
 
-[Verse: E(sus4) H(7)]
+[4: E(sus4) H(7)]
 I'm in love for the first time, don't you know it's gonna last
 It's a love that lasts forever, it's a love that had no past
 
-[Verse: E(sus4) F#m(7) A(maj7)]
+[5: E(sus4) F#m(7) A(maj7)]
 Don't let me down Don't let me down
 Don't let me down Don't let me down
 
-[Verse: E(sus4) F#m(7)]
+[6: E(sus4) F#m(7)]
 And from the first time that she really done me, oo, she done me, she done me good
 I guess nobody ever really done me, like she done me, she does me good
 
-[Verse: E(sus4) F#m(7) A(maj7)]
+[7: E(sus4) F#m(7) A(maj7)]
 Don't let me down Don't let me down
 Don't let me down Don't let me down
 
@@ -3319,9 +3308,9 @@ Don't let me down Don't let me down
 && Oasis &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: C F]
+[0: C F]
 
-[Verse: C G Am E F G C Am G]
+[1: C G Am E F G C Am G]
 Slip inside the eye of your mind
 Don't you know you might find
 A better place to play
@@ -3329,7 +3318,7 @@ You said that you'd never been
 But all the things that you've seen
 Will slowly fade away
 
-[Verse: F Fm C G G#(/E) Am G(sus2) F(sus2) G(sus2)]
+[2: F Fm C, G G#(/E) Am G(sus2) F(sus2) G(sus2)]
 So I'll start a revolution from my bed
 'Cause you said the brains I had went to my head
 Step outside, the summertime's in bloom
@@ -3337,19 +3326,20 @@ Stand up beside the fireplace
 Take that look from off your face
 Cosyou ain't ever gonna burn my heart out
 
-[Chorus: C G Am E F G C Am G]
+[R: C G Am E F G C Am G C G Am E F G]
 So Sally can wait, she knows it's too late
 as she's walking on by
 Her soul slides away, "But don't look back in anger,"
 I heard you say
 
+[3: C G Am E F G C Am G]
 Take me to the place where you go
 Where nobody knows if it's night or day
 Please don't put your life in the hands
 Of a Rock 'n' Roll band
 Who'll throw it all away
 
-[Verse: F Fm C G G#(/E) Am G(sus2) F(sus2) G(sus2)]
+[4: F Fm C, G G#(/E) Am G(sus2) F(sus2) G(sus2)]
 Gonna I'll start a revolution from my bed
 'Cause you said the brains I had went to my head
 Step outside, cause summertime's in bloom
@@ -3357,13 +3347,13 @@ Stand up beside the fireplace
 Take that look from off your face
 Cosyou ain't ever gonna burn my heart out
 
-[Chorus: C G Am E F G C Am G]
+[R: C G Am E F G C Am G C G Am E F G]
 So Sally can wait, she knows it's too late
 as she's walking on by
 Her soul slides away, "But don't look back in anger,"
 I heard you say
 
-[Chorus: C G Am E F G C Am G C G Am F Fm]
+[R: C G Am E F G C Am G C G Am F Fm]
 So Sally can wait, she knows it's too late
 as she's walking on by
 My soul slides away
@@ -3376,43 +3366,43 @@ I heard you say,
 
 ## Don't Stop Believin' ##
 && Journey &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 4 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C(/G) G Am F]
+[0: E(/H) H C#m A]
 
-[Verse: C(/G) G Am F C(/G) G Em F]
+[1-2: E(/H) H C#m A E(/H) H G#m A]
 Just a small town girl, living in a lonely world
 She took the midnight train going anywhere
 
 Just a city boy, born and raised in south Detroit
 He took the midnight train going anywhere
 
-[Interlude: C(/G) G Am F]
+[I: E(/H) H C#m A]
 
-[Verse: C(/G) G Am F C(/G) G Em F]
+[3: E(/H) H C#m A E(/H) H G#m A]
 A singer in a smoky room, a smell of wine and cheap perfume
 For a smile they can share the night, it goes on and on and on and on
 
-[Chorus: F G Am G]
+[R: A H, C#m H]
 Strangers waiting up and down the boulevard
 Their shadows searching in the night
 Streetlight, people, living just to find emotion
 Hiding, somewhere in the night
 
-[Verse: C(/G) G Am F C(/G) G Em F]
+[4-5: E(/H) H C#m A E(/H) H G#m A]
 Working hard to get my fill, everybody wants a thrill
 Paying anything to roll the dice, just one more time
 
 Some will win, some will lose, some were born to sing the blues
 Oh, the movie never ends; it goes on and on and on and on
 
-[Chorus: F G Am G]
+[R: A H, C#m H]
 Strangers waiting up and down the boulevard
 Their shadows searching in the night
 Streetlight, people, living just to find emotion
 Hiding, somewhere in the night
 
-[Outro: C(/G) G Am F C(/G) G Em F]
+[Z: E(/H) H C#m A E(/H) H G#m A]
 Don't stop believing hold on to the feeling
 Streetlight people
 Don't stop believing hold on to the feeling
@@ -3426,78 +3416,78 @@ Streetlight people
 && Queen &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: F Am Dm Gm C F(7) A# Gm(7) D(7) Gm F C Gm F(/G) Gm(7) C Dm(7/C) C(7)]
+[0: F Am Dm Gm C F(7) A# Gm(7) D(7) Gm F C Gm F C Gm F(/G) Gm(7) C Dm(7/C) C(7)]
 Tonight I’m gonna have myself a real good time, I feel alive
 And the world, I’ll turn it inside out yeah, I'm floating around in ecstasy
 So don’t stop me now, don’t stop me
 Cause I’m having a good time, having a good time
 
-[Verse: F Am Dm Gm C]
+[1: F Am Dm Gm C]
 I’m a shooting star leaping through the sky, like a tiger
 Defying the laws of gravity
 I’m a racing car passing by, like Lady Godiva
 I’m gonna go, go, go, there’s no stopping me
 
-[Verse: F(7) A# Gm(7) D(7) Gm(7) F(/A) A# H(dim) C Gm(7) F(/A) A# H(dim)]
+[2: F(7) A# Gm(7) D(7) Gm D(7) Gm(7) F(/A) A# H(dim) C Gm(7) F(/A) A# H(dim)]
 I’m burning through the sky yeah, two hundred degrees
 That’s why they call me Mr. Fahrenheit
 I’m travelling at the speed of light
 (no3)
 I wanna make a supersonic man out of you
 
-[Chorus: F Gm Am Dm Gm(7) C F Gm Am Dm Gm(7) D(7) Gm(7) F C Gm C G#(6/A#)]
+[R: F Gm Am Dm Gm(7) C F Gm Am Dm Gm(7) D(7) Gm F C Gm(7) F C Gm C G#(6/A#)]
 Don’t stop me now, I’m having such a good time, I’m having a ball
 Don’t stop me now, if you wanna have a good time, just give me a call
 Don’t stop me now, cause I’m having a good time
 Don’t stop me now, yes I’m having a good time
 I don’t wanna stop at all
 
-[Verse: F Am Dm Gm C F Am Dm Gm F(/G) Gm(7) C Dm(7/C) C(7)]
+[3: F Am Dm Gm C F Am Dm Gm F(/G) Gm(7) C Dm(7/C) C(7)]
 I’m a rocket ship on my way to Mars, on a collision course
 I’m a satellite, I’m out of control
 I’m a sex machine ready to reload, like an atom bomb
 About to oh, oh, oh, oh, oh explode
 
-[Verse: F(7) A# Gm(7) D(7) Gm(7) F(/A) A# H(dim) C Gm(7) F(/A) A# H(dim)]
+[4: F(7) A# Gm(7) D(7) Gm D(7) Gm(7) F(/A) A# H(dim) C Gm(7) F(/A) A# H(dim)]
 I’m burning through the sky yeah, two hundred degrees
 That’s why they call me Mr. Fahrenheit
 I’m travelling at the speed of light
 (no3)
 I wanna make a supersonic woman of you
 
-[Bridge: Gm F C]
+[B: Gm F C Gm F, C Gm F C Gm]
 Don’t stop me, don’t stop me, don’t stop me (hey, hey, hey)
 Don’t stop me, don’t stop me (ooh, ooh, ooh)
 Don’t stop me, don’t stop me (have a good time, good time)
 Don’t stop me, don’t stop me (woooaaaawwwww)
 
-[Solo: F Am Dm Gm C]
+[S: F Am Dm Gm C]
 
-[Verse: F(7) A# Gm(7) D(7) Gm(7) F(/A) A# H(dim) C Gm(7) F(/A) A# H(dim)]
+[5: F(7) A# Gm(7) D(7) Gm D(7) Gm(7) F(/A) A# H(dim) C Gm(7) F(/A) A# H(dim)]
 Whoa, I’m burning through the sky yeah, two hundred degrees
 That’s why they call me Mr. Fahrenheit
 Travelling at the speed of light
 (no3)
 I wanna make a supersonic man out of you
 
-[Chorus: F Gm Am Dm Gm(7) C F Gm Am Dm Gm(7) D(7) Gm(7) F C Gm C G#(6/A#)]
+[R: F Gm Am Dm Gm(7) C F Gm Am Dm Gm(7) D(7) Gm F C Gm(7) F C Gm C G#(6/A#)]
 Don’t stop me now, I’m having such a good time, I’m having a ball
 Don’t stop me now, if you wanna have a good time, just give me a call
 Don’t stop me now, cause I’m having a good time
 Don’t stop me now, yes I’m having a good time
 I don’t wanna stop at all
 
-[Outro: F Am Dm Gm C F(7) A# Gm(7)]
+[Z: F Am Dm Gm C F(7) A# Gm(7)]
 
 
 
 ## Dreamer ##
 && Ozzy Osbourne &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C]
+[0: C#]
 
-[Verse: C Am F Dm G(sus4)]
+[1: C# A#m C# A#m F# D#m G#(sus4)]
 Gazing through the window at the world outside
 Wondering will mother earth survive
 Hoping that mankind will stop abusing her, sometime
@@ -3505,38 +3495,38 @@ After all there's only just the two of us
 And here we are still fighting for our lives
 Watching all of history repeat itself, time after time
 
-[Chorus: C Am Em G(sus4)]
+[R: C# A#m Fm G#(sus4)]
 I'm just a dreamer
 I dream my life away
 I'm just a dreamer
 Who dreams of better days
 
-[Verse: C Am F Dm G(sus4)]
+[2: C# A#m, F# D#m G#(sus4)]
 I watch the sun go down like everyone of us
 I'm hoping that the dawn will bring a sign
 A better place for those Who will come after us, this time
 
-[Chorus: C Am Em G(sus4)]
+[R: C# A#m Fm G#(sus4)]
 I'm just a dreamer
 I dream my life away
 I'm just a dreamer
 Who dreams of better days
 
-[Bridge: Dm G(sus4)]
+[B: D#m G#(sus4)]
 Your higher power may be God or Jesus Christ
 It doesn't really matter much to me
 Without each others help there ain't no hope for us
 I'm living in a dream of fantasy,
 oh yeah, yeah, yeah
 
-[Solo: C(5/6/7) Am Em G(/H/sus4)]
+[S: C# A#m, Fm G#(/C/sus4) C#(5/6/7)]
 
-[Verse: C Am F Dm G(sus4)]
+[3: C# A#m, F# D#m G#(sus4)]
 If only we could all just find serenity
 It would be nice if we could live as one
 When will all this anger, hate and bigotry, be gone?
 
-[Chorus: C Am Em G(sus4)]
+[R: C# A#m Fm G#(sus4)]
 I'm just a dreamer
 I dream my life away, today
 I'm just a dreamer
@@ -3546,15 +3536,15 @@ Who's searching for the way, today
 I'm just a dreamer
 Dreaming my life away, oh yeah, yeah, yeah
 
-[Outro: C(5/6/7)]
+[Z: C#(5/6/7)]
 
 
 
 ## Dreams ##
 && The Cranberries &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: D G A]
+[1: E A H]
 Oh, my life is changing every day
 Every possible way
 And oh, my dreams, it's never quite as it seems
@@ -3566,9 +3556,9 @@ Then I open up and see
 The person falling here is me
 A different way to be
 
-[Interlude: F A#]
+[I: G C]
 
-[Verse: D G A]
+[2+Z: E A H]
 I want more, impossible to ignore
 Impossible to ignore
 They'll come true, impossible not to do
@@ -3590,9 +3580,9 @@ Dream to me
 
 ## Dvakrát ##
 && Vlasta Redl &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: E A]
+[1-2: F A#]
 Dvakrát dvě deci přede mě postavil pán
 musel si přeci všimnout že jsem tu sám
 dvakrát se uklonil, dvakrát poděkoval
@@ -3603,39 +3593,39 @@ ještě že na dvojitý Nelson dvakrát se neumírá
 od stolů vstávají ti, co tu nejsou sami
 tak proč stojíš u mě dívenko s květinami
 
-[Verse: E A H(7)]
+[3: F A#, C(7) F A# C(7) F A# C(7) F]
 Holky rty špulí na stébla v citrokolách
 všechny jsou v stejném, copánky, mašle, volán
 všechny si naráz dávaj hádat z dlaně
 ta, co je nejblíž, vypadá odhodlaně
 
-[Chorus: A(/E//G//F#) D(/C) H(/A//F#//G#) E(/D) A(/C#) F# H]
+[R: A#(/F//G//G#) D#(/C#) C(/A//G//A#) F(/D#) A#(/D) G C]
 A tak provlékám skrz to hluché
 velblouda i jehlu uchem
 to jsem netušil, že je to tak
 náramně jednoduché
 
-[Verse: E(/G#) A(/H)]
+[4: F(/A) A#(/C)]
 To je ta pravá chvíle pro autogramy
 plaše se sklání a voní fialkami
 raději jděte mi z očí, tajemná Eurydiko
 nějak dnes nesnáším pohled na krev a mlíko
 
-[Interlude: E A H(sus4) E(/G#) F#m(/C#) A H C#m(/H)]
+[I: F(/A) A# C(sus4), Gm(/D) A# C Dm(/C)]
 
-[Verse: E(/G#) A(/H)]
+[5: F(/A) A#(/C)]
 Samoto, samoto laskavá domovino
 syn se ti vrátil, tak ještě dvakrát víno
 ať ještě chvíli je všechno tak hezky sudé
 ať se smím loudat pár kroků za osudem
 
-[Chorus: E(/D) A(/G) D(/C) H(/A//G//F#) E(/D) A(/C#) F#(/A#) H A F#m(7)]
+[R: F(/D#) A#(/G#) D#(/C#) C(/G//A#//G#) F(/D#) A#(/D) G(/H) C A# Gm(7)]
 A ona ať oči klopí
 ať se v těch hlubinách neutopím
 kéž bych tak neviděl a neslyšel
 co nikdy nikdy nepochopíííím
 
-[Verse: E]
+[6: F]
 Ještě se třpytí jak slza na kameni
 a už tu není, zmizela bez loučení
 ani ten v černém dvakrát si neví rady
@@ -3645,9 +3635,9 @@ pán si přál platit? Zvlášť nebo dohromady?
 
 ## Easy On Me ##
 && Adele &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 5 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: C Am(7) Em F(maj7) G]
+[1: F Dm(7) Am A#(maj7) C]
 There ain't no gold in this river
 That I've been washing my hands in forever
 I know there is hope in these waters
@@ -3655,7 +3645,7 @@ But I can't bring myself to swim
 When I am drowning in this silence
 Baby, let me in
 
-[Chorus: G C Am(7) G Em Dm(7) C F(maj7) C Am(7) Em F(maj7)]
+[R: C F Dm(7) C Am Gm(7) F A#(maj7), F Dm(7) Am A#(maj7)]
 Go easy on me, baby
 I was still a child
 Didn’t get the chance to
@@ -3664,7 +3654,7 @@ I had no time to choose
 What I chose to do
 So go easy on me
 
-[Verse: G C Am(7) Em F(maj7)]
+[2: C F Dm(7) Am A#(maj7)]
 There ain't no room
 For things to change
 When we are both so deeply
@@ -3675,7 +3665,7 @@ I changed who I was
 To put you both first
 But now I give up
 
-[Chorus: G C Am(7) G Em Dm(7) C F(maj7) C Am(7) Em F(maj7)]
+[R: C F Dm(7) C Am Gm(7) F A#(maj7) F Dm(7) C Am Gm(7) F A#(maj7) F Dm(7) Am A#(maj7)]
 Go easy on me, baby
 I was still a child
 Didn’t get the chance to
@@ -3684,13 +3674,13 @@ I had no time to choose
 What I chose to do
 So go easy on me
 
-[Bridge: C Am(7) Em F(maj7)]
+[B: F Dm(7) Am A#(maj7)]
 I had good intentions
 And the highest hopes
 But I know right now
 It probably doesn't even show
 
-[Outro: G C Am(7) G Em Dm(7) C F(maj7) C Am(7) Em F(maj7)]
+[Z: C F Dm(7) C Am Gm(7) F A#(maj7) F Dm(7) C Am Gm(7) F A#(maj7) F Dm(7) Am A#(maj7)]
 Go easy on me, baby
 I was still a child
 Didn’t get the chance to
@@ -3705,7 +3695,7 @@ So go easy on me
 && Sting &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Em A Hm A]
+[1+R+2: Em A Hm A]
 I don't drink coffee I take tea my dear
 I like my toast done on one side
 And you can hear it in my accent when I talk
@@ -3730,13 +3720,13 @@ I'm an Englishman in New York Woo-ooh
 I'm an alien I'm a legal alien
 I'm an Englishman in New York
 
-[Bridge: D A Hm F# G A A#(dim7) Hm]
+[B: D A Hm F# G A A#(dim7) Hm]
 Modesty, propriety can lead to notoriety
 You could end up as the only one
 Gentleness, sobriety are rare in this society
 At night a candle's brighter than the sun
 
-[Verse: Em A Hm A]
+[3+R: Em A Hm A]
 Takes more than combat gear to make a man
 Takes more than a license for a gun
 Confront your enemies, avoid them when you can
@@ -3757,51 +3747,51 @@ I'm an Englishman in New York
 && The Police &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: A F#m D E]
+[0: A F#m D E]
 
-[Verse: A F#m D E F#m]
+[1: A F#m D E F#m]
 Every breath you take
 Every move you make
 Every bond you break
 Every step you take
 I'll be watching you
 
-[Verse: A F#m D E]
+[2: A F#m D E]
 Every single day
 Every word you say
 Every game you play
 Every night you stay
 I'll be watching you
 
-[Chorus: A D(sus2/H) A H E]
+[R: A D(sus2/H) A H E]
 Oh, can't you see
 You belong to me
 How my poor heart aches
 With every step you take
 
-[Verse: A F#m D E F#m]
+[3: A F#m D E F#m]
 Every move you make
 Every vow you break
 Every smile you fake
 Every claim you stake
 I'll be watching you
 
-[Bridge: F G]
+[B: F G]
 Since you've gone I've been lost without a trace
 I dream at night I can only see your face
 I look around but its you I can't replace
 I feel so cold and I long for your embrace
 I keep crying baby, baby, please
 
-[Interlude: A F#m D E F#m A F#m D E]
+[I: A F#m D E F#m A F#m D E]
 
-[Chorus: A D(sus2/H) A H E]
+[R: A D(sus2/H) A H E]
 Oh, can't you see
 You belong to me
 How my poor heart aches
 With every step you take
 
-[Verse: A F#m D E F#m]
+[4: A F#m D E F#m D E F#m]
 Every move you make
 Every vow you break
 Every smile you fake
@@ -3811,13 +3801,13 @@ Every move you make
 Every step you take
 I'll be watching you
 
-[Outro: A F#m D]
+[Z: A F#m D]
 I'll be watching you
 I'll be watching you
 I'll be watching you
 I'll be watching you
 
-[Outro: D A F#m]
+[Z: D A F#m]
 
 
 
@@ -3825,52 +3815,52 @@ I'll be watching you
 && R.E.M. &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: G D]
+[0: G D]
 
-[Verse: D G(/F#)]
+[1: D G(/F#)]
 When your day is long and the night
 The night is yours alone
 When you're sure you've had enough
 Of this life, hang on
 
-[Chorus: Em A(sus2) D G D]
+[R: Em A(sus2), D G D G D]
 Don't let yourself go
 'Cause everybody cries
 And everybody hurts sometimes
 Sometimes everything is wrong
 Now it's time to sing along
 
-[Verse: D G(/F#)]
+[2: D G(/F#)]
 When your day is night alone
 If you feel like letting go
 If you think you've had too much
 Of this life, well, hang on
 
-[Chorus: Em A(sus2)]
+[R: Em A(sus2)]
 'Cause everybody hurts
 Take comfort in your friends
 Everybody hurts
 
-[Bridge: F# Hm(/F#) G(sus4) Am]
+[B: F# Hm(/F#), G(sus4) Am]
 Don't throw your hand
 Oh, no
 Don't throw your hand
 If you feel like you're alone
 No, no, no, you're not alone
 
-[Verse: D G(/F#)]
+[3: D G(/F#)]
 If you're on your own in this life
 The days and nights are long
 When you think you've had too much
 Of this life to hang on
 
-[Chorus: Em A(sus2) D G]
+[R: Em A(sus2), D G D G]
 Well, everybody hurts sometimes
 Everybody cries
 Everybody hurts sometimes
 And everybody hurts sometimes
 
-[Outro: D G]
+[Z: D G]
 So, hold on, hold on
 Hold on, hold on, hold on,
 Hold on, hold on, hold on
@@ -3881,11 +3871,11 @@ You are not alone
 
 ## Eye Of The Tiger ##
 && Survivor &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Am G Am Em F]
+[0: Cm A# Cm A# Cm Gm G#]
 
-[Verse: Am F G]
+[1: Cm G# A#]
 Risin' up, back on the street,
 Did my time, took my chances.
 Went the distance, now I'm back on my feet,
@@ -3895,37 +3885,37 @@ You change your passion for glory
 Don't lose your grip on the dreams of the past,
 You must fight just to keep them alive:
 
-[Chorus: G Am Dm C G Dm Am G Dm C G F Am]
+[R: A# Cm Fm D# A# Fm Cm A# Fm D# A# G# Cm]
 It's the eye of the tiger, it's the thrill of the fight
 Rising up to the challenge of our rival.
 And the last known survivor stalks his prey in the night,
 And he's watching us all with the eye of the tiger.
 
-[Verse: Am F G]
+[2: Cm G# A#]
 Face to face, out in the heat,
 Hangin' tough, stayin' hungry.
 They stack the odds, still we take to the street,
 For the kill with the skill to survive.
 
-[Chorus: G Am Dm C G Dm Am G Dm C G F Am]
+[R: A# Cm Fm D# A# Fm Cm A# Fm D# A# G# Cm]
 It's the eye of the tiger, it's the thrill of the fight
 Rising up to the challenge of our rival.
 And the last known survivor stalks his prey in the night,
 And he's watching us all with the eye of the tiger.
 
-[Verse: Am F G]
+[3: Cm G# A#]
 Risin' up, straight to the top,
 Had the guts, got the glory.
 Went the distance, now I'm not gonna stop,
 Just a man and his will to survive.
 
-[Chorus: G Am Dm C G Dm Am G Dm C G F Am]
+[R: A# Cm Fm D# A# Fm Cm A# Fm D# A# G# Cm]
 It's the eye of the tiger, it's the thrill of the fight
 Rising up to the challenge of our rival.
 And the last known survivor stalks his prey in the night,
 And he's watching us all with the eye of the tiger.
 
-[Outro: Am G Am Em F]
+[Z: Cm A# Cm A# Cm Gm G#]
 The eye of the tiger
 The eye of the tiger
 The eye of the tiger
@@ -3937,46 +3927,46 @@ The eye of the tiger
 && Buffalo Springfield &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: E A]
+[1: E A]
 There's somethin' happenin' here.
 What it is ain't exactly clear.
 There's a man with a gun over there
 A-tellin' me I've got to beware.
 
-[Chorus: E D A(7) E A]
+[R: E D A(7) E A E A]
 I think it's time we stop.
 Children, what's that sound?
 Everybody look what's goin' down.
 
-[Verse: E A]
+[2: E A]
 There's battle lines bein' drawn.
 Nobody's right if everybody's wrong.
 Young people speakin' their minds
 A-gettin' so much resistance from behind.
 
-[Chorus: E D A(7) E A]
+[R: E D A(7) E A E A]
 It's time we stop.
 Hey, what's that sound?
 Everybody look what's goin' down.
 
-[Verse: E A G]
+[3: E A G]
 What a field day for the heat.
 A thousand people in the street
 Singin' songs and a-carryin' signs
 Mostly sayin' hooray for our side.
 
-[Chorus: E D A(7) E A]
+[R: E D A(7) E A E A]
 It's time we stop.
 Hey, what's that sound?
 Everybody look what's goin' down.
 
-[Verse: E A]
+[4: E A]
 Paranoia strikes deep.
 Into your life it will creep.
 It starts when you're always afraid.
 Step out of line, the men come and take you away.
 
-[Chorus: E D A(7)]
+[R: E D A(7)]
 You better stop.
 Hey, what's that sound?
 Everybody look what's goin'
@@ -3996,33 +3986,33 @@ Everybody look what's goin'
 && Creedence Clearwater Revival &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G F C]
+[1: G F C]
 Some folks are born, made to wave the flag
 Ooh, they're red, white and blue
 And when the band plays hail to the chief
 Ooh, they point the cannon at you, y'all
 
-[Chorus: G D C]
+[R: G D C]
 It ain't me, it ain't me, I ain't no senator's son, y'all
 It ain't me, it ain't me, I ain't no fortunate one, no
 
-[Verse: G F C]
+[2: G F C]
 Some folks are born, silver spoon in hand
 Lord, don't they help themselves, y'all
 But when the tax man comes to the door
 Lord, the house looks like a rummage sale, yeah
 
-[Chorus: G D C]
+[R: G D C]
 It ain't me, it ain't me, I ain't no millionaire's son, no
 It ain't me, it ain't me, I ain't no fortunate one, no
 
-[Verse: G F C]
+[3: G F C]
 Some folks inherit star-spangled eyes
 Ooh, they send you down to war, Lord
 And when you ask 'em, "How much should we give?"
 They only answer, "More! More! More!", yoh
 
-[Chorus: G D C]
+[R: G D C]
 It ain't me, it ain't me, I ain't no military son, son
 It ain't me, it ain't me, I ain't no fortunate one, no
 It ain't me, it ain't me, I ain't no fortunate one, no no no
@@ -4034,9 +4024,9 @@ It ain't me, it ain't me, I ain't no fortunate son, no no no
 && T. Rex &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E]
+[0: E]
 
-[Verse: E A]
+[1-2: E A]
 Well you're dirty and sweet clad in black
 Don't look back, and I love you
 You're dirty and sweet oh yea
@@ -4045,11 +4035,11 @@ Well you're slim and you're weak
 You got the teeth of the Hydra u-pon you
 You're dirty sweet and you're my girl
 
-[Chorus: G A E]
+[R: G A E]
 Get it on Bang a gong Get it on
 Get it on Bang a gong Get it on
 
-[Verse: E A]
+[3-4: E A]
 Well you're built like a car
 You got a hubcap diamond star halo
 You're built like a car Oh yeah
@@ -4058,11 +4048,11 @@ You're an untamed youth
 That's the truth, with your cloak full of eagles
 You're dirty sweet and you're my girl
 
-[Chorus: G A E]
+[R: G A E]
 Get it on Bang a gong Get it on
 Get it on Bang a gong Get it on
 
-[Verse: E A]
+[5-6: E A]
 Well you're windy and wild
 You got the blues in your shoes and your stockings
 You're windy and wild Oh yeah
@@ -4071,15 +4061,15 @@ Well you're built like a car
 You got a hubcap diamond star halo
 You're dirty sweet and you're my girl
 
-[Chorus: G A E]
+[R+7: G A E]
 Get it on Bang a gong Get it on
 Get it on Bang a gong Get it on
 
 Turnaround
 
-[Verse: E]
+[7: E]
 
-[Verse: E A]
+[8-9: E A]
 Well you're dirty and sweet Clad in black
 Don't look back, and I love you
 You're dirty and sweet oh yea
@@ -4088,16 +4078,16 @@ Well you dance when you walk
 So lets dance take a chance under-stand you
 You're dirty sweet and you're my girl
 
-[Chorus: G A E]
+[R+10: G A E]
 Get it on Bang a gong Get it on
 Get it on Bang a gong Get it on
 Get it on Bang a gong Get it on
 
 Turnaround
 
-[Verse: E]
+[10: E]
 
-[Verse: G A E]
+[11: G A E]
 Get it on Bang a gong Get it on
 Get it on Bang a gong Get it on
 Get it on Bang a gong Get it on
@@ -4106,12 +4096,12 @@ Get it on Bang a gong Get it on
 
 ## Girl You'll Be A Woman Soon ##
 && Urge Overkill &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E(5) A(5) D Em]
+[0: G(5) C(5) F Gm]
 Girl, you'll be a woman soon
 
-[Verse: Em D C]
+[1: Gm F, D#]
 I love you so much can't count all the ways
 I've died for you girl and all they can say is
 "He's not your kind"
@@ -4121,13 +4111,13 @@ What I'm gonna find
 Don't let them make up your mind,
 don't you know
 
-[Chorus: E(5) A(5) D Em]
+[R: G(5) C(5) F Gm G(5) C(5) F]
 Girl, you'll be a woman soon
 Please come take my hand
 Girl, you'll be a woman soon
 Soon, you'll need a man
 
-[Verse: Em D C]
+[2: Gm F, D#]
 I've been misunderstood for all of my life
 But what they're sayin', girl, it cuts like a knife
 "The boy's no good"
@@ -4137,15 +4127,15 @@ Surely would
 Baby I've done all I could,
 now it's up to you
 
-[Chorus: E(5) A(5) D Em]
+[R: G(5) C(5) F Gm G(5) C(5) F]
 Girl, you'll be a woman soon
 Please come take my hand
 Girl, you'll be a woman soon
 Soon, you'll need a man
 
-[Interlude: C Em C H(7/7sus4)]
+[I: D# Gm D# D(7/7sus4)]
 
-[Outro: E(5) A(5) D Em]
+[Z: G(5) C(5) F Gm G(5) C(5) F]
 Girl, you'll be a woman soon
 Please come take my hand
 Girl, you'll be a woman soon
@@ -4220,9 +4210,9 @@ mo goralka z przodu z tyłu, podzielicie się!
 && Creedence Clearwater Revival &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am F(/C) C G C]
+[0: Am F(/C) C G C]
 
-[Verse: C G]
+[1-2: C G]
 Someone told me long ago
 There's a calm before the storm,
 I know; it's been coming for some time.
@@ -4231,14 +4221,14 @@ When it's over, so they say
 It'll rain a sunny day,
 I know; shining down like water.
 
-[Chorus: F G C(/H) Am C(/G)]
+[R: F G C(/H) Am C(/G)]
 I want to know,
 have you ever seen the rain?
 I want to know,
 have you ever seen the rain
 Coming down on a sunny day?
 
-[Verse: C G]
+[3-4: C G]
 Yesterday, and days before,
 Sun is cold and rain is hard,
 I know; been that way for all my time.
@@ -4247,7 +4237,7 @@ I know; been that way for all my time.
 Through the circle, fast and slow,
 I know; it can't stop, I wonder.
 
-[Chorus: F G C(/H) Am C(/G)]
+[R: F G C(/H) Am C(/G)]
 I want to know,
 have you ever seen the rain?
 I want to know,
@@ -4267,47 +4257,47 @@ Coming down on a sunny day?
 && The Beatles &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Chorus: A D H(7)]
+[R: A D H(7)]
 Here comes the sun do do do do
 Here comes the sun and I say
 It' s allright
 
-[Verse: A D E(7)]
+[1: A D E(7)]
 Little darling
 It' s been a long cold lonely winter
 Little darling
 It feels like years since it´s been here
 
-[Chorus: A D H(7)]
+[R: A D H(7)]
 Here comes the sun do do do do
 Here comes the sun and I say
 It' s allright
 
-[Verse: A D E(7)]
+[2: A D E(7)]
 Little darling
 The smiles returing to the faces
 Little darling
 It seems like years since it´s been here
 
-[Chorus: A D H(7)]
+[R: A D H(7)]
 Here comes the sun do do do do
 Here comes the sun and I say
 It' s allright
 
-[Bridge: C G D(7//F#) A E(7/7sus4)]
+[B: C G D(7//F#) A E(7/7sus4)]
 Sun sun sun here it comes
 Sun sun sun here it comes
 Sun sun sun here it comes
 Sun sun sun here it comes
 Sun sun sun here it comes
 
-[Verse: A D E(7)]
+[3: A D E(7)]
 Little darling
 I feel that ice is slowly melting
 Little darling
 it seems like years since it's been clear
 
-[Chorus: A D H(7)]
+[R: A D H(7)]
 Here comes the sun do do do do
 Here comes the sun and I say
 It' s all right
@@ -4315,7 +4305,7 @@ Here comes the sun do do do do
 Here comes the sun and I say
 It' s allright
 
-[Outro: A]
+[Z: A]
 It's allright
 
 
@@ -4324,38 +4314,38 @@ It's allright
 && David Bowie &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D G]
+[0: D G]
 
-[Verse: D G C D Am Em D C G]
+[1: D G, C D Am Em D C G D]
 I I wish you could swim
 Like the dolphins like dolphins can swim
 Though nothing nothing will keep us together
 We can beat them forever and ever
 Oh we can be Heroes just for one day
 
-[Interlude: D G]
+[I: D G]
 
-[Verse: D G C D Am Em D C G]
+[2: D G, C D Am Em D C G D]
 I I will be King
 And you you will be Queen
 For nothing will drive them away
 We can be Heroes - just for one day
 We can be us - just for one day
 
-[Verse: D G]
+[3: D G]
 I I can remember (I remember)
 Standing by the wall (By the wall)
 And the guards shot above our heads (Over our heads)
 And we kissed as though nothing would fall (Nothing could fall)
 
-[Bridge: C D Am Em D C G D]
+[B: C D Am Em D C G D]
 And the shame was on the other side
 Oh we can beat them forever and ever
 Then we can be Heroes just for one day
 
-[Interlude: D G]
+[I: D G]
 
-[Outro: D G D Am(7) Em D C G]
+[Z: D G, Am(7) Em D C G D G]
 We can be Heroes
 We can be Heroes
 We can be Heroes just for one day
@@ -4367,9 +4357,9 @@ We can be Heroes
 
 ## Hey Jude ##
 && The Beatles &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 5 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: C G(7) C F]
+[1-2: F C(7) F A#]
 Hey Jude, don't make it bad
 Take a sad song and make it better
 Remember to let her into your heart
@@ -4380,34 +4370,34 @@ You were made to go out and get her
 The minute you let her under your skin
 Then you begin to make it better
 
-[Chorus: C(7) F Am(/E) Dm G(7) C(7) G(7)]
+[R: F(7) A# Dm(/A) Gm C(7), C(7)]
 And anytime you feel the pain, hey Jude, refrain
 Don't carry the world upon your shoulders
 For well you know that it's a fool who plays it cool
 By making his world a little colder
 Nah nah nah nah nah nah nah nah nah
 
-[Verse: C G(7) C F]
+[3: F C(7) F A#]
 Hey Jude, don't let me down
 You have found her, now go and get her
 Remember to let her into your heart
 Then you can start to make it better
 
-[Chorus: C(7) F Am(/E) Dm G(7) C(7) G(7)]
+[R: F(7) A# Dm(/A) Gm C(7), C(7)]
 So let it out and let it in, hey Jude, begin
 You're waiting for someone to perform with
 And don't you know that it's just you, hey Jude, you'll do
 The movement you need is on your shoulder
 Nah nah nah nah nah nah nah nah nah yeah
 
-[Verse: C G(7) C F]
+[4: F C(7) F A#]
 Hey Jude, don't make it bad
 Take a sad song and make it better
 Remember to let her into your heart
 Then you can start to make it better
 Better better better better better better, oh
 
-[Outro: C A# F]
+[Z: F D# A#]
 Nah nah nah nah nah nah, nah nah nah, hey Jude
 Nah nah nah nah nah nah, nah nah nah, hey Jude
 Nah nah nah nah nah nah, nah nah nah, hey Jude
@@ -4419,9 +4409,9 @@ Nah nah nah nah nah nah, nah nah nah, hey Jude
 && Pink Floyd &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Em Dm]
+[0: Em Dm]
 
-[Verse: Em Hm D G D C Hm Am Em Dm]
+[1-2: Em Hm, D G D C Hm Am Em Dm]
 Hey you out there in the cold
 getting lonely, getting old, can you feel me
 hey you standing in the aisles
@@ -4436,7 +4426,7 @@ waiting for someone to call on would you touch me
 hey you would you help me to carry the stone
 open your heart I am coming home
 
-[Chorus: C D G D C D Em Dm]
+[R: C D G D, Em Dm Em Dm]
 But it was only fantasy
 the wall was too high,
 as you can see
@@ -4444,7 +4434,7 @@ no matter how he tried
 he could not break free
 and the worms ate into his brain
 
-[Verse: Em Hm D G D C Hm Am Em Dm]
+[3: Em Hm, D G D C Hm Am Em Dm]
 Hey you out there on the road
 doing what you're told, can you help me
 hey you out there beyond the wall
@@ -4458,7 +4448,7 @@ together we stand, divided we fall
 && Ray Charles &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Chorus: Am G F E(7)]
+[R+1-2: Am G F E(7)]
 Hit the road Jack and don't you come back no more, no more, no more, no more.
 Hit the road Jack and don't you come back no more. (What you say?)
 Hit the road Jack and don't you come back no more, no more, no more, no more.
@@ -4486,7 +4476,7 @@ Hit the road Jack and don't you come back no more. (What you say?)
 Hit the road Jack and don't you come back no more, no more, no more, no more.
 Hit the road Jack and don't you come back no more. (Well!)
 
-[Outro: F E(7) Am G]
+[Z: F E(7) Am G]
 Don't you come back no more.
 (aah! what you say) Don't you come back no more.
 (I didn't understand you) Don't you come back no more.
@@ -4501,14 +4491,14 @@ Don't you come back no more.
 && The Lumineers &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C F]
+[0: C F]
 (Ho)
 (Hey)
 (Ho)
 (Hey)
 (Ho)
 
-[Verse: C F C Am G F]
+[1-2: C F, Am G F C]
 I've been trying to do it right (Hey)
 I've been living a lonely life (Ho)
 I've been sleeping here instead (Hey)
@@ -4523,7 +4513,7 @@ I don't know where I belong (Hey)
 I don't know where I went wrong (Ho)
 But I can write a song (Hey)
 
-[Chorus: Am G C Am G F C F]
+[R: Am G C Am G F C F]
 I belong with you, you belong with me, you're my sweetheart
 I belong with you, you belong with me, you're my:
 sweet (Ho)
@@ -4532,28 +4522,28 @@ sweet (Ho)
 (Hey)
 (Ho)
 
-[Verse: C F C Am G F]
+[3: C F, Am G F C Am G F C]
 I don't think you're right for him
 Think of what it might've been if you
 Took a bus to Chinatown
 I'd be standing on Canal and Bowery
 And she'd be standing next to me
 
-[Chorus: Am G C]
+[R: Am G C]
 I belong with you, you belong with me, you're my sweetheart
 I belong with you, you belong with me, you're my sweetheart
 
-[Bridge: F C G(sus4) C]
+[B: F C G C F C G(sus4)]
 And love, we need it now
 Let's
 Cuz oh, we're bleeding out
 
-[Chorus: Am G C Am G F C]
+[R: Am G C Am G F C]
 I belong with you, you belong with me, you're my sweetheart
 I belong with you, you belong with me, you're my
 sweet (Ho)
 
-[Outro: C]
+[Z: C]
 (Hey)
 (Ho)
 (Hey)
@@ -4562,9 +4552,9 @@ sweet (Ho)
 
 ## Hotel California ##
 && Eagles &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am E(7) G D F C Dm E]
+[1: Hm F#(7) A E G D Em F#]
 On a dark desert highway, cool wind in my hair
 Warm smell of colitas, rising up through the air
 Up ahead in the distance, I saw a shimmering light
@@ -4577,13 +4567,13 @@ Then she lit up a candle and she showed me the way
 There were voices down the corridor,
 I thought I heard them say
 
-[Chorus: F C E(7) Am F C Dm E]
+[R: G D F#(7) Hm G D Em F#]
 Welcome to the Hotel California
 Such a lovely place (such a lovely place) such a lovely face
 Plenty of room at the Hotel California
 Any time of year (any time of year) you can find it here
 
-[Verse: Am E(7) G D F C Dm E]
+[2: Hm F#(7) A E G D Em F#]
 Her mind is Tiffany-twisted, She got the Mercedes-Benz
 She got a lot of pretty, pretty boys, that she calls friends
 How they dance in the courtyard, sweet summer sweat
@@ -4594,13 +4584,13 @@ And still those voices are calling from far away
 Wake you up in the middle of the night
 Just to hear them say
 
-[Chorus: F C E(7) Am F C Dm E]
+[R: G D F#(7) Hm G D Em F#]
 Welcome to the Hotel California
 Such a lovely place (such a lovely place) such a lovely face
 They livin' it up at the Hotel California
 What a nice surprise (what a nice surprise), bring your alibis
 
-[Verse: Am E(7) G D F C Dm E(7)]
+[3: Hm F#(7) A E G D Em F#(7)]
 Mirrors on the ceiling, the pink champagne on ice (and he said)
 We are all just prisoners here, of our own device
 And in the master's chambers, they gathered for the feast
@@ -4616,35 +4606,35 @@ But you can never leave!
 
 ## Houby magický ##
 && Kabát &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G D G Em(7) D C G Em(7) D]
+[1: A E A F#m(7) E, D A F#m(7) E]
 Už budem spolu navždycky, hledat houby magický má dobrá ženo.
 Bylo to jenom na chvíli, teď v mojí starý košili nosíš mý jméno.
 A já ti slíbil mnohem víc a neměl vůbec nic, tak ňák jsme to zvládli.
 
-[Chorus: G C D]
+[R: A D A D E]
 Už je to nejmíň dvě stě let,
 to ještě placatej byl svět a my se trochu báli.
 Že nejdou srazit postele,
 že bude krátká neděle a jednou nás to spálí.
 
-[Verse: G D G Em(7) D C G Em(7) D]
+[2: A E A F#m(7) E, D A F#m(7) E A]
 Každý mý gesto dobře znáš, taky mě v duchu proklínáš, to když jsi němá.
 Někdy nám vázne spojení, oči se v louže promění a já tě hledám.
 Vidím tě dál a jindy blíž, bude to dobrý uvidíš, ubrus voskem lepí.
 Když tělo svíce ubývá.
 
-[Chorus: G C D]
+[R: A D A D E]
 Už je to nejmíň dvě stě let,
 to ještě placatej byl svět a my se trochu báli.
 Že nejdou srazit postele,
 že bude krátká neděle a jednou nás to spálí.
 
-[Bridge: D C]
+[B: E D]
 To měsíc ukáže nám stráň, kde zavoní podhoubí, my budem spolu dál.
 
-[Chorus: G C D]
+[R: A D E]
 Už budem spolu navždycky, hledat houby magický, má dobrá ženo.
 Bylo to jenom na chvíli, v mojí starý košili, nosíš mý jméno.
 Už budem spolu navždycky, hledat houby magický, má dobrá ženo.
@@ -4656,9 +4646,9 @@ Bylo to jenom na chvíli, v mojí starý košili, nosíš mý jméno.
 && The Animals &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am C D F Am E]
+[0: Am C D F Am E Am E]
 
-[Verse: Am C D F Am C E(7) Am C D F Am E]
+[1-6: Am C D F Am C E(7) Am C D F Am E Am E]
 There is a house in New Orleans
 They call the Rising Sun
 And it's been the ruin of many a poor boy
@@ -4693,9 +4683,9 @@ And God I know I'm one
 
 ## Hvězdičko blýskavá ##
 && Petr Novák &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: C G F G]
+[1-2: D A, G A D]
 Hrozně ráda máš ten gril tam v přízemí
 Proč já blázen jsem tam byl, a chtěl tě mít?
 Z velkých fotek a malých roliček tvých, já znal tvůj smích
@@ -4705,13 +4695,13 @@ Byl jsem pryč z té záhady, že tě vážně mám
 Žil jsem s tebou od těch dob několikrát
 Mám a nemám tě rád
 
-[Chorus: C F(maj7) C Dm]
+[R: D G(maj7), Em D Em D]
 Hvězdičko blýskavá, mám život svázaný s tvým
 Těžko tě získávám, lehko tě ztrácím, já vím
 Jak mám spát, co s tím?
 Jak mám žít a s kým?
 
-[Verse: C G F G]
+[3-4: D A, G A D]
 Dál se vrhat za tebou, to nic nezmění
 Úděl bumerangů dvou je míjení
 Tak tě míjím, ať tě někdo lepší má
@@ -4722,13 +4712,13 @@ Mohla’s mít sto známých jmen a já se třás
 Ale štěstí jsem dostal víc, než kdy dřív, už nechoď
 Zas bych kýv
 
-[Chorus: C F(maj7) C Dm]
+[R: D G(maj7), Em D Em D]
 Hvězdičko blýskavá, mám život svázaný s tvým
 Těžko tě získávám, lehko tě ztrácím, já vím
 Jak mám spát, co s tím?
 Jak mám žít a s kým?
 
-[Outro: C F(maj7)]
+[Z: D G(maj7)]
 Hvězdičko blýskavá, mám život svázaný s tvým
 Těžko tě získávám, lehko tě ztrácím, já vím
 Hvězdičko blýskavá, mám život svázaný s tvým
@@ -4738,11 +4728,11 @@ Těžko tě získávám, lehko tě ztrácím, já vím
 
 ## I Knew You Were Trouble ##
 && Taylor Swift &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 4 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D]
+[0: F#]
 
-[Verse: D A Hm G]
+[1-2: F# C# D#m H]
 Once upon a time, a few mistakes ago
 I was in your sights, you got me alone
 You found me, you found me, you found me-e-e-e-e
@@ -4753,7 +4743,7 @@ Without me, without me, without me-e-e-e-e
 And he's long gone, when he's next to me and I
 Realize the blame is on me
 
-[Chorus: Hm G A D A]
+[R: D#m H C# F# C#, D#m H C# F# C# D#m H C# F# C#]
 'Cause I knew you were trouble when you walked in
 So shame on me now-ow
 Flew me to places I'd never been
@@ -4765,7 +4755,7 @@ Now I'm lyin' on the cold hard ground!
 Aahh oohh, trouble, trouble, trouble
 Aahh oohh, trouble, trouble, trouble
 
-[Verse: D A Hm G]
+[3: F# C# D#m H]
 No apologies, he'll never see you cry
 Pretends he doesn't know, that he's the reason why
 You're drowning, you're drowning, you're drowni-I-I-I-ing
@@ -4773,11 +4763,11 @@ And I heard you moved on, from whispers on the street
 A new notch in your belt, is all I'll ever be
 And now I see, now I see, now I see-e-e-e-ee
 
-[Verse: A Hm G]
+[4: C# D#m H]
 He was long gone, when he met me
 And I realize, the joke is on me, yeah
 
-[Chorus: Hm G A D A]
+[R: D#m H C# F# C#]
 I knew you were trouble when you walked in
 So shame on me now-ow
 Flew me to places I'd never been
@@ -4789,12 +4779,12 @@ Now I'm lyin' on the cold hard ground!
 Aahh oohh, trouble, trouble, trouble
 Aahh oohh, trouble, trouble, trouble
 
-[Bridge: G Hm G A]
+[B: H D#m H C#]
 And the saddest fear, comes creepin' in
 That you never loved me or her,
 Or anyone, or anything, yeah yeah
 
-[Chorus: Hm G A D A]
+[R+Z: D#m H C# F# C#]
 I knew you were trouble when you walked in
 So shame on me now-ow
 Flew me to places I'd never been (never been)
@@ -4815,11 +4805,11 @@ trouble, trouble, trouble
 
 ## I Still Haven't Found What I'm Looking For ##
 && U2 &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C]
+[0: C#]
 
-[Verse: C F(sus2)]
+[1: C# F#(sus2)]
 I have climbed highest mountains
 I have run through the fields
 only to be with you, only to be with you
@@ -4827,11 +4817,11 @@ I have run, I have crawled
 I have scaled these city walls, these city walls
 only to be with you
 
-[Chorus: G F(sus2) C]
+[R: G# F#(sus2) C#]
 But I still haven't found what I'm looking for
 But I still haven't found what I'm looking for
 
-[Verse: C F(sus2)]
+[2: C# F#(sus2)]
 I have kissed honey lips
 Felt the healing in her fingertips
 It burned like fire, this burning desire
@@ -4839,11 +4829,11 @@ I have spoke with the tongue of angels
 I have held the hand of the devil
 It was warm in the night, I was cold as a stone
 
-[Chorus: G F(sus2) C]
+[R: G# F#(sus2) C#]
 But I still haven't found what I'm looking for
 But I still haven't found what I'm looking for
 
-[Verse: C(sus4) F(sus2)]
+[3: C#(sus4) F#(sus2)]
 I believe in the kingdom come
 then all the colours they will
 bleed into one, bleed into one
@@ -4852,13 +4842,13 @@ You broke the bonds and you loosed the chains
 carried the cross of my shame, of my shame
 You know I believe it
 
-[Chorus: G F(sus2) C]
+[R: G# F#(sus2) C#]
 But I still haven't found what I'm looking for
 But I still haven't found what I'm looking for
 But I still haven't found what I'm looking for
 But I still haven't found what I'm looking for
 
-[Outro: C F(sus2)]
+[Z: C# F#(sus2)]
 
 
 
@@ -4866,56 +4856,56 @@ But I still haven't found what I'm looking for
 && The Beatles &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D]
+[0: D]
 (Oh yeah )
 
-[Verse: G D Em H(7)]
+[1: G D Em H(7)]
 Oh yeah, I'll tell you something
 I think you'll understand
 When I say that something
 I wanna hold your hand
 
-[Chorus: C D G Em]
+[R: C D G Em]
 I wanna hold your hand
 I wanna hold your hand
 
-[Verse: G D Em H(7)]
+[2: G D Em H(7)]
 Oh please, say to me
 You'll let me be your man
 And please, say to me
 You'll let me hold your hand
 
-[Chorus: C D G Em]
+[R: C D G Em]
 Now let me hold your hand
 I wanna hold your hand
 
-[Bridge: Dm(7) G C Am Dm(7) G C D]
+[B: Dm(7) G C Am Dm(7) G C D C D C D]
 And when I touch you I feel happy inside
 It's such a feeling that my love
 I can't hide I can't hide I can't hide
 
-[Verse: G D Em H(7)]
+[3: G D Em H(7)]
 Yeah, you, got that something
 I think you'll understand
 When I say that something
 I wanna hold your hand
 
-[Chorus: C D G Em]
+[R: C D G Em]
 I wanna hold your hand
 I wanna hold your hand
 
-[Bridge: Dm(7) G C Am Dm(7) G C D]
+[B: Dm(7) G C Am Dm(7) G C D C D C D]
 And when I touch you I feel happy inside
 It's such a feeling that my love
 I can't hide I can't hide I can't hide
 
-[Verse: G D Em H(7)]
+[4: G D Em H(7)]
 Yeah, you got that something,
 I think you'll understand
 When I feel that something
 I wanna hold your hand
 
-[Chorus: C D G Em C D H(7) C D C G]
+[R: C D G Em C D H(7) C D C G]
 I wanna hold your hand
 I wanna hold your hand
 I wanna hold your ha--and
@@ -4924,11 +4914,11 @@ I wanna hold your ha--and
 
 ## I Will Wait ##
 && Mumford &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Am G(/H) C F C G]
+[0: A#m G#(/C) C# F# C# G#]
 
-[Verse: C F C G(sus2)]
+[1: C# F# C# G#(sus2)]
 Well I came home
 Like a stone
 And I fell heavy into your arms
@@ -4936,17 +4926,17 @@ These days of dust
 Which we've known
 Will blow away with this new sun
 
-[Verse: Am G(/H) C F C G]
+[2: A#m G#(/C) C# F# C# G#]
 But I'll kneel down
 Wait for now
 And I'll kneel down
 Know my ground
 
-[Chorus: C Em G]
+[R: C# Fm G#]
 I will wait, I will wait for you!
 And I will wait, I will wait for you!
 
-[Verse: C F C G(sus2)]
+[3: C# F# C# G#(sus2)]
 So break my step
 And relent
 Well you forgave and I won't forget
@@ -4954,13 +4944,13 @@ Know what we've seen
 And him with less
 Now in some way, shake the excess
 
-[Chorus: C Em G]
+[R: C# Fm G#]
 Cause I will wait, I will wait for you!
 And I will wait, I will wait for you!
 And I will wait, I will wait for you!
 And I will wait, I will wait for you!
 
-[Verse: C F C G(sus2)]
+[4: C# F# C# G#(sus2)]
 Now I'll be bold
 As well as strong
 And use my head alongside my heart
@@ -4968,19 +4958,19 @@ So tame my flesh
 And fix my eyes
 That tethered mind free from the lies
 
-[Verse: Am G(/H) C F C G]
+[5: A#m G#(/C) C# F# C# G#]
 And I'll kneel down
 Wait for now
 And I'll kneel down
 Know my ground
 
-[Bridge: C G(/H) Am F]
+[B: C# G#(/C) A#m F# C# G#]
 Raise my hands
 Paint my spirit gold
 And bow my head
 Keep my heart slow
 
-[Chorus: C Em G]
+[R: C# Fm G#]
 Cause I will wait, I will wait for you!
 And I will wait, I will wait for you!
 And I will wait, I will wait for you!
@@ -4992,9 +4982,9 @@ And I will wait, I will wait for you!
 && Meat Loaf &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: A(6/7)]
+[0: A(6/7)]
 
-[Verse: D(sus4) A G Hm F#m G A]
+[1: D(sus4) A D A G, Hm F#m G A]
 And I would do anything for love
 I'd run right into hell and back
 I would do anything for love
@@ -5002,14 +4992,14 @@ I'll never lie to you and that's a fact
 But I'll never forget the way you feel right now
 Oh no no way
 
-[Chorus: D A(9) G A D(sus2/sus4) G A]
+[R: D A(9), G A D(sus2/sus4) G A]
 And I would do anything for love
 Oh, I would do anything for love
 I would do anything for love
 But I won't do that
 No, I won't do that
 
-[Verse: Hm G Em D G D Hm A Em G(dim) A D(sus4) A G Hm F#m G A]
+[2: Hm G Em D, G D Hm A G D Hm A Em G(dim) A D(sus4) A D A G D(sus4) A D A G Hm F#m G A]
 And some days it don't come easy
 and some days it don't come hard
 Some days it don't come at all and
@@ -5029,20 +5019,20 @@ And I would do anything for love,
 and I'll take my vow and seal a pact
 But I'll never forgive myself if we don't go all the way tonight
 
-[Chorus: D G A(9) D A G A]
+[R: D G A D A(9) D A G A]
 And I would do anything for love
 I would do anything for love
 I would do anything for love
 But I won't do that
 No, I won't do that
 
-[Bridge: D Hm G A]
+[B: D Hm G A]
 I would do anything for love, anything you've been dreaming of
 But I just won't do that
 
-[Solo: Em F#m G Em F#m A(7) D(sus2/sus4) G A]
+[S: Em F#m G Em F#m A(7), D(sus2/sus4) G A D(sus2/sus4) G A]
 
-[Verse: Hm G Em D G D Hm A Em G(dim) A D(sus4) A G Hm F#m G A]
+[3: Hm G Em D, G D Hm A G D Hm A Em G(dim) A D(sus4) A D A G D(sus4) A D A G Hm F#m G A]
 And some days I pray for silence,
 and some days I pray for a soul
 Some days I just pray to the god of
@@ -5063,26 +5053,26 @@ and there'll never be no turning back
 But I'll never do it better than I do it with you,
 so long so long
 
-[Chorus: D A(9) G A]
+[R: D A(9), G A D]
 I would do anything for love
 Oh, I would do anything for love
 I would do anything for love
 But I won't do that
 No no no, I won't do that
 
-[Bridge: D Hm G A D Hm F#m G A]
+[B: D Hm G A D Hm F#m G A]
 I would do anything for love, anything you've been dreaming of
 But I just won't do that
 But I'll never stop dreaming of you every night of my life no way
 
-[Chorus: D A(9) G A]
+[R: D A(9), G A D]
 I would do anything for love
 Oh, I would do anything for love
 Oh, I would do anything for love
 But I won't do that
 No, I won't do that
 
-[Verse: D(sus2/sus4) G A(9) D(sus4) A G A]
+[4: D(sus4) G A D G A(9) D G A G A, A D(sus4) A(9) D(sus4) A G A D(sus2/sus4)]
 Will you raise me up, will you help me down
 Will you get me right out of this godforsaken town
 Will you make it all a little less cold
@@ -5119,14 +5109,14 @@ No, I won't do that
 && The Monkees &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G D G C]
+[1: G D, C G C G C G D]
 I thought love was only true in fairy tales
 Meant for someone else but not for me.
 Love was out to get me
 That's the way it seemed.
 Disappointment haunted all my dreams.
 
-[Chorus: G C G F D]
+[R: G C, F D]
 Then I saw her face,
 now I'm a believer
 Not a trace
@@ -5135,14 +5125,14 @@ I'm in love, ooh
 I'm a believer!
 I couldn't leave her if I tried.
 
-[Verse: G D G C]
+[2: G D, C G C G C G D]
 I thought love was more or less a given thing,
 Seems the more I gave the less I got.
 What's the use in tryin'?
 All you get is pain.
 When I needed sunshine I got rain.
 
-[Chorus: G C G F D]
+[R: G C, F D]
 Then I saw her face,
 now I'm a believer
 Not a trace
@@ -5151,12 +5141,12 @@ I'm in love, ooh
 I'm a believer!
 I couldn't leave her if I tried.
 
-[Verse: C G D]
+[3: C G, D]
 Love was out to get me
 That's the way it seemed.
 Disappointment haunted all my dreams.
 
-[Chorus: G C G F D]
+[R: G C, F D]
 Then I saw her face,
 now I'm a believer
 Not a trace
@@ -5165,7 +5155,7 @@ I'm in love, ooh
 I'm a believer!
 I couldn't leave her if I tried.
 
-[Chorus: G C]
+[R: G C]
 Yes I saw her face,
 now I'm a believer
 Not a trace
@@ -5179,11 +5169,11 @@ Said I'm a believer (I'm a believer)
 
 ## I'm Yours ##
 && Jason Mraz &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 4 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C]
+[0: E]
 
-[Verse: G D Em C]
+[1+R: H F# G#m E]
 Well, you done done me and you bet I felt it
 I tried to be chill but you're so hot that I melted
 I fell right through the cracks,
@@ -5197,7 +5187,7 @@ But I won't hesitate
 No more, no more
 It cannot wait, I'm yours
 
-[Verse: G D Em C A(7)]
+[2: H F# G#m E, C#(7)]
 Well, open up your mind and see like me
 Open up your plans and damn you're free
 Look into your heart and you'll find
@@ -5206,14 +5196,14 @@ Listen to the music of the moment people dance and sing
 We're just one big family
 And it's our godforsaken right to be loved loved loved loved loved
 
-[Chorus: G D Em C]
+[R: H F# G#m E]
 So, I won't hesitate
 No more, no more,
 It cannot wait I'm sure
 There's no need to complicate our time is short
 This is our fate, I'm yours
 
-[Bridge: G D Em D C A(7)]
+[B: H F# G#m F# E C#(7)]
 A-do you, do, do, do you,
 but do you, do you, do, do,
 but do you want to come on?
@@ -5224,7 +5214,7 @@ Whoa oh, oh oh oh oh oh
 Whoa oh oh oh oh, oh oh, oh oh oh oh oh
 Uh-huh, mmhmmm
 
-[Verse: G D Em C]
+[3+R: H F# G#m E]
 I've been spendin' way too long checkin' my tongue in the mirror
 and bendin' over backwards just to try to see it clearer
 But my breath fogged up the glass
@@ -5238,7 +5228,7 @@ But I won't hesitate
 No more, no more
 It cannot wait, I'm yours
 
-[Verse: G D Em C A(7)]
+[4: H F# G#m E, C#(7)]
 Well, open up your mind and see like me
 Open up your plans and damn you're free
 I look into your heart and you will find that the sky is yours
@@ -5248,7 +5238,7 @@ Cause our time is short
 This, this, this is our fate,
 I'm yooooooours
 
-[Outro: G D Em C]
+[Z: H F# G#m E]
 Brr da ba mmm da ba bo mmm day
 Na ch doo, doo ch doo, doo ch doo doo mmm doo doo
 mmm mmm mmm mmm (Hey, hey) Oh, I'm yours, oh-oh, I'm yours
@@ -5260,25 +5250,25 @@ You best believe, you best believe I'm yours, hmm
 
 ## If I Could Turn Back Time ##
 && Cher &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: A(sus4) D(sus4) Hm E]
+[0: H(sus4) E(sus4) C#m F#]
 If I could turn back time
 If I could find a way
 I'd take back those words that hurt you and you'd stay
 
-[Verse: E A D]
+[1: F# H E]
 I don't know why I did the things I did
 I don't know why I said the things I said
 Pride's like a knife, it can cut deep inside
 Words are like weapons, they wound sometimes
 
-[Verse: E D F#m E D]
+[2: F# E G#m F# E]
 I didn't really mean to hurt you
 I didn't wanna see you go
 I know I made you cry, but baby
 
-[Chorus: A(sus4) D(sus4) Hm E A D E]
+[R: H(sus4) E(sus4) C#m F#, F#]
 If I could turn back time
 If I could find a way
 I'd take back those words that hurt you and you'd stay
@@ -5287,18 +5277,18 @@ I'd give 'em all to you
 Then you'd love me, love me like you used to do
 If I could turn back time
 
-[Verse: E A D]
+[3: F# H E]
 My world was shattered, I was torn apart
 Like someone took a knife and drove it deep in my heart
 When you walked out that door I swore that I didn't care
 But I lost everything darling, then and there
 
-[Verse: E D F#m E D]
+[4: F# E G#m F# E]
 Too strong to tell you I was sorry
 Too proud to tell you I was wrong
 And I know that I was blind, and darling
 
-[Chorus: A(sus4) D(sus4) Hm E]
+[R: H(sus4) E(sus4) C#m F#]
 If I could turn back time
 If I could find a way
 I'd take back those words that hurt you and you'd stay
@@ -5306,18 +5296,18 @@ If I could reach the stars
 I'd give 'em all to you
 Then you'd love me, love me like you used to do
 
-[Bridge: D E A]
+[B: E F#, H E F#]
 If I could turn back time (If I could turn back time)
 If I could turn back time (If I could turn back time)
 If I could turn back time (If I could turn back time)
 Oh! Baby!
 
-[Verse: E D F#m E D]
+[5: F# E G#m F# E]
 I didn't really mean to hurt you
 I didn't wanna see you go
 I know I made you cry
 
-[Chorus: A(sus4) D(sus4) Hm C(sus4) F(sus4) Dm G F G C]
+[R: H(sus4) E(sus4) C#m D(sus4) G(sus4) Em A D(sus4) G(sus4) Em A G A D]
 If I could turn back time
 If I could find a way
 I'd take back those words that hurt you
@@ -5335,7 +5325,7 @@ If I could turn back ti-I-me
 && The Beatles &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D#m D C# Hm D#m D Em A]
+[0: D#m D C# Hm D#m D Em A]
 If I fell in love with you
 Would you promise to be true
 And help me understand
@@ -5343,64 +5333,64 @@ And help me understand
 And I found that love was more
 Than just holding hands
 
-[Verse: D Em F#m F(dim7) Em A D Em F#m Em A D Gm A]
+[1: D Em F#m F(dim7) Em A D Em F#m Em A D Gm A]
 If I give my heart to you
 I must be sure
 From the ve-ry start that you
 Would love me more than her
 
-[Verse: D Em F#m Em(7) A]
+[2: D Em F#m Em(7) A]
 If I trust in you, oh please
 Don't run and hide
 If I love you too, oh please
 Don't hurt my pride like
 
-[Bridge: D(9) G Gm D A(7)]
+[B: D(9) G Gm D A(7)]
 her, cause I couldn't stand the pain
 And I would be sad if our new love was in vain
 
-[Verse: D Em F#m Em(7) A]
+[3: D Em F#m Em(7) A]
 So I hope you see that I
 Would love to love you
 And that she will cry
 When she learns we are
 
-[Bridge: D(9) G Gm D A(7)]
+[B: D(9) G Gm D A(7)]
 two cause I couldn't stand the pain
 And I would be sad if our new love was in vain
 
-[Verse: D Em F#m Em(7) A]
+[4: D Em F#m Em(7) A]
 So I hope you see that I
 Would love to love you
 And that she will cry
 When she learns we are two
 
-[Outro: Gm D]
+[Z: Gm D]
 If I fell in love with you
 
 
 
 ## Ironic ##
 && Alanis Morissette &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 4 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C(add9/maj7) G(maj7/D)]
+[0: E(add9/maj7) H(maj7/F#)]
 Hey yay yay, yah ha ha, ay yeah, hi
 
-[Verse: D(/F#) G D(/F#) Em]
+[1: F#(/A#) H F#(/A#) G#m]
 An old man turned ninety-eight
 He won the lottery and died the next day
 It's a black fly in your Chardonnay
 It's a death row pardon two minutes too late
 And isn't it ironic don't you think
 
-[Chorus: D G D Em F C]
+[R: F# H F# G#m, A E F#]
 It's like ra-aaiin on your wedding day
 It's a free ride when you've already paid
 It's the good advice that you just didn't take
 And who would've thought it figures
 
-[Verse: D(/F#) G D(/F#) Em]
+[2: F#(/A#) H F#(/A#) G#m]
 Mr. Play It Safe was afraid to fly
 He packed his suit-case and kissed his kids goodbye
 He waited his whole damn life to take that flight
@@ -5408,19 +5398,19 @@ And as the plane crashed down he thought
 "Well, isn't this nice "
 And isn't it ironic don't you think
 
-[Chorus: D G D Em F C]
+[R: F# H F# G#m, A E F#]
 It's like ra-aaiin on your wedding day
 It's a free ride when you've already paid
 It's the good advice that you just didn't take
 And who would've thought it figures
 
-[Bridge: C(add9/maj7) G(maj7/D)]
+[B: E(add9/maj7) H(maj7/F#)]
 Well, life has a funny way of sneaking up on you when you think everything's okay
 And everything's going right
 And life has a funny way of helping you out when you think everything's gone wrong
 And everything blows up in your face
 
-[Verse: D(/F#) G D(/F#) Em]
+[3: F#(/A#) H F#(/A#) G#m]
 A traffic jam when you're already late
 A no-smoking sign on your cigarette break
 It's like ten thousand spoons when all you need is a knife
@@ -5429,13 +5419,13 @@ And then meeting his beautiful wife hmm
 And isn't it ironic don't you think
 A little too ironic and yeah, I really do think
 
-[Chorus: D G D Em F C]
+[R: F# H F# G#m, A E F#]
 It's like ra-aiin on your wedding day
 It's a free ride when you've already paid
 It's the good advice that you just didn't take
 And who would've thought it figures
 
-[Outro: C(maj7) G(maj7/D)]
+[Z: E(maj7) H(maj7/F#)]
 And yeah, life has a funny way of sneaking up on you
 And life has a funny, funny way
 Of helping you out, helping you out
@@ -5446,9 +5436,9 @@ Of helping you out, helping you out
 && Hana a Petr Ulrychovi &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Em]
+[0: Em]
 
-[Verse: Em(/D) C(maj7) A(7sus2) G Em(/D) C(maj7) A(7sus2) D(sus4)]
+[1: Em(/D) C(maj7) A(7sus2) G Em(/D) C(maj7) A(7sus2) D(sus4)]
 Já vidím strom co k zemi padá
 umírá jako by neznal bolesti
 hnízdo co nesl tiše vychládá
@@ -5458,7 +5448,7 @@ v chalupách plamenem jasným zahoří
 na popel promění se láska
 strom naposledy nocí k lidem hovoří
 
-[Chorus: G D(sus4) G C(sus4) G D(sus4) Em]
+[R: G D G C G C G D(sus4) C(sus4) G D(sus4), Em]
 Moje javory, javory, javory
 dlouhý stín vláhu uhlídá
 bouře zlá sílu větví zná
@@ -5470,9 +5460,9 @@ v kolébkách s dětmi houpávám
 poletí za hory daleko za hory
 píseň tvá
 
-[Interlude: Em]
+[I: Em]
 
-[Verse: Em(/D) C(maj7) A(7sus2) G Em(/D) C(maj7) A(7sus2) D(sus4)]
+[2: Em(/D) C(maj7) A(7sus2) G Em(/D) C(maj7) A(7sus2) D(sus4)]
 Já vidím strom co lidi chrání
 a v kůře místa bolavá
 nechce znát smrt zná jenom zrání
@@ -5482,7 +5472,7 @@ a je tu jaro jak sis přál
 posílám pozdrav dolů s proudy
 strom žije dál strom žije dál
 
-[Chorus: G D(sus4) G C(sus4) G D(sus4) Em C]
+[R: G D G C G C G D(sus4) C(sus4) G D(sus4), Em C G]
 Moje javory, javory, javory
 dlouhý stín vláhu uhlídá
 bouře zlá sílu větví zná
@@ -5498,9 +5488,9 @@ píseň tvá
 
 ## Just The Way You Are ##
 && Bruno Mars &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 5 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[C Am F]
+[F Dm A#]
 Oh, her eyes, her eyes make the stars look like they're not shining
 Her hair, her hair falls perfectly without her trying
 She's so beautiful, and I tell her every day
@@ -5535,29 +5525,29 @@ Cause girl you're amazing, just the way you are
 
 ## Já budu chodit po špičkách ##
 && Petr Novák &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 5 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: D G Em A]
+[1: G C Am D]
 Zavři pusu a jdi spát, vždyť už bude brzo den,
 nech si o mně něco zdát, ať je krásný ten tvůj sen.
 
-[Chorus: Em A G A]
+[R: Am D, C D]
 Já budu chodit po špičkách, snad tě tím nevzbudím,
 až slunce vyjde v tmách, polibkem tě probudím.
 
-[Verse: D G Em A]
+[2: G C Am D]
 Jdi si lehnout ať už spíš, ať z toho snu něco máš,
 ráno až se probudíš, polibek mi taky dáš.
 
-[Chorus: Em A G A]
+[R: Am D, C D]
 Já budu chodit po špičkách, snad tě tím nevzbudím,
 až slunce vyjde v tmách, polibkem tě probudím.
 
-[Verse: D G Em A]
+[3: G C Am D]
 Rozhoď vlasy na polštář a sni o mně krásnej sen,
 nebo ráno nepoznáš, že je tady nový den.
 
-[Verse: Em A]
+[4: Am D]
 Já budu chodit po špičkách
 Já budu chodit po špičkách
 
@@ -5567,15 +5557,15 @@ Já budu chodit po špičkách
 && Karel Kryl &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D]
+[0: D]
 
-[Verse: D(7) Hm G A(7)]
+[1: D Hm G A D(7) A(7)]
 Slunce je zlatou skobou na obloze přibitý
 pod sluncem sedlo kožený
 pod sedlem kůň, pod koněm moje boty rozbitý
 a starý ruce sedřený
 
-[Chorus: G A(7) Hm Em Hm F# Hm Em A(7) Hm Em Hm F# Hm A(7)]
+[R: G A Hm, Em A(7) Hm Em Hm F# Hm Em A(7) Hm Em Hm F# Hm A(7)]
 Dopředu jít s tou karavanou mraků
 schovat svou pleš pod stetson děravý
 jen kousek jít, jen chvíli do soumraku
@@ -5584,19 +5574,18 @@ jen kousek jít, jen chvíli do soumraku
 až tam, kde svítí město, město bělavý
 Jeee
 
-[Verse: D Hm G A(7) D A(7)]
+[2-3: D Hm G A D(7) A(7)]
 Vítr si tiše hvízdá po silnici spálený
 v tom městě nikdo nezdraví
 šerif i soudce - gangsteři, oba řádně zvolený
 a lidi strachem nezdraví
 
-[Verse: D(7) Hm G A(7)]
 Sto cizejch zabíječů s pistolema skotačí
 a zákon džungle panuje, je, je, je
 provazník plete smyčky, hrobař kopat nestačí
 a truhlář rakve hobluje
 
-[Chorus: G A(7) Hm Em Hm F#(7) Hm Em A(7) Hm Em Hm F#(7) Hm A(7)]
+[R: G A Hm, Em A(7) Hm Em Hm F#(7) Hm Em A(7) Hm Em Hm F#(7) Hm A(7)]
 V městě je řád a pro každého práce
 buď ještě rád, když huba oněmí
 může tě hřát, že nejseš na oprátce
@@ -5604,13 +5593,13 @@ nebo že neležíš pár inchů pod zemí
 může tě hřát, že nejseš na oprátce
 nebo že neležíš pár inchů pod zemí
 
-[Verse: D(7) Hm G A(7)]
+[4: D Hm G A D(7) A(7)]
 Slunce je zlatou skobou na obloze přibitý
 pod sluncem sedlo kožený
 pod sedlem kůň, pod koněm moje nohy rozbitý
 a starý ruce sedřený
 
-[Chorus: G A(7) Hm Em Hm F# Hm Em A(7) Hm Em Hm F# Hm]
+[R: G A Hm, Em A(7) Hm Em Hm F# Hm Em A(7) Hm Em Hm F# Hm]
 Pryč odtud jít s tou karavanou mraků
 kde tichej dům a pušky rezaví
 orat a sít od rána do soumraku
@@ -5618,7 +5607,7 @@ a nechat zapomenout srdce bolavý
 orat a sít od rána do soumraku
 a nechat zapomenout srdce bolavý
 
-[Outro: Em A(7) Hm Em Hm F# Hm]
+[Z: Em A(7) Hm Em Hm F# Hm]
 
 
 
@@ -5626,9 +5615,9 @@ a nechat zapomenout srdce bolavý
 && Jelen &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C]
+[0: C]
 
-[Verse: C F C Am F G C F C G]
+[1-2: C F, Am F G C F C G C]
 Chodím světem už pěknejch pár let
 parným létem i zrmzlej jak led
 zjistil jsem, že lásku smím dávat i vzít
@@ -5639,35 +5628,35 @@ kulky vzduchem hvízdat, těla po vodě plout
 někdy si až říkám, jestli mám právo žít
 a to jsem nešel tou cestou, kudy ty musíš jít
 
-[Chorus: F C G C F C G F C E(7) Am]
+[R: F C G C F C G F C E(7) Am]
 Buď klidná jako voda, ale silná jako proud
 skála se ti poddá a zbavíš se všech pout
 svěží jako ranní rosa a čistá jako sníh
 když tančíš po kamení bosá, svět máš na dlaních
 
-[Verse: C F C Am F G C F C G]
+[3: C F, Am F G C F C G C]
 Život někdy umí lidem naložit kříž
 ale ničeho se neboj, jsem tu s tebou, vždyť víš
 a i kdyby nás ďábel chtěl na rohy vzít
 spolu půjdem tou cestou, kudy ty musíš jít
 
-[Chorus: F C G C F C G F C E(7) Am]
+[R: F C G C F C G F C E(7) Am]
 Tak buď klidná jako voda, ale silná jako proud
 skála se ti poddá a zbavíš se všech pout
 svěží jako ranní rosa a čistá jako sníh
 když tančíš po kamení bosá, svět máš na dlaních
 
-[Interlude: Am F G C Am F G F C E(7) Am F C Dm G]
+[I: Am F G C Am F G F C E(7) Am F C Dm G]
 
-[Chorus: F C G C F C G F C E(7) Am]
+[R: F C G C F C G F C E(7) Am]
 Buď klidná jako voda, ale silná jako proud
 skála se ti poddá a zbavíš se všech pout
 svěží jako ranní rosa a čistá jako sníh
 když tančíš po kamení bosá, svět máš na dlaních
 
-[Interlude: Am F G C]
+[I: Am F G C]
 
-[Chorus: F C E(7) Am F C Dm C]
+[R: F C E(7) Am F C Dm C]
 Svěží jako ranní rosa a čistá jako sníh
 když tančíš po kamení bosá, svět máš na dlaních
 
@@ -5677,27 +5666,27 @@ když tančíš po kamení bosá, svět máš na dlaních
 && Guns N' Roses &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: G D C]
+[0: G D C]
 
-[Verse: G D Am(7) G D C]
+[1: G D Am(7) G D C]
 Mama take this badge from me
 I can't use it anymore
 It's getting dark, too dark to see
 Feels like I'm knockin' on heaven's door
 
-[Chorus: G D C]
+[R: G D C]
 Knock-knock-knockin' on heaven's door, hey, hey, hey-hey-
 yeah Knock-knock-knockin' on heaven's door
 Knock-knock-knockin' on heaven's door, oooh-oh-
 yeah Knock-knock-knockin' on heaven's door-oh-whoa, yeah-yeah-yeah
 
-[Verse: G D Am(7) G D C]
+[2: G D Am(7) G D C]
 Mama put my guns in the ground
 I can't shoot them anymore
 That cold black cloud is comin' down
 Feels like I'm knockin' on heaven's door
 
-[Chorus: G D C]
+[R: G D C]
 Knock-knock-knockin' on heaven's door, hey, hey, hey-hey-
 yeah Knock-knock-knockin' on heaven's door
 Knock-knock-knockin' on heaven's door, ohh-
@@ -5709,9 +5698,9 @@ yeah Knock-knock-knockin' on heaven's door-oh-whoa, yeah-yeah-yeah
 && Uriah Heep &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Am]
+[0: Am]
 
-[Verse: Am G]
+[1+R+2-5+B: Am G]
 She came to me one morning, one lonely Sunday morning
 Her long hair flowing in the midwinter wind
 I know not how she found me for in darkness I was walking
@@ -5774,41 +5763,41 @@ Ah ahahah ahahah
 && Eric Clapton &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Dm A# C]
+[0: Dm A# C]
 
-[Intro: Dm A# C A C]
+[0: Dm A# C A C]
 
-[Verse: C#m(7) G#(7) C#m(7) C D E(7) F#m H E A F#m H E]
+[1: C#m(7) G#(7) C#m(7) C D E(7) F#m H E A F#m H E]
 What will you do when you get lonely
 No one waiting by your side?
 You've been running and hiding much too long
 You know it's just your foolish pride
 
-[Chorus: A Dm A# C A C]
+[R: A Dm A# C Dm A# C Dm A# C Dm A# C A C]
 Layla
 Got me on my knees, Layla
 I'm begging darling please, Layla
 Darling, won't you ease my worried mind
 
-[Verse: C#m(7) G#(7) C#m(7) C D E(7) F#m H E A F#m H E]
+[2: C#m(7) G#(7) C#m(7) C D E(7) F#m H E A F#m H E]
 Tried to give you consolation
 Your old man, he let you down
 Like a fool, I fell in love with you
 You turned my whole world upside down
 
-[Chorus: A Dm A# C A C]
+[R: A Dm A# C Dm A# C Dm A# C Dm A# C A C]
 Layla
 You've got me on my knees, Layla
 I'm begging darling please, Layla
 Darling, won't you ease my worried mind
 
-[Verse: C#m(7) G#(7) C#m(7) C D E(7) F#m H E A F#m H E]
+[3: C#m(7) G#(7) C#m(7) C D E(7) F#m H E A F#m H E]
 Make the best of the situation
 Before I finally go insane
 Please don't say we'll never find a way
 Tell me all my love's in vain
 
-[Chorus: A Dm A# C Dm]
+[R: A Dm A# C Dm A# C Dm A# C Dm A# C Dm A# C Dm A# C Dm A# C Dm A# C Dm]
 Layla
 You've got me on my knees, Layla
 I'm begging darling please, Layla
@@ -5818,7 +5807,7 @@ You've got me on my knees, Layla
 I'm begging darling please, Layla
 Darling, won't you ease my worried mind
 
-[Chorus: Dm A# C]
+[R: Dm A# C]
 Layla
 You've got me on my knees, Layla
 I'm begging darling please, Layla
@@ -5834,9 +5823,9 @@ Darling, won't you ease my worried mind
 && Pink Floyd &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: G Em]
+[0: G Em]
 
-[Verse: G D]
+[1: G D]
 Into the distance, a ribbon of black;
 Stretched to the point of no turning back
 A flight of fancy on a windswept field;
@@ -5844,27 +5833,27 @@ Standing alone my senses reel
 A fatal attraction is holding me fast;
 How can I escape this irresistible grasp?
 
-[Verse: C Am F C D G]
+[2: C Am F C D G]
 Can't keep my eyes from the circling skies;
 Tongue-tied and twisted,
 Just an earth-bound misfit, I
 
-[Verse: G Em]
+[2: G Em]
 
-[Verse: G D G Em(7) D]
+[3: G D G Em(7) D]
 Ice is forming on the tips of my wings;
 Unheeded warnings, I thought I thought of everything
 No navigator to find my way home;
 Unladen, empty and turned to stone
 
-[Verse: C Am F C D G]
+[4: C Am F, D G]
 A soul in tension that's learning to fly;
 Condition grounded but determined to try
 Can't keep my eyes from the circling skies;
 Tongue-tied and twisted,
 Just an earth-bound misfit, I
 
-[Verse: G D G Em(7)]
+[5: G D G Em(7)]
 Above the planet on a wing and a prayer;
 My grubby halo, a vapor trail in the empty air
 Across the clouds I see my shadow fly;
@@ -5872,14 +5861,14 @@ Out of the corner of my watering eye
 A dream unthreatened by the morning light;
 Could blow this soul right through the roof of the night
 
-[Verse: C Am F C D G]
+[6: C Am F, D G]
 There's no sensation to compare with this;
 Suspended animation, a state of bliss
 Can't keep my mind from the circling sky;
 Tongue-tied and twisted,
 Just an earth-bound misfit, I
 
-[Verse: G Em]
+[6: G Em]
 
 
 
@@ -5924,9 +5913,9 @@ dalších let tu po nás budou bádat, proč si trubky do trumpety přestaly dá
 && The Kinks &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C D E]
+[0: C D E]
 
-[Verse: E A(sus4) D C D]
+[1: E A D E A(sus4), D C D E]
 I met her in a club down in old Soho
 where you drink champagne and it tastes just like Coca Cola (or cherry cola)
 C-O-L-A, cola
@@ -5934,38 +5923,38 @@ She walked up to me and she asked me to dance
 I asked her her name and in a dark brown voice she said Lola
 L-O-L-A, Lola, Lo lo lo lo lola
 
-[Verse: E A(sus4) D]
+[2: E A(sus4) D]
 Well I'm not the worlds most physical guy
 but when she squeezed me tight
 she nearly broke my spine, oh my Lola
 Lo lo lo lo Lola
 
-[Verse: E A D C D]
+[3: E A D, C D E]
 Well I'm not dumb but I can't understand
 why she walked like a woman and talked like a man
 oh my Lola
 Lo lo lo lo Lola Lo lo lo lo Lola
 
-[Chorus: H(7) F# A]
+[R: H(7) F# A]
 Well we drank champagne and danced all night
 under electric candlelight
 She picked me up and sat me on her knee
 and said 'Dear boy, won't you come home with me'
 
-[Verse: E A D C D]
+[4: E A D, C D E A D C D E]
 Well I'm not the world's most passionate guy
 but when I looked in her eyes, well I almost fell for my Lola
 Lo lo lo lo Lola Lo lo lo lo Lola
 Lola, Lo lo lo lo Lola, lo lo lo lo Lola
 
-[Bridge: A E H E G#m C#m H(7)]
+[B: A E H, E G#m C#m H(7)]
 I pushed her away
 I walked to the door
 I fell to the floor
 I got down on my knees
 Then I looked at her and she at me
 
-[Verse: E A(sus4) D]
+[5: E A D E A(sus4)]
 Well that's the way that I want it to stay
 and I always want it to be that way for my Lola
 Lo lo lo lo Lola
@@ -5973,17 +5962,18 @@ Girls will be boys and boys will be girls
 It's a mixed up, muddled up, shook up world except for Lola
 Lo lo lo lo Lola
 
-[Chorus: H(7) F# A]
+[R: H(7) F# A]
 Well I left home just a week before
 And I'd never ever kissed a woman before
 Lola smiled and took me by the hand
 and said 'dear boy, I'm gonna make you a man'
 
-[Verse: E A D C D]
+[6: E A D, C D]
 Well I'm not the worlds most masculine man
 but I know what I am and I'm glad I'm a man
 and so is Lola, lo lo lo lo lola Lo lo lo lo Lola
 
+[Z: E A D C D]
 Lola, lo lo lo lo Lola, lo lo lo lo Lola
 Lola, lo lo lo lo Lola, lo lo lo lo Lola
 Lola, lo lo lo lo Lola, lo lo lo lo Lola
@@ -5992,49 +5982,49 @@ Lola, lo lo lo lo Lola, lo lo lo lo Lola
 
 ## Long Train Runnin' ##
 && The Doobie Brothers &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Em(7)]
+[1: Gm(7)]
 Down around the corner half a mile from here
 see them long trains run and you watch them disappear
 
-[Chorus: Am(7) Em(7) C(/H) H(7) Em(7)]
+[R: Cm(7) Gm(7) D#(/D) D(7) Gm(7)]
 without love where would you be now
 without love
 
-[Verse: Em(7)]
+[2: Gm(7)]
 Though I saw miss lucy down along the track
 she lost her home and her family and she won t be coming back
 
-[Chorus: Am(7) Em(7) C(/H) H(7) Em(7)]
+[R: Cm(7) Gm(7) D#(/D) D(7) Gm(7)]
 without love where would you be now
 without love
 
-[Verse: Em(7)]
+[3: Gm(7)]
 with the Illinois Central and the Southern Central freight
 you got to keep on pushing Mama, you know they're running late
 
-[Chorus: Am(7) Em(7) C(/H) H(7) Em(7)]
+[R: Cm(7) Gm(7) D#(/D) D(7) Gm(7)]
 without love where would you be now
 without love
 
-[Verse: Em(7)]
+[4: Gm(7)]
 when the pistons keep on churning and the wheels go round and round
 and the steel rails are cold and hard for the miles that they go down
 
-[Chorus: Am(7) Em(7) C(/H) H(7)]
+[R: Cm(7) Gm(7) D#(/D) D(7)]
 without love where would you be now
 without love oohhhhh where would you be
 
-[Outro: Em(7)]
+[Z: Gm(7)]
 
 
 
 ## Lookin' Out My Back Door ##
 && Creedence Clearwater Revival &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 4 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G Em C G D]
+[1-2: H G#m E H F#]
 Just got home from Illinois, lock the front door, oh boy
 Got to sit down, take a rest on the porch
 Imagination sets in, pretty soon I'm singing
@@ -6045,29 +6035,29 @@ Look at all the happy creatures dancing on the lawn
 Dinosaur victrola listening to Buck Owens
 Doo, doo, doo, lookin' out my back door
 
-[Bridge: D C G Em D G Em C G D G]
+[B: F# E H G#m F# H G#m E H F# H]
 Tambourines and elephants are playing in the band
 Won't you take a ride on the flyin' spoon Doo, doo doo
 Wondrous apparition provided by magician
 Doo, doo, doo, lookin' out my back door
 
-[Solo: G Em C G D]
+[S: H G#m E H F#]
 
-[Bridge: D C G Em D G Em C G D G]
+[B: F# E H G#m F# H G#m E H F# H]
 Tambourines and elephants are playing in the band
 Won't you take a ride on the flyin' spoon, doo, doo, doo
 Bother me tomorrow, today I'll find no sorrow
 Doo, Doo, Doo, lookin' out my back door
 
-[Interlude: G F# F E D A F#m E]
+[I: H A# A G# F# C# A#m G#]
 
-[Verse: A F#m D A E]
+[3: C# A#m F# C# G#]
 Forward troubles Illinois, lock the front door, oh boy
 Look at all the happy creatures dancing on the lawn
 Bother me tomorrow, today I'll find no sorrow
 Doo, doo, doo, lookin' out my back door
 
-[Outro: D A E A]
+[Z: F# C# G# C#]
 
 
 
@@ -6075,9 +6065,9 @@ Doo, doo, doo, lookin' out my back door
 && R.E.M. &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: F G Am C D(sus2) F G Am(7) G]
+[0: F G Am C D(sus2) F G Am(7) G]
 
-[Verse: Am Em Dm G]
+[1-2: Am Em, Dm G]
 Oh, life is bigger
 It's bigger than you
 And you are not me
@@ -6094,12 +6084,12 @@ And I don't know if I can do it
 Oh no, I've said too much
 I haven't said enough
 
-[Chorus: G F G Am C D(sus2) F G Am(7)]
+[R: G F G Am C D(sus2) F G Am(7)]
 I thought that I heard you laughing
 I thought that I heard you sing
 I think I thought I saw you try
 
-[Verse: Am Em Dm G]
+[3-4: Am Em, Dm G]
 Every whisper
 Of every waking hour
 I'm choosing my confessions
@@ -6116,18 +6106,18 @@ What if all these fantasies come
 flailing around
 Now I've said too much
 
-[Chorus: G F G Am C D(sus2) F G Am(7)]
+[R: G F G Am C D(sus2) F G Am(7)]
 I thought that I heard you laughing
 I thought that I heard you sing
 I think I thought I saw you try
 
-[Interlude: Am G F(maj7) G]
+[I: Am G F(maj7) G]
 
-[Bridge: C D(sus2)]
+[B: C D(sus2)]
 But that was just a dream
 That was just a dream
 
-[Verse: Am Em Dm G]
+[5: Am Em, Dm G]
 That's me in the corner
 That's me in the spotlight
 Losing my religion
@@ -6136,12 +6126,12 @@ And I don't know if I can do it
 Oh no, I've said too much
 I haven't said enough
 
-[Chorus: G F G Am(/H) C D(sus2) F G Am(/H) C]
+[R: G F G Am(/H) C D(sus2) F G Am(/H) C]
 I thought that I heard you laughing
 I thought that I heard you sing
 I think I thought I saw you try
 
-[Outro: D(sus2) F G Am(/H) C D(sus2) F G Am(7) G]
+[Z: D(sus2) F G Am(/H) C D(sus2) F G Am(7) G]
 But that was just a dream
 Try, cry, why try?
 That was just a dream,
@@ -6152,11 +6142,11 @@ a dream, dream
 
 ## Love Hurts ##
 && Nazareth &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E D A]
+[0: G F C]
 
-[Verse: H(/A) E C#m A H(/A) E G# C#m G# A H(/A) E G# C#m H(/A) E D A E]
+[1-2: D(/C) G Em C D(/C) G H Em H C D(/C) G H Em D(/C) G F C G]
 Love hurts, love scars, love wounds and mars, any heart not tough or strong enough
 To take a lot of pain, take a lot of pain, love is like a cloud, it holds a lot of rain
 Love hurts, ooo-oo love hurts
@@ -6165,17 +6155,17 @@ I'm young, I know, but even so, I know a thing or two, I learned from you
 I really learned a lot, really learned a lot, love is like a flame, it burns you when it's hot
 Love hurts, ooo-oo love hurts
 
-[Verse: G# C#m H]
+[3: H Em, D]
 Some fools think of happiness, blissfulness, togetherness
 Some fools fool themselves, I guess, they're not foolin' me
 
-[Verse: H(/A) E D A E]
+[4: D(/C) G F C G F C G]
 I know it isn't true, I know it isn't true, love is just a lie made to make you blue
 Love hurts, ooo-oo love hurts, ooo-oo love hurts
 
-[Verse: E C#m A H(/A)]
+[4: G Em C D(/C)]
 
-[Verse: H(/A) E D A]
+[5: D(/C) G F C G F C G F C]
 I know it isn't true, I know it isn't true, love is just a lie made to make you blue
 Love hurts, ooo-oo love hurts, ooo-oo love hurts, ooo-oo
 
@@ -6185,9 +6175,9 @@ Love hurts, ooo-oo love hurts, ooo-oo love hurts, ooo-oo
 && The Beatles &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: A(/F//F#/7/G)]
+[0: A(/F//F#/7/G)]
 
-[Verse: A(/F//G//F#/7/G) F#m Dm(/C) A# C F A# C G D]
+[1: A(/F//G//F#/7/G) F#m Dm(/C) A# C F A# C G D]
 Picture yourself in a boat on a river
 with tangerine trees and marmalade skies
 Somebody calls you, you answer quite slowly,
@@ -6197,12 +6187,12 @@ towering over your head
 Look for the girl with the sun in her eyes,
 and she's gone
 
-[Chorus: G C D]
+[R: G C D]
 Lucy in the sky with diamonds,
 Lucy in the sky with diamonds,
 Lucy in the sky with diamonds. Ah.
 
-[Verse: A(/F//G//F#/7/G) F#m Dm(/C) A# C F A# C G D(7)]
+[2: A(/F//G//F#/7/G) F#m Dm(/C) A# C F A# C G D(7)]
 Follow her down to a bridge by a fountain
 where rocking horse people eat marshmallow pies
 Everyone smiles as you drift past the flowers
@@ -6212,7 +6202,7 @@ waiting to take you away
 Climb in the back with your head in the clouds,
 and you're gone
 
-[Chorus: G C D A(/F//F#/7/G) F#m]
+[R: G C D G C D G C D A(/F//F#/7/G) F#m G C D G C D G C D A]
 Lucy in the sky with diamonds,
 Lucy in the sky with diamonds,
 Lucy in the sky with diamonds. Ah.
@@ -6233,7 +6223,7 @@ Lucy in the sky with diamonds. Ahh. Ahhh
 && Jelen &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: A D]
+[1+I+2: A D]
 Zapal ten oheň ve mně, čeho se bojíš?
 Zápalkou škrtni jemně
 zapal ten oheň ve mně, čeho se bojíš?
@@ -6246,19 +6236,19 @@ Sedíme na pavlači, přichází ráno, tobě se lesknou oči
 sedíme na pavlači, přichází ráno a mně se hlava točí
 pojď dál, prosím tě, nenech se, prosit se dál nenech se
 
-[Chorus: F#m E A D]
+[R: F#m E A, D A D]
 Hodiny se zastaví a v devět třicet v pondělí
 Magdaléno, tvoje vlasy
 leží pod mou postelí a i když jsme to nechtěli
 oblíkáš se, pročpak asi?
 Hodiny se zastaví a v devět třicet v pondělí jsem sám
 
-[Verse: A D]
+[3: A D]
 Stojíme na rozcestí a zvony zvoní, daleko od bolestí
 stojíme na rozcestí a zvony zvoní, možná nás čeká štěstí
 pojď dál, prosím tě nenech se, prosit se dá, nenech se
 
-[Chorus: F#m E A]
+[R: F#m E A]
 Hodiny se zastaví a v devět třicet v pondělí
 Magdaléno, tvoje vlasy
 leží pod mou postelí a i když jsme to nechtěli
@@ -6271,9 +6261,9 @@ leží pod mou postelí a i když jsme to nechtěli
 oblíkáš se, pročpak asi?
 Hodiny se zastaví a v devět třicet v pondělí jsem sám
 
-[Interlude: D A]
+[I: D A]
 
-[Chorus: F#m E A]
+[R: F#m E A]
 Hodiny se zastaví a v devět třicet v pondělí
 Magdaléno, tvoje vlasy
 leží pod mou postelí a i když jsme to nechtěli
@@ -6291,7 +6281,7 @@ když vycházíš ze dveří, tak sama tomu nevěříš
 && Blondie &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: A E F#m D A E D]
+[1-2: A E F#m D A E D]
 She moves like she don't care
 Smooth as silk
 Cool as air
@@ -6301,11 +6291,11 @@ She doesn't know your name
 and your heart beats like a subway train
 Oooh, it makes you wanna die
 
-[Bridge: D E F#m]
+[B: D E F#m]
 Oooh, don't you wanna take her?
 Wanna make her all your own?
 
-[Chorus: A E F#m D A E D]
+[R+3-4: A E F#m D A E D]
 Maria
 You've gotta see her
 Go insane and out of your mind
@@ -6321,11 +6311,11 @@ Won't come in from the rain
 She's oceans running down the drain
 Blue as ice and desire
 
-[Bridge: D E F#m]
+[B: D E F#m]
 Don't you wanna make her?
 Oooh, don't you wanna take her home?
 
-[Chorus: A E F#m D A E D]
+[R: A E F#m D A E D]
 Maria
 You've gotta see her
 Go insane and out of your mind
@@ -6333,16 +6323,16 @@ Regina
 Ave Maria
 A million and one candlelights
 
-[Bridge: D E F#m]
+[B: D E F#m]
 Oooh, don't you wanna break her?
 Oooh, don't you wanna take her home?
 
-[Verse: A E F#m D]
+[5: A E F#m D]
 She walks like she don't care
 Walking on imported air
 Oooh, it makes you wanna die
 
-[Chorus: A E F#m D A E D]
+[R: A E F#m D A E D]
 Maria
 You've gotta see her
 Go insane and out of your mind
@@ -6350,7 +6340,6 @@ Regina
 Ave Maria
 A million and one candlelights
 
-[Chorus: A E F#m D]
 Maria
 You've gotta see her
 Go insane and out of your mind
@@ -6369,9 +6358,9 @@ Ave Maria
 && Tomáš Klus &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: F]
+[0: F]
 
-[Chorus: F(/C) A(/E) A#(/F) C(/G)]
+[R+1+B+I: F(/C) A(/E) A#(/F) C(/G)]
 Je den, tak pojď Marie ven
 budeme žít, házet šutry do oken
 je dva - necháme doma trucovat
@@ -6418,43 +6407,45 @@ býti věčně na cestách a k ránu spícím plícím život vdechovat
 && Lucie &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: D F#m Hm G A]
+[1: D F#m Hm G A]
 Nechce se mi čekat Chci na tebe psát
 Poetická slova jak moc mám tě rád
 Jak Piere de Ronsard srdce hořící
 Prsty od inkoustu slova letící
 
-[Chorus: G D A Hm]
+[R: G D A Hm G D A]
 Marie jsi jako výkřik do ticha
 Já se cítím jak stroj hodin který netikaj
 Marie jak bez tebe teď budu žít
 Tak prosím bouchni do kyvadla, zruš ten hořkej klid
 
-[Verse: D F#m Hm G A]
+[2: D F#m Hm G A]
 Usnu ve tvém tichu spánkem kočičím
 Rozpouštím tvou pýchu duši nezničím
 Tak jako pan Seifert chodím po nocích
 Tajně píšu na rty že touha není hřích
 
-[Chorus: G D A Hm]
+[R: G D A Hm G D A]
 Marie jsi jako výkřik do ticha
 Já se cítím jak stroj hodin který netikaj
 Marie jak bez tebe teď budu žít
 Tak prosím bouchni do kyvadla, zruš ten hořkej klid
 
-[Verse: D F#m Hm G A]
+[3: D F#m Hm G A]
 Poetická slova ve tmě tonoucí
 Toužím vytetovat do tvých zákoutí
 Jak v srdeční pasti zmrzlej vodopád
 Kosti ve mě chrastí tak ukoj můj hlad
 
-[Chorus: G D A Hm]
+[S: G D A Hm]
+
+[R: G D A Hm G D A]
 Marie jsi jako výkřik do ticha
 Já se cítím jak stroj hodin který netikaj
 Marie jak bez tebe teď budu žít
 Tak prosím bouchni do kyvadla, zruš ten hořkej klid
 
-[Bridge: G D A Hm G A D F#m Hm G A D]
+[B: G D A Hm G D A G D A Hm G A D F#m Hm G A D]
 Na na na
 Na na na
 Na na na
@@ -6464,12 +6455,12 @@ Na na na
 
 ## Memories ##
 && Maroon 5 &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 4 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: G D Em Hm C G C D]
+[0: H F# G#m D#m E H E F#]
 x = mute string
 
-[Intro: G D Em Hm C G C D G D Em Hm C G D C]
+[0: H F# G#m D#m E H E F# H F# G#m D#m E H F# E]
 Here's to the ones that we got
 Cheers to the wish you were here but you're not
 'Cause the drinks bring back all the memories
@@ -6479,7 +6470,7 @@ Toast to the ones that we lost on the way
 'Cause the drinks bring back all the memories
 And the memories bring back memories, bring back you
 
-[Verse: G D Em Hm C G C D]
+[1-2+R: H F# G#m D#m E H E F#]
 There's a time that I remember, when I did not know no pain
 When I believed in forever, and everything would stay the same
 Now my heart feel like December, when somebody say your name
@@ -6497,13 +6488,13 @@ Toast to the ones that we lost on the way
 'Cause the drinks bring back all the memories
 And the memories bring back memories, bring back you
 
-[Chorus: D Em Hm C G D C G]
+[R: F# G#m D#m E H F# E H]
 Doo-dooo doo-doo-doo-do
 Doo-doo-do dooo doo-doo-dooo-do
 Doo-doo-do-dooo doo-doo-dooo
 Memories bring back memories, bring back you
 
-[Verse: G D Em Hm C G C D]
+[3-4+R: H F# G#m D#m E H E F#]
 There's a time that I remember, when I never felt so lost
 When I felt all of the hatred, was too powerful to stop (ooh yeah)
 Now my heart feel like an ember, and it's lighting up the dark
@@ -6521,7 +6512,7 @@ Toast to the ones that we lost on the way
 'Cause the drinks bring back all the memories (yeah)
 And the memories bring back memories, bring back you
 
-[Chorus: D Em Hm C G C D G]
+[R: F# G#m D#m E H E F# H]
 Doo-dooo doo-doo-doo-do
 Doo-doo-do dooo doo-doo-dooo-do
 Doo-doo-do-dooo doo-doo-dooo
@@ -6531,7 +6522,7 @@ Doo-doo-do dooo doo-doo-dooo-do
 Doo-doo-do-dooo doo-doo-dooo (ooh yeah)
 Memories bring back memories, bring back you
 
-[Outro: D Em Hm C G D C G]
+[Z: F# G#m D#m E H F# E H]
 Yeah-yeah yeah yeah
 Yeah-yeah yeah yeah, yeah-no
 Memories bring back memories, bring back you
@@ -6542,7 +6533,7 @@ Memories bring back memories, bring back you
 && Jaromír Nohavica &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G Hm Em D G D Em Cm D]
+[1-5: G Hm Em D, D Em Cm D G]
 Mladičká básnířka s korálky nad kotníky
 bouchala na dvířka paláce poetiky
 s někým se vyspala někomu nedala láska jako hobby
@@ -6568,7 +6559,7 @@ ale básníci-tatíci nepomýšlej na rozvody
 cítila u srdce jak po ní přešla železná bota
 pak o tom napsala sonnet a ten byl ze života
 
-[Bridge: G Hm Em D G C G D]
+[B: G Hm Em D, C G D G]
 Jó mladé básnířky
 vy mladé básnířky
 jó mladé básnířky, mladé básnířky
@@ -6578,9 +6569,9 @@ básnířky
 
 ## Moonlight shadow ##
 && Mike Oldfield, Maggie Reilly &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 4 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am F G C G]
+[1-2: C#m A H E H C#m A H E H E H]
 The last that ever she saw him
 Carried away by a moonlight shadow
 He passed on worried and warning
@@ -6599,7 +6590,7 @@ Far away on the other side
 He was shot six times by a man on the run
 And she couldn't find how to push through
 
-[Chorus: G C F]
+[R: H E A]
 I stay
 I pray
 See you in heaven far away
@@ -6607,7 +6598,7 @@ I stay
 I pray
 See you in heaven one day
 
-[Verse: Am F G C G]
+[3: C#m A H E H C#m A H E H E H]
 Four a.m. in the morning
 Carried away by a moonlight shadow
 I watched your vision forming
@@ -6617,7 +6608,7 @@ Far away on the other side
 Will you come to talk to me this night?
 But she couldn't find how to push through
 
-[Chorus: G C F]
+[R: H E A]
 I stay
 I pray
 See you in heaven far away
@@ -6625,7 +6616,7 @@ I stay
 I pray
 See you in heaven One day
 
-[Outro: Am F G C G]
+[Z: C#m A H E H C#m A H E H E H C#m A H E H C#m A H, E]
 1× 1× 1× ½× ½×
 1× 1× 1× ½× ½×
 Caught in the middle of a hundred and five
@@ -6643,7 +6634,7 @@ But she couldn't find how to push through
 && Pink Floyd &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G C(/G) G D C(/G)]
+[1: G C(/G) G C(/G) G C(/G) G D C(/G)]
 Mother, do you think they'll drop the bomb?
 Mother, do you think they'll like this song?
 Mother, do you think they'll try to break my balls?
@@ -6653,7 +6644,7 @@ Mother, should I trust the government?
 Mother, will they put me in the firing line?
 Ooh ah, is it just a waste of time?
 
-[Chorus: G C(/G) F C(/G) G D C(/G)]
+[R: G C(/G) F C(/G) F C(/G) F C(/G) F C(/G) F C(/G) G D C(/G) D C(/G) D C(/G)]
 Hush now baby, baby, don't you cry.
 Mamma's gonna make all of your nightmares come true,
 Mamma's gonna put all of her fears into you,
@@ -6664,15 +6655,13 @@ Oooh babe,
 Oooh babe,
 Ooh babe, of course Mamma's gonna help build the wall.
 
-[Solo: G C(/G) D C(/G)]
-
-[Verse: G C(/G) G D C(/G)]
+[2: G C(/G), D C(/G) G]
 Mother, do you think she's good enough, for me?
 Mother, do you think she's dangerous, to me?
 Mother, will she tear your little boy apart?
 Ooh ah, Mother, will she break my heart?
 
-[Chorus: G C(/G) F C(/G) G D C(/G)]
+[R: G C(/G) F C(/G) F C(/G) F C(/G) F C(/G) F C(/G) G D C(/G) D C(/G) D C(/G)]
 Hush now baby, baby, don't you cry.
 Mamma's going to check out all your girlfriends for you,
 Mamma won't let anyone dirty get through,
@@ -6688,11 +6677,11 @@ Mother, did it need to be so high?
 
 ## Mr Brightside ##
 && The Killers &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C(/H) F]
+[0: C#(/C) F#]
 
-[Verse: C(/H) F G]
+[1: C#(/C) F# G#]
 Coming out of my cage
 And I've been doing just fine
 Gotta gotta be down
@@ -6710,7 +6699,7 @@ And my stomach is sick
 And it's all in my head
 But she's touching his
 
-[Verse: Am G F]
+[2: A#m G# F#]
 Chest now
 He takes off her dress now
 Let me go
@@ -6718,7 +6707,7 @@ I just can't look
 It's killing me
 And taking control
 
-[Chorus: C F(add9/maj7) Am G]
+[R: C# F#(add9/maj7) A#m G#]
 Jealousy
 Turning saints into the sea
 Swimming through sick lullabies
@@ -6728,7 +6717,7 @@ Destiny is calling me
 Open up my eager eyes
 ‘Cause I'm Mr. Brightside
 
-[Verse: C(/H) F G]
+[3: C#(/C) F# G#]
 I'm coming out of my cage
 And I've been doing just fine
 Gotta gotta be down
@@ -6746,7 +6735,7 @@ And my stomach is sick
 And it's all in my head
 But she's touching his
 
-[Verse: Am G F]
+[4: A#m G# F#]
 Chest now
 He takes off her dress now
 Let me go
@@ -6754,7 +6743,7 @@ Let me go
 It's killing me
 And taking control
 
-[Chorus: C F(add9/maj7) Am G]
+[R+Z: C# F#(add9/maj7) A#m G#]
 Jealousy
 Turning saints into the sea
 Swimming through sick lullabies
@@ -6773,19 +6762,19 @@ I never
 
 ## Mrs. Robinson ##
 && Simon & Garfunkel &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: E A]
+[1: F# H]
 De de de de de de de de de de de de de
 do do do do do do do do do
 
-[Verse: D G C Am]
+[2: E A D Hm]
 de de de de de de de de de de de de
 
-[Verse: Em D]
+[3: F#m E]
 do do do do do do do do do
 
-[Chorus: G Em C D G Em C Am E]
+[R: A F#m, D E A F#m A F#m D Hm F#]
 And here's to you, Mrs. Robinson,
 Jesus loves you more than you will know, woah woah woah
 God bless you, please Mrs. Robinson.
@@ -6793,13 +6782,13 @@ Heaven holds a place for those who pray,
 Hey, hey, hey
 Hey, hey, hey
 
-[Verse: E A D G C(/H) Am E D]
+[4: F# H E A D(/C#) Hm F# E]
 We'd like to know a little bit about your for our files
 We'd like to help you learn to help yourself.
 Look around you all you see are sympathetic eyes,
 Stroll around the grounds until you feel at home.
 
-[Chorus: G Em C D G Em C Am E]
+[R: A F#m, D E A F#m A F#m D Hm F#]
 And here's to you, Mrs. Robinson,
 Jesus loves you more than you will know, woah woah woah
 God bless you, please Mrs. Robinson.
@@ -6807,13 +6796,13 @@ Heaven holds a place for those who pray,
 Hey, hey, hey
 Hey, hey, hey
 
-[Verse: E A D G C(/H) Am(/H) E Dm(/H)]
+[5: F# H E A D(/C#) Hm(/C#) F# Em(/C#)]
 Hide in the hiding place where no one ever goes.
 Put it in your pantry with your cupcakes.
 It's a little secret just the Robinsons' affair.
 Most of all you've got to hide it from the kids.
 
-[Chorus: G Em C D G Em C Am E]
+[R: A F#m, D E A F#m A F#m D Hm F#]
 Coo-coo-ca-choo, Mrs. Robinson,
 Jesus loves you more than you will know, woah woah woah
 God bless you, please Mrs. Robinson.
@@ -6821,13 +6810,13 @@ Heaven holds a place for those who pray,
 Hey, hey, hey
 Hey, hey, hey
 
-[Verse: E A D G C(/H) Am E D]
+[6: F# H E A D(/C#) Hm F# E]
 Sitting on a sofa on a Sunday afternoon.
 Going to the candidate's debate.
 Laugh about it, shout about it when you've got to choose
 Every way you look at this you lose.
 
-[Chorus: G Em C D G Em C Am E]
+[R: A F#m, D E A F#m A F#m D Hm F#]
 Where have you gone, Joe DiMaggio,
 Our nation turns it's lonely eyes to you, ooo ooo ooo
 What's that you say, Mrs. Robinson.
@@ -6841,53 +6830,53 @@ Hey hey hey.
 && Marie Rottrová &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D# Gm Cm Gm Fm G# A#]
+[0: D# Gm Cm Gm Fm G# A#]
 
-[Verse: Cm D# Cm G# D# Cm D#(7) G# A#(7sus4)]
+[1: Cm D# Cm G# D# Cm D#(7) G# A#(7sus4)]
 Jsi růží mezi muži, holkám dech se úží
 mají husí kůži, když jdeš blíž
 ta hruď, ten zrak, ty vousy, holky vlasy rvou si
 navzájem se rdousí, ty to víš
 
-[Chorus: D#(6) H(/C#) C#(7sus4)]
+[R: D#(6) H(/C#) C#(7sus4)]
 Jsi jediný ze sta, jsi do ráje cesta
 jsi z jiného těsta, mezi muži klenot
 ten šarm a ta gesta, jsi ozdobou města
 jsi jediný ze sta, mezi muži klenot
 
-[Verse: Cm D# Cm G# D# Cm D#(7) G# A#(7sus4)]
+[2: Cm D# Cm G# D# Cm D#(7) G# A#(7sus4)]
 Jsi mistr slov a tance, extrakt elegance
 nejkrásnější šance, když jdeš blíž
 jsi král hercové hlášky, sprintér bez překážky
 a věčně bez porážky, ty to víš
 
-[Chorus: D#(6) H(/C#) C#(7sus4)]
+[R: D#(6) H(/C#) C#(7sus4)]
 Jsi jediný ze sta, jsi do ráje cesta
 jsi z jiného těsta, mezi muži klenot
 ten šarm a ta gesta, jsi ozdobou města
 jsi jediný ze sta, mezi muži klenot
 
-[Bridge: D# Cm Fm A#(7sus4)]
+[B: D# Cm Fm A#(7sus4)]
 Supr muž, supr muž, čtyři, tři dva, jedna, už
 supr muž, supr muž, a ty holka slzy suš
 supr muž, supr muž, do srdcí už vniká nůž
 supr muž, supr muž, čtyři, tři dva, jedna, už
 
-[Chorus: D#(6) H(/C#) C#(7sus4)]
+[R: D#(6) H(/C#) C#(7sus4)]
 Ze sta, jsi jediný ze sta
 jsi do ráje cesta, mezi muži klenot
 ten šarm a ta gesta, jsi ozdobou města
 jsi jediný ze sta, mezi muži klenot
 
-[Interlude: D# Gm Cm Gm Fm G# A#]
+[I: D# Gm Cm Gm Fm G# A#]
 
-[Verse: Cm D# Cm G# D# Cm D#(7) G# A#(7sus4)]
+[3: Cm D# Cm G# D# Cm D#(7) G# A#(7sus4)]
 Jsi mužem číslo jedna, růže koncem ledna
 a skála nedohledná když jdeš blíž
 jsi fotka z magazínů, první z manekýnů
 vývar cukerínu, ty to víš
 
-[Chorus: D#(6) H(/C#) C#(7sus4)]
+[R: D#(6) H(/C#) C#(7sus4)]
 Jsi jediný ze sta, jsi do ráje cesta
 jsi z jiného těsta, mezi muži klenot
 ten šarm a ta gesta, jsi ozdobou města
@@ -6906,7 +6895,7 @@ Jen ty, ze sta, k štěstí cesta
 && Wanastowi Vjecy &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: D G C]
+[1-2: D G C]
 Najednou lítáš nad vodou,
 ne náhodou - a včera jsi se chvěla
 S náladou mizíš oblohou,
@@ -6917,11 +6906,11 @@ svítí lucernou - moucha pracky zvedá
 P.B.CH. s rybou kouzelnou
 hlídá pod tebou - vědí co je třeba
 
-[Chorus: A D C G C]
+[R: A D C G C]
 Jseš motýl, zkoušíš projít tmou - budeš nahá
 S tou rybou kouzel plout ve dvou - budeš nahá
 
-[Verse: D G C]
+[3-4: D G C]
 Andělé svícny pozvednou,
 světlo proudí tmou - dní je třistatřiatřicet
 Cesty jdou, ústí v jedinou,
@@ -6932,7 +6921,7 @@ v kýbli s bublinou - díra v sýru touží
 Do peří bílou ponorkou
 letíš spirálou - prstem v louži kroužíš
 
-[Chorus: A D C G C]
+[R: A D C G C]
 Bublinu v kýbli nech si zdát - a buď nahá
 S kobylkou v trávě budeš spát - taky nahá
 S hlemýžděm založ novej stát - a buď nahá
@@ -6943,7 +6932,7 @@ S kobylkou v trávě budeš spát - taky nahá
 Už víš že sex a prachy lžou - když jsi nahá
 Kytky ti vlasy provlíknou - když jsi nahá
 
-[Verse: D G C]
+[5-6: D G C]
 Přilítnou broučci s podkovou,
 svítí lucernou - moucha pracky zvedá
 P.B.CH. s rybou kouzelnou
@@ -6961,33 +6950,33 @@ jó jó jóu-ua ba ba ba bam
 && INXS &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am F Dm F]
+[1: Am F Dm F]
 Don't ask me, what you know is true
 Don't have to tell you, I love your precious heart
 
-[Chorus: C F G]
+[R: C F, G]
 I
 I was standing
 You were there
 Two worlds collided
 And they could never tear us apart
 
-[Verse: Am F Dm F]
+[2: Am F Dm F]
 We could live for a thousand years
 But if I hurt you, I'd make wine from your tears
 I told you that we could fly
 Cause we all have wings but some of us don't know why
 
-[Chorus: C F G]
+[R: C F, G]
 I
 I was standing
 You were there
 Two worlds collided
 And they could never, ever, tear us apart
 
-[Solo: Am F Dm F]
+[S: Am F Dm F]
 
-[Chorus: C F G]
+[R: C F C F C F C F G]
 I
 (Don't ask me)
 I was standing
@@ -7066,9 +7055,9 @@ Next to me (Next to me)
 
 ## Norwegian Wood (This Bird Has Flown) ##
 && The Beatles &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: D C(add9) G(/H)]
+[1: E D(add9) A(/C#)]
 I once had a girl
 Or should I say
 She once had me
@@ -7076,11 +7065,11 @@ She showed me her room
 Isn't it good
 Norwegian wood?
 
-[Bridge: Dm G Dm Em(7) A]
+[B: Em A Em F#m(7) H]
 She asked me to stay, and she told me to sit anywhere
 So I looked around and I noticed there wasn't a chair
 
-[Verse: D C(add9) G(/H)]
+[2: E D(add9) A(/C#)]
 I sat on a rug
 Biding my time
 Drinking her wine
@@ -7088,11 +7077,11 @@ We talked until two
 And then she said
 "It's time for bed"
 
-[Bridge: Dm G Dm Em(7) A]
+[B: Em A Em F#m(7) H]
 She told me she worked in the morning and started to laugh
 I told her I didn't and crawled off to sleep in the bath
 
-[Verse: D C(add9) G(/H)]
+[3: E D(add9) A(/C#)]
 And when I awoke
 I was alone
 This bird had flown
@@ -7104,9 +7093,9 @@ Norwegian wood?
 
 ## Nosorožec ##
 && Karel Plíhal &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am Dm Am D#(dim) E Am Dm Am E]
+[1: Cm Fm, F#(dim) G Cm Fm Cm Fm Cm G Cm]
 Přivedl jsem domů Božce
 nádhernýho nosorožce
 originál nosorožce
@@ -7116,7 +7105,7 @@ připadal mi velmi krotký
 pošlapal mi polobotky
 ale jinak v pohodě
 
-[Bridge: Dm Am E Am Dm Am D#(dim) E]
+[B: Fm Cm G Cm Fm Cm F#(dim) G Cm Fm Cm Fm Cm F#(dim) G]
 Vznikly menší potíže
 při nástupu do zdviže
 při výstupu ze zdviže
@@ -7126,7 +7115,7 @@ když Božena v negližé
 když Božena v negližé
 řvala, že ho nechce
 
-[Verse: Am Dm Am D#(dim) E Am Dm Am E]
+[2: Cm Fm, F#(dim) G Cm Fm Cm Fm Cm G Cm]
 Marně jsem se snažil Božce
 vnutit toho tlustokožce
 originál nosorožce
@@ -7136,7 +7125,7 @@ pak mi řekla: padej, sbohem
 zabouchla nám před nosorohem
 tak tu sedím na schodech
 
-[Bridge: Dm Am E Am Dm Am D#(dim) E Am]
+[B: Fm Cm G Cm Fm Cm F#(dim) G Cm Fm Cm]
 Co nevidím - souseda
 jak táhne domů medvěda
 originál medvěda
@@ -7146,7 +7135,7 @@ a už ho taky pucuje
 a zamčela a trucuje,
 tak si to taky slízli
 
-[Verse: Am Dm Am E]
+[3: Cm Fm, G Cm]
 Tak tu sedím se sousedem
 s nosorožcem a s medvědem
 nadáváme jako jeden
@@ -7158,9 +7147,9 @@ na ty naše slepice
 && Dan Bárta &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D F#m G A Hm]
+[0: D F#m G, A Hm]
 
-[Verse: D(maj7) F#m G A]
+[1-2+R: D F#m G, A]
 Lead my heart
 in my own place
 run up to the stars across the heaven
@@ -7183,6 +7172,7 @@ you are crazy smiling
 Now we don't have it, we are mad
 go round this speedy romancing
 
+[3: D F#m G, A D(maj7)]
 You have the time to take a break
 Get up to find your lost control
 Someone loves you trust your soul
@@ -7190,6 +7180,7 @@ looking for the right size and a good measure
 I'm a tough guy from the sky
 my good will drives me crazy
 
+[R: D F#m G, A]
 When I'm standing on my head
 you are crazy smiling
 Now we don't have it, we are mad
@@ -7205,6 +7196,7 @@ you are crazy smiling
 Now we don't have it, we are mad
 go round this speedy romancing
 
+[R: D F#m G, A D(maj7)]
 When I'm standing on my head
 you are crazy smiling
 Now we don't have it, we are mad
@@ -7216,13 +7208,13 @@ go round this speedy romancing
 && U2 &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am D(sus2) F(maj7) G]
+[1: Am D(sus2) F(maj7) G]
 Is it getting better
 Or do you feel the same
 Will it make it easier on you
 Now you got someone to blame
 
-[Chorus: C Am F(maj7)]
+[R: C Am F(maj7)]
 You say
 One love
 One life
@@ -7233,13 +7225,13 @@ We get to share it
 It leaves you baby
 If you don't care for it
 
-[Verse: Am D(sus2) F(maj7) G]
+[2: Am D(sus2) F(maj7) G]
 Did I disappoint you?
 Or leave a bad taste in your mouth?
 You act like you never had love
 And you want me to go without
 
-[Chorus: C Am F(maj7)]
+[R: C Am F(maj7)]
 Well it's too late
 Tonight
 To drag the past out
@@ -7250,13 +7242,13 @@ We get to carry each other
 Carry each other
 One
 
-[Verse: Am D(sus2) F(maj7) G]
+[3: Am D(sus2) F(maj7) G]
 Have you come here for forgiveness
 Have you come to raise the dead
 Have you come here to play Jesus
 To the lepers in your head
 
-[Chorus: C Am F(maj7)]
+[R: C Am F(maj7)]
 Did I ask too much
 More than a lot
 You gave me nothing
@@ -7266,7 +7258,7 @@ But we're not the same
 We hurt each other
 Then we do it again
 
-[Bridge: C Am C G Am F(maj7)]
+[B: C Am, G Am F(maj7) C]
 You say
 Love is a temple
 Love a higher law
@@ -7278,7 +7270,7 @@ And I can't be holding on
 To what you got
 When all you got is hurt
 
-[Chorus: C Am F(maj7)]
+[R: C Am F(maj7)]
 One love
 One blood
 One life
@@ -7299,20 +7291,20 @@ One
 
 ## One Of Us ##
 && Joan Osborne &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Em C(add9) G D]
+[1: F#m D(add9) A E]
 If God had a name, what would it be
 And would you call it to his face
 If you were faced with him in all his glory
 What would you ask if you had just one question
 
-[Verse: C(add9) G D C(add9) D]
+[2: D(add9) A E, E]
 And yeah yeah, God is great
 Yeah yeah, God is good
 Yeah yeah, yeah yeah yeah
 
-[Chorus: Em C(add9) G D]
+[R+3: F#m D(add9) A E]
 What if God was one of us?
 Just a slob like one of us?
 Just a stranger on the bus
@@ -7323,12 +7315,12 @@ And would you want to see
 If seeing meant that you would have to believe
 In things like heaven and in Jesus and the saints and all the prophets
 
-[Verse: C(add9) G D C(add9) D]
+[4: D(add9) A E, E]
 And yeah yeah, God is great
 Yeah yeah, God is good
 Yeah yeah, yeah yeah yeah
 
-[Chorus: Em C(add9) G D]
+[R: F#m D(add9) A E]
 What if God was one of us
 Just a slob like one of us
 Just a stranger on the bus
@@ -7338,12 +7330,12 @@ Back up to heaven all alone
 Nobody calling on the phone
 Except for the Pope maybe in Rome
 
-[Verse: C(add9) G D C(add9) D]
+[5: D(add9) A E, E]
 And yeah yeah, God is great
 Yeah yeah, God is good
 Yeah yeah, yeah yeah yeah
 
-[Chorus: Em C(add9) G D C(add9)]
+[R: F#m D(add9) A E, D(add9)]
 What if God was one of us
 Just a slob like one of us
 Just a stranger on the bus
@@ -7361,9 +7353,9 @@ Except for the Pope maybe in Rome
 && Zuzana Navarová &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: A E F#m D]
+[0: A E F#m D]
 
-[Verse: A E F#m D A E C#m C# D E C#m F#m A E D]
+[1-2: A E F#m D A E C#m C# D E C#m F#m A E D]
 Orlice zas šumí nad splavem
 odpusť mi, modlím se ať všechno přestanem'
 odpusť mi ke smutku ten chlad, je květen a ne listopad
@@ -7374,33 +7366,33 @@ odpusť mi modlím se ať všechno přestanem'
 odpusť, že nemám na duši smutek
 ač králi Artuši prý utek' kůň i s bílým praporem
 
-[Chorus: C G A D H E]
+[R: C G A D, H E]
 Vysoko v horách prší, dolem přelít hvízdák
 vysoko v horách prší na pěvuší hnízda
 vysoko v horách prší, Dáša ruší, hvízdá
 vysoko v horách horko v autobuse, bonbon v puse a ty hvízdáš s ní
 
-[Verse: A E F#m D A E C#m C# D E C#m F#m A E D]
+[3: A E F#m D A E C#m C# D E C#m F#m A E D]
 Z daleka Orlice zas šumí nad splavem
 odpusť mi, modlím se ať všechno přestanem'
 odpusť ať nemám nikdy strach, kéž dýchám na zobáčcích vah
 odpusť, Orlice zas šumí nad splavem
 
-[Chorus: C G A D H E]
+[R: C G A D, H E]
 Vysoko v horách prší voda na tři couly
 vysoko v horách prší, Dáša už se choulí
 vysoko v horách prší, na kalhotách bouli
 vysoko v horách horko v autobuse, sucho v puse, co si počneš s ní
 
-[Verse: A E F#m D A E C#m C# D E C#m F#m A E D]
+[4: A E F#m D A E C#m C# D E C#m F#m A E D]
 Zdaleka Orlice zas šumí nad splavem
 odpusť mi modlím se ať všechno přestanem'
 odpusť, že nemám na duši smutek
 ač králi Artuši prý utek' kůň i s bílým praporem
 
-[Interlude: C G A D H E]
+[I: C G A D, H E]
 
-[Verse: A E F#m D A E C#m C# D E C#m F#m A E D]
+[5: A E F#m D A E C#m C# D E C#m F#m A E D]
 Orlice zas šumí nad splavem
 odpusť mi, modlím se ať všechno přestanem'
 odpusť ať nemám vůbec strach, kéž dýchám na zobáčcích vah
@@ -7412,7 +7404,7 @@ odpusť, Orlice zas šumí nad splavem
 && Robert Křesťan &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G C G D]
+[1: G C, D C G C G D G]
 Co skrýváš za víčky,
 a plameny svíčky,
 snad houf bílých holubic nebo jen žal?
@@ -7420,14 +7412,14 @@ Tak odplul ten prvý,
 den zmáčený krví,
 ani pouťovou panenku nezanechal.
 
-[Chorus: C G D G]
+[R: C G D, C G D G]
 Otevři oči, ty uspěchaná,
 dámo uplakaná.
 Otevři oči,
 ta hloupá noc končí,
 a mír je mezi náma.
 
-[Verse: G C G D]
+[2: G C, D C G C G D G]
 Už si oblékni šaty,
 i řetízek zlatý,
 a umyj se půjdeme na karneval.
@@ -7435,7 +7427,7 @@ A na bílou kůži,
 ti napíšu tuží,
 že dámou jsi byla a zůstáváš dál.
 
-[Chorus: C G D G]
+[R: C G D, C G D G]
 Otevři oči, ty uspěchaná,
 dámo uplakaná.
 Otevři oči,
@@ -7448,37 +7440,37 @@ a mír je mezi náma.
 && Xavier Baumaxa &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: A C#m F#m D]
+[1: A C#m F#m D]
 Krajina svádí k podzimním výletům,
 tripům do mládí a častým úletům.
 Barevný listí je rázem pestřejší,
 hlavu ti čistí, no a ty jsi bystřejší.
 
-[Chorus: A E F#m D]
+[R: A E F#m D]
 Pašuješ zážitky, pašuješ všechno co se dá,
 sáčky suchý pažitky, tomu se říká dobrá nálada.
 Pašuješ zážitky, pašuješ všechno co se dá,
 sáčky suchý pažitky, tomu se říká dobrá nálada.
 
-[Verse: A C#m F#m D]
+[2: A C#m F#m D]
 Hladina tůní pomalu vychladá,
 je konec vůním a léto uvadá.
 Na stehna fenek dopadl dlouhý stín,
 skončil čas trenek, ale já zas něco vymyslím.
 
-[Chorus: A E F#m D]
+[R: A E F#m D]
 Pašuješ zážitky, pašuješ všechno co se dá,
 sáčky suchý pažitky, tomu se říká dobrá nálada.
 Pašuješ zážitky, pašuješ všechno co se dá,
 sáčky suchý pažitky, tomu se říká dobrá nálada.
 
-[Verse: A C#m F#m D]
+[3: A C#m F#m D]
 Kochám se chcaje, překvapen výdrží,
 té co mi ho saje a co mi podrží.
 Malinký flíček na kalhotách vydržím,
 kalhot dost maje, tyto poté vydražím.
 
-[Chorus: A E F#m D]
+[R: A E F#m D]
 Pašuješ zážitky, pašuješ všechno co se dá,
 sáčky suchý pažitky, tomu se říká dobrá nálada.
 Pašuješ zážitky, pašuješ všechno co se dá,
@@ -7488,11 +7480,11 @@ sáčky suchý pažitky, tomu se říká dobrá nálada.
 
 ## Perfect Day ##
 && Lou Reed &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E Am]
+[0: F A#m]
 
-[Verse: Am D G C F Dm E]
+[1-2: A#m D# G# C# F# D#m F]
 Just a perfect day,
 Drink sangria in the park,
 And then later, when it gets dark,
@@ -7503,14 +7495,14 @@ Feed animals in the zoo
 Then later, a movie, too,
 And then home.
 
-[Chorus: A D C#m D(/H//C#) A E F#m E D]
+[R: A# D# Dm D#(/C//D) A# F Gm F D# Gm F D#]
 Oh it's such a perfect day,
 I'm glad I spent it with you.
 Oh such a perfect day,
 You just keep me hanging on,
 You just keep me hanging on.
 
-[Verse: Am D G C F Dm E]
+[3-4: A#m D# G# C# F# D#m F]
 Just a perfect day,
 Problems all left alone,
 Weekenders on our own.
@@ -7521,16 +7513,16 @@ You made me forget myself.
 I thought I was someone else,
 Someone good.
 
-[Chorus: A D C#m D(/H//C#) A E F#m E D]
+[R: A# D# Dm D#(/C//D) A# F Gm F D# Gm F D#]
 Oh it's such a perfect day,
 I'm glad I spent it with you.
 Oh such a perfect day,
 You just keep me hanging on,
 You just keep me hanging on.
 
-[Interlude: F#m E D]
+[I: Gm F D#]
 
-[Verse: C#m G D(/H//C#) A]
+[5: Dm G# D#(/C//D) A#]
 Youre going to reap just what you sow,
 Youre going to reap just what you sow,
 Youre going to reap just what you sow,
@@ -7542,43 +7534,43 @@ Youre going to reap just what you sow
 && Poletíme? &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Chorus: G Am C G D G Am C D]
+[R: G Am C G D G Am C D]
 Pojď se mnou, lásko má
 já ukážu ti cestu realitou je nádherná,
 budem dřít si holou řiť, tak jak se má
 a od zdi ke zdi šourat se my dva.
 
-[Verse: Am G]
+[1: Am G]
 Mám vlhkej byt bez oken, ve kterým jsme spokojen,
 mám pánvičku, kastroly, na WC šváby a v mouce moly,
 mám matraci i přikrývku, umím vajíčka i polívku a
 hlavně umím obejmout, ale nechci tě zbytečně dojmout.
 
-[Chorus: G Am C G D G Am C D]
+[R: G Am C G D G Am C D]
 Pojď se mnou, lásko má
 já ukážu ti cestu realitou je nádherná,
 budem dřít si holou řiť, tak jak se má
 a od zdi ke zdi šourat se my dva.
 
-[Verse: Am G]
+[2: Am G]
 Tvoje přání je rozkazem, mrtvou kočkou vytřu zem
 a když budeš chtít na výlet, můžeš k botníku a zpět
 a když budeš mít hlad, nebudu se ti jen smát,
 bude to co vyhodili do kontyšů u Billy.
 
-[Chorus: G Am C G D G Am C D]
+[R: G Am C G D G Am C D]
 Pojď se mnou, lásko má
 já ukážu ti cestu realitou je nádherná,
 budem dřít si holou řiť, tak jak se má
 a od zdi ke zdi šourat se my dva.
 
-[Verse: Am G]
+[3: Am G]
 Víš, byl jsem milionář, ale ztratil jsem svou tvář
 a pak mě Bůh zase našel, a dal mi z cigaret kašel
 a tak jdu cestou necestou, a ty buď moji nevěstou,
 občas v dobrym a hlavně v zlym a na konci se ti oběsim
 
-[Chorus: G Am C G D G Am C D]
+[R: G Am C G D G Am C D]
 Pojď se mnou, lásko má
 já ukážu ti cestu realitou je nádherná,
 budem dřít si holou řiť, tak jak se má
@@ -7590,31 +7582,31 @@ a od zdi ke zdi šourat se my dva.
 && No Name &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E H C#m(7) A(add9)]
+[0: E H C#m(7) A(add9)]
 
-[Verse: C#m A(add9) E H(add11)]
+[1: C#m A(add9) E H(add11)]
 Mňa nepresvedčí nikto
 že je život krátky, že končí ako tanec
 že sa sebe ukloníme
 a naposledy si zamávajú dlane
 
-[Bridge: A H(sus4)]
+[B: A H(sus4)]
 Ja nechcem, aby tvoje srdce stíchlo
 aj tak sa stane, čo sa má stať
 veď život plynie rýchlo
 
-[Verse: C#m A(add9) E H(add11)]
+[2: C#m A(add9) E H(add11)]
 Mňa nepresvedčí nikto
 že keď človek umrie, tak ostanú len fotky
 človek potrebuje nádej
 aspoň niečo, aspoň tri bodky
 
-[Bridge: A H(sus4)]
+[B: A H(sus4)]
 Ja nechcem, aby tvoje srdce stíchlo
 aj tak sa stane, čo sa má stať
 veď život plynie rýchlo
 
-[Chorus: E H C#m A]
+[R: E H C#m A]
 Tak nech ten život trvá-á-á-á
 a moja dlaň nedá sbohom tvojej dlani
 ty si moja prvá-á-á-á
@@ -7625,18 +7617,18 @@ a náš koniec je len otázkou veku
 ty si moja prvá-á-á-á
 s ktorou som schopný stráviť život pred smrťou na úteku
 
-[Verse: C#m A(add9) E H(add11)]
+[3: C#m A(add9) E H(add11)]
 Mňa nepresviedčí nikto
 že keď umriem, tak ostaneš moja
 to je asi hlavný dôvod
 prečo sa ľudia tak umerania boja
 
-[Bridge: A H(sus4)]
+[B: A H(sus4)]
 Ja nechcem, aby naše srdcia stíchli
 aj tak sa stane, čo sa má stať
 veď život je tak rýchly
 
-[Chorus: E H(/D#) C#m A(/C#)]
+[R: E H(/D#) C#m A(/C#)]
 Tak nech ten život trvá-á-á-á
 a moja dlaň nedá sbohom tvojej dlani
 ty si moja prvá-á-á-á
@@ -7647,7 +7639,7 @@ a náš koniec je len otázka veku
 ty si moja prvá-á-á-á
 s ktorou som schopný stráviť život pred smrťou na úteku
 
-[Chorus: F# C# D#m H]
+[R: F# C# D#m H]
 Tak nech ten život trvá-á-á-á
 a moja dlaň nedá sbohom tvojej dlani
 ty si moja prvá-á-á-á
@@ -7657,33 +7649,35 @@ ty si moja prvá-á-á-á
 
 ## Purple Rain ##
 && Prince &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G Em D C]
+[0: A# Gm F D#]
+
+[1: A# Gm F D# A# Gm]
 I never meant to cause you any sorrow
 I never meant to cause you any pain
 I only want one time to see you laughing
 I only want to see you laughing in the purple rain
 
-[Chorus: C G Em D G Em]
+[R: D# A# Gm F A# Gm]
 Purple rain, purple rain
 Purple rain, purple rain
 Purple rain, purple rain
 I only want to see you bathing in the Purple Rain
 
-[Verse: G Em D C]
+[2: A# Gm F D# A# Gm]
 I never wanted to be your weekend lover
 I only wanted to be some kind of friend
 Baby I could never steal you from another
 It's such a shame our friendship had to end
 
-[Chorus: C G Em D G Em]
+[R: D# A# Gm F A# Gm]
 Purple rain, purple rain
 Purple rain, purple rain
 Purple rain, purple rain
 I only want to see you underneath the purple rain
 
-[Verse: G Em D C D]
+[3: A# Gm F D# F A# Gm F]
 Honey I know I know I know times are changin'
 It's time we all reach out for somethin' new
 That means you too
@@ -7692,7 +7686,7 @@ But you can't seem to make up your mind
 I think you better close it
 and let me guide you to the purple rain
 
-[Chorus: C G Em D G Em G]
+[R: D# A# Gm F A# Gm A#]
 Purple rain, purple rain
 Purple rain, purple rain (Whew)
 if you know what I'm singin' about
@@ -7701,7 +7695,7 @@ Purple rain, purple rain
 I only want to see you, only want to see you
 In the purple rain
 
-[Outro: G Em D C]
+[Z: A# Gm F D#]
 
 
 
@@ -7709,7 +7703,7 @@ In the purple rain
 && Tomáš Klus &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: A E]
+[1: A E]
 Za devatero horami a devatero řekami,
 leží kraj líbezný jak z reklamy,
 tam pravdě pšenka nekvete,
@@ -7727,7 +7721,7 @@ furt on the road a s lumpama,
 učí se všechna hesla z paměti
 a pak ty kecy hustí do dětí
 
-[Chorus: A E A H F#]
+[R: A E A H F# H F# H F# H F# H F#]
 Za co Pane Bože, za co? Trestáš tento prostý lid
 za co Pane Bože, za co? Nechals nás se napálit
 za co Pane Bože, za co? Zas štyry roky v prdeli
@@ -7749,7 +7743,7 @@ lekce planého žvanění, lekce arogance
 a místo polední debaty z prdu kulička,
 nechť vzkvétá naše zemička
 
-[Chorus: H F# H C G]
+[R: H F# H C G C G C G C G C G]
 Za co Pane Bože, za co? Trestáš tento prostý lid
 za co Pane Bože, za co? Nechals nás se napálit
 za co Pane Bože, za co? Zas štyry roky v prdeli
@@ -7771,7 +7765,7 @@ z úcty k tradici ruka v ruku myje
 upřímně řečeno trošku těžko mi je,
 že nám stačí demo Demokracie
 
-[Chorus: C G]
+[R: C G]
 Za co Pane Bože, za co? Trestáš tento prostý lid
 za co Pane Bože, za co? Nechals nás se napálit
 za co Pane Bože, za co? Zas štyry roky v prdeli
@@ -7783,7 +7777,7 @@ za co Pane Bože, za co? Tak snad mě někdo vodstřelí
 && Jaromír Nohavica &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: A E(/G#) F#m(7) E(sus4) Hm D]
+[1: A E(/G#) F#m(7) E(sus4) Hm D A E(/G#)]
 Jestlipak vzpomínáš si ještě na ten čas
 táhlo nám na dvacet a slunko bylo v nás
 vrabci nám jedli z ruky
@@ -7795,7 +7789,7 @@ a všechna tajná přání
 plnila se na počkání
 anebo rovnou hned
 
-[Chorus: Hm D A F#m Hm E(7) D(maj7) A E(/G#) F#m E(sus4)]
+[R: Hm D A F#m Hm E(7) D(maj7) A E(/G#) F#m E(sus4)]
 Kam jsme se poděli ?
 kam jsme se to poděli ?
 kde je ti konec můj jediný příteli ?
@@ -7803,7 +7797,7 @@ zmizels mi nevím kam
 sám sám sám
 jsem tady sám
 
-[Verse: A E(/G#) F#m(7) E(sus4) Hm D]
+[2: A E(/G#) F#m(7) E(sus4) Hm D A E(/G#)]
 Jestlipak vzpomínáš si ještě na tu noc
 jich bylo pět a tys mi přišel na pomoc
 jó tehdy nebýt tebe
@@ -7815,7 +7809,7 @@ a vlasy - vlasy kratší
 jó bývali jsme mladší
 no a co vem to ďas
 
-[Chorus: Hm D A F#m Hm E(7) D(maj7) A E(/G#) F#m E(sus4)]
+[R: Hm D A F#m Hm E(7) D(maj7) A E(/G#) F#m E(sus4)]
 Kam jsme se poděli ?
 kam jsme se to poděli ?
 kde je ti konec můj jediný příteli ?
@@ -7823,7 +7817,7 @@ zmizels mi nevím kam
 sám sám sám
 peru se teď sám
 
-[Verse: A E(/G#) F#m(7) E(sus4) Hm D]
+[3: A E(/G#) F#m(7) E(sus4) Hm D A E(/G#)]
 Jestlipak vzpomínáš si ještě na ten rok
 každá naše píseň měla nejmíň třicet slok
 a my dva jako jeden
@@ -7835,7 +7829,7 @@ a byla velká voda
 vzala nám co jí kdo dal
 a tobě i to poslední
 
-[Chorus: Hm D A F#m Hm E(7) D(maj7) A]
+[R: Hm D A F#m Hm E(7) D(maj7) A]
 Kam jsme se poděli ?
 kam jsme se to poděli ?
 kde je ti konec můj jediný příteli ?
@@ -7843,9 +7837,9 @@ zmizels mi nevím kam
 sám sám sám
 zpívám tady sám
 
-[Verse: E(/G#) F#m E(sus4) Hm D A]
+[3: E(/G#) F#m E(sus4) Hm D A]
 
-[Verse: A E(/G#) F#m(7) E(sus4) Hm D]
+[4: A E(/G#) F#m(7) E(sus4) Hm D A E(/G#)]
 Jestlipak vzpomínáš si na to jakýs byl
 jenom mi netvrď že tě život naučil
 člověk to není páčka
@@ -7857,7 +7851,7 @@ a přesto líto je mi
 že už nám nad písněmi
 společné slunko nesvítí
 
-[Chorus: Hm D A F#m Hm E(7) D(maj7) A E(/G#) F#m E A]
+[R: Hm D A F#m Hm E(7) D(maj7) A E(/G#) F#m E A]
 Kam jsme se poděli ?
 kam jsme se to poděli ?
 kde je ti konec můj bývalý příteli ?
@@ -7871,13 +7865,13 @@ dýchám tady sám.
 && Johnny Cash &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G C G D]
+[1: G C G D]
 Love is a burning thing
 And it makes a firery ring
 Bound by wild desire
 I fell into a ring of fire
 
-[Chorus: D C G D G]
+[R: D C G, G D G]
 I fell into a burning ring of fire
 I went down, down, down
 And the flames went higher
@@ -7885,9 +7879,9 @@ And it burns, burns, burns
 The ring of fire
 The ring of fire
 
-[Interlude: G C G D]
+[I: G C G D]
 
-[Chorus: D C G D G]
+[R: D C G, G D G]
 I fell into a burning ring of fire
 I went down, down, down
 And the flames went higher
@@ -7895,13 +7889,13 @@ And it burns,burns,burns
 The ring of fire
 The ring of fire
 
-[Verse: G C G D]
+[2: G C G D]
 The taste of love is sweet
 when hearts like our's meet
 I fell for you like a child
 Oh, but the fire went wild
 
-[Chorus: D C G D G]
+[R: D C G, G D G]
 I fell into a burning ring of fire
 I went down, down, down
 And the flames went higher
@@ -7909,6 +7903,7 @@ And it burns,burns,burns
 The ring of fire
 The ring of fire
 
+[R: D C G, G D G D G D G D G D G]
 I fell into a burning ring of fire
 I went down, down, down
 And the flames went higher
@@ -7925,9 +7920,9 @@ The ring of fire
 
 ## Riptide ##
 && Vance Joy &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am G C]
+[1+B+R+2: A#m G# C#]
 I was scared of dentists and the dark
 I was scared of pretty girls and starting conversations
 Oh, all my friends are turnin' green
@@ -7958,7 +7953,7 @@ I love you when you're singin' that song
 And I got a lump in my throat 'cause
 You're gonna sing the words wrong
 
-[Bridge: Am G C F(maj7)]
+[B: A#m G# C# F#(maj7), A#m G# C#]
 I just wanna, I just wanna know
 If you're gonna, if you're gonna stay
 I just gotta, I just gotta know
@@ -7966,7 +7961,7 @@ I can't have it, I can't have it any other way
 I swear she's destined for the screen
 Closest thing to Michelle Pfeiffer that you've ever seen, oh
 
-[Chorus: Am G C]
+[R: A#m G# C#]
 Lady, runnin' down to the riptide
 Taken away to the dark side
 I wanna be your left-hand man
@@ -7994,11 +7989,11 @@ You're gonna sing the words wrong
 
 ## Roar ##
 && Katy Perry &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: G(sus2)]
+[0: A#(sus2)]
 
-[Verse: G Am Em C]
+[1-2: A# Cm Gm D#]
 I used to bite my tongue and hold my breath
 Scared to rock the boat and make a mess
 So I sit quietly, agree politely
@@ -8014,7 +8009,7 @@ You held me down, but I got up
 Get ready cause I've had enough
 I see it all, I see it now
 
-[Chorus: C G(sus2) Am Em]
+[R: D# A#(sus2) Cm Gm]
 I got the eye of the tiger, the fighter,
 Dancing through the fire
 Cause I am a champion and you're gonna hear me roar
@@ -8023,7 +8018,7 @@ Cause I am a champion and you're gonna hear me roar
 Oh oh oh, Oh oh oh, Oh oh oh
 You're gonna hear me roar
 
-[Verse: G Am Em C]
+[3-4: A# Cm Gm D#]
 Now I'm floatin' like a butterfly
 Stingin' like a bee I earned my stripes
 I went from zero, to my own hero
@@ -8036,7 +8031,7 @@ You held me down, but I got up
 Get ready cause I've had enough
 I see it all, I see it now
 
-[Chorus: C G Am Em D]
+[R: D# A# Cm Gm, F]
 I got the eye of the tiger, the fighter,
 Dancing through the fire
 Cause I am a champion and you're gonna hear me roar
@@ -8047,10 +8042,10 @@ You're gonna hear me roar
 Oh oh oh, (Hey) Oh oh oh, (You'll hear me roar) Oh oh oh
 You're gonna hear me roar
 
-[Interlude: D]
+[I: F]
 Roar, roar, roar, roar
 
-[Chorus: G Am Em C]
+[R: A# Cm Gm D#]
 I got the eye of the tiger, the fighter,
 Dancing through the fire
 Cause I am a champion and you're gonna hear me roar
@@ -8065,9 +8060,9 @@ You're gonna hear me roar
 
 ## Rocket Man ##
 && Elton John &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Em(7) A(9) C G(/H) Am(/G) D(/A//F#) C]
+[1: Gm(7) C(9) Gm(7) C(9) D# A#(/D) Cm(/A#) F(/A//C), D#]
 She packed my bags last night pre-flight
 Zero hour, nine A.M.
 And I'm gonna be high -I-high as a kite by then
@@ -8075,7 +8070,7 @@ I miss the earth so much, I miss my wife
 It's lonely out in space ^ ^
 On such a ti I -imeless flight
 
-[Chorus: G C G(/H) A(9) C]
+[R: A# D# A# D# A#(/D) C(9) D# A# D#]
 And I think it's gonna be a long long time
 'Til touchdown brings me 'round again to find
 I'm not the man they think I am at home
@@ -8087,7 +8082,7 @@ I'm not the man they think I am at home
 Oh no, no, no, I'm a rocket man
 Rocket man, burnin' out his fuse up here alone
 
-[Verse: Em(7) A(9) C G(/H) Am(/G) D(/A//F#)]
+[2: Gm(7) C(9) Gm(7) C(9) D# A#(/D) Cm(/A#) F(/A//C)]
 Mars ain't the kinda place to raise your kids
 In fact it's cold as hell
 And there's no one there to raise them if you did
@@ -8095,7 +8090,7 @@ And all this science, I don't understand
 It's just my job five days a week
 Rocket man -aaa -a -a- an rocket man
 
-[Chorus: G C G(/H) A(9) C]
+[R: A# D# A# D# A#(/D) C(9) D# A# D#]
 And I think it's gonna be a long long time
 'Til touchdown brings me 'round again to find
 I'm not the man they think I am at home
@@ -8107,7 +8102,7 @@ I'm not the man they think I am at home
 Oh no, no, no, I'm a rocket man
 Rocket man, burnin' out his fuse up here alone
 
-[Outro: C G]
+[Z: D# A#]
 And I think it's gonna be a long long time
 And I think it's gonna be a long long time
 
@@ -8115,11 +8110,11 @@ And I think it's gonna be a long long time
 
 ## Romeo And Juliet ##
 && Dire Straits &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: F C A# C]
+[0: G# D# C# D#]
 
-[Verse: F Dm C F Dm A# C F A# C]
+[1-2: G# Fm D# G# Fm C# D# C# D# G# C# D#]
 A lovestruck Romeo sings a streetsuss of serenade
 Laying everybody low with a love song that he made
 Finds a streetlight, steps out of the shade
@@ -8130,35 +8125,35 @@ He's underneath the window, she's singing, "Hey, la, my boyfriend's back
 You shouldn't come around here singing up at people like that
 Anyway, what you gonna do about it?"
 
-[Chorus: F C Dm C A# C F A# Dm A# Gm F A# C Dm C]
+[R: G# D# Fm D# C#, D# G# C# Fm C# A#m G# C# D# Fm D# G#]
 "Juliet, the dice was loaded from the start
 And I bet, and you exploded into my heart
 And I forget, I forget the movie song
 When you gonna realize it was just that the time was wrong, Juliet?"
 
-[Interlude: A# F C A# C]
+[I: C# G# D# C# D#]
 
-[Verse: F Dm C F Dm A# C F A# C]
+[3: G# Fm D# G# Fm C# D# C# D# G# C# D#]
 Come up on different streets, they both were streets of shame
 Both dirty, both mean, yes, and the dream was just the same
 And I dreamed your dream for you and now your dream is real
 How can you look at me as if I was just another one of your deals?
 
-[Verse: F C Dm C F Dm A# C F A# C]
+[4: G# D# Fm D# G# Fm C# D# C# D# G# C# D#]
 When you can fall for chains of silver you can fall for chains of gold
 You can fall for pretty strangers and the promises they hold
 You promised me everything, you promised me thick and thin, yeah
 Now you just say "oh, Romeo, yeah, you know I used to have a scene with him"
 
-[Chorus: F C Dm A# C F A# Dm A# Gm F A# C Dm C]
+[R: G# D# Fm C#, D# G# C# Fm C# A#m G# C# D# Fm D# G#]
 "Juliet, when we made love, you used to cry
 You said 'I love you like the stars above, I'll love you 'til I die'
 There's a place for us, you know the movie song
 When you gonna realize it was just that the time was wrong, Juliet?"
 
-[Interlude: A# C F]
+[I: C# D# G#]
 
-[Verse: F Dm C F Dm A# C F A# C]
+[5-6: G# Fm D# G# Fm C# D# C# D# G# C# D#]
 I can't do the talk like they talk on the TV
 And I can't do a love song like the way it's meant to be
 I can't do everything but I'd do anything for you
@@ -8169,21 +8164,21 @@ All I do is keep the beat and bad company
 All I do is kiss you through the bars of a rhyme
 Julie, I'd do the stars with you any time
 
-[Chorus: F C Dm A# C F C A# Dm A# Gm F A# C Dm C]
+[R: G# D# Fm C#, D# G# D# C# Fm C# A#m G# C# D# Fm D# G#]
 "Juliet, when we made love you used to cry
 You said 'I love you like the stars above, I'll love you 'til I die'
 And there's a place for us you know the movie song
 When you gonna realize it was just that the time was wrong, Juliet?"
 
-[Verse: A# C F]
+[6: C# D# G#]
 
-[Verse: F Dm C F Dm A# C F A# C(add9)]
+[7: G# Fm D# G# Fm C# D# C# D# G# C# D#(add9)]
 And a lovestruck Romeo, sings a streetsuss of serenade
 Laying everybody low with a love song that he made
 Finds a convenient streetlight, steps out of the shade
 Says something like, "You and me, babe, how about it?
 
-[Outro: A# C(add9)]
+[Z: C# D#(add9)]
 You and me, babe, how about it?
 
 
@@ -8192,11 +8187,11 @@ You and me, babe, how about it?
 && Iné Kafe /Inekafe/ &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E]
+[0: E]
 
-[Intro: E H F#m A]
+[0: E H F#m A]
 
-[Verse: E C#m H A E C#m A H]
+[1: E C#m H A, A H]
 Chcela by si vedieť prečo
 ten ktorý ťa trápi nevolá
 a ten čo ho máš na háku
@@ -8205,9 +8200,9 @@ keď si si istá
 že už konečne máš toho pravého
 zrazu všetko padá--á--á
 
-[Interlude: E H F#m A]
+[I: E H F#m A]
 
-[Verse: E C#m H A E C#m A H]
+[2: E C#m H A, A H]
 Chcela by si vedieť
 prečo keď sa večer dívaš na správy
 ťa každá bez vínimky
@@ -8216,7 +8211,7 @@ a prečo človek ktorý ťa mal tak rád
 zrazu odišiel
 odišiel tak sáám
 
-[Chorus: E H F#m A]
+[R: E H F#m A]
 Možno že to hneď nepochopíš
 snívať môžeš jedine keď spíš
 život nie je ružová záhrada
@@ -8225,9 +8220,9 @@ na Vianoce s klamstvom na perách
 zakrývame len svoj vlastný strach
 prečo nás tu takto nechal stá--áť?
 
-[Interlude: E C#m F#m A]
+[I: E C#m F#m A]
 
-[Verse: E C#m H A E C#m A H]
+[3: E C#m H A, A H]
 Chcela by si vediet
 prečo hlasy ktoré cítiš za sebou
 ťa pália viac než dotyk na perách
@@ -8236,7 +8231,7 @@ prečo sa všetci prestanú smiať
 vždy až keď sa otočíš
 svet ide ďale--e--ej
 
-[Chorus: E H F#m A]
+[R: E H F#m A]
 Možno že to hneď nepochopíš
 snívať môžeš jedine keď spíš
 život nie je ružová záhrada
@@ -8245,9 +8240,9 @@ na Vianoce s klamstvom na perách
 zakrývame len svoj vlastný strach
 prečo nás tu takto nechal stá--áť?
 
-[Interlude: E C#m H A]
+[I: E C#m H A]
 
-[Chorus: E H F#m A]
+[R: E H F#m A]
 Možno že to hneď nepochopíš
 snívať môžeš jedine keď spíš
 život nie je ružová záhrada
@@ -8262,7 +8257,7 @@ prečo nás tu takto nechal stá--áť?
 && Iné Kafe &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am F G C G]
+[1: Am F G C G]
 Keď máš doma opäť ďalší problém,
 keď fotra s matkou berú zas tie staré mindráky,
 že neuspel si opäť v škole,
@@ -8272,7 +8267,7 @@ s ktorým si včera pil minimálne do rána.
 A sám si opäť zostal s tými,
 ktorí ťa vedú nevieš kam.
 
-[Chorus: Am F G C F G]
+[R: Am F G C F G Am F G C G]
 Keď včera bola tma, tak dnes príde ráno
 a s ním sa skončí sen, čo kradol ti spánok.
 A svitanie ti úsmev na tvári pripraví.
@@ -8280,7 +8275,7 @@ A ty vyhráš ten boj o kľúče od klietky
 a aj keď budeš sám, sám proti všetkým,
 ešte nič nekončí, naopak, všetko práve začína.
 
-[Verse: Am F G C G]
+[2: Am F G C G]
 Keď ti v televízii veľkí klamú,
 všemožne snažia sa zakryť svoje omyly.
 A na ulici by ťa fízli za cigu z trávy
@@ -8290,7 +8285,7 @@ A kruh sa ti už uzatvára, už je ti jasné,
 Ešte ti tu zostáva nádej
 a končiť s tým prečo.
 
-[Chorus: Am F G C F G]
+[R: Am F G C F G Am F G C G]
 Keď včera bola tma, tak dnes príde ráno
 a s ním sa skončí sen, čo kradol ti spánok.
 A svitanie ti úsmev na tvári pripraví.
@@ -8311,9 +8306,9 @@ ešte nič nekončí, naopak, všetko práve začína.
 && Žlutý pes &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C G]
+[0: C G]
 
-[Verse: G C D G C G Em C D]
+[1-2: G C, D G C G C G Em C D]
 Vzpomínám když tehdá před lety začaly lítat rakety
 zdál se to bejt docela dobrej nápad
 Saxofony hrály unyle, frčely švédský košile
@@ -8324,11 +8319,11 @@ už tenkrát rozhazoval svoje sítě
 Poučen z předchozích nezdarů sestrojil elektrickou kytaru
 rock´n´roll byl zrovna narozený dítě
 
-[Chorus: G D Em C G D C D]
+[R: G D Em C G D C D]
 Vzpomínáš, taky s tu žila a nedělej, že jsi jiná
 taková malá pilná včela, taková celá Sametová
 
-[Verse: G C D G C G Em C D]
+[3-4: G C, D G C G C G Em C D]
 Přišel čas a jako náhoda byla tu bigbeatová pohoda
 kytičky a úsmevy sekretárok
 Sousedovic bejby Milena je celá blbá z Boba Dylana
@@ -8339,31 +8334,31 @@ hlavu plnou Londýna nad Temží
 A starej dobrej satanáš hraje u nás v hospodě mariáš
 pazoura se mu trumfama jenom hemží
 
-[Chorus: G D Em C G D C D]
+[R: G D Em C G D C D]
 Vzpomínáš, už je to jinak a jde z toho na mě zima
 ty jsi holka tehdá byla, taková celá Sametová
 
-[Verse: G C D G C G Em C D]
+[5: G C, D G C G C G Em C D]
 A do toho tenhle Gorbačov co ho znal celej Dlabačov
 kopyta měl jako z Arizóny
 Přišel a zase vodešel a nikdo se kvůli tomu nevěšel
 a po něm tu zbyly samý volný zóny
 
-[Chorus: G D Em C G D C D]
+[R: G D Em C G D C D]
 Vzpomínáš, jak jsi se měla, když jsi nic nevěděla
 byla to taková krásná cela a byla celá
 Vzpomínáš, jak jsi se měla, když jsi nic nevěděla
 byla to taková krásná cela a byla celá Sametová
 
-[Outro: G C D G C G Em C D]
+[Z: G C G C G C D G C G C G Em C D]
 
 
 
 ## Sarà perché ti amo ##
 && Ricchi e Poveri &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 4 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[C Am F G]
+[E C#m A H]
 Che confusione, sarà perché ti amo
 È un'emozione che cresce piano piano
 Stringimi forte e stammi più vicino
@@ -8409,7 +8404,7 @@ Che confusione, sarà perché ti amo
 && The White Stripes &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Em G C H G A]
+[1: Em G C H, G A]
 I'm gonna fight 'em off
 A seven nation army couldn't hold me back
 They're gonna rip it off
@@ -8420,9 +8415,11 @@ Back and forth through my mind
 Behind a cigarette
 And a message coming from my eyes says leave it alone
 
-[Interlude: Em G C H]
+[I: Em G C H G A]
 
-[Verse: Em G C H G A]
+[I: Em G C H]
+
+[2: Em G C H, G A]
 Don't wanna hear about it
 Every single one's got a story to tell
 Everyone knows about it
@@ -8433,9 +8430,11 @@ And that ain't what you want to hear
 But that's what I'll do
 And a feeling coming from my bones says find a home
 
-[Interlude: Em G C H]
+[S: Em G C H G A]
 
-[Verse: Em G C H G A]
+[I: Em G C H]
+
+[3: Em G C H, G A]
 I'm goin' to Wichita
 Far from this opera, forever more
 I'm gonna work the straw
@@ -8446,7 +8445,7 @@ All the words are gonna bleed from me
 And I will sing no more
 And the stains coming from my blood tell me go back home
 
-[Interlude: Em G C H]
+[I: Em G C H]
 
 
 
@@ -8454,7 +8453,7 @@ And the stains coming from my blood tell me go back home
 && Kings Of Leon &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: E C#m]
+[1: E C#m]
 Lay where you're laying
 Don't make a sound
 I know they're watching
@@ -8464,10 +8463,11 @@ The kiddie like play
 Has people talking
 Talking
 
-[Chorus: E C#m A(maj7)]
+[R: E C#m A]
 You
 Your sex is on fire
 
+[2: E C#m, A(maj7)]
 The dark of the alley
 The break of the day
 Head while I'm driving
@@ -8477,11 +8477,13 @@ Them knuckles are pale
 Feels like you're dying
 You're dying
 
+[R: E C#m A]
 You
 Your sex is on fire
 Consumed
 With what's to transpire
 
+[3: E C#m, A(maj7)]
 Hot as a fever
 Rattling bones
 I could just taste it
@@ -8491,6 +8493,7 @@ If it's just tonight
 Oh, we're still the greatest
 The greatest, the greatest
 
+[R: E C#m A]
 You
 Your sex is on fire
 You
@@ -8508,9 +8511,9 @@ With what's to transpire
 && Taylor Swift &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: G]
+[0: G]
 
-[Verse: Am C G]
+[1-2+R+3-4+I+B: Am C G]
 I stay out too late
 Got nothing in my brain
 That's what people say, mmm
@@ -8603,7 +8606,7 @@ I shake it off, I shake it off
 && Lady Gaga &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Em(7) D(/F#) G C G D]
+[1+B+2: Em(7) D(/F#) G C G D]
 Tell me something girl
 Are you happy in this modern world
 Or do you need more
@@ -8622,7 +8625,7 @@ I’m fal–––lin in all the good times
 I find myself longin for change
 And in the bad times I fear myself
 
-[Chorus: Am D(/F#) G D Em]
+[R+I: Am D(/F#) G D Em]
 I’m off the deep end, watch as I dive in
 I’ll never meet the ground
 Crash through the surface, where they can’t hurt us
@@ -8633,11 +8636,11 @@ In the sha-ha-sha-la-la-la-low
 In the sha-ha-sha-ha-ha-low
 We’re far from the shallow now
 
-[Solo: Hm A Em Hm D A]
+[S: Hm A Em Hm D A]
 Woah whoa ooo ooo ooo ou
 Aaaaaaaaaaaaaaaaaah
 
-[Chorus: Am D(/F#) G D Em]
+[R+I: Am D(/F#) G D Em]
 I’m off the deep end, watch as I dive in
 I’ll never meet the ground
 Crash through the surface, where they can’t hurt us
@@ -8652,9 +8655,9 @@ We’re far from the shallow now
 
 ## Shape Of You ##
 && Ed Sheeran &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Hm Em G A]
+[C#m F#m A H]
 The club isn't the best place to find a lover
 So the bar is where I go
 Me and my friends at the table doing shots
@@ -8755,11 +8758,11 @@ I'm in love with the shape of you
 
 ## She's Always A Woman ##
 && Billy Joel &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D(sus4) A D G]
+[0: D#(sus4) A# D# G#]
 
-[Verse: A(7) D(7) G A(7) D A(7) F# Hm Em G]
+[1: A#(7) D#(7), G# D# G# A#(7) D# A#(7) G Cm Fm G# A#(7) D#]
 She can kill with a smile
 She can wound with her eyes
 She can ruin your faith with her casual lies
@@ -8767,7 +8770,7 @@ And she only reveals what she wants you to see
 She hides like a child
 But she's always a woman to me
 
-[Verse: A(7) D(7) G A(7) D A(7) F# Hm(/A) G]
+[2: A#(7) D#(7), G# D# G# A#(7) D# A#(7) G Cm(/A#) G# A#(7) D#(7)]
 She can lead you to love
 She can take you or leave you
 She can ask for the truth
@@ -8776,7 +8779,7 @@ And she'll take what you give her, as long as it's free
 She steals like a thief
 But she's always a woman to me
 
-[Chorus: Hm E(7) A D(maj7/F#) G Em A(7) D(7) Dm(7) G(7) C Am A# E(7) A(7)]
+[R: Cm F(7) A# D#(maj7/G) G# Fm A#(7) D#(7) D#m(7) G#(7) C# A#m H F(7) A#(7)]
 Ohhh she takes care of herself
 She can wait if she wants
 She's ahead of her time
@@ -8784,7 +8787,7 @@ Ohhh and she never gives out
 And she never gives in
 She just changes her mind
 
-[Verse: A(7) D(7) G A(7) D A(7) F# Hm(/A) G]
+[3: A#(7) D#(7), G# D# G# A#(7) D# A#(7) G Cm(/A#) G# A#(7) D#]
 And she'll promise you more
 Than the Garden of Eden
 Then she'll carelessly cut you
@@ -8794,9 +8797,9 @@ And the worst you can be
 Blame it all on yourself
 'Cause she's always a woman to me
 
-[Interlude: A(7) D(7) A(7) F# Hm(/A) G]
+[I: A#(7) D#(7) A#(7) G Cm(/A#) G#]
 
-[Chorus: Hm E(7) A D(maj7/F#) G Em A(7) D(7) Dm(7) G(7) C Am A# E(7) A(7)]
+[R: Cm F(7) A# D#(maj7/G) G# Fm A#(7) D#(7) D#m(7) G#(7) C# A#m H F(7) A#(7)]
 Ohhh she takes care of herself
 She can wait if she wants
 She's ahead of her time
@@ -8804,7 +8807,7 @@ Ohhh and she never gives out
 And she never gives in
 She just changes her mind
 
-[Verse: A(7) D(7) G A(7) D A(7) F# Hm(/A) G D(/F#) Em]
+[4: A#(7) D#(7), G# D# G# A#(7) D# A#(7) G Cm(/A#) G# D#(/G) Fm A#(7) D#]
 She is frequently kind
 And she's suddenly cruel
 She can do as she pleases
@@ -8815,15 +8818,15 @@ And the most she will do
 Is throw shadows at you
 But she's always a woman to me
 
-[Outro: A(7) D A(7) F# Hm(/A) G]
+[Z: A#(7) D# A#(7) G Cm(/A#) G#]
 
 
 
 ## Shotgun ##
 && George Ezra &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 5 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[C F Am G]
+[F A# Dm C]
 Home grown alligator, see you later
 Gotta hit the road, gotta hit the road
 Something changed in the atmosphere,
@@ -8887,9 +8890,9 @@ Feeling like a someone, a someone,a someone, a someone.
 && The Clash &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D G]
+[0: D G]
 
-[Verse: D G F G D A D G]
+[1-2+R+3: D G, F G D G D A D G D]
 Darling, you've got to let me know
 Should I stay or should I go
 If you say that you are mine
@@ -8917,7 +8920,7 @@ Don't you know which clothes even fit me
 Come on and let me know
 Should I cool it or should I blow?
 
-[Chorus: D G F G]
+[R: D G, F G D G D]
 Should I stay or should I go now?
 Should I stay or should I go now?
 If I go there will be trouble
@@ -8927,9 +8930,9 @@ And if I stay it will be double
 
 ## Shut Up and Dance ##
 && Walk The Moon &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 6 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Chorus: G C Em D]
+[R+1: C# F# A#m G#]
 "Oh, don't you dare look back
 Just keep your eyes on me"
 I said, "You're holding back"
@@ -8943,12 +8946,12 @@ Helpless to the bass and the fading light
 Oh, we were bound to get together
 Bound to get together
 
-[Bridge: G C Em D G C D]
+[B: C# F# A#m G# C# F# G#]
 She took my arm
 I don't know how it happened
 We took the floor and she said
 
-[Chorus: G C Em D]
+[R+2: C# F# A#m G#]
 "Oh, don't you dare look back
 Just keep your eyes on me"
 I said, "You're holding back"
@@ -8962,12 +8965,12 @@ I felt it in my chest as she looked at me
 I knew we were bound to be together
 Bound to be together
 
-[Bridge: G C Em D G C D]
+[B: C# F# A#m G# C# F# G#]
 She took my arm
 I don't know how it happened
 We took the floor and she said
 
-[Chorus: G C Em D]
+[R: C# F# A#m G#]
 "Oh, don't you dare look back
 Just keep your eyes on me"
 I said, "You're holding back"
@@ -8975,10 +8978,10 @@ She said, "Shut up and dance with me"
 This woman is my destiny
 She said, "Ooh-ooh, hoo, shut up and dance with me"
 
-[Interlude: C Em G C D]
+[I: F# A#m C# F# G#]
 x4
 
-[Bridge: G C Em D]
+[B: C# F# A#m G#, G# C# F# A#m G# C# F# A#m G#]
 Deep in her eyes
 I think I see the future
 I realize this is my last chance
@@ -8986,6 +8989,7 @@ She took my arm
 I don't know how it happened
 We took the floor and she said
 
+[R+3: C# F# A#m G#]
 "Oh, don't you dare look back
 Just keep your eyes on me"
 I said, "You're holding back"
@@ -9007,11 +9011,11 @@ Ooh-ooh, hoo, shut up and dance with me
 
 ## Sibyla ##
 && Tomáš Klus &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Am]
+[0: Cm]
 
-[Verse: Am E Am Dm]
+[1: Cm G Cm Fm, G]
 Z úsporných důvodů nezbyly paprsky pro mou slunečnici
 pár dní od rozchodu, vedu si do schodů novou společnici
 aby jsi věděla, že si nic nedělám ze srdce v bolu
@@ -9019,6 +9023,7 @@ ale kdyby ses vrátila, tak bych ji, má milá svrh' z těch schodů dolů
 aby jsi věděla, že si nic nedělám ze srdce v bolu
 ale kdyby ses vrátila, tak bych ji, má milá svrh' z těch schodů dolů
 
+[2: Cm G Cm Fm]
 Osud je alibi, kterým si omlouvám svoje neschopnosti
 po pravdě neslídím, nečekám od lidí, než pozdrav ze slušnosti
 a až se poztrácím, zvu tě na kremaci vlastní důstojnosti
@@ -9026,7 +9031,7 @@ má ukvapená touho, už nebudu tu dlouho, sejdem se na věčnosti
 a až se poztrácím, zvu tě na kremaci vlastní důstojnosti
 má ukvapená touho, už nebudu tu dlouho, sejdem se na věčnosti
 
-[Chorus: Dm Am E Am]
+[R: Fm Cm G Cm, G]
 Zpitý do němoty, věším slova na noty, mozek pod poklopcem
 a ty, jak stará Sibyla, jsi z pohledů věštila
 že to s náma půjde z kopce
@@ -9034,7 +9039,7 @@ zpitý do němoty, věším slova na noty, mozek pod poklopcem
 a ty, jak stará Sibyla, jsi z pohledů věštila
 že to s náma půjde z kopce
 
-[Verse: Am E Am Dm]
+[3: Cm G Cm Fm]
 Jsem nerozhodný, z principu odmítám jakoukoliv formu štěstí
 odejdu od ní, a chvíli budu hodný, pak ale stejně sejdu z cesty
 duševní masochista, životní sólista, nic pro citlivky
@@ -9042,7 +9047,7 @@ hulvát i flagelant, kterému jede pant, když lapá dívky
 duševní masochista, životní sólista, nic pro citlivky
 hulvát i flageant, kterému jede pant, když lapá dívky
 
-[Chorus: Dm Am E Am]
+[R: Fm Cm G Cm, G]
 Zpitý do němoty, věším slova na noty, mozek pod poklopcem
 a ty, jak stará Sibyla, jsi z pohledů věštila
 že to s náma půjde z kopce
@@ -9050,7 +9055,7 @@ zpitý do němoty, věším slova na noty, mozek pod poklopcem
 a ty, jak stará Sibyla, jsi z pohledů věštila
 že to s náma půjde z kopce
 
-[Verse: Am E Am Dm]
+[4: Cm G Cm Fm]
 Poprvé upřímně, prosím tě, stůj při mně, Bože, najdu-li tě
 z posledních zbytků sil jsem v tebe uvěřil, skryt ve své ulitě
 v dramatu tří postav se na mou stranu postav, bych našel odvahu
@@ -9058,7 +9063,7 @@ byla naivní, já byl na i v ní, ale ne ve vztahu
 v dramatu tří postav se na mou stranu postav, bych našel odvahu
 byla naivní, já byl na i v ní, ale ne ve vztahu
 
-[Chorus: Dm Am E Am]
+[R: Fm Cm G Cm, G Cm]
 Zpitý do němoty, věším slova na noty, mozek pod poklopcem
 a ty, jak stará Sibyla, jsi z pohledů věštila
 že to s náma půjde z kopce
@@ -9072,7 +9077,7 @@ a ty, jak stará Sibyla, jsi z pohledů věštila
 && Olympic &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am C D Dm(7) E Am C D Dm C H A# Am Dm(7) G C E]
+[1: Am C D Dm(7) E Am C D Dm C H A# Am C H A# Am Dm(7) G C E]
 Zas jsi tak smutná
 Kdo se má na to koukat
 Jíst ti nechutná
@@ -9081,7 +9086,7 @@ Tak nezoufej nic to není
 Za chvíli se to změní
 Snad jsem to zavinil já
 
-[Verse: Am C D Dm(7) C H A# Am Dm(7) G C E]
+[2: Am C D Dm(7), C H A# Am C H A# Am Dm(7) G C E]
 Zkus zapomenout
 Na všechno, co je pouhou
 Tou tmou obarvenou
@@ -9090,7 +9095,7 @@ Tak nezoufej nic to není
 Za chvíli se to změní
 Snad jsem to zavinil já
 
-[Verse: Am C D(7) Dm(7)]
+[3: Am C D(7) Dm(7)]
 Já, já, jááá
 Já, já, jááá
 Jááá á!
@@ -9104,85 +9109,85 @@ Jááá á!
 && Leonard Cohen &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: A Hm D A G D F#m E(7/sus4)]
+[1: A Hm D A G D F#m E(7/sus4)]
 Come over to the window, my little darling
 I'd like to try to read your palm
 I used to think I was some kind of Gypsy boy
 Before I let you take me home
 
-[Chorus: A F#m E(7/sus4)]
+[R: A F#m E(7/sus4)]
 Now so long, Marianne, it's time that we began
 To laugh, and cry and cry
 And laugh about it all again
 
-[Interlude: A(sus4)]
+[I: A(sus4)]
 
-[Verse: A Hm D A G D F#m E(7/sus4)]
+[2: A Hm D A G D F#m E(7/sus4)]
 Well, you know that I love to live with you
 But you make me forget so very much
 I forget to pray for the angels
 And then the angels forget to pray for us
 
-[Chorus: A F#m E(7/sus4)]
+[R: A F#m E(7/sus4)]
 Now so long, Marianne, it's time that we began
 To laugh, and cry and cry
 And laugh about it all again
 
-[Interlude: A(sus4)]
+[I: A(sus4)]
 
-[Verse: A Hm(/A) D(/A) A G D F#m E(7/sus4)]
+[3: A Hm(/A) D(/A) A G D F#m E(7/sus4)]
 We met when we were almost young
 Deep in the green lilac park
 You held on to me like I was a crucifix
 As we went kneeling through the dark
 
-[Chorus: A F#m E(7/sus4)]
+[R: A F#m E(7/sus4)]
 Now so long, Marianne, it's time that we began
 To laugh, and cry and cry
 And laugh about it all again
 
-[Verse: A Hm D A G D F#m E(7/sus4)]
+[4: A Hm D A G D F#m E(7/sus4)]
 Your letters, they all say that you're beside me now
 Then why do I feel alone?
 I'm standing on a ledge and your fine spider web
 Is fastening my ankle to a stone
 
-[Chorus: A F#m E(7/sus4)]
+[R: A F#m E(7/sus4)]
 Now so long, Marianne, it's time that we began
 To laugh, and cry and cry
 And laugh about it all again
 
-[Verse: A Hm(/A) D(/A) A G D F#m E(7/sus4)]
+[5: A Hm(/A) D(/A) A G D F#m E(7/sus4)]
 For now I need your hidden love
 I'm cold as a new razor blade
 You left when I told you I was curious
 I never said that I was brave
 
-[Chorus: A F#m E(7/sus4)]
+[R: A F#m E(7/sus4)]
 Now so long, Marianne, it's time that we began
 To laugh, and cry and cry
 And laugh about it all again
 
-[Verse: A Hm D A G D F#m E(7/sus4)]
+[6: A Hm D A G D F#m E(7/sus4)]
 Oh, you are really such a pretty one
 I see you've gone and changed your name again
 And just when I climbed this whole mountainside
 To wash my eye - lids in the rain
 
-[Chorus: A F#m E(7/sus4)]
+[R: A F#m E(7/sus4)]
 Now so long, Marianne, it's time that we began
 To laugh, and cry and cry
 And laugh about it all again
 
-[Outro: A(sus4)]
+[Z: A(sus4)]
 
 
 
 ## Someone Like You ##
 && Adele &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G D Em C]
+[1: A E F#m D]
 I heard that you're settled down
 That you found a girl and you're married now
 I heard that your dreams came true
@@ -9191,13 +9196,13 @@ Old friend, why are you so shy?
 Ain't like you to hold back
 or hide from the light
 
-[Verse: Am C Em D]
+[2: Hm D F#m E]
 I hate to turn up out of the blue uninvited
 But I couldn't stay away, I couldn't fight it
 I had hoped you'd see my face
 And that you'd be reminded that for me it isn't over
 
-[Chorus: G D Em C]
+[R+3: A E F#m D]
 Never mind, I'll find someone like you
 I wish nothing but the best for you, too
 Don't forget me, I beg
@@ -9212,13 +9217,13 @@ Only yesterday was the time of our lives
 We were born and raised in a summer haze
 Bound by the surprise of our glory days
 
-[Verse: Am C Em D C D]
+[4: Hm D F#m E, D E]
 I hate to turn up out of the blue uninvited
 But I couldn't stay away, I couldn't fight it
 I had hoped you'd see my face
 And that you'd be reminded that for me it isn't over, yet
 
-[Chorus: G D Em C]
+[R: A E F#m D]
 Never mind, I'll find someone like you
 I wish nothing but the best for you, too
 Don't forget me, I beg
@@ -9226,13 +9231,13 @@ I remember you said
 "Sometimes it lasts in love,
 But sometimes it hurts instead" Yeah
 
-[Verse: Am C Em D C D]
+[5: Hm D F#m E, D E]
 Nothing compares
 No worries or cares
 Regrets and mistakes, they're memories made
 Who would have known how bittersweet this would taste?
 
-[Chorus: G D Em C]
+[R: A E F#m D]
 Never mind, I'll find someone like you
 I wish nothing but the best for you, too
 Don't forget me, I beg
@@ -9255,33 +9260,33 @@ But sometimes it hurts instead, yeah
 && Keane &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E]
+[0: E]
 
-[Verse: A(/G#) Hm E(sus4)]
+[1: A(/G#) Hm E(sus4)]
 I walked across an empty land
 I knew the pathway like the back of my hand
 I felt the earth beneath my feet
 Sat by the river, and it made me complete
 
-[Verse: F#m C#m D E]
+[2: F#m C#m D E]
 Oh, simple thing, where have you gone?
 I'm getting old and I need something to rely on
 So tell me when you're gonna let me in
 I'm getting tired and I need somewhere to begin
 
-[Verse: A(/G#) Hm E(sus4)]
+[3: A(/G#) Hm E(sus4)]
 I came across a fallen tree
 I felt the branches of it looking at me
 Is this the place we used to love?
 Is this the place that I've been dreaming of?
 
-[Verse: F#m C#m D E]
+[4: F#m C#m D E]
 Oh, simple thing, where have you gone?
 I'm getting old and I need something to rely on
 So tell me when you're gonna let me in
 I'm getting tired and I need somewhere to begin
 
-[Chorus: D A(/C#) E D E]
+[R: D A(/C#) E, E D E D E]
 And if you have a minute, why don't we go
 Talk about it somewhere only we know?
 This could be the end of everything
@@ -9289,23 +9294,23 @@ So why don't we go
 Somewhere only we know?
 Somewhere only we know?
 
-[Verse: F#m C#m D E]
+[5: F#m C#m D E]
 Oh, simple thing, where have you gone?
 I'm getting old and I need something to rely on
 So tell me when you're gonna let me in
 I'm getting tired and I need somewhere to begin
 
-[Chorus: Hm A(/C#) E D E]
+[R: Hm A(/C#) E, D E]
 And if you have a minute, why don't we go
 Talk about it somewhere only we know?
 This could be the end of everything
 So why don't we go?
 So why don't we go?
 
-[Bridge: A(/C#) E Hm]
+[B: A(/C#) E Hm]
 Ooh
 
-[Outro: Hm A(/C#) E D E A D E D# D E D A]
+[Z: Hm A(/C#) E D E A D E D# D E D A]
 This could be the end of everything
 So why don't we go
 Somewhere only we know?
@@ -9316,9 +9321,9 @@ Somewhere only we know
 
 ## Stand By Me ##
 && John Lennon &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 2 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G Em C D]
+[1+R+2: A F#m D E]
 When the night has come and the land is dark
 And the moon is the only light we'll see
 No I won't be afraid, no I, I won't be afraid
@@ -9337,7 +9342,7 @@ And darling, darling, stand by me
 Oh nah, nah, stand by me
 Stand by me, stand by me, stand by me-ee yeah
 
-[Chorus: G Em C D G Em G C D]
+[R: A F#m D E A F#m A D E]
 Whenever you're in trouble won't you stand by me
 Oh nah, nah, stand by me
 Oh, stand by me, stand by me, stand by me
@@ -9351,9 +9356,9 @@ Oh, stand by me, stand by me, stand by me hee, hee
 && Bruce Springsteen &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: F Am]
+[0: F Am]
 
-[Verse: F Am A# F(/A) C]
+[1-2: F Am, A# F(/A) C A# F(/A) C]
 I was bruised and battered, I couldn't tell what I felt.
 I was unrecognizable to myself.
 Saw my reflection in a window and didn't know my own face.
@@ -9366,14 +9371,14 @@ At night I could hear the blood in my veins,
 It was just as black and whispering as the rain,
 On the streets of Philadelphia.
 
-[Chorus: A# Dm A# F Am A# C]
+[R: A# Dm A# F Am A# C]
 Ain't no angel gonna greet me.
 It's just you and I my friend.
 And my clothes don't fit me no more,
 I walked a thousand miles
 Just to slip this skin.
 
-[Verse: F Am A# F(/A) C]
+[3: F Am, A# F(/A) C A# F(/A) C]
 Night has fallen, I'm lyin' awake,
 I can feel myself fading away,
 So receive me brother with your faithless kiss,
@@ -9386,41 +9391,41 @@ On the streets of Philadelphia.
 && The Lumineers &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: F(maj7) Am C(add4) F(maj7) Am G C]
+[1: F(maj7) Am C(add4) F(maj7) Am G C]
 She'll lie and steal and cheat, and beg you from her knees
 And make you thinks she means it this time
 She'll tear a hole in you, the one you can't repair
 But I still love her, I don't really care
 
-[Bridge: F(maj7) C Am G C]
+[B: F(maj7) C Am G, C]
 When we were young, Oh Oh, we did enough
 When it got cold, Ooh Ooh, we bundled up
 I can't be told, Ah Ah It can't be done
 
-[Verse: F(maj7) Am C(add4) F(maj7) Am G C F(maj7) Am C(add4) Am G C F(maj7) Am G C]
+[2: F(maj7) Am C(add4) F(maj7) Am G C F(maj7) Am C(add4) Am G C F(maj7) Am G C]
 It's better to feel pain, than nothing at all
 The opposite of love's indifference
 Pay attention now, I'm standing on your porch screaming out
 And I won't leave until you come downstairs
 
-[Chorus: F(maj7) C(/G) G Am]
+[R: F(maj7) C(/G) G Am]
 So keep your head up, keep your love
 keep your head up, my love
 keep your head up, my love
 Keep your head up, keep your love
 
-[Verse: F(maj7) Am C(add4) Am G C F(maj7) Am G C]
+[3: F(maj7) Am C(add4) Am G C F(maj7) Am G C]
 I don't blame ya dear for running like you did, all these years
 I would do the same, your best believe
 The highway signs say we're close, but I don't read those things anymore
 I never trusted my own eyes
 
-[Bridge: F(maj7) C Am G C]
+[B: F(maj7) C Am G, C]
 When we were young oh oh, we did enough
 When it got cold, Ooh ooh we bundled up
 I can't be told, Ah ah, can't be done
 
-[Chorus: F(maj7) C(/G) G Am]
+[R: F(maj7) C(/G) G Am]
 So keep your head up, keep your love
 keep your head up, my love
 keep your head up, my love
@@ -9436,7 +9441,7 @@ Head up, love
 && U2 &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: E(/G#) A E(/G#) H C#m A]
+[1: E(/G#) A E(/G#) H C#m A]
 I'm not afraid
 Of anything in this world
 There's nothing you can throw at me
@@ -9446,19 +9451,19 @@ A decent melody
 A song that I can sing
 In my own company
 
-[Bridge: C#m A F# A C#m H]
+[B: C#m A F# A C#m A C#m H]
 I never thought you were a fool
 But darling, look at you
 You gotta stand up straight, carry your own weight
 These tears are going nowhere baby
 
-[Chorus: E(/G#) A E(/G#) H C#m A E(/G#) C(dim) C#m A]
+[R: E(/G#) A E(/G#) H C#m A E(/G#) A E(/G#) C(dim) C#m A]
 You got to get yourself together
 You've stuck in a moment and now you can't get out if it
 Don't say that later will be better, now you're stuck in a moment
 And you can't get out of it
 
-[Verse: E(/G#) A E(/G#) H C#m A]
+[2: E(/G#) A E(/G#) H C#m A]
 I will not forsake
 The colors that you bring
 But the night you filled with fireworks
@@ -9468,14 +9473,14 @@ By the light you brought to me
 I still listen through your ears
 And through your eyes I can see
 
-[Bridge: C#m A F# A C#m H]
+[B: C#m A F# A C#m A C#m H]
 And you are such a fool
 To worry like you do
 I know it's tough
 And you can never get enough
 Of what you don't really need now my oh my
 
-[Chorus: E(/G#) A E(/G#) H C#m A E(/G#) C(dim) C#m A]
+[R: E(/G#) A E(/G#) H C#m A E(/G#) A E C(dim) C#m A]
 You got to get yourself together
 You've stuck in a moment
 And now you can't get out if it
@@ -9483,13 +9488,13 @@ Oh love, look at you now
 You've got yourself stuck in a moment
 and you can't get out of it
 
-[Bridge: F#m A E F#m A D H]
+[B: F#m A E F#m A D H]
 I was unconscious, half asleep
 The water was warm until you discover how deep
 I wasn't jumping for me it was a fall
 It's a long way down to nothing at all
 
-[Chorus: E(/G#) A E(/G#) H C#m A E(/G#) C(dim) C#m A]
+[R: E(/G#) A E(/G#) H C#m A, C(dim) C#m A E(/G#) A E(/G#) H C#m A E(/G#) A E(/G#) C(dim) C#m A]
 You got to get yourself together
 You've stuck in a moment and now you can't get out if it
 Don't say that later will be better, now you're stuck in a moment
@@ -9503,7 +9508,7 @@ And if the day won't last
 And if our way should falter
 Along the stony pass
 
-[Outro: E]
+[Z: E]
 It's just a moment
 This time will pass
 
@@ -9513,9 +9518,9 @@ This time will pass
 && Stealers Wheel &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: D Am(7) A(7sus4) C]
+[0: D Am(7) A(7sus4) C]
 
-[Verse: D G(7) D A C G]
+[1-2: D G(7) D A C G]
 Well I don't know why I came here tonight,
 I got the feeling that something ain't right,
 I'm so scared in case I fall off my chair,
@@ -9532,14 +9537,14 @@ Clowns to the left of me,
 Jokers to the right, here I am,
 Stuck in the middle with you.
 
-[Chorus: G(7) D]
+[R: G(7) D]
 Well you started out with nothing,
 And you're proud that you're a self made man,
 And your friends, they all come crawlin,
 Slap you on the back and say,
 Please Please
 
-[Verse: D G(7) D A C G]
+[3: D G(7) D A C G]
 Trying to make some sense of it all,
 But I can see that it makes no sense at all,
 Is it cool to go to sleep on the floor,
@@ -9548,14 +9553,14 @@ Clowns to the left of me,
 Jokers to the right, here I am,
 Stuck in the middle with you.
 
-[Chorus: G(7) D]
+[R: G(7) D]
 Well you started out with nothing,
 And you're proud that you're a self made man,
 And your friends, they all come crawlin,
 Slap you on the back and say,
 Please Please
 
-[Verse: D G(7) D A C G]
+[4: D G(7) D A C G]
 Well I don't know why I came here tonight,
 I got the feeling that something ain't right,
 I'm so scared in case I fall off my chair,
@@ -9572,14 +9577,15 @@ Here I am stuck in the middle with you.
 && Dire Straits &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Dm C]
+[0: Dm C]
 
-[Verse: Dm C A# A F C A# Dm A# C]
+[1: Dm C A# A, F C A# Dm A# C]
 You get a shiver in the dark, it's raining in the park but meantime
 South of the river you stop and you hold everything
 A band is blowing Dixie double four time
 You feel alright when you hear that music ring
 
+[2: Dm C A# A, F C A# Dm A# C A# C Dm]
 Well now, you step inside but you don't see too many faces
 Coming in out of the rain to hear the jazz go down
 Competition in other places
@@ -9588,14 +9594,15 @@ Way on downsouth
 Way on downsouth
 London town
 
-[Interlude: Dm C A# C]
+[I: Dm C A# C]
 
-[Verse: Dm C A# A F C A# Dm A# C]
+[3: Dm C A# A, F C A# Dm A# C]
 You check out Guitar George he knows all the chords
 Mind he's strictly rhythm he doesn't want to make it cry or sing
 They say an old guitar is all he can afford
 When he gets up under the lights to play his thing
 
+[4: Dm C A# A, F C A# Dm A# C A# C Dm]
 And Harry doesn't mind if he doesn't make the scene
 He's got a daytime job he's doing alright
 He can play the honky tonk like anything
@@ -9603,9 +9610,9 @@ S aving it up for Friday night
 With the Sultans
 With the Sultans of Swing
 
-[Interlude: Dm C A# C]
+[I: Dm C A# C]
 
-[Verse: Dm C A# A F C A# Dm A# C A# H]
+[5: Dm C A# A, F C A# Dm A# C A# H Dm]
 Then a crowd of young boys they're fooling around in the corner
 Drunk and dressed in their best brown baggies and their platform soles
 They don't give a damm about any trumpet playing band
@@ -9613,14 +9620,14 @@ It ain't what they call, Rock'n'Roll
 And the Sultans
 Yeah the Sultans played Creole
 
-[Interlude: Dm C A# C]
+[I: Dm C A# C]
 Creole
 
-[Solo: Dm C A# A F C A# Dm A# C]
+[S: Dm C A# A, F C A# Dm A# C A# C]
 
-[Interlude: Dm C A# C]
+[I: Dm C A# C]
 
-[Verse: Dm C A# A(7) F C A# Dm A# H A# C]
+[6: Dm C A# A(7), F C A# Dm A# H A# C Dm]
 And then the man he steps right up to the microphone
 And says at last just as the time bell rings
 "Goodnight, now it's time to go home"
@@ -9628,7 +9635,7 @@ Then he makes it fast with one more thing:
 We are the Sultans
 We are the Sultans of Swing"
 
-[Outro: Dm C A# C]
+[Z: Dm C A# C]
 /opakovat až do konce/
 
 
@@ -9637,9 +9644,9 @@ We are the Sultans of Swing"
 && Bryan Adams &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D]
+[0: D]
 
-[Verse: D A]
+[1-2: D A]
 I got my first real six-string
 Bought it at the five-and-dime
 Played it 'til my fingers bled
@@ -9650,20 +9657,20 @@ Had a band and we tried real hard
 Jimmy quit, Jody got married
 I shoulda known we'd never get far
 
-[Chorus: Hm A D G]
+[R: Hm A D G]
 Oh, when I look back now
 That summer seemed to last forever
 And if I had the choice
 Yeah, I'd always wanna be there
 Those were the best days of my life
 
-[Verse: D A]
+[3: D A]
 Ain't no use in complainin'
 When you got a job to do
 Spent my evenin's down at the drive in
 And that's when I met you, yeah
 
-[Chorus: Hm A D G Hm A D A]
+[R: Hm A D G, A D A]
 Standin' on your mama's porch
 You told me that you'd wait forever
 Oh, and when you held my hand
@@ -9671,28 +9678,28 @@ I knew that it was now or never
 Those were the best days of my life
 Oh yeah Back in the summer of '69 Ohhh
 
-[Bridge: F A# C A#(/D)]
+[B: F A# C A#(/D)]
 Man, we were killin' time
 We were young and restless
 We needed to unwind
 I guess nothin' can last forever, forever no
 
-[Interlude: A]
+[I: A]
 
-[Verse: D A]
+[4: D A]
 And now the times are changin'
 Look at everything that's come and gone
 Sometimes when I play that old six-string
 I think about you, wonder what went wrong
 
-[Chorus: Hm A D G]
+[R: Hm A D G]
 Standin' on your mama's porch
 You told me that it'd last forever
 Oh, and when you held my hand
 I knew that it was now or never
 Those were the best days of my life
 
-[Outro: D A]
+[Z: D A]
 Oh yeah Back in the summer of '69 Uh-huh
 It was the summer of '69. Oh yeah
 Me and my baby in '69. Ohhhhh, oh
@@ -9705,11 +9712,11 @@ Yeah
 && Abba &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C(sus4) G Dm D(sus2) G]
+[0: C(sus4) G Dm D(sus2) G]
 But I won't feel blue
 Like I always do
 
-[Verse: C Em Dm G(6) F C(/E) G(sus4)]
+[1: C Em Dm G(6), F C(/E) F C(/E) F C G(sus4)]
 I was sick and tired of everything
 When I called you last night from Glasgow
 All I do is eat and sleep and sing
@@ -9719,7 +9726,7 @@ Suddenly I feel all right (and suddenly it's gonna be)
 And it's gonna be so different
 When I'm on the stage tonight
 
-[Chorus: C(sus4) G Dm D(sus2) G C(sus2) Am A(sus2) Dm D(sus2) G(sus2)]
+[R: C(sus2/sus4) G Dm D(sus2) G, Am A(sus2) Am A(sus2) Dm D(sus2) Dm D(sus2) G(sus2)]
 Tonight the Super Trouper lights are gonna find me
 Shining like the sun (Su-pa-pa Trou-pa-pa)
 Smiling, having fun (Su-pa-pa Trou-pa-pa)
@@ -9729,7 +9736,7 @@ But I won't feel blue (Su-pa-pa Trou-pa-pa)
 Like I always do (Su-pa-pa Trou-pa-pa)
 'Cause somewhere in the crowd there's you
 
-[Verse: C Em Dm G(6) F C(/E) G(sus4)]
+[2: C Em Dm G(6), F C(/E) F C(/E) F C G(sus4)]
 Facing twenty thousand of your friends
 How can anyone be so lonely
 Part of a success that never ends
@@ -9739,7 +9746,7 @@ But it's gonna be alright (cause you'll be changing everything)
 Everything will be so different
 When I'm on the stage tonight
 
-[Chorus: C(sus4) G Dm D(sus2) G]
+[R: C(sus4) G Dm D(sus2) G]
 Tonight the Super Trouper lights are gonna find me
 Shining like the sun (Su-pa-pa Trou-pa-pa)
 Smiling, having fun (Su-pa-pa Trou-pa-pa)
@@ -9749,14 +9756,14 @@ But I won't feel blue (Su-pa-pa Trou-pa-pa)
 Like I always do (Su-pa-pa Trou-pa-pa)
 'Cause somewhere in the crowd there's you
 
-[Bridge: F Am Dm G C G F Dm A(7/E) Dm(/F) G(7/7sus4)]
+[B: F Am Dm G C G F Dm A(7/E) Dm(/F) G(7/7sus4)]
 So I'll be there when you arrive
 The sight of you will prove to me I'm still alive
 And when you take me in your arms
 And hold me tight
 I know it's gonna mean so much tonight
 
-[Chorus: C(sus4) G Dm D(sus2) G(7)]
+[R: C(sus4) G Dm D(sus2) G(7)]
 Tonight the Super Trouper lights are gonna find me
 Shining like the sun (Su-pa-pa Trou-pa-pa)
 Smiling, having fun (Su-pa-pa Trou-pa-pa)
@@ -9780,9 +9787,9 @@ Like I always do (Su-pa-pa Trou-pa-pa)
 && Elvis Presley &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C(/G) G]
+[0: C(/G) G]
 
-[Verse: G C(/G) F(/C) D C(/G) Hm D]
+[1: G C(/G), F(/C) C F(/C) D C G C(/G) G C(/G) G C(/G) G C(/G) F(/C) C F(/C) D C D C Hm D]
 We're caught in a trap
 I can't walk out
 Because I love you too much baby
@@ -9790,11 +9797,11 @@ Why can't you see
 What you're doing to me
 When you don't believe a word I saying?
 
-[Chorus: C G Hm C D Em Hm C D]
+[R: C G Hm C D Em Hm C D]
 We can't go on together with suspicious minds
 And we can't build our dreams on suspicious minds
 
-[Verse: C(/G) G C(/G) F(/C) D C Hm D]
+[2: C(/G) G C(/G) F(/C) C F(/C) D C G C(/G) G C(/G) G C(/G) G C(/G) F(/C) C F(/C) D C D C Hm D]
 So, if an old friend I know
 Stops by to say hello
 Would I still see suspicion in your eyes?
@@ -9802,17 +9809,17 @@ Here we go again
 Asking where I've been
 You can't see the tears are real I'm crying
 
-[Chorus: C G Hm C D Em Hm C H(7/7sus4)]
+[R: C G Hm C D Em Hm C H(7/7sus4)]
 We can't go on together with suspicious minds
 And be can't build our dreams on suspicious minds
 
-[Bridge: Em Hm C D G C G D]
+[B: Em Hm C D, G C G D]
 Oh let our love survive, I'll dry the tears from your eyes
 Let's don't let a good thing die
 When honey, you know I've never lied to you hmmm mmmm
 Yeah, yeah
 
-[Verse: G C(/G) F(/C) D C(/G) G D(/G)]
+[3: G C(/G), F(/C) C F(/C) D C G C(/G) G C(/G) G C(/G) G C(/G) F(/C) C F(/C) D C D C(/G) G D(/G)]
 We're caught in a trap
 I can't walk out
 Because I love you too much baby
@@ -9821,7 +9828,7 @@ What you're doing to me
 When you don't believe a word I'm saying
 Ah don't you now
 
-[Verse: G C(/G) F(/C) D C(/G)]
+[4: G C(/G) G C(/G) F(/C) C F(/C) D C G C(/G) G C(/G)]
 We're caught in a trap
 I can't walk out
 Because I love you too much baby
@@ -9837,7 +9844,7 @@ Ah don't you now
 && The Rolling Stones &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: E D A]
+[1-2: E D A]
 Please allow me to introduce myself
 I'm a man of wealth and taste
 I've been around for a long, long year
@@ -9848,13 +9855,13 @@ Had his moment of doubt and pain
 Made damn sure that Pilate
 Washed his hands and sealed his fate
 
-[Verse: H E]
+[3: H E]
 Pleased to meet you
 Hope you guess my name
 But what's puzzling you
 Is the nature of my game
 
-[Verse: E D A]
+[4-5: E D A]
 I stuck around St. Petersburg
 When I saw it was a time for a change
 Killed the Czar and his ministers
@@ -9865,7 +9872,7 @@ Held a general's rank
 When the Blitzkrieg raged
 And the bodies stank
 
-[Verse: H E D A E]
+[6: H E, D A E]
 Pleased to meet you
 Hope you guess my name
 But what's puzzling you
@@ -9875,7 +9882,7 @@ While your kings and queens
 Fought for ten decades
 For the Gods they made
 
-[Verse: E D A]
+[7-8: E D A]
 I shouted out
 "Who killed the Kennedys?"
 When after all
@@ -9886,7 +9893,7 @@ I'm a man of wealth and taste
 And I laid traps for troubadours
 Who get killed before they reached Bombay
 
-[Verse: H E]
+[9-10: H E]
 Pleased to meet you
 Hope you guess my name
 But what's puzzling you
@@ -9898,7 +9905,7 @@ Hope you guess my name
 But what's puzzling you
 Is the nature of my game
 
-[Verse: E D A]
+[11-13: E D A]
 Just as every cop is a criminal
 And all the sinners saints
 
@@ -9912,14 +9919,14 @@ Have some sympathy, and some taste
 Use all your well-learned politesse
 Or I'll lay your soul to waste, um yeah
 
-[Verse: H E]
+[14: H E]
 Pleased to meet you
 Hope you guess my name
 But what's puzzling you
 Is the nature of my game
 um baby, get down
 
-[Verse: E]
+[15: E]
 Woo, who
 Oh yeah, get on down
 Oh yeah
@@ -9952,11 +9959,11 @@ Oh, yeah
 
 ## Síla starejch vín ##
 && Škwor &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: G D Em C Em D]
+[0: G# D# Fm C# Fm C# Fm D#]
 
-[Verse: Em C D]
+[1: Fm C# D#]
 Podle nepsanejch zákonů
 hledáme něco, co nám nejspíš schází
 podle prastarejch pudů
@@ -9965,7 +9972,7 @@ do stejný řeky nikdy nevstoupíš
 klacky sám sobě pod nohy házíš
 cos chtěl, máš, stejně dojdeš k poznání
 
-[Chorus: G D Em C Em D]
+[R: G# D# Fm C# Fm C# Fm D#]
 Že věci některý jsou neměnný
 jak síla starejch vín
 a někdy je tma kolem nás
@@ -9975,7 +9982,7 @@ to z vočí kouká nám
 tak na chvíli stůj, vzpomínej
 no a přiznej, taky jsme se báli, co bude dál
 
-[Verse: Em C D]
+[2: Fm C# D#]
 Každej ctí asi jinej zákon a kdo ví
 co nám odvahu dává
 každej má asi jinej kód
@@ -9984,7 +9991,7 @@ jak když přesadíš starej strom
 taky to nebude velká sláva
 cos chtěl, máš stejně dojdeš k poznání
 
-[Chorus: G D Em C Em D]
+[R: G# D# Fm C# Fm C# Fm D#]
 Že věci některý jsou neměnný
 jak síla starejch vín
 a někdy je tma kolem nás
@@ -10000,7 +10007,7 @@ no a přiznej, taky jsme se báli, co bude dál
 && Abba &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Chorus: H F# H C#m F#]
+[R: H F#, C#m F# C#m F#]
 If you change your mind, I'm the first in line.
 Honey I'm still free, take a chance on me.
 If you need me, let me know, gonna be around.
@@ -10012,7 +10019,7 @@ If you put me to the test, if you let me try.
 Take a chance on me (that's all I ask of you, honey)
 Take a chance on me.
 
-[Verse: C#m H G#m E F# G#m E C#m F#]
+[1: C#m H, G#m E G#m E F# G#m E C#m F# C#m F#]
 We can go dancing, we can go walking, as long as we're together.
 Listen to some music, maybe just talking, get to know you better.
 'Cause you know I've got so much that I wanna do, when I dream I'm alone with you.
@@ -10020,7 +10027,7 @@ It's magic.
 You want me to leave it there, afraid of a love affair,
 But I think you know, that I can't let go.
 
-[Chorus: H F# H C#m F#]
+[R: H F#, C#m F# C#m F#]
 If you change your mind, I'm the first in line.
 Honey I'm still free, take a chance on me.
 If you need me, let me know, gonna be around.
@@ -10032,7 +10039,7 @@ If you put me to the test, if you let me try.
 Take a chance on me (come on, give me a break, will you).
 Take a chance on me.
 
-[Verse: C#m H G#m E F# G#m E C#m F#]
+[2: C#m H, G#m E G#m E F# G#m E C#m F# C#m F#]
 Oh you can take your time baby, I'm in no hurry, I know I'm gonna get you.
 You don't want to hurt me, baby don't worry, I ain't gonna let you.
 Let me tell you now, my love is strong enough to last when things are rough.
@@ -10040,7 +10047,7 @@ It's magic.
 You say that I waste my time, but I can't get you off my mind.
 No I can't let go, 'cause I love you so.
 
-[Chorus: H F#]
+[R: H F#]
 If you change your mind, I'm the first in line.
 Honey I'm still free, take a chance on me.
 If you need me, let me know, gonna be around.
@@ -10066,66 +10073,66 @@ Better put me to the test, take a chance on me.
 && Eric Clapton &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: A E(/G#) F#m(7) A(/E) D(/F#) E(7/7sus4)]
+[0: A E(/G#) F#m(7) A(/E) D(/F#) E(7/7sus4)]
 
-[Chorus: A(/E) E(/G#) F#m(7) A(/E) D(/F#)]
+[R: A E(/G#) F#m(7) A(/E) D(/F#) A(/E) E]
 Would you know my name
 If I saw you in heaven
 Would it be the same
 If I saw you in heaven
 
-[Verse: F#m C#(/F) A(7/E) F#(7) Hm(7) E(sus4) A]
+[1: F#m C#(/F) A(7/E) F#(7) Hm(7) E(sus4) A]
 I must be strong
 and carry on
 Cause I know I don't belong
 Here in heaven
 
-[Interlude: E(/G#) F#m(7) A(/E) D(/F#) E(7/7sus4) A]
+[I: E(/G#) F#m(7) A(/E) D(/F#) E(7/7sus4) A]
 
-[Chorus: A(/E) E(/G#) F#m(7) A(/E) D(/F#)]
+[R: A E(/G#) F#m(7) A(/E) D(/F#) A(/E) E]
 Would you hold my hand
 If I saw you in heaven
 Would you help me stand
 If I saw you in heaven
 
-[Verse: F#m C#(/F) A(7/E) F#(7) Hm(7) E(sus4) A]
+[2: F#m C#(/F) A(7/E) F#(7) Hm(7) E(sus4) A]
 I'll find my way
 through night and day
 Cause I know I just can't stay
 Here in heaven
 
-[Interlude: E(/G#) F#m(7) A(/E) D(/F#) E(7/7sus4) A]
+[I: E(/G#) F#m(7) A(/E) D(/F#) E(7/7sus4) A]
 
-[Bridge: C G(/H) Am D(/F#) G D(/F#) Em D(/F#) G C G(/H) Am D(/F#) G D(/F#) E]
+[B: C G(/H) Am D(/F#) G D(/F#) Em D(/F#) G C G(/H) Am D(/F#) G D(/F#) E]
 Time can bring you down
 Time can bend your knee
 Time can break your heart
 Have you begging please
 Begging please
 
-[Interlude: A(/E) E(/G#) F#m(7) A(/E) D(/F#)]
+[I: A(/E) E(/G#) F#m(7) A(/E) D(/F#) A(/E) D(/F#)]
 
-[Verse: F#m C#(/F) A(7/E) F#(7) Hm(7) E(sus4) A]
+[3: F#m C#(/F) A(7/E) F#(7) Hm(7) E(sus4) A]
 Beyond the door
 There's peace I'm sure.
 And I know there'll be no more
 Tears in heaven
 
-[Interlude: E(/G#) F#m(7) A(/E) D(/F#) E(7/7sus4) A]
+[I: E(/G#) F#m(7) A(/E) D(/F#) E(7/7sus4) A]
 
-[Chorus: A(/E) E(/G#) F#m(7) A(/E) D(/F#)]
+[R: A E(/G#) F#m(7) A(/E) D(/F#) A(/E) E]
 Would you know my name,
 If I saw you in heaven,
 Would it be the same,
 If I saw you in heaven,
 
-[Verse: F#m C#(/F) A(7/E) F#(7) Hm(7) E(sus4) A]
+[4: F#m C#(/F) A(7/E) F#(7) Hm(7) E(sus4) A]
 I must be strong,
 and carry on,
 Cause I know I don't belong,
 Here in heaven.
 
-[Interlude: E(/G#) F#m(7) A(/E) D(/F#) E(7/7sus4) A]
+[I: E(/G#) F#m(7) A(/E) D(/F#) E(7/7sus4) A]
 
 
 
@@ -10133,7 +10140,7 @@ Here in heaven.
 && Damien Rice &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: E A(add9) H(add11) A(add9) E A(add9) H(add11) C#m]
+[1: E A(add9) H(add11) A(add9) E A(add9) H(add11) C#m]
 And so it is
 Just like you said it would be
 Life goes easy on me
@@ -10143,7 +10150,7 @@ The shorter story
 No love, no glory
 No hero in her sky
 
-[Chorus: A G#m F#m E A(add9) H(add11) E]
+[R: A G#m F#m E A(add9) H(add11) A(add9) H(add11) E]
 I can't take my eyes off of you
 I can't take my eyes off you
 I can't take my eyes off of you
@@ -10151,7 +10158,7 @@ I can't take my eyes off you
 I can't take my eyes off you
 I can't take my eyes
 
-[Verse: E A(add9) H(add11) A(add9) E A(add9) H(add11) C#m]
+[2: E A(add9) H(add11) A(add9) E A(add9) H(add11) C#m]
 And so it is
 Just like you said it should be
 We'll both forget the breeze
@@ -10161,7 +10168,7 @@ The colder water
 The blower's daughter
 The pupil in denial
 
-[Chorus: A(add9) G#m F#m E A(add9) H(add11)]
+[R: A(add9) G#m F#m E A(add9) H(add11) A(add9) H(add11)]
 I can't take my eyes off of you
 I can't take my eyes off you
 I can't take my eyes off of you
@@ -10169,13 +10176,13 @@ I can't take my eyes off you
 I can't take my eyes off you
 I can't take my eyes
 
-[Interlude: F# H(sus2) G#m C# D#m]
+[I: F# H(sus2) G#m C# D#m]
 Oooooooooohh
 Did I say that I loathe you?
 Did I say that I want to
 Leave it all behind?
 
-[Chorus: H A#m G#m F# H C#]
+[R: H A#m G#m F# H C#]
 I can't take my mind off of you
 I can't take my mind off you
 I can't take my mind off of you
@@ -10189,11 +10196,11 @@ My mindmy mind
 
 ## The Kids Aren't Alright ##
 && The Offspring &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Fm C# G# D#]
+[0: F#m D A E]
 
-[Verse: A#m F# C# G#]
+[1+R+0: Hm G D A]
 When we were young the future was so bright
 The old neighborhood was so alive
 And every kid on the whole damn street
@@ -10253,40 +10260,40 @@ Shattered dreams
 && Nirvana, David Bowie &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: A Dm F Dm]
+[0: A Dm F Dm]
 
-[Verse: A Dm A F C A Dm C]
+[1: A Dm A F C A Dm C]
 We passed upon the stair, we spoke of was and when
 Although I wasn't there, he said I was his friend
 Which came as some surprise, I spoke into his eyes
 "I thought you died alone, a long long time ago"
 
-[Chorus: C F C# F]
+[R: C F C# F]
 Oh no, not me, we never lost control
 You're face to face
 With the man who sold the world
 
-[Interlude: A Dm F Dm]
+[I: A Dm F Dm]
 
-[Verse: A Dm A F C A Dm C]
+[2: A Dm A F C A Dm C]
 I laughed and shook his hand, and made my way back home
 I searched for form and land, for years and years I roamed
 I gazed a gazely stare, at all the millions here
 I must have died alone, a long long time ago
 
-[Chorus: C F C# F]
+[R: C F C# F]
 Who knows? Not me, I never lost control
 You're face to face
 With the man who sold the world
 
-[Interlude: A Dm]
+[I: A Dm]
 
-[Chorus: C F C# F]
+[R: C F C# F]
 Who knows? Not me, we never lost control
 You're face to face
 With the man who sold the world
 
-[Outro: A Dm F Dm]
+[Z: A Dm F Dm]
 
 
 
@@ -10374,7 +10381,7 @@ Where you gonna sleep tonight?
 && Imagine Dragons &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: C F]
+[1: C F]
 Just a young gun with a quick fuse
 I was uptight, wanna let loose
 I was dreaming of bigger things
@@ -10384,7 +10391,7 @@ Fit the box, fit the mold
 Have a seat in the foyer, take a number
 I was lightning before the thunder
 
-[Bridge: C Am F]
+[B+R: C Am F]
 Thunder, thunder, thunder-thun, thunder, thun-thun-thunder, thunder
 Thunder, thunder, thun-
 Thunder, thun-thun-thunder, thunder
@@ -10395,7 +10402,7 @@ Thunder, feel the thunder
 Lightning and the thunder
 Thunder, Thunder, Thunder
 
-[Verse: C F]
+[2: C F]
 Kids were laughing in my classes
 While I was scheming for the masses
 Who do you think you are
@@ -10405,7 +10412,7 @@ You're always riding in the back seat
 Now I'm smiling from the stage
 While you were clapping in the nose bleeds
 
-[Bridge: C Am F]
+[B+R: C Am F]
 Thunder, thunder, thunder-thun, thunder, thun-thun-thunder, thunder
 Thunder, thunder, thun-
 Thunder, thun-thun-thunder, thunder
@@ -10416,11 +10423,11 @@ Thunder, feel the thunder
 Lightning and the thunder
 Thunder
 
-[Bridge: Em G Dm G]
+[B: Em G Dm, G]
 Thunder, feel the thunder
 Lightning and the thunder, thunder
 
-[Chorus: C Am F]
+[R: C Am F]
 Thunder, feel the thunder
 Lightning and the thunder, thunder
 Thunder, feel the thunder
@@ -10436,23 +10443,23 @@ Lightning and the thunder, thunder
 && Pink Floyd &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E F#m A]
+[0: E F#m A]
 
-[Verse: F#m A E]
+[1: F#m A E]
 Ticking away the moments that make up a dull day
 Fritter and waste the hours in an offhand way
 Kicking around on a piece of ground in your hometown
 Waiting for someone or something to show you the way
 
-[Chorus: D(maj7) A(maj7) D(maj7) C#m(7) Hm(7) E]
+[R: D(maj7) A(maj7), C#m(7) Hm(7) E]
 Tired of lying in the sunshine, staying home to watch the rain
 You are young and life is long, and there is time to kill today
 And then one day you find, ten years have got behind you
 No one told you when to run You missed the starting gun
 
-[Solo: F#m A E F#m D(maj7) A(maj7) D(maj7) C#m(7) Hm(7) E]
+[S: F#m A E F#m D(maj7) A(maj7) D(maj7) A(maj7) D(maj7) C#m(7) Hm(7) E]
 
-[Verse: F#m A E F#m D(maj7) A(maj7) D(maj7) C#m(7) Hm(7) F(/H) Em(add9) A]
+[2: F#m A E, D(maj7) A(maj7) D(maj7) A(maj7) D(maj7) C#m(7) Hm(7) F(/H) Em(add9) A Em(add9) A]
 And you run and you run to catch up with the Sun, but it's sinking;
 Racing around to come up behind you again.
 The Sun is the same in a relative way, but you're older,
@@ -10462,7 +10469,7 @@ Plans that either come to naught, or half a page of scribbled lines.
 Hanging on in quiet desperation is the English way.
 The time is gone, the song is over. Thought I'd something more to say.
 
-[Verse: Em(7) A(7) C(maj7) Hm(7) F(maj7) G D(7#9/7b9) Hm]
+[3: Em(7) A(7), C(maj7) Hm(7) F(maj7) G D(7#9/7b9) Hm]
 Home, home again
 I like to be here when I can
 When I come home, cold and tired
@@ -10476,11 +10483,11 @@ To hear the softly spoken magic spell
 
 ## Torn ##
 && Natalie Imbruglia &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 5 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C(sus2/sus4)]
+[0: F(sus2/sus4)]
 
-[Verse: C Em F]
+[1: F Am A#]
 I thought I saw a man brought to life
 He was warm, he came around like he was dignified
 He showed me what it was to cry
@@ -10489,50 +10496,50 @@ You don't seem to know
 Don't seem to care what your heart is for
 But I don't know him anymore
 
-[Verse: Am G Em G C]
+[2: Dm C Am C F]
 There's nothing where he used to lie
 My conversation has run dry
 That's what's going on
 Nothing's fine
 I'm torn
 
-[Chorus: C G Am F C G Am G F]
+[R: F C Dm A#, C A#]
 I'm all out of faith, this is how I feel
 I'm cold and I am shamed, lying naked on the floor
 Illusion never changed, into something real
 I'm wide awake and I can see, the perfect sky is torn
 You're a little late, I'm already torn
 
-[Verse: C Em F]
+[3: F Am A#]
 So I guess the fortune teller's right
 I should have seen just what was there and not some holy light
 But you crawl beneath my veins and now
 
-[Verse: Am G Em G C]
+[4: Dm C Am C F]
 I don't care, I have no luck
 I don't miss it all that much
 There's just so many things
 That I can't touch
 I'm torn
 
-[Chorus: C G Am F C G Am G F]
+[R: F C Dm A#, C A#]
 I'm all out of faith, this is how I feel
 I'm cold and I am shamed, lying naked on the floor
 Illusion never changed, into something real
 I'm wide awake and I can see, the perfect sky is torn
 You're a little late, I'm already torn
 
-[Bridge: Am G F Am C G]
+[B: Dm C A# Dm F C]
 Torn Ooooh Hoo ooooh Ooooh
 
-[Verse: Am G Em G C]
+[5: Dm C Am C F]
 There's nothing where he used to lie
 My inspiration has run dry
 That's what's going on
 Nothing's right
 I'm torn
 
-[Chorus: C G Am F C G Am G F]
+[R: F C Dm A#, C A#]
 I'm all out of faith, this is how I feel
 I'm cold and I am shamed, lying naked on the floor
 Illusion never changed, into something real
@@ -10541,21 +10548,21 @@ I'm all out of faith, this is how I feel
 I'm cold and I am shamed, bound and broken on the floor
 You're a little late, I'm already torn
 
-[Outro: Am G]
+[Z: Dm C]
 Torn
 Ooh
 
-[Solo: C G Am F]
+[S: F C Dm A#]
 
 
 
 ## Toxic ##
-&& Britney Spears &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+&& AnnenMayKantereit &&
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Am]
+[0: Hm]
 
-[Verse: Am C E(7)]
+[1: Hm D F#(7)]
 Baby, can’t you see
 I’m calling
 A guy like you
@@ -10569,14 +10576,14 @@ Baby, give me it
 You’re dangerous
 I’m lovin’ it
 
-[Verse: Am E(7)]
+[2: Hm F#(7)]
 Too high
 Can’t come down
 Losing my head
 Spinning ‘round and ‘round
 Do you feel me now
 
-[Chorus: Am C H(7) A#(7) Am C F(7) E(7)]
+[R: Hm D C#(7) C(7) Hm D G(7) F#(7)]
 With a taste of your lips
 I’m on a ride
 You're toxic, I'm slipping under
@@ -10586,9 +10593,9 @@ Don’t you know that you’re toxic
 And I love what you do
 Don’t you know that you’re toxic
 
-[Interlude: Am C F(7) E(7)]
+[I: Hm D G(7) F#(7)]
 
-[Verse: Am C E(7)]
+[3: Hm D F#(7)]
 It’s getting late
 To give you up
 I took a sip
@@ -10596,14 +10603,14 @@ From my devil's cup
 Slowly
 It’s taking over me
 
-[Verse: Am E(7)]
+[4: Hm F#(7)]
 Too high
 Can’t come down
 It’s in the air
 And it’s all around
 Can you feel me now
 
-[Chorus: Am C H(7) A#(7) Am C F(7) E(7)]
+[R+B: Hm D C#(7) C(7) Hm D G(7) F#(7)]
 With a taste of your lips
 I’m on a ride
 You're toxic, I'm slipping under
@@ -10618,7 +10625,7 @@ Ahhhhhhhhhhhhhhh
 Ahhhhhhhhhhhhhhh
 TASTE OF YOUR LIPS, I'M ON A RIDE
 
-[Chorus: H(7) A#(7) Am C F(7) E(7) Am C]
+[R: C#(7) C(7) Hm D G(7) F#(7) Hm D]
 You're toxic, I'm slipping under
 With a taste of a poison paradise
 I'm addicted to you
@@ -10630,7 +10637,7 @@ With a taste of a poison paradise
 I’m addicted to you
 Don’t you know that you’re toxic
 
-[Outro: Am C H(7) A#(7) Am C F(7) E(7)]
+[Z: Hm D C#(7) C(7) Hm D G(7) F#(7)]
 Intoxicate me now
 With your lovin' now
 I think I'm ready now
@@ -10645,7 +10652,7 @@ I think I'm ready now
 && The Beatles &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Chorus: D G A]
+[R+1-2: D G A]
 Well, shake it up, baby now, (shake it up, baby)
 Twist and shout, (twist and shout)
 Come on, come on, come, come on baby now, (come on baby)
@@ -10666,10 +10673,10 @@ You know you twist so fine, (twist so fine)
 Come on and twist a little closer now, (twist a little closer)
 And let me know that you're mine, (let me know you're mine, ooh)
 
-[Interlude: D G A G]
+[I: D G A G, A]
 Ah, ah, ah, ah
 
-[Chorus: D G A]
+[R+3+Z: D G A]
 Well, shake it up, baby now ,(shake it up, baby)
 Twist and shout, (twist and shout)
 Come on, come on, come, come on baby now, (come on baby)
@@ -10691,49 +10698,49 @@ Ah, ah, ah, ah
 && Kryštof &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C F G C G]
+[0: C F G C G]
 
-[Verse: C F G(7) C Em(/H)]
+[1: C F G(7), Em(/H)]
 Znám milion blyštivých měst, v nich milion dveří
 za nimi labyrinty cest, co mě lákají dál
 a nad tím vším ještě víc hvězd, chceš ať mě střeží
 abych se neztratil, abych se nenachytal
 
-[Bridge: F G]
+[B: F G]
 Protože ty a já jsme jedno jen ze dvou částí
 protože ty a já jsme dvě křídla nad propastí
 
-[Chorus: C F G C Em(/H) Am F G C Em(/H)]
+[R: C F G C Em(/H) Am F G C Em(/H)]
 A tak doufám, že to co mě i Tebe tak mrazí
 nejsou jen tři tečky na konci frází
 a tak doufám, že to co mě i Tebe tak mrazí
 nejsou jen tři tečky na konci frází
 
-[Verse: C F G(7) C Em(/H)]
+[2: C F G(7), Em(/H)]
 Znám sto tisíc scénářů, v nich sto tisíc rolí
 a uprostřed všech ta jediná, co bych chtěl hrát
 je to ta, co jsi vepsala do snářů a co nás spojí
 co s ní každý den vstávám a večer jdu spát
 
-[Bridge: F G]
+[B: F G]
 Protože Ty a já jsme jedno jen ze dvou částí
 protože Ty a já jsme dvě křídla nad propastí
 
-[Chorus: C F G C Em(/H) Am F G C Em(/H)]
+[R: C F G C Em(/H) Am F G C Em(/H)]
 A tak doufám, že to co mě i Tebe tak mrazí
 nejsou jen tři tečky na konci frází
 a tak doufám, že to co mě i Tebe tak mrazí
 nejsou jen tři tečky na konci frází
 
-[Interlude: Am F Em F G]
+[I: Am F Em F G]
 
-[Chorus: C F G C Em(/H) Am F G C Em(/H)]
+[R: C F G C Em(/H) Am F G C Em(/H)]
 A tak doufám, že to co mě i Tebe tak mrazí
 nejsou jen tři tečky na konci frází
 a tak doufám, že to co mě i Tebe tak mrazí
 nejsou jen tři tečky na konci frází
 
-[Outro: C F G C Em(/H)]
+[Z: C F G C Em(/H)]
 
 
 
@@ -10741,41 +10748,41 @@ nejsou jen tři tečky na konci frází
 && No Name &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E A(sus2) H(sus4)]
+[0: E A(sus2), H(sus4)]
 
-[Verse: E H(sus4) E(sus4) A(sus2) E(sus4) C#m(7) H(sus4)]
+[1: E(sus4) H(sus4) E A(sus2), A(sus2) E(sus4) C#m(7) H(sus4)]
 Jediné čo na tebe si cením
 tvoja sestra, kvôli nej sa mením
 ja viem že kvôli tebe vymyslel som ráno
 kvôli sestre však obetujem spánok
 
-[Bridge: A(sus2) E(/G#) F#m(11)]
+[B: A(sus2) E(/G#) F#m(11)]
 Pozerám sa, v očiach vidím jas
 vďaka tvojej sestre ľúbim zas
 
-[Verse: E H(sus4) E A(sus2) E H(sus4) C#m(7) H(sus4)]
+[2: E H(sus4) E A(sus2), C#m(7) H(sus4)]
 Na svete sú veci, čo sú krásne
 tvoja sestra mi ich dala, to je jasné
 to, čo mi ty dávaš, to je málo
 opýtaj sa sestry, čo sa stalo, uoó
 
-[Chorus: A(sus2) H(sus4) C#m(7) A(sus2) H(sus4) E]
+[R: A(sus2) H(sus4) C#m(7), E]
 Tak sa pýtam, pre ktorú mi srdce bije
 kvôli tebe dýcham, no kvôli sestre žijem
 a jedno čomu verím sú tvojej sestry pery
 a jedno čo ma mrzí, si ty a tvoje slzy
 
-[Bridge: C#m(7) A(sus2) E H(sus4)]
+[B: C#m(7) A(sus2) E H(sus4)]
 Pozerám sa ráno z okna, vidím teba, sestru
 neviem prísť na to, ktorú vezmem za nevestu
 
-[Verse: A(sus2) H(sus4) C#m(7) A(sus2) H(sus4) E]
+[3: A(sus2) H(sus4) C#m(7), E]
 Tak sa pýtam, pre ktorú mi srdce bije
 kvôli tebe dýcham, no kvôli sestre žijem
 a jedno čomu verím, sú tvojej sestry pery
 a jedno čo ma mrzí, si ty a tvoje slzy
 
-[Chorus: G C(add9) D(sus4)]
+[R: G C(add9) D(sus4)]
 Tak sa pýtam pre ktorú mi srdce bije
 kvôli tebe dýcham, no kvôli sestre žijem
 a jedno čomu verím, sú tvojej sestry pery
@@ -10785,15 +10792,15 @@ uóou, uóou, uóou, uóou
 jedna kvôli ktorej dýcham, kvôli ktorej žijem
 ty a tvoja sestra, uoou, uoou
 
-[Outro: E(sus4)]
+[Z: E(sus4)]
 
 
 
 ## Umbrella ##
 && The Baseballs &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: F C E(7) Am]
+[1+R: F# C# F(7) A#m]
 You have my heart, and we'll never be worlds apart
 Maybe in magazines, but you'll still be my star
 Baby, 'cause in the dark, you can't see shiny cars
@@ -10811,7 +10818,7 @@ Know that we still have each other
 You can stand under my umbrella
 You can stand under my umbrella
 
-[Interlude: F C(/G) E(7) Am F C(/G) Am]
+[I: F# C#(/G#) F(7) A#m F# C#(/G#) A#m]
 (Ella ella eh eh eh)
 Under my umbrella
 (ella ella eh eh eh)
@@ -10820,7 +10827,7 @@ Under my umbrella
 Under my umbrella
 (ella ella eh eh eh eh eh eh)
 
-[Verse: F C E(7) Am]
+[2+R: F# C# F(7) A#m]
 These fancy things, will never come in between
 You're part of my entity, here for infinity
 When the war has took it's part
@@ -10838,7 +10845,7 @@ Know that we still have each other
 You can stand under my umbrella
 You can stand under my umbrella
 
-[Interlude: C(/G) E(7) Am F]
+[I: C#(/G#) F(7) A#m F#]
 (Ella ella eh eh eh)
 Under my umbrella
 (ella ella eh eh eh)
@@ -10847,7 +10854,7 @@ Under my umbrella
 Under my umbrella
 (ella ella eh eh eh eh eh eh)
 
-[Bridge: A# F C A# F E(7) F]
+[B: H F# C# H F# F(7) F#]
 You can run into my arms
 It's okay, don't be alarmed
 (Come into me)
@@ -10856,7 +10863,7 @@ So gonna let the rain pour
 I'll be all you need and more
 Because
 
-[Chorus: F C(/G) E(7) Am]
+[R: F# C#(/G#) F(7) A#m]
 When the sun shines
 We'll shine together
 Told you I'll be here forever
@@ -10867,7 +10874,7 @@ Know that we still have each other
 You can stand under my umbrella
 You can stand under my umbrella
 
-[Interlude: C(/G) E(7) Am F]
+[I: C#(/G#) F(7) A#m F#]
 (Ella ella eh eh eh)
 Under my umbrella
 (ella ella eh eh eh)
@@ -10876,7 +10883,7 @@ Under my umbrella
 Under my umbrella
 (ella ella eh eh eh eh eh eh)
 
-[Outro: F C(/G) E(7) Am]
+[Z: F# C#(/G#) F(7) A#m]
 It's raining (raining)
 Ooo baby, it's raining
 Baby, come into me
@@ -10892,7 +10899,7 @@ Come into me
 && Queen &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: D A G A]
+[1-4: D A G A]
 Um boom ba bay
 Um boom ba bay
 Um Um boom ba bay bay
@@ -10912,7 +10919,7 @@ Um ba ba bay
 Dee day duh
 Ee day duh
 
-[Verse: G A D]
+[5-6: G A, D G A]
 It's the terror of knowing
 What this world is about
 Watching some good friends
@@ -10925,7 +10932,7 @@ Day day day
 da da dup bup bup
 Okay
 
-[Verse: D A G A]
+[7-9: D A G A]
 Chippin' around
 I kick my brains round the floor
 These are the days
@@ -10941,7 +10948,7 @@ Dee da dee da day
 People on streets
 Dee da dee da dee da dee da
 
-[Verse: G A]
+[10: G A]
 It's the terror of knowing
 What this world is about
 Watching some good friends
@@ -10949,7 +10956,7 @@ Screaming let me out!
 Pray tomorrow
 Takes me high high higher
 
-[Verse: G C G A C F G F A]
+[11: G C, A C F G F A]
 Turned away from it all
 Like the blind man
 Sat on a fence but it don't work
@@ -10960,13 +10967,13 @@ Why?
 Love Love Love!
 Insanity laughs under pressure we're cracking
 
-[Verse: D G A D A G A]
+[12: D G A, A D A G A D A G A]
 Can't we give ourselves one more chance?
 Why can't we give love that one more chance?
 Why can't we give love give love give love?
 Give love give love give love give love give love give love?
 
-[Verse: G A D A]
+[13: G A D A, G A D A G]
 Cause love's such an old fashioned word
 And love dares you to care
 For the people on the edge of the night
@@ -10976,7 +10983,7 @@ This is our last dance
 This is our last chance
 This is ourselves
 
-[Verse: D A D G A]
+[14: D A D G A]
 Under Pressure
 Under Pressure
 Pressure
@@ -10987,18 +10994,18 @@ Pressure
 && Amy Winehouse &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: E(maj7) F#m(7)]
+[1: E(maj7) F#m(7)]
 Well sometimes I go out by myself and I look across the water
 And I think of all the things,
 what you're doing and in my head I make a picture
 
-[Chorus: A(maj7) G#m H E(maj7) F#m(7)]
+[R: A(maj7) G#m, H E(maj7) F#m(7)]
 'cos since I've come on home, well my body's been a mess
 And I've missed your ginger hair and the way you like to dress
 Won't you come on over stop making a fool out of me
 Why won't you come on over Valerie? Valerie?
 
-[Verse: E(maj7) F#m(7)]
+[2: E(maj7) F#m(7)]
 Did you have to go to jail, put your house up for sale,
 did you get a good lawyer?
 I hope you didn't catch a tan
@@ -11008,18 +11015,18 @@ changed the colour of your hair, are you busy?
 And did you have to pay the fine
 you were dodging all the time are you still dizzy
 
-[Chorus: A(maj7) G#m H E(maj7) F#m(7)]
+[R: A(maj7) G#m, H E(maj7) F#m(7)]
 'cos since I've come on home, well my body's been a mess
 And I've missed your ginger hair and the way you like to dress
 Won't you come on over stop making a fool out of me
 Why won't you come on over Valerie? Valerie?
 
-[Verse: E(maj7) F#m(7)]
+[3: E(maj7) F#m(7)]
 Well sometimes I go out by myself and I look across the water
 And I think of all the things,
 what you're doing and in my head I make a picture
 
-[Chorus: A(maj7) G#m H E(maj7) F#m(7)]
+[R: A(maj7) G#m, H E(maj7) F#m(7)]
 'cos since I've come on home, well my body's been a mess
 And I've missed your ginger hair and the way you like to dress
 Won't you come on over stop making a fool out of me
@@ -11029,9 +11036,9 @@ Why won't you come on over Valerie? Valerie?
 
 ## Velrybářská výprava ##
 && Pacifik &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 4 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[C F G(7) C Am Dm G(7)]
+[E A H(7) E C#m F#m H(7)]
 Jednou plác' mě přes rameno Johny zvanej Knecht
 Mám pro tebe, hochu, v pácu moc fajnovej kšeft
 Objednal hned litr rumu a pak něžně řval
@@ -11088,7 +11095,7 @@ Protože nejeli jsme na velryby, ale na mrože
 && No Name &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: G(/H) D(/A) Hm A]
+[1-2: G(/H) D(/A), Hm A G D]
 Želám ti dobré ráno
 rád by som ale vedel, kde si
 veď zaspávali sme spolu
@@ -11099,14 +11106,14 @@ ktorou očarila si ma
 jediné, čo si pamätám
 je neprestávajúca zima
 
-[Chorus: G A Hm D A(/C#) G C G Hm A]
+[R: G A Hm D A(/C#) G C G Hm A]
 Už viem, ako chutí večnosť
 jej chuť je trpká, chýba mi tvoj smiech
 ja si počkám, kým príde rad na teba
 vezmem ťa tam, kde milovanie nie je hriech
 chýbaš mi celá
 
-[Verse: G(/H) D(/A) Hm A]
+[3-4: G(/H) D(/A), Hm A G D]
 Už viem, čo znamená byť za vodou
 a aká je večnosť krásna
 do vtedy, kým sa stretneme
@@ -11117,27 +11124,27 @@ ja neviem či je ráno a či po obede
 a v duši zavládol mi pokoj
 už mám na všetky otázky odpovede
 
-[Chorus: G A Hm D A(/C#) G C G Hm A]
+[R: G A Hm D A(/C#) G C G Hm A]
 Už viem, ako chutí večnosť
 jej chuť je trpká, chýba mi tvoj smiech
 ja si počkám, kým príde rad na teba
 vezmem ťa tam, kde milovanie nie je hriech
 chýbaš mi celá
 
-[Verse: G(/H) D(/A) Hm A]
+[5: G(/H) D(/A), Hm A G D]
 Už viem, čo znamená byť za vodou
 a aká je večnosť krásna
 do vtedy, kým sa stretneme
 ti želám, zostaň šťastná
 
-[Chorus: G A Hm D A(/C#) G C G Hm A]
+[R: G A Hm D A(/C#) G C G Hm A]
 Už viem, ako chutí večnosť
 jej chuť je trpká, chýba mi tvoj smiech
 ja si počkám, kým príde rad na teba
 vezmem ťa tam, kde milovanie nie je hriech
 chýbaš mi celá
 
-[Verse: G(/H) D(/A) Hm A]
+[6: G(/H) D(/A), Hm A G D]
 Už viem, čo znamená byť za vodou
 a aká je večnosť krásna
 do vtedy, kým sa stretneme
@@ -11149,9 +11156,9 @@ ti želám, zostaň šťastná
 && Avicii &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Hm G D A Hm G D F#]
+[0: Hm G D A Hm G D F#]
 
-[Verse: Hm G D]
+[1: Hm G D]
 Feeling my way through the darkness
 Guided by a beating heart
 I can’t tell where the journey will end
@@ -11161,7 +11168,7 @@ They say I’m caught up in a dream
 Well life will pass me by if I don’t open up my eyes
 Well that’s fine by me
 
-[Chorus: Hm G D A Hm G D F#]
+[R: Hm G D A Hm G D F#]
 So wake me up when it’s all over
 When I’m wiser and I’m older
 All this time I was finding myself
@@ -11171,7 +11178,7 @@ When I’m wiser and I’m older
 All this time I was finding myself
 And I didn’t know I was lost
 
-[Verse: Hm G D A]
+[2: Hm G D, A Hm G D]
 I tried carrying the weight of the world
 But I only have two hands
 Hope I get the chance to travel the world
@@ -11181,7 +11188,7 @@ Not afraid to close my eyes
 Life’s a game made for everyone
 And love is a prize
 
-[Chorus: Hm G D A Hm G D F#]
+[R: Hm G D A Hm G D F# Hm G D A Hm G D]
 So wake me up when it’s all over
 When I’m wiser and I’m older
 All this time I was finding myself
@@ -11191,6 +11198,7 @@ When I’m wiser and I’m older
 All this time I was finding myself
 And I didn’t know I was lost
 
+[B: Hm G D A Hm G D F#]
 I didn’t know I was lost
 I didn’t know I was lost
 I didn’t know I was lost
@@ -11202,70 +11210,70 @@ I didn’t know I was lost
 && Dire Straits &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: E H A H E A H]
+[0: E H A H A H E A H A H E A H A H E A H A H E A H A H]
 
-[Verse: E]
+[1: E]
 Here comes Johnny singing oldies, goldies
 "Be-Bop-A-Lula", "Baby What I Say"
 Here comes Johnny singing "I Gotta Woman"
 Down in the tunnels, trying to make it pay
 
-[Bridge: A H A E]
+[B: A H A E]
 He got the action, he got the motion
 Oh yeah, the boy can play
 Dedication, devotion
 Turning all the night time into the day
 
-[Chorus: E H E A E H A F#m H]
+[R: E H E A E H A F#m H]
 He do the song about the sweet lovin' woman
 He do the song about the knife
 He do the walk, do the walk of life
 Yeah, he do the walk of (life)
 
-[Interlude: E A H]
+[I: E A H A H]
 life
 
-[Verse: E]
+[2: E]
 Here comes Johnny, gonna tell you the story
 Hand me down my walkin' shoes
 Here come Johnny with the power and the glory
 Backbeat the talkin' blues
 
-[Bridge: A E]
+[B: A E]
 He got the action, he got the motion
 Yeah, the boy can play
 Dedication, devotion
 Turning all the night time into the day
 
-[Chorus: E H E A E H A F#m H]
+[R: E H E A E H A F#m H]
 He do the song about the sweet lovin' woman
 He do the song about the knife
 He do the walk, do the walk of life
 Yeah, he do the walk of (life)
 
-[Interlude: E A H]
+[I: E A H A H]
 life
 life
 
-[Verse: E]
+[3: E]
 Here comes Johnny singing oldies, goldies
 "Be-Bop-A-Lula", "Baby What I Say"
 Here comes Johnny singing "I Gotta Woman"
 Down in the tunnels, trying to make it pay
 
-[Bridge: A E]
+[B: A E]
 He got the action, he got the motion
 Oh yeah, the boy can play
 Dedication, devotion
 Turning all the night time into the day
 
-[Chorus: E H E A E H A F#m H]
+[R: E H E A E H A F#m H]
 And after all the violence and double talk
 There's just a song in all the trouble and the strife
 You do the walk, yeah, you do the walk of life
 Hmm, you do the walk of (life)
 
-[Outro: E A H]
+[Z: E A H A H]
 life
 life
 
@@ -11275,9 +11283,9 @@ life
 && Lou Reed &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C F]
+[0: C F]
 
-[Verse: C F C Dm F Dm]
+[1-2: C F C F C Dm F Dm]
 Holly came from Miami, F.L.A.
 Hitch-hiked her way across the USA
 Plucked her eyebrows on the way
@@ -11296,10 +11304,10 @@ Take a walk on the wild side
 I Said, Hey baby
 Take a walk on the wild side and the coloured girls go
 
-[Bridge: C F]
+[B: C F]
 Doo do doo do doo do do doo
 
-[Verse: C F C Dm F Dm]
+[3: C F C F C Dm F Dm]
 Little Joe never once gave it away
 Everybody had to pay and pay
 A hustle here and a hustle there
@@ -11308,6 +11316,7 @@ Hey babe, take a walk on the wild side
 I said, Hey Joe
 Take a walk on the wild side
 
+[4: C F C F C Dm F Dm C F C F]
 Sugar Plum Fairy came and hit the streets
 Lookin' for soul food and a place to eat
 Went to the Apollo
@@ -11317,6 +11326,7 @@ I Said, Hey babe
 Take a walk on the wild side
 All right, huh
 
+[5: C F C F C Dm F Dm]
 Jackie is just speeding away
 Thought she was James Dean for a day
 Then I guess she had to crash
@@ -11326,16 +11336,16 @@ Take a walk on the wild side
 I said, Hey honey,
 Take a walk on the wild side and the coloured girls say,
 
-[Chorus: C F]
+[R: C F]
 Doo do doo do doo do do doo
 
 
 
 ## We Are The Champions ##
 && Queen &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Am Em Am G C F C G Am D G Em G(7) A]
+[1: Cm Gm, A# D# G# D# G# D# A# Cm F A# Gm A#(7) C]
 I've paid my dues.
 time after time
 I've done my sentence
@@ -11346,7 +11356,7 @@ I've had my share of sand
 Kicked in my face
 But I've come through
 
-[Chorus: D F#m Hm G A D F#m G H Em A Gm F#m E D Am(7) F G Am Em]
+[R: F Am Dm A# C F Am A# D Gm C A#m Am G F Cm(7) G# A# Cm Gm]
 We are the champions, my friends
 And we'll keep on fighting till the end
 We are the champions
@@ -11354,7 +11364,7 @@ We are the champions
 No time for the losers
 'Cause we are the champions of the world
 
-[Verse: Am Em C F C G Am D G Em G(7) A]
+[2: Cm Gm, D# G# D# G# D# A# Cm F A# Gm A#(7) C]
 I've taken my bows
 And my curtain calls
 You've brought me fame and fortune and everything that goes with it
@@ -11366,7 +11376,7 @@ whole human race
 And I ain't gonna lose
 And we mean to go on, and on, and on, and on
 
-[Chorus: D F#m Hm G A D F#m G H Em A Gm F#m E D Am(7) F G Am Em]
+[R: F Am Dm A# C F Am A# D Gm C A#m Am G F Cm(7) G# A# Cm Gm]
 We are the champions, my friends
 And we'll keep on fighting till the end
 We are the champions
@@ -11385,9 +11395,9 @@ No time for the losers
 
 ## We Are Young ##
 && Fun. &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 5 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: C Am Dm F G]
+[1: F Dm Gm A# C]
 Give me a second I
 I need to get my story straight
 My friends are in the bathroom
@@ -11402,12 +11412,12 @@ But between the drinks and subtle things
 The holes in my apologies
 You know I'm trying hard to take it back
 
-[Bridge: Dm Em Am G F G]
+[B: Gm Am Dm C A# C]
 So if by the time the bar closes
 And you feel like falling down
 I'll carry you home
 
-[Chorus: C Am F G(sus4)]
+[R: F Dm A# C(sus4)]
 Tonight
 We are young
 So let's set the world on fire
@@ -11419,7 +11429,7 @@ So let's set the world on fire
 We can burn brighter
 Than the sun
 
-[Verse: C Am Dm F G]
+[2: F Dm Gm A# C]
 Now I know that I'm not
 All that you got
 I guess that I
@@ -11428,7 +11438,7 @@ But our friends are back
 So let's raise a toast
 Cause I found someone to carry me home
 
-[Chorus: C Am F G(sus4)]
+[R: F Dm A# C(sus4)]
 Tonight
 We are young
 So let's set the world on fire
@@ -11440,7 +11450,7 @@ So let's set the world on fire
 We can burn brighter
 Than the sun
 
-[Bridge: C F C(/E) G]
+[B: F A# F(/A) C]
 Carry me home tonight
 Just carry me home tonight
 Carry me home tonight
@@ -11450,7 +11460,7 @@ So will someone come and carry me home tonight
 The angels never arrived but I can hear the choir
 so will someone come and carry me home
 
-[Chorus: C Am F G(sus4)]
+[R: F Dm A# C(sus4)]
 Tonight
 We are young
 So let's set the world on fire
@@ -11462,7 +11472,7 @@ So let's set the world on fire
 We can burn brighter
 Than the sun
 
-[Bridge: Dm Em Am G F G C]
+[B: Gm Am Dm C A# C F]
 So if by the time the bar closes
 And you feel like falling down
 I'll carry you home tonight
@@ -11528,7 +11538,7 @@ He tells me every day
 He says "Man I really gotta lose my chick
 In the worst kind of way"
 
-[Verse: D G D A]
+[1+R+2: D G D A]
 She sits on her ass
 He works his hands to the bone
 To give her money every payday
@@ -11550,13 +11560,13 @@ Na na, why don't you get a job?
 Say no way, say no way-ah, no way-ay-ay-ay
 Na na, why don't you get a job?
 
-[Interlude: G D G E A]
+[I: G D G E A]
 Well I guess it ain't easy
 Doing nothing at alllllllll ohhhh yeahhhh
 But hey man free rides just don't
 Come along every day (Let me tell you about my other friend now)
 
-[Verse: D G D A]
+[3+R+Z: D G D A]
 My friend's got a boyfriend
 Man she hates that dick
 She tells me every day
@@ -11579,12 +11589,12 @@ Na na, why don't you get a job?
 && Cat Stevens &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: Am D(/F#) G C F Dm E]
+[0: Am D(/F#) G C F Dm E]
 La la la la, la la la la la, la
 la la la la, la la la la la, la
 la la la la, la la la la la la, la la
 
-[Verse: Am D(/F#) G C F Dm E(sus4) G(6/7)]
+[1: Am D(/F#) G C F Dm E(sus4), G(6/7)]
 Now that I've lost everything to you
 You say you wanna start something new
 And it's breaking my heart you're leaving
@@ -11593,13 +11603,13 @@ But if you want to leave, take good care
 Hope you have a lot of nice things to wear
 But then a lot of nice things turn bad out there
 
-[Chorus: C G F C Dm E]
+[R: C G F G F C G C G F G F C Dm E]
 Ooh baby baby, it's a wild world
 It's hard to get by just upon a smile
 Ooh baby baby, it's a wild world
 I'll always remember you like a child, girl
 
-[Verse: Am D(/F#) G C F Dm E(sus4) G(6/7)]
+[2: Am D(/F#) G C F Dm E(sus4), G(6/7)]
 You know I've seen a lot of what the world can do
 And it's breaking my heart in two
 Because I never want to see you sad girl
@@ -11608,31 +11618,31 @@ But if you want to leave, take good care
 Hope you make a lot of nice friends out there
 But just remember there's a lot of bad and beware
 
-[Chorus: C G F C Dm E]
+[R: C G F G F C G C G F G F C Dm E]
 Ooh baby baby, it's a wild world
 It's hard to get by just upon a smile
 Ooh baby baby, it's a wild world
 I'll always remember you like a child, girl
 
-[Solo: Am D(/F#) G]
+[S: Am D(/F#) G]
 
-[Solo: C F Dm E]
+[S: C F Dm E]
 La la la la, la la la la la, la
 la la la la, la la la la la la, la la
 
-[Verse: E(sus4) Am D(/F#) G C F Dm E G(6/7)]
+[3: E(sus4) Am D(/F#) G C F Dm E G(6/7)]
 Baby, I love you
 But if you want to leave, take good care
 Hope you make a lot of nice friends out there
 But just remember there's a lot of bad and beware
 
-[Chorus: C G F C Dm E]
+[R: C G F G F C G C G F G F C Dm E]
 Ooh baby baby, it's a wild world
 It's hard to get by just upon a smile
 Ooh baby baby, it's a wild world
 I'll always remember you like a child, girl
 
-[Chorus: C G F]
+[R: C G F G F C G]
 Ooh baby baby, it's a wild world
 And it's hard to get by just upon a smile
 Ooh baby baby, it's a wild world
@@ -11674,9 +11684,9 @@ Wish you were here
 
 ## You Can't Always Get What You Want ##
 && The Rolling Stones &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 5 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: G(add9) C]
+[0-1: C(add9) F]
 X|-||
 
 I saw her today at the reception,
@@ -11684,25 +11694,25 @@ a glass of wine in her hand
 I knew she was gonna meet her connection,
 at her feet was a footloose man
 
-[Chorus: G(add9) C A C]
+[R: C(add9) F, D F C]
 You can't always get what you want
 You can't always get what you want
 You can't always get what you want
 but if you try sometimes, you might find, you get what you need
 
-[Verse: G(add9) C]
+[2: C(add9) F]
 I went down to the demonstration,
 to get my fair share of abuse
 Singing, "we're gonna vent our frustration,
 if we don't we're gonna blow a 50 amp fuse"
 
-[Chorus: G(add9) C A C]
+[R: C(add9) F, D F C]
 You can't always get what you want
 You can't always get what you want
 You can't always get what you want
 but if you try sometimes, you might find, you get what you need
 
-[Verse: G(add9) C]
+[3: C(add9) F]
 I went down to the Chelsea Drug Store,
 to get your prescription filled
 I was standing in line with Mr. Jimmy
@@ -11712,27 +11722,27 @@ my favorite flavour: cherry red
 I sung my song to Mr. Jimmy,
 and he said one word to me and that was "dead"
 
-[Chorus: G(add9) C A C]
+[R: C(add9) F, D F C]
 You can't always get what you want
 You can't always get what you want
 You can't always get what you want
 but if you try sometimes, you might find, you get what you need
 
-[Interlude: G(add9) C D C]
+[I: C(add9) F G F G F C(add9) F C(add9) G F C(add9) F]
 
-[Chorus: G(add9) C A C]
+[R: C(add9) F, D F C]
 You can't always get what you want
 You can't always get what you want
 You can't always get what you want
 but if you try sometimes, you might find, you get what you need
 
-[Verse: G(add9) C]
+[4: C(add9) F]
 I saw her today at the reception,
 in her glass was a bleeding man
 She was practiced at the art of deception,
 I could tell by her bloodstained hands
 
-[Chorus: G(add9) C A C]
+[R+I: C(add9) F, D F C]
 You can't always get what you want
 You can't always get what you want
 You can't always get what you want
@@ -11743,15 +11753,15 @@ You can't always get what you want
 You can't always get what you want
 but if you try sometimes, you might find, you get what you need
 
-[Outro: G(add9) C]
+[Z: C(add9) F]
 
 
 
 ## You Never Can Tell ##
 && Chuck Berry &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 3 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[A E(7)]
+[C G(7)]
 It was a teenage wedding, and the old folks wished them well
 You could see that Pierre did truly love the mademoiselle
 And now the young monsieur and madame have rung the chapel bell,
@@ -11781,11 +11791,11 @@ And now the young monsieur and madame have rung the chapel bell,
 
 ## You're Beautiful ##
 && James Blunt &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 8 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: G(/F#) Em(7) C(add9)]
+[0: D#(/D) Cm(7) G#(add9)]
 
-[Verse: G(/F#) Em(7) C(add9) D(/F#)]
+[1: D#(/D) Cm(7) G#(add9), A#(/D)]
 My life is brilliant
 My love is pure
 I saw an angel
@@ -11795,7 +11805,7 @@ She was with another man
 But I won't lose no sleep on that
 'Cause I've got a plan
 
-[Chorus: C(add9) D(/F#) Em(7) D(/F#) C(add9) D(/F#) G D(/F#) Em(7) C(add9) D(/F#) G]
+[R: G#(add9) A#(/D) Cm(7) A#(/D) G#(add9) A#(/D) D# G#(add9) A#(/D) D# A#(/D) Cm(7) G#(add9) A#(/D) Cm(7) G#(add9) A#(/D) D#]
 You're beautiful
 You're beautiful
 You're beautiful, it's true
@@ -11803,7 +11813,7 @@ I saw your face in a crowded place
 And I don't know what to do
 'Cause I'll never be with you
 
-[Verse: G(/F#) Em(7) C(add9)]
+[2: D#(/D) Cm(7) G#(add9)]
 Yes, she caught my eye
 As we walked on by
 She could see from my face that I was
@@ -11811,7 +11821,7 @@ Fuckin' high
 And I don't think that I'll see her again
 But we shared a moment that will last 'til the end
 
-[Chorus: C(add9) D(/F#) Em(7) D(/F#) C(add9) D(/F#) G D(/F#) Em(7) C(add9) D(/F#) G]
+[R: G#(add9) A#(/D) Cm(7) A#(/D) G#(add9) A#(/D) D# G#(add9) A#(/D) D# A#(/D) Cm(7) G#(add9) A#(/D) Cm(7) G#(add9) A#(/D) D#]
 You're beautiful
 You're beautiful
 You're beautiful, it's true
@@ -11819,12 +11829,12 @@ I saw your face in a crowded place
 And I don't know what to do
 'Cause I'll never be with you
 
-[Bridge: C(add9) Em(7) C(add9) D(/F#)]
+[B: G#(add9) Cm(7) G#(add9) A#(/D) G#(add9) A#(/D)]
 La-la-la-la
 La-la-la-la
 La-la-la-la, la
 
-[Outro: C(add9) D(/F#) Em(7) D(/F#) C(add9) D(/F#) G D(/F#) Em(7) C(add9) D(/F#) G]
+[Z: G#(add9) A#(/D) Cm(7) A#(/D) G#(add9) A#(/D) D# G#(add9) A#(/D) D# A#(/D) Cm(7) G#(add9) A#(/D) D# A#(/D) Cm(7) G#(add9) A#(/D) Cm(7) G#(add9) A#(/D) D#]
 You're beautiful
 You're beautiful
 You're beautiful, it's true
@@ -11837,11 +11847,11 @@ I will never be with you
 
 ## You're Still The One ##
 && Shania Twain &&
-++ z akordy.kytary.cz, zatím bez kontroly, kapodastr 1 ++
+++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: D G A]
+[0: D# G# A#]
 
-[Verse: D G A G]
+[1: D# G# A#, G#]
 Looks like we made it
 Look how far we've come, my baby
 We mighta took the long way
@@ -11850,7 +11860,7 @@ They said, "I bet they'll never make it"
 But just look at us holding on
 We're still together, still going strong
 
-[Chorus: D G Em A D G A G]
+[R: D# G# Fm A# D# G# A# G#]
 You're still the one I run to
 The one that I belong to
 You're still the one I want for life
@@ -11858,7 +11868,7 @@ You're still the one that I love
 The only one I dream of
 You're still the one I kiss good night
 
-[Verse: D G A G]
+[2: D# G# A#, G#]
 Ain't nothing better
 We beat the odds together
 I'm glad we didn't listen
@@ -11867,7 +11877,7 @@ They said, "I bet they'll never make it"
 But just look at us holding on
 We're still together still going strong
 
-[Chorus: D G Em A D G A G]
+[R: D# G# Fm A# D# G# A# G#]
 You're still the one I run to
 The one that I belong to
 You're still the one I want for life
@@ -11876,9 +11886,9 @@ The only one I dream of
 You're still the one I kiss good night
 You're still the one
 
-[Interlude: D G A]
+[I: D# G# A#]
 
-[Chorus: D G Em A D G A G]
+[R: D# G# Fm A# D# G# A# G#]
 You're still the one I run to
 The one that I belong to
 You're still the one I want for life
@@ -11886,7 +11896,7 @@ You're still the one that I love
 The only one I dream of
 You're still the one I kiss good night
 
-[Outro: D G A]
+[Z: D# G# A#]
 I'm so glad we made it
 Look how far we've come, my baby
 
@@ -11938,7 +11948,7 @@ zatanči, a pak ke mně pojď
 && No Name &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: Fm Cm A#(sus2)]
+[1-2: Fm Cm A#(sus2)]
 Čím to je, čím to je
 že rieka do mora sa vlieva
 a ten čo nevie spievat spieva?
@@ -11947,7 +11957,7 @@ a ten čo nevie spievat spieva?
 že mladí netúžia byť múdri
 a ženy ukryté sú v púdri?
 
-[Chorus: A#(7sus4) G#(/A#) D# G(5) G#]
+[R: A#(7sus4) G#(/A#) D#, G(5) G#]
 Možno zlodej a možno mních
 spísal knihu kníh
 čo raz a navždy vysvetlí
@@ -11955,7 +11965,7 @@ prečo sú veci tak jak, sú
 život má chuť zápasu
 a človek ním len preletí
 
-[Verse: Fm Cm A#(sus2)]
+[3-4: Fm Cm A#(sus2)]
 Čím to je, čím to je
 že Mesiac so Slnkom sa strieda
 na Zemi blahobyt a bieda?
@@ -11964,7 +11974,7 @@ na Zemi blahobyt a bieda?
 že leto nenávidí jeseň
 a kritik nenapíše pieseň?
 
-[Chorus: G#(/A#) D# A#]
+[R: G#(/A#) D# A#]
 Tá otázka je možno hlúpa
 no ja chcem vedieť, čím to je
 že dym z cigarety stúpa
@@ -11972,7 +11982,7 @@ no ja chcem vedieť, čím to je
 a lietať nedokážu ľudia
 ale vtáky
 
-[Chorus: G#(/A#) D# A# G#(/A#) D# G(5)]
+[R: G#(/A#) D# A# G#(/A#) D# G(5)]
 Možno zlodej, možno mních
 spísal knihu kníh
 čo raz a navždy vysvetlí
@@ -11980,13 +11990,13 @@ prečo sú veci tak, jak sú
 život má chuť zápasu
 a človek ním len preletí
 
-[Bridge: Cm(/G) F G#]
+[B: Cm(/G) F, G# Cm]
 Snáď sa raz odpovedí dočkám
 nemusím všetko, stačí niečo
 otázok má každý plný zoznam
 čím to je a vobec prečo?
 
-[Verse: Gm Dm C]
+[5-6: Gm Dm C]
 Čím to je, čím to je
 že neúspešní chcú piť z krvi tých
 čo úspesne sú prví?
@@ -11995,7 +12005,7 @@ otázok má každý plný zoznam
 že maliar uznania sa dočká
 až keď zavrie svoje oči?
 
-[Chorus: C(7sus4) A#(/C) F A(5) A#]
+[R: C(7sus4) A#(/C) F, A(5) A#]
 Možno zlodej, možno mních
 spísal knihu kníh
 čo raz a navždy vysvetlí
@@ -12009,9 +12019,9 @@ a človek ním len preletí
 && No Name &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Intro: C#m]
+[0: C#m]
 
-[Verse: C#m F#m A(sus2) H(add11)]
+[1-2: C#m F#m A(sus2) H(add11)]
 Od januára cez leto a celým rokom
 ja blázon ľúbil som ťa a zostal len otrokom
 ďakujem ti že sme spolu žili
@@ -12022,43 +12032,43 @@ ty radšej vezmeš mi aj posledné cigarety
 ďakujem ti že sme spolu žili
 ja preťal som si žily
 
-[Bridge: F#m C#m F#m G#(sus4)]
+[B: F#m C#m, G#(sus4)]
 Nepoznávam seba, odkedy ťa nepoznám
 bolo mi to treba bolo to treba nám
 ja cítim zostal som v tom iba sám
 
-[Chorus: A(sus2) H(add11) F#m H(add11) E H(add11) F#m H(add11) C#m]
+[R: A(sus2) H(add11) F#m H(add11) E H(add11) F#m H(add11) C#m]
 To čo som s tebou skúsil, s nikým už nemusím
 čo som s tebou musel, s nikým už neskúsim
 zavrela si mi dvere, za nimi žila s ním
 ak túžiš po nevere, ďakujem, neprosím
 
-[Verse: C#m F#m A(sus2) H(add11)]
+[3: C#m F#m A(sus2) H(add11)]
 Teraz keď ležím a svoju posteľ volám Zlato
 neskoro došlo mi že vôbec nestálo to za to
 ďakujem ti že sme spolu žili
 ja preťal som si žily
 
-[Bridge: F#m C#m F#m G#(sus4)]
+[B: F#m C#m, G#(sus4)]
 Nepoznávam seba odkedy ťa nepoznám
 bolo mi to treba bolo to treba nám
 ja cítim zostal som v tom iba sám
 
-[Chorus: A(sus2) H F#m H E H F#m H C#m]
+[R: A(sus2) H F#m H E H F#m H C#m]
 To čo som s tebou skúsil, s nikým už nemusím
 čo som s tebou musel, s nikým už neskúsim
 zavrela si mi dvere, za nimi žila s ním
 ak túžiš po nevere, ďakujem neprosím
 
-[Interlude: E H F#m H]
+[I: E H F#m H]
 
-[Chorus: A(sus2) H F#m H E H]
+[R: A(sus2) H F#m H E H F#m H E H]
 To čo som s tebou skúsil, s nikým už nemusím
 čo som s tebou musel, s nikým už neskúsim
 zavrela si mi dvere, za nimi žila s ním
 ak túžiš po nevere, ďakujem, neprosí--ííí--m
 
-[Outro: F#m H E H F#m Am]
+[Z: F#m H E H F#m Am]
 
 
 
@@ -12066,7 +12076,7 @@ ak túžiš po nevere, ďakujem, neprosí--ííí--m
 && Dalibor Janda &&
 ++ z akordy.kytary.cz, zatím bez kontroly ++
 
-[Verse: E A F#m H]
+[1-2: E A F#m H]
 Auto na vodu,teplo ze zimy,city v pilulkách
 tohle jedno ráno mít
 mám sto důvodů, nic se nedivit
@@ -12077,36 +12087,36 @@ půjdu mezi lidmi z práce bos
 v létě v zimníku, v lednu v košili
 z cesty na víkend je autokros
 
-[Chorus: E G#m F#m H]
+[R: E G#m F#m H]
 Mám chuť žít jako kaskadér
 být láskou cvok je fér
 
-[Bridge: A F#m A H]
+[B: A F#m A H]
 Tak se mi nesměj, jdu před váš dům
 na zvonky zvoním poplach sousedům
 
-[Chorus: E G#m F#m H]
+[R: E G#m F#m H]
 žít jako kaskadér
 být láskou cvok je fér
 
-[Bridge: A F#m]
+[B: A F#m]
 Tak se mi nesměj, jdu před váš dům
 
-[Verse: E A F#m H]
+[3: E A F#m H]
 Tak ti teda dík, děvče dobrý den, milá dobrou noc
 sednu na Vltavě na parník
 jsem kapitán, jako v groteskách
 když mě vyprovodí na chodník
 
-[Chorus: E G#m F#m H]
+[R: E G#m F#m H]
 Mám chuť žít jako kaskadér
 být láskou cvok je fér
 
-[Bridge: A F#m A H]
+[B: A F#m A H]
 Tak se mi nesměj, jdu před váš dům
 Na zvonky zvoním poplach sousedům jééé
 
-[Chorus: E G#m F#m H]
+[R: E G#m F#m H]
 žít jako kaskadér
 být láskou cvok je fér
 žít jako kaskadér
