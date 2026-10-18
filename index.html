@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="dark light">
 <title>Pivka a buřty</title>
 <link rel="icon" type="image/png" sizes="180x180" href="apple-touch-icon.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -21,18 +22,39 @@
     --chord-bg:     #241d12;   
     --chord-color:  #be9a6a;   
     --chord-border: #483823;   
+    --aktualni:     #f0b45a;   /* číslo právě zobrazené písně v tabulce čísel */
     /* stejný volný okraj nahoře a dole jako u pruhu s názvem skladby:
        text 1.1rem + 1.2rem volného místa (u skladby 1.2rem + 1.2rem = 2.4rem) */
     --header-h:     max(2.3rem, 52px);
     --titul-h:      max(2.4rem, 46px);  /* výška přilepeného pruhu s názvem skladby */
   }
 
+  /* Denní barvy = noční s převrácenou světlostí (HSL), odstín a sytost zůstávají.
+     Přepíná se automaticky podle systému. */
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg:           #f2eee9;
+      --surface:      #eae5df;
+      --border:       #d5ccbf;
+      --accent:       #56482c;
+      --accent-dim:   #56482c;
+      --text:         #524c40;
+      --text-zvyraz:  #100e0a;
+      --text-dim:     #56482c;
+      --ztlumene:     #a09685;
+      --chord-bg:     #ede6db;
+      --chord-color:  #957141;
+      --chord-border: #dcccb7;
+      --aktualni:     #b4640a;
+    }
+  }
+
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
-  /* 16px × 1.6 = výchozí zvětšení o 60 %; tlačítka a/A to mění za běhu.
+  /* 18px = výchozí velikost 26px zmenšená čtyřikrát tlačítkem a; a/A to mění za běhu.
      Bez scroll-behavior: smooth — plynulý skok přes stovky písní iOS Safari
      nezvládne paměťově a stránku shodí (restartuje). */
-  html { font-size: 26px; }
+  html { font-size: 18px; }
 
   body {
     background: var(--bg);
@@ -104,7 +126,7 @@
   }
   .nastroje .mensi { font-size: 0.6rem; }
   /* tlačítka v hlavičce i u transpozice rostou s písmem (a/A) — 1.46rem = 38px
-     při výchozích 26px, ale nikdy menší než 30px, ať se dají pohodlně trefit prstem */
+     při 26px, ale nikdy menší než 30px, ať se dají pohodlně trefit prstem */
   .nastroje button,
   .transpozice button {
     width: max(1.46rem, 30px);
@@ -139,18 +161,25 @@
     list-style: none;
     counter-reset: song;
   }
-  nav.obsah li {
+  nav.obsah li.polozka {
     counter-increment: song;
     padding: 3px 0;
   }
-  /* číslování v seznamu — stejný styl i odsazení jako v řádku názvu skladby:
-     číslo, tečka, mezera, název */
-  nav.obsah li::before {
+  nav.obsah li.polozka::before {
     content: counter(song) ".\00a0";
     color: var(--ztlumene);
     font-size: 1.2rem;
     font-weight: normal;
   }
+  /* jméno interpreta nad jeho první písní — malým písmem */
+  nav.obsah li.interpret {
+    font-size: 0.6rem;
+    text-transform: lowercase;
+    color: var(--ztlumene);
+    padding: 10px 0 0;
+    line-height: 1.2;
+  }
+  nav.obsah li.nahodna { padding: 3px 0 4px; }
   nav.obsah a {
     color: var(--text);
     text-decoration: none;
@@ -200,6 +229,48 @@
     font-size: 1.2rem;
     font-weight: normal;
     color: var(--ztlumene);
+    cursor: pointer;
+  }
+
+  /* Tabulka čísel přes celou stránku (klik na číslo písně) */
+  #cisla {
+    position: fixed;
+    inset: 0;
+    z-index: 200;
+    background: var(--bg);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    display: none;
+  }
+  #cisla.otevrena { display: block; }
+  #cisla .mrizka {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 12px 8px 40px;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+  }
+  #cisla a, #cisla button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.2rem;
+    font-family: inherit;
+    font-size: 0.8rem;
+    color: var(--text);
+    text-decoration: none;
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+  #cisla a.aktualni {
+    color: var(--aktualni);
+    font-weight: bold;
+  }
+  #cisla button {
+    color: var(--aktualni);
+    font-size: 1.4rem;
+    font-weight: bold;
   }
   /* béžovo-hnědá jako název písně a jeho pruh; s ID skladby plná,
      jen s vyhledáváním poloviční průhlednost */
@@ -314,6 +385,8 @@
      kvůli autorským právům není v repu ani viditelný při ladění — viz .claudeignore),
      a teprve když chybí, vezmou se ukázkové písně z demo_pisne.js. -->
 <main id="pisne"></main>
+
+<div id="cisla" role="dialog" aria-label="Čísla písní"></div>
 
 <script src="spotify_ids.js"></script>
 <script>
@@ -567,14 +640,49 @@ function sestavStranku() {
 
   var seznam = document.getElementById('seznam-pisni');
 
+  var nahodna = document.createElement('li');
+  nahodna.className = 'nahodna';
+  var an = document.createElement('a');
+  an.href = '#';
+  an.textContent = '🎲 Náhodná píseň';
+  an.addEventListener('click', function (e) {
+    e.preventDefault();
+    var vse = document.querySelectorAll('article.pisen');
+    if (!vse.length) return;
+    var cil = vse[Math.floor(Math.random() * vse.length)];
+    history.pushState(null, '', '#' + cil.id);
+    skocNaPisen(cil);
+  });
+  nahodna.appendChild(an);
+  seznam.appendChild(nahodna);
+
+  var posledniInterpret = '';
   document.querySelectorAll('article.pisen').forEach(function (pisen, i) {
     var n = i + 1;
     pisen.id = 'pisen-' + n;
     var cislo = pisen.querySelector('.pisen-cislo');
-    if (cislo) cislo.textContent = n + '.';
+    if (cislo) {
+      cislo.textContent = n + '.';
+      cislo.title = 'Tabulka čísel písní';
+      cislo.addEventListener('click', function (e) {
+        e.stopPropagation();
+        otevriCisla(n);
+      });
+    }
 
     var nazev = pisen.querySelector('.pisen-nazev');
+    var interpretEl = pisen.querySelector('.pisen-interpret');
+    var interpret = interpretEl ? interpretEl.textContent : '';
+    if (interpret && interpret !== posledniInterpret) {
+      var hl = document.createElement('li');
+      hl.className = 'interpret';
+      hl.textContent = interpret;
+      seznam.appendChild(hl);
+    }
+    posledniInterpret = interpret;
+
     var li = document.createElement('li');
+    li.className = 'polozka';
     var a = document.createElement('a');
     a.href = '#pisen-' + n;
     a.textContent = nazev ? nazev.textContent : 'Píseň ' + n;
@@ -667,6 +775,31 @@ function skocNaPisen(cil) {
   krok();
 }
 
+// ===== Tabulka čísel písní =====
+// Deset sloupců, první buňka (místo nuly) je křížek pro zavření.
+function otevriCisla(aktualni) {
+  var box = document.getElementById('cisla');
+  var pocet = document.querySelectorAll('article.pisen').length;
+  var html = '<div class="mrizka"><button type="button" aria-label="Zavřít" title="Zavřít">✕</button>';
+  for (var n = 1; n <= pocet; n++) {
+    html += '<a href="#pisen-' + n + '"' + (n === aktualni ? ' class="aktualni"' : '') + '>' + n + '</a>';
+  }
+  box.innerHTML = html + '</div>';
+  box.classList.add('otevrena');
+  var akt = box.querySelector('.aktualni');
+  if (akt) akt.scrollIntoView({ block: 'center' });
+}
+function zavriCisla() {
+  document.getElementById('cisla').classList.remove('otevrena');
+}
+document.getElementById('cisla').addEventListener('click', function (e) {
+  if (e.target.closest('button')) { zavriCisla(); return; }
+  if (e.target.closest('a')) zavriCisla();   // skok obstará obecný posluchač níže
+});
+document.addEventListener('keydown', function (e) {
+  if (e.key === 'Escape') zavriCisla();
+});
+
 document.addEventListener('click', function (e) {
   var a = e.target.closest && e.target.closest('a[href^="#pisen-"]');
   if (!a) return;
@@ -678,12 +811,12 @@ document.addEventListener('click', function (e) {
 });
 
 // ===== Zvětšování/zmenšování písma =====
-// Mění root font-size, vše je v rem. Výchozí 26px = 16px zvětšených o 60 %.
+// Mění root font-size, vše je v rem. Výchozí 18px.
 (function () {
   var KLIC = 'zpevnik-pismo';
-  var velikost = 26;
+  var velikost = 18;
   if (PAMATOVAT_PISMO) {
-    velikost = parseInt(localStorage.getItem(KLIC), 10) || 26;
+    velikost = parseInt(localStorage.getItem(KLIC), 10) || 18;
   }
   function nastav() {
     document.documentElement.style.fontSize = velikost + 'px';
