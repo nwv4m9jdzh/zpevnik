@@ -248,7 +248,10 @@
     margin: 0 auto;
     padding: 12px 8px 40px;
     display: grid;
-    grid-template-columns: repeat(10, 1fr);
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+    /* šířka buňky; písmo čísel se podle ní zastropuje, ať se při zoomu (a/A)
+       čísla neslijí a nevyjedou za pravý okraj */
+    --bunka: calc((min(100vw, 640px) - 16px) / 10);
   }
   #cisla a, #cisla button {
     display: flex;
@@ -256,7 +259,8 @@
     justify-content: center;
     min-height: 2.2rem;
     font-family: inherit;
-    font-size: 0.8rem;
+    font-size: min(0.8rem, calc(var(--bunka) * 0.38));
+    overflow: hidden;
     color: var(--text);
     text-decoration: none;
     background: none;
@@ -264,7 +268,7 @@
     cursor: pointer;
   }
   #cisla a.aktualni {
-    color: var(--aktualni);
+    color: var(--text-zvyraz);
     font-weight: bold;
   }
   #cisla button {
