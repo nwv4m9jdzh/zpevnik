@@ -930,7 +930,7 @@ a dvě spálený srdce – Nagasaki, Hirošima
 
 ## Blame It On Me ##
 && George Ezra &&
-++ čeká na kontrolu ++
+++ Klavír? čeká na kontrolu ++
 
 [Verse: C]
 The garden was blessed by the gods of me and you
@@ -1255,7 +1255,7 @@ Na na na na...
 
 ## Okno mé lásky ##
 && Olympic &&
-++ čeká na kontrolu ++
+++ Klavír? čeká na kontrolu ++
 
 [Verse: C F B]
 Kdo tě líbá, když ne já,
@@ -1434,7 +1434,7 @@ Just drop off the key Lee, and set yourself free.
 
 ## A co bylo dál ##
 && Jelen &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: Am Dm(/A) G C(/H)]
 
@@ -1617,7 +1617,7 @@ Jai guru deva
 
 ## Africa ##
 && Toto &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: A G#m C#m]
 
@@ -1765,7 +1765,7 @@ My little windmill
 
 ## Angie ##
 && Rolling Stones &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [1: Am E(7) G F C]
 Angie, Angie, when will those clouds all disappear?
@@ -1940,7 +1940,7 @@ ty jsi ta na oko smutná
 
 ## Back To Black ##
 && Amy Winehouse &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [1-2: Dm Gm A# A]
 He left no time to re-gret,
@@ -2499,7 +2499,7 @@ Sha la la la la la la, la la la la de da
 
 ## Bude mi lehká zem ##
 && Petr Hapka &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [C Gm F G# C G C F]
 Mám pěknou sirku v zubech,
@@ -2763,7 +2763,7 @@ She is always right there when I need her
 
 ## Chlorine ##
 && Twenty One Pilots &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: Fm]
 So where are you? It's been a little while
@@ -3193,7 +3193,7 @@ I don't belong here
 
 ## Die With A Smile ##
 && Lady Gaga &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [1: A(6) D(maj7)]
 I, I just woke up from a dream
@@ -3635,7 +3635,7 @@ pán si přál platit? Zvlášť nebo dohromady?
 
 ## Easy On Me ##
 && Adele &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [1: F Dm(7) Am A#(maj7) C]
 There ain't no gold in this river
@@ -4096,7 +4096,7 @@ Get it on Bang a gong Get it on
 
 ## Girl You'll Be A Woman Soon ##
 && Urge Overkill &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: G(5) C(5) F Gm]
 Girl, you'll be a woman soon
@@ -4854,7 +4854,7 @@ But I still haven't found what I'm looking for
 
 ## I Want To Hold Your Hand ##
 && The Beatles &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: D]
 (Oh yeah )
@@ -4980,7 +4980,7 @@ And I will wait, I will wait for you!
 
 ## I'd Do Anything for Love (But I Won't Do That) ##
 && Meat Loaf &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: A(6/7)]
 
@@ -5372,7 +5372,7 @@ If I fell in love with you
 
 ## Ironic ##
 && Alanis Morissette &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: E(add9/maj7) H(maj7/F#)]
 Hey yay yay, yah ha ha, ay yeah, hi
@@ -6063,7 +6063,7 @@ Doo, doo, doo, lookin' out my back door
 
 ## Losing My Religion ##
 && R.E.M. &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: F G Am C D(sus2) F G Am(7) G]
 
@@ -6356,7 +6356,7 @@ Ave Maria
 
 ## Marie ##
 && Tomáš Klus &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: F]
 
@@ -6569,7 +6569,7 @@ básnířky
 
 ## Moonlight shadow ##
 && Mike Oldfield, Maggie Reilly &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [1-2: C#m A H E H C#m A H E H E H]
 The last that ever she saw him
@@ -7480,7 +7480,7 @@ sáčky suchý pažitky, tomu se říká dobrá nálada.
 
 ## Perfect Day ##
 && Lou Reed &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: F A#m]
 
@@ -7649,7 +7649,7 @@ ty si moja prvá-á-á-á
 
 ## Purple Rain ##
 && Prince &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: A# Gm F D#]
 
@@ -8402,7 +8402,7 @@ Che confusione, sarà perché ti amo
 
 ## Seven Nation Army ##
 && The White Stripes &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [1: Em G C H, G A]
 I'm gonna fight 'em off
@@ -8655,7 +8655,7 @@ We’re far from the shallow now
 
 ## Shape Of You ##
 && Ed Sheeran &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [C#m F#m A H]
 The club isn't the best place to find a lover
@@ -9075,7 +9075,7 @@ a ty, jak stará Sibyla, jsi z pohledů věštila
 
 ## Snad jsem to zavinil já ##
 && Olympic &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [1: Am C D Dm(7) E Am C D Dm C H A# Am C H A# Am Dm(7) G C E]
 Zas jsi tak smutná
@@ -9389,7 +9389,7 @@ On the streets of Philadelphia.
 
 ## Stubborn Love ##
 && The Lumineers &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [1: F(maj7) Am C(add4) F(maj7) Am G C]
 She'll lie and steal and cheat, and beg you from her knees
@@ -9439,7 +9439,7 @@ Head up, love
 
 ## Stuck In A Moment You Can't Get Out Of ##
 && U2 &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [1: E(/G#) A E(/G#) H C#m A]
 I'm not afraid
@@ -9642,7 +9642,7 @@ We are the Sultans of Swing"
 
 ## Summer of '69 ##
 && Bryan Adams &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
 
 [0: D]
 
@@ -10897,7 +10897,7 @@ Come into me
 
 ## Under Pressure ##
 && Queen &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
 
 [1-4: D A G A]
 Um boom ba bay
