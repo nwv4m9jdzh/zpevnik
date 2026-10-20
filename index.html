@@ -195,6 +195,17 @@
 
   main { padding-bottom: 80px; }
 
+  /* nápověda úplně dole — stejné malé písmo jako jména interpretů v seznamu */
+  footer.napoveda {
+    font-size: 0.6rem;
+    text-transform: lowercase;
+    color: var(--ztlumene);
+    line-height: 1.4;
+    padding: 0 20px 60px;
+  }
+  footer.napoveda h2 { font-size: inherit; font-weight: normal; padding: 0 0 6px; }
+  footer.napoveda p { padding: 3px 0; }
+
   article.pisen {
     margin-top: 28px;
     scroll-margin-top: var(--header-h);
@@ -392,6 +403,20 @@
      kvůli autorským právům není v repu ani viditelný při ladění — viz .claudeignore),
      a teprve když chybí, vezmou se ukázkové písně z demo_pisne.js. -->
 <main id="pisne"></main>
+
+<footer class="napoveda">
+  <h2>nápověda</h2>
+  <p>🪵🔥🏔️ název nahoře — klik vrátí na začátek, na seznam písní. seznam je řazený podle interpretů, jejich jména jsou malým písmem nad písněmi.</p>
+  <p>🎲 náhodná píseň — v seznamu vybere náhodnou píseň.</p>
+  <p>a / A — zmenší / zvětší písmo. ▶ — spustí a zastaví automatické posouvání stránky; ruční posun ho nezastaví, jen tlačítko blikne.</p>
+  <p>číslo písně u názvu — klik otevře tabulku všech čísel (aktuální píseň je zvýrazněná), klik na číslo skočí na píseň, ✕ tabulku zavře.</p>
+  <p>číslo tmavě jako název — akordy písně jsou zkontrolované. světlejší číslo — píseň ještě čeká na kontrolu.</p>
+  <p>název písně nebo interpret — klik zobrazí / skryje poznámku (stav kontroly akordů). „klavír?“ — píseň míněná spíš pro hraní na klavír. „výzva!“ — píseň ze spotify seznamu, kterou je těžší odposlechnout, ale rád bych ji hrál.</p>
+  <p>ikonka spotify — bílo-černá pustí přímo skladbu, poloprůhledná jen otevře hledání názvu a interpreta.</p>
+  <p>↓♭ / ↑♯ — transpozice akordů dolů / nahoru (o kvintu); akordy v písni se přepíšou, text zůstane.</p>
+  <p>akordy se při posouvání lepí nahoře pod názvem; první slovo každého řádku textu je zvýrazněné, ať se v něm snadno vyznáš.</p>
+  <p>akord s číslem před sebou (3. nebo 2.) — hraje se jen při tom opakování; lomítko odděluje akordy v taktu, čárka dělí řádky akordů; ? za akordem = nejsem si jistý.</p>
+</footer>
 
 <div id="cisla" role="dialog" aria-label="Čísla písní"></div>
 
