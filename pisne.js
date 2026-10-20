@@ -451,7 +451,7 @@ With or without you
 
 ## Cesta ##
 && Kryštof &&
-++ čeká na kontrolu ++
+++ zkontrolováno 20. 10. 2026 ++
 
 [C G Ami F G]
 
@@ -1138,7 +1138,7 @@ a svět je Tvá továrna na sny.
 
 ## Sluneční hrob ##
 && Blue Effect &&
-++ čeká na kontrolu ++
+++ zkontrolováno 20. 10. 2026 ++
 
 [E F#m G#m F#m]
 Usínám a chtěl bych se vrátit
@@ -1154,7 +1154,7 @@ Vrátím se a chtěl bych rád
 být s tebou, zavzpomínat,
 mám tu teď ale zprávu zlou.
 
-[Ref: C#m D#m A G#m F#m G#m H]
+[Ref: C#m D#m A G#m F#m, G#m F#m G#m H]
 Suchá hlína tady,
 bez kvítí, bez vody,
 já na ni poklekám,
@@ -1293,11 +1293,9 @@ kdo tě zradí, když ne já.
 
 ## Je jaká je ##
 && Karel Gott &&
-++ čeká na kontrolu ++
-[C  Emi  F  G  C  Emi
-F  G  C  Emi  F  G  C  Ami
-F  G  C  Ami
-F  G  C  Ami  F  G]
+++ zkontrolováno 20. 10. 2026 ++
+[D F#m G A, D Hm G A]
+
 
 Je jaká je, tak mi náhle padla do klína,
 ani černá ani blondýna, někdy tak a jindy taková-áá,
@@ -4606,35 +4604,37 @@ But you can never leave!
 
 ## Houby magický ##
 && Kabát &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 20. 10. 2026 ++
 
-[1: A E A F#m(7) E, D A F#m(7) E]
+[I: A D]
+
+[1: A E A F#m(7) E, D A F#m(7)]
 Už budem spolu navždycky, hledat houby magický má dobrá ženo.
 Bylo to jenom na chvíli, teď v mojí starý košili nosíš mý jméno.
 A já ti slíbil mnohem víc a neměl vůbec nic, tak ňák jsme to zvládli.
 
-[R: A D A D E]
+[R: A D A D]
 Už je to nejmíň dvě stě let,
 to ještě placatej byl svět a my se trochu báli.
 Že nejdou srazit postele,
 že bude krátká neděle a jednou nás to spálí.
 
-[2: A E A F#m(7) E, D A F#m(7) E A]
+[2: A E A F#m(7) E, D A F#m(7) A]
 Každý mý gesto dobře znáš, taky mě v duchu proklínáš, to když jsi němá.
 Někdy nám vázne spojení, oči se v louže promění a já tě hledám.
 Vidím tě dál a jindy blíž, bude to dobrý uvidíš, ubrus voskem lepí.
 Když tělo svíce ubývá.
 
-[R: A D A D E]
+[R: A D A D]
 Už je to nejmíň dvě stě let,
 to ještě placatej byl svět a my se trochu báli.
 Že nejdou srazit postele,
 že bude krátká neděle a jednou nás to spálí.
 
-[B: E D]
+[B: E E? D]
 To měsíc ukáže nám stráň, kde zavoní podhoubí, my budem spolu dál.
 
-[R: A D E]
+[R: A D]
 Už budem spolu navždycky, hledat houby magický, má dobrá ženo.
 Bylo to jenom na chvíli, v mojí starý košili, nosíš mý jméno.
 Už budem spolu navždycky, hledat houby magický, má dobrá ženo.
@@ -5613,11 +5613,11 @@ a nechat zapomenout srdce bolavý
 
 ## Klidná jako voda ##
 && Jelen &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 20. 10. 2026 ++
 
 [0: C]
 
-[1-2: C F, Am F G C F C G C]
+[1-2: C F C, Am F G C F C G C]
 Chodím světem už pěknejch pár let
 parným létem i zrmzlej jak led
 zjistil jsem, že lásku smím dávat i vzít
@@ -5628,19 +5628,19 @@ kulky vzduchem hvízdat, těla po vodě plout
 někdy si až říkám, jestli mám právo žít
 a to jsem nešel tou cestou, kudy ty musíš jít
 
-[R: F C G C F C G F C E(7) Am]
+[R: F C G/3.E(7)/ C/2.G, 3.Am/]
 Buď klidná jako voda, ale silná jako proud
 skála se ti poddá a zbavíš se všech pout
 svěží jako ranní rosa a čistá jako sníh
 když tančíš po kamení bosá, svět máš na dlaních
 
-[3: C F, Am F G C F C G C]
+[3: C F C, Am F G C F C G C]
 Život někdy umí lidem naložit kříž
 ale ničeho se neboj, jsem tu s tebou, vždyť víš
 a i kdyby nás ďábel chtěl na rohy vzít
 spolu půjdem tou cestou, kudy ty musíš jít
 
-[R: F C G C F C G F C E(7) Am]
+[R: F C G/3.E(7)/ C/2.G, 3.Am/]
 Tak buď klidná jako voda, ale silná jako proud
 skála se ti poddá a zbavíš se všech pout
 svěží jako ranní rosa a čistá jako sníh
@@ -5648,7 +5648,7 @@ když tančíš po kamení bosá, svět máš na dlaních
 
 [I: Am F G C Am F G F C E(7) Am F C Dm G]
 
-[R: F C G C F C G F C E(7) Am]
+[R: F C G/3.E(7)/ C/2.G, 3.Am/]
 Buď klidná jako voda, ale silná jako proud
 skála se ti poddá a zbavíš se všech pout
 svěží jako ranní rosa a čistá jako sníh
@@ -5656,7 +5656,7 @@ když tančíš po kamení bosá, svět máš na dlaních
 
 [I: Am F G C]
 
-[R: F C E(7) Am F C Dm C]
+[R: F C G/3.E(7)/ C/2.G, 3.Am/]
 Svěží jako ranní rosa a čistá jako sníh
 když tančíš po kamení bosá, svět máš na dlaních
 
@@ -6221,7 +6221,7 @@ Lucy in the sky with diamonds. Ahh. Ahhh
 
 ## Magdaléna ##
 && Jelen &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 20. 10. 2026 ++
 
 [1+I+2: A D]
 Zapal ten oheň ve mně, čeho se bojíš?
@@ -6236,7 +6236,7 @@ Sedíme na pavlači, přichází ráno, tobě se lesknou oči
 sedíme na pavlači, přichází ráno a mně se hlava točí
 pojď dál, prosím tě, nenech se, prosit se dál nenech se
 
-[R: F#m E A, D A D]
+[R: F#m E A]
 Hodiny se zastaví a v devět třicet v pondělí
 Magdaléno, tvoje vlasy
 leží pod mou postelí a i když jsme to nechtěli
@@ -6405,7 +6405,7 @@ býti věčně na cestách a k ránu spícím plícím život vdechovat
 
 ## Marie ##
 && Lucie &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 20. 10. 2026 ++
 
 [1: D F#m Hm G A]
 Nechce se mi čekat Chci na tebe psát
@@ -8451,7 +8451,7 @@ And the stains coming from my blood tell me go back home
 
 ## Sex On Fire ##
 && Kings Of Leon &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 20. 10. 2026 ++
 
 [1: E C#m]
 Lay where you're laying
@@ -9258,7 +9258,7 @@ But sometimes it hurts instead, yeah
 
 ## Somewhere Only We Know ##
 && Keane &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 20. 10. 2026 ++
 
 [0: E]
 
@@ -10299,7 +10299,7 @@ With the man who sold the world
 
 ## This Is The Life ##
 && Amy MacDonald &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 20. 10. 2026 ++
 
 [C#m A E G#m]
 Oh the wind whistles down
@@ -10558,7 +10558,7 @@ Ooh
 
 ## Toxic ##
 && AnnenMayKantereit &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 20. 10. 2026 ++
 
 [0: Hm]
 
@@ -10625,7 +10625,7 @@ Ahhhhhhhhhhhhhhh
 Ahhhhhhhhhhhhhhh
 TASTE OF YOUR LIPS, I'M ON A RIDE
 
-[R: C#(7) C(7) Hm D G(7) F#(7) Hm D]
+[R: Hm D C#(7) C(7) Hm D G(7) F#(7) Hm]
 You're toxic, I'm slipping under
 With a taste of a poison paradise
 I'm addicted to you
@@ -10696,7 +10696,7 @@ Ah, ah, ah, ah
 
 ## Ty a já ##
 && Kryštof &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 20. 10. 2026 ++
 
 [0: C F G C G]
 
@@ -11154,11 +11154,11 @@ ti želám, zostaň šťastná
 
 ## Wake Me Up ##
 && Avicii &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 20. 10. 2026 ++
 
-[0: Hm G D A Hm G D F#]
+[0: Hm G D (A)]
 
-[1: Hm G D]
+[1: Hm G D (A)]
 Feeling my way through the darkness
 Guided by a beating heart
 I can’t tell where the journey will end
@@ -11168,7 +11168,7 @@ They say I’m caught up in a dream
 Well life will pass me by if I don’t open up my eyes
 Well that’s fine by me
 
-[R: Hm G D A Hm G D F#]
+[R: Hm G D (A)]
 So wake me up when it’s all over
 When I’m wiser and I’m older
 All this time I was finding myself
@@ -11178,7 +11178,7 @@ When I’m wiser and I’m older
 All this time I was finding myself
 And I didn’t know I was lost
 
-[2: Hm G D, A Hm G D]
+[2: Hm G D (A)]
 I tried carrying the weight of the world
 But I only have two hands
 Hope I get the chance to travel the world
@@ -11188,7 +11188,7 @@ Not afraid to close my eyes
 Life’s a game made for everyone
 And love is a prize
 
-[R: Hm G D A Hm G D F# Hm G D A Hm G D]
+[R: Hm G D (A)]
 So wake me up when it’s all over
 When I’m wiser and I’m older
 All this time I was finding myself
@@ -11198,7 +11198,7 @@ When I’m wiser and I’m older
 All this time I was finding myself
 And I didn’t know I was lost
 
-[B: Hm G D A Hm G D F#]
+[B: Hm G D (A)]
 I didn’t know I was lost
 I didn’t know I was lost
 I didn’t know I was lost

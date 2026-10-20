@@ -232,6 +232,9 @@
     cursor: pointer;
   }
 
+  /* Zkontrolované písně (status začíná "zkontrolováno"): číslo stejně tmavé jako název */
+  .zkontrolovano .pisen-cislo { color: inherit; }
+
   /* Tabulka čísel přes celou stránku (klik na číslo písně) */
   #cisla {
     position: fixed;
@@ -429,10 +432,11 @@ var HODNOTA = { 'C': 0, 'C#': 1, 'D': 2, 'D#': 3, 'E': 4, 'F': 5, 'F#': 6,
                 'G': 7, 'G#': 8, 'A': 9, 'A#': 10, 'H': 11, 'B': 11 };
 
 function transponujTon(ton, krok) {
-  var m = ton.match(/^([A-H]#?)(.*)$/);
-  if (!m || !(m[1] in HODNOTA)) return ton;
-  var idx = ((HODNOTA[m[1]] + krok) % 12 + 12) % 12;
-  return NOTY[idx] + m[2];
+  // volitelná předpona "3." (akord jen při 3. opakování) se zachová
+  var m = ton.match(/^(\d\.)?([A-H]#?)(.*)$/);
+  if (!m || !(m[2] in HODNOTA)) return ton;
+  var idx = ((HODNOTA[m[2]] + krok) % 12 + 12) % 12;
+  return (m[1] || '') + NOTY[idx] + m[3];
 }
 
 function transponujAkord(akord, krok) {
@@ -512,7 +516,8 @@ function parsujPisne(text) {
 
   var html = '';
   pisne.forEach(function (p) {
-    html += '<article class="pisen' + (p.status ? ' ma-status' : '') + '">\n';
+    html += '<article class="pisen' + (p.status ? ' ma-status' : '') +
+      (/^zkontrolováno/i.test(p.status) ? ' zkontrolovano' : '') + '">\n';
     html += '  <div class="pisen-hlavicka"><div class="pisen-titul">';
     // odkaz do Spotify: vyhledávání podle názvu a interpreta (na mobilu otevře aplikaci)
     var spotifyId = typeof SPOTIFY_ID !== 'undefined' && SPOTIFY_ID[p.nazev + '|' + p.interpret];
