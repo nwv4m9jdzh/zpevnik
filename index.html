@@ -275,12 +275,13 @@
     font-family: inherit;
     font-size: min(0.8rem, calc(var(--bunka) * 0.38));
     overflow: hidden;
-    color: var(--text);
+    color: var(--ztlumene);
     text-decoration: none;
     background: none;
     border: 0;
     cursor: pointer;
   }
+  #cisla a.zkontrolovano { color: var(--text); }
   #cisla a.aktualni {
     color: var(--text-zvyraz);
     font-weight: bold;
@@ -816,7 +817,9 @@ function otevriCisla(aktualni) {
   var pocet = document.querySelectorAll('article.pisen').length;
   var html = '<div class="mrizka"><button type="button" aria-label="Zavřít" title="Zavřít">✕</button>';
   for (var n = 1; n <= pocet; n++) {
-    html += '<a href="#pisen-' + n + '"' + (n === aktualni ? ' class="aktualni"' : '') + '>' + n + '</a>';
+    var tridy = (n === aktualni ? 'aktualni ' : '') +
+      (document.getElementById('pisen-' + n).classList.contains('zkontrolovano') ? 'zkontrolovano' : '');
+    html += '<a href="#pisen-' + n + '"' + (tridy ? ' class="' + tridy.trim() + '"' : '') + '>' + n + '</a>';
   }
   box.innerHTML = html + '</div>';
   box.classList.add('otevrena');
