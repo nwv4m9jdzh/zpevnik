@@ -1220,7 +1220,7 @@ pozvi nahoru.
 
 ## Hrobař ##
 && Premiér &&
-++ čeká na kontrolu ++
+++ zkontrolováno 23. 10. 2026 ++
 
 [Intro: H Gismi E Fis]
 
@@ -1245,7 +1245,7 @@ Stoupám vzhůru, stoupám ke hvězdám,
 tam se s černou rakví neshledám,
 sbohem, bílé město zářící.
 
-[Verse: C Ami F G C Ami F G]
+[Verse: C Ami F G]
 Sbohem, moje město,
 vzpomínat budu přesto,
 jak jsem poznal tvůj smích a tvůj pláč.
