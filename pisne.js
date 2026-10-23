@@ -2418,7 +2418,7 @@ Don't be afraid to care
 Leave, don't leave me
 Look around and choose your own ground
 
-[R: C(maj7) Hm(7) F(maj7) G D(7#9/7b9)]
+[R: C(maj7) Hm(7) F(maj7) G D#(7/9) Db(/9)]
 Long you live and high you fly
 Smiles you'll give and tears you'll cry
 All you touch and all you see
@@ -2430,7 +2430,7 @@ Dig that hole, forget the sun
 And when at last the work is done
 Don't sit down, it's time to dig another one
 
-[R: C(maj7) Hm(7) F(maj7) G D(7#9/7b9) Em]
+[R: C(maj7) Hm(7) F(maj7) G D#(7/9) Db(/9) Em]
 Long you live and high you fly
 But only if you ride the tide
 Balanced on the biggest wave
