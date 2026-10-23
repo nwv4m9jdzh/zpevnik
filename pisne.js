@@ -3142,7 +3142,7 @@ I have become comfortably numb.
 
 ## Creep ##
 && Radiohead &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 23. 10. 2026 ++
 
 [G H C Cm]
 When you were here before
