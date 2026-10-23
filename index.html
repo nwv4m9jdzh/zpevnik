@@ -164,6 +164,15 @@
   nav.obsah li.polozka {
     counter-increment: song;
     padding: 3px 0;
+    display: flex;
+    align-items: center;
+  }
+  nav.obsah li.polozka a {
+    flex: 0 1 auto;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
   nav.obsah li.polozka::before {
     content: counter(song) ".\00a0";
@@ -172,13 +181,20 @@
     font-weight: normal;
   }
   nav.obsah li.polozka.zkontrolovano::before { color: var(--text); }
-  /* jméno interpreta nad jeho první písní — malým písmem */
-  nav.obsah li.interpret {
+  /* jméno interpreta vpravo na řádku jeho první písně — malým písmem,
+     při nedostatku místa se zkracuje */
+  nav.obsah li.polozka .interpret {
+    flex: 1 1 0;
+    min-width: 0;
+    margin-left: 12px;
+    text-align: right;
     font-size: 0.6rem;
     text-transform: lowercase;
     color: var(--ztlumene);
-    padding: 10px 0 0;
     line-height: 1.2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
   nav.obsah li.nahodna { padding: 3px 0 4px; }
   nav.obsah a {
@@ -408,7 +424,7 @@
 
 <footer class="napoveda">
   <h2>nápověda</h2>
-  <p>🪵🔥🏔️ název nahoře — klik vrátí na začátek, na seznam písní. seznam je řazený podle interpretů, jejich jména jsou malým písmem nad písněmi.</p>
+  <p>🪵🔥🏔️ název nahoře — klik vrátí na začátek, na seznam písní. seznam je řazený podle interpretů, jejich jména jsou malým písmem vpravo u první písně.</p>
   <p>🎲 náhodná píseň — v seznamu vybere náhodnou píseň.</p>
   <p>a / A — zmenší / zvětší písmo. ▶ — spustí a zastaví automatické posouvání stránky; ruční posun ho nezastaví, jen tlačítko blikne.</p>
   <p>číslo písně u názvu — klik otevře tabulku všech čísel (aktuální píseň je zvýrazněná), klik na číslo skočí na píseň, ✕ tabulku zavře.</p>
@@ -709,12 +725,7 @@ function sestavStranku() {
     var nazev = pisen.querySelector('.pisen-nazev');
     var interpretEl = pisen.querySelector('.pisen-interpret');
     var interpret = interpretEl ? interpretEl.textContent : '';
-    if (interpret && interpret !== posledniInterpret) {
-      var hl = document.createElement('li');
-      hl.className = 'interpret';
-      hl.textContent = interpret;
-      seznam.appendChild(hl);
-    }
+    var novyInterpret = interpret && interpret !== posledniInterpret;
     posledniInterpret = interpret;
 
     var li = document.createElement('li');
@@ -723,6 +734,12 @@ function sestavStranku() {
     a.href = '#pisen-' + n;
     a.textContent = nazev ? nazev.textContent : 'Píseň ' + n;
     li.appendChild(a);
+    if (novyInterpret) {
+      var hl = document.createElement('span');
+      hl.className = 'interpret';
+      hl.textContent = interpret;
+      li.appendChild(hl);
+    }
     seznam.appendChild(li);
 
     // klik na název/interpreta zobrazí nebo skryje status písně
