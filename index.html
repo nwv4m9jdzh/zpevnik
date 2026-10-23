@@ -171,6 +171,7 @@
     font-size: 1.2rem;
     font-weight: normal;
   }
+  nav.obsah li.polozka.zkontrolovano::before { color: var(--text); }
   /* jméno interpreta nad jeho první písní — malým písmem */
   nav.obsah li.interpret {
     font-size: 0.6rem;
@@ -717,7 +718,7 @@ function sestavStranku() {
     posledniInterpret = interpret;
 
     var li = document.createElement('li');
-    li.className = 'polozka';
+    li.className = 'polozka' + (pisen.classList.contains('zkontrolovano') ? ' zkontrolovano' : '');
     var a = document.createElement('a');
     a.href = '#pisen-' + n;
     a.textContent = nazev ? nazev.textContent : 'Píseň ' + n;
