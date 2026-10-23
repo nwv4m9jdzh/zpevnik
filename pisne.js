@@ -1222,7 +1222,9 @@ pozvi nahoru.
 && Premiér &&
 ++ čeká na kontrolu ++
 
-[Verse: G Emi C D7]
+[Intro: H Gismi E Fis]
+
+[Verse: C Ami F G]
 V mládí jsem se učil hrobařem,
 jezdit s hlínou, jezdit s trakařem,
 kopat hroby byl můj ideál.
@@ -1243,12 +1245,12 @@ Stoupám vzhůru, stoupám ke hvězdám,
 tam se s černou rakví neshledám,
 sbohem, bílé město zářící.
 
-[Verse: G Emi C D7 G Emi C D7]
+[Verse: C Ami F G C Ami F G]
 Sbohem, moje město,
 vzpomínat budu přesto,
 jak jsem poznal tvůj smích a tvůj pláč.
 
-[Verse: G Emi C D7]
+[Verse: C Ami F G]
 Na na na na...
 
 
@@ -2406,7 +2408,7 @@ I'll see you on the dark side of the moon
 
 ## Breathe ##
 && Pink Floyd &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 23. 10. 2026 ++
 
 [0: Em A(7), C(maj7) Hm(7) F(maj7) G D(7#9/7b9)]
 
@@ -11652,7 +11654,9 @@ And I'll always remember you like a child, girl
 
 ## Wish You Were Here ##
 && Pink Floyd &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 23. 10. 2026 ++
+
+[Intro: Em G, A Em A G]
 
 [C D Am G D C Am G]
 So, so you think you can tell
@@ -11662,6 +11666,7 @@ Can you tell a green field
 From a cold steel rail?
 A smile from a veil?
 Do you think you can tell?
+
 Did they get you to trade
 Your heroes for ghosts?
 Hot ashes for trees?
@@ -11671,6 +11676,8 @@ And did you exchange
 A walk on part in the war
 For a lead role in a cage?
 
+[Intro: Em G, A Em A G]
+
 How I wish, how I wish you were here
 We're just two lost souls
 Swimming in a fish bowl
@@ -11679,6 +11686,8 @@ Running over the same old ground
 And how we found
 The same old fears
 Wish you were here
+
+[Intro: Em G, A Em A G]
 
 
 
