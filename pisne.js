@@ -1044,7 +1044,7 @@ I'd leave it all.
 && Jaromír Nohavica &&
 ++ čeká na kontrolu ++
 
-[C Em Dm7 F C Em Dm7 G, C Em Dm7 F C Em Dm7 G, F G C G, F G F G C Em Dm7 G]
+[C Em Dm7 F C Em Dm7 G, 3. F G C G, 4. F G F G C Em Dm7 G]
 Z Těšína vyjíždí vlaky co čtvrthodinu,
 včera jsem nespal a ani dnes nespočinu,
 svatý Medard, můj patron, ťuká si na čelo,
