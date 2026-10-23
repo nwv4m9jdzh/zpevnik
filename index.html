@@ -472,11 +472,12 @@ var NAZVY_ZPEVNIKU = [
 // ===== Transpozice akordů (česká notace: H = půltón pod C, B se bere jako H) =====
 var NOTY = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'H'];
 var HODNOTA = { 'C': 0, 'C#': 1, 'D': 2, 'D#': 3, 'E': 4, 'F': 5, 'F#': 6,
-                'G': 7, 'G#': 8, 'A': 9, 'A#': 10, 'H': 11, 'B': 11 };
+                'G': 7, 'G#': 8, 'A': 9, 'A#': 10, 'H': 11, 'B': 11,
+                'Db': 1, 'Eb': 3, 'Gb': 6, 'Ab': 8, 'Bb': 10 };
 
 function transponujTon(ton, krok) {
   // volitelná předpona "3." (akord jen při 3. opakování) se zachová
-  var m = ton.match(/^(\d\.)?([A-H]#?)(.*)$/);
+  var m = ton.match(/^(\d\.)?([A-H][#b]?)(.*)$/);
   if (!m || !(m[2] in HODNOTA)) return ton;
   var idx = ((HODNOTA[m[2]] + krok) % 12 + 12) % 12;
   return (m[1] || '') + NOTY[idx] + m[3];
