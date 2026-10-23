@@ -1042,7 +1042,7 @@ I'd leave it all.
 
 ## Dokud se zpívá ##
 && Jaromír Nohavica &&
-++ čeká na kontrolu ++
+++ zkontrolováno 23. 10. 2026 ++
 
 [C Em Dm7 F C Em Dm7 G, 3. F G C G, 4. F G F G C Em Dm7 G]
 Z Těšína vyjíždí vlaky co čtvrthodinu,
@@ -1068,7 +1068,7 @@ tak dokud se zpívá, ještě se neumřelo.
 Z Těšína vyjíždí vlaky až na kraj světa,
 zvedl jsem telefon a ptám se: "Lidi, jste tam?"
 A z veliké dálky do uší mi zaznělo,
-[: že dokud se zpívá, ještě se neumřelo. :]
+|: že dokud se zpívá, ještě se neumřelo. :|
 
 
 
