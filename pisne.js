@@ -119,9 +119,9 @@ navěky spojení.
 
 ## Yesterday ##
 && Beatles &&
-++ čeká na kontrolu ++
+++ zkontrolováno 16. 11. 2026 · originální tónina F ++
 
-[C E Ami F G C Ami D F C]
+[F A Dmi A# C F Dmi G A# F]
 1.  Yesterday  all my troubles seemed so  far away
  now it  looks as though they're  here to stay
 oh  I be lieve in  yester day.
@@ -130,25 +130,25 @@ oh  I be lieve in  yester day.
 there's a shadow hanging over me
 oh yesterday came suddenly.
 
-[E Ami G F Emi Dmi G C Ami E F Emi Dmi G C]
+[A Dmi C A# Ami Gmi C F Dmi A A# Ami Gmi C F]
 Why she had to go I don't [know she [wouldn't say
  I said  somet hing  wrong now I  long for  yeste rday .
 
-[C E Ami F G C Ami D F C]
+[F A Dmi A# C F Dmi G A# F]
 3. Yesterday love was such an easy game to play
 now I need a place to hide away
 oh I believe in yesterday.
 
-[E Ami G F Emi Dmi G C Ami E F Emi Dmi G C]
+[A Dmi C A# Ami Gmi C F Dmi A A# Ami Gmi C F]
 Why she had to go I don't [know she [wouldn't say
  I said  somet hing  wrong now I  long for  yeste rday .
 
-[C E Ami F G C Ami D F C]
+[F A Dmi A# C F Dmi G A# F]
 3. Yesterday love was such an easy game to play
 now I need a place to hide away
 oh I believe in yesterday.
 
-[Ami D F C]
+[Dmi G A# F]
 Mm mm mm mm mm...  
 
 
@@ -664,7 +664,7 @@ You look perfect tonight
 
 ## Zabili, zabili ##
 && Balada pro banditu &&
-++ čeká na kontrolu ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [Verse: C F Dmi F C]
 Zabili, zabili chlapa z Koločavy,
@@ -1706,7 +1706,7 @@ Let me tell you now
 
 ## All The Small Things ##
 && Blink-182 &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [0: C F G]
 
@@ -1938,7 +1938,7 @@ ty jsi ta na oko smutná
 
 ## Back To Black ##
 && Amy Winehouse &&
-++ Klavír? z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 · Klavír? ++
 
 [1-2: Dm Gm A# A]
 He left no time to re-gret,
@@ -1951,7 +1951,7 @@ So far removed, from all that we went through.
 And I tread a troubled track,
 My odds are stacked; I'll go back to black.
 
-[R: Dm Gm A Dm A# A]
+[R: Dm Gm A# A]
 We only said goodbye with words; I died a hundred times.
 You go back to her and I go back toI go back to us.
 
@@ -1982,7 +1982,7 @@ You go back to her and I go back to black.
 
 ## Bad Guy ##
 && Billie Eilish &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [0: Gm Cm D(7)]
 
@@ -2184,7 +2184,7 @@ Behind blue eyes
 
 ## Birds Of A Feather ##
 && Billie Eilish &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 · stejný doprovod D Hm Em A celou dobu ++
 
 [0: D]
 (I want you to stay)
@@ -2199,7 +2199,7 @@ If you go, I'm goin' too, uh
 And if I'm turnin' blue, please don't save me
 Nothin' left to lose without my baby
 
-[R: D Hm D Em A]
+[R: D Hm Em A]
 Birds of a feather, we should stick together, I know
 I said I'd never think I wasn't better alone
 Can't change the weather, might not be forever
@@ -2242,7 +2242,7 @@ I love you, don't act so surprised
 
 ## Blowin’ In The Wind ##
 && Bob Dylan &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [0: G]
 
@@ -5488,7 +5488,7 @@ píseň tvá
 
 ## Just The Way You Are ##
 && Bruno Mars &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [F Dm A#]
 Oh, her eyes, her eyes make the stars look like they're not shining
@@ -6279,7 +6279,7 @@ když vycházíš ze dveří, tak sama tomu nevěříš
 
 ## Maria ##
 && Blondie &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [1-2: A E F#m D A E D]
 She moves like she don't care
@@ -8758,7 +8758,7 @@ I'm in love with the shape of you
 
 ## She's Always A Woman ##
 && Billy Joel &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [0: D#(sus4) A# D# G#]
 
@@ -9354,7 +9354,7 @@ Oh, stand by me, stand by me, stand by me hee, hee
 
 ## Streets Of Philadelphia ##
 && Bruce Springsteen &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 · dalo by se rozepsat jinak, s opakováním na sloce ++
 
 [0: F Am]
 
@@ -9642,7 +9642,7 @@ We are the Sultans of Swing"
 
 ## Summer of '69 ##
 && Bryan Adams &&
-++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 · Výzva! ++
 
 [0: D]
 
@@ -10992,20 +10992,20 @@ Pressure
 
 ## Valerie ##
 && Amy Winehouse &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 · tónina od Dis, v posledním refrénu bez D#(maj7) Fm(7) ++
 
-[1: E(maj7) F#m(7)]
+[1: D#(maj7) Fm(7)]
 Well sometimes I go out by myself and I look across the water
 And I think of all the things,
 what you're doing and in my head I make a picture
 
-[R: A(maj7) G#m, H E(maj7) F#m(7)]
+[R: G#(maj7) Gm, A# D#(maj7) Fm(7)]
 'cos since I've come on home, well my body's been a mess
 And I've missed your ginger hair and the way you like to dress
 Won't you come on over stop making a fool out of me
 Why won't you come on over Valerie? Valerie?
 
-[2: E(maj7) F#m(7)]
+[2: D#(maj7) Fm(7)]
 Did you have to go to jail, put your house up for sale,
 did you get a good lawyer?
 I hope you didn't catch a tan
@@ -11015,18 +11015,18 @@ changed the colour of your hair, are you busy?
 And did you have to pay the fine
 you were dodging all the time are you still dizzy
 
-[R: A(maj7) G#m, H E(maj7) F#m(7)]
+[R: G#(maj7) Gm, A# D#(maj7) Fm(7)]
 'cos since I've come on home, well my body's been a mess
 And I've missed your ginger hair and the way you like to dress
 Won't you come on over stop making a fool out of me
 Why won't you come on over Valerie? Valerie?
 
-[3: E(maj7) F#m(7)]
+[3: D#(maj7) Fm(7)]
 Well sometimes I go out by myself and I look across the water
 And I think of all the things,
 what you're doing and in my head I make a picture
 
-[R: A(maj7) G#m, H E(maj7) F#m(7)]
+[R: G#(maj7) Gm, A#]
 'cos since I've come on home, well my body's been a mess
 And I've missed your ginger hair and the way you like to dress
 Won't you come on over stop making a fool out of me

@@ -222,6 +222,8 @@
   }
   footer.napoveda h2 { font-size: inherit; font-weight: normal; padding: 0 0 6px; }
   footer.napoveda p { padding: 3px 0; }
+  footer.odkaz-skryte { padding-bottom: 14px; }
+  footer.odkaz-skryte a { color: inherit; }
 
   article.pisen {
     margin-top: 28px;
@@ -421,6 +423,10 @@
      kvůli autorským právům není v repu ani viditelný při ladění — viz .claudeignore),
      a teprve když chybí, vezmou se ukázkové písně z demo_pisne.js. -->
 <main id="pisne"></main>
+
+<footer class="napoveda odkaz-skryte">
+  <p><a id="odkaz-skryte" href="?skryte">skryté písně</a></p>
+</footer>
 
 <footer class="napoveda">
   <h2>nápověda</h2>
@@ -683,6 +689,18 @@ function parsujPisne(text) {
   prepocitat();
 })();
 
+// ===== Režim „Skryté“ =====
+// index.html?skryte — stejná stránka, ale s písněmi ze skryte.js (viz nactiPisne).
+var SKRYTE = /[?&]skryte(&|=|$)/.test(location.search);
+if (SKRYTE) {
+  (function () {
+    var o = document.getElementById('odkaz-skryte');
+    o.href = location.pathname;
+    o.textContent = '← zpět do zpěvníku';
+    document.querySelector('nav.obsah h2').textContent = 'Skryté';
+  })();
+}
+
 // ===== Sestavení stránky =====
 // Spouští se až po načtení písní (viz nactiPisne na konci); seznam, čísla,
 // tlačítka transpozice i zvýraznění prvních slov se doplní automaticky.
@@ -810,7 +828,7 @@ function nactiPisne(zdroje) {
   };
   document.head.appendChild(s);
 }
-nactiPisne(['pisne.js', 'demo_pisne.js']);
+nactiPisne(SKRYTE ? ['skryte.js'] : ['pisne.js', 'demo_pisne.js']);
 
 // ===== Skok na píseň ze seznamu =====
 // Písně mimo obrazovku mají jen odhadovanou výšku (content-visibility: auto),
