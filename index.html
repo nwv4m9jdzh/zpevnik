@@ -228,6 +228,8 @@
   footer.napoveda p { padding: 3px 0; }
   footer.odkaz-skryte { padding-bottom: 14px; }
   footer.odkaz-skryte a { color: inherit; }
+  nav.obsah .odkaz-zpet { font-size: 0.6rem; text-transform: lowercase; margin-bottom: 10px; }
+  nav.obsah .odkaz-zpet a { color: var(--ztlumene); }
 
   article.pisen {
     margin-top: 28px;
@@ -702,6 +704,15 @@ if (SKRYTE) {
     o.href = location.pathname;
     o.textContent = '← zpět do zpěvníku';
     document.querySelector('nav.obsah h2').textContent = 'Skryté';
+    // odkaz zpět i na začátku stránky, před seznamem
+    var h2 = document.querySelector('nav.obsah h2');
+    var zpet = document.createElement('p');
+    zpet.className = 'odkaz-zpet';
+    var az = document.createElement('a');
+    az.href = location.pathname;
+    az.textContent = '← zpět do zpěvníku';
+    zpet.appendChild(az);
+    h2.parentNode.insertBefore(zpet, h2);
   })();
 }
 
