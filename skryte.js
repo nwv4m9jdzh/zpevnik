@@ -109,5 +109,269 @@ You could see that Pierre did truly love the mademoiselle
 And now the young monsieur and madame have rung the chapel bell,
 "C'est la vie", say the old folks, it goes to show you never can tell
 
+## I'd Do Anything for Love (But I Won't Do That) ##
+&& Meat Loaf &&
+++ vyřazeno 16. 11. 2026 · Klavír? z akordy.kytary.cz, zatím bez kontroly ++
+
+[0: A(6/7)]
+
+[1: D(sus4) A D A G, Hm F#m G A]
+And I would do anything for love
+I'd run right into hell and back
+I would do anything for love
+I'll never lie to you and that's a fact
+But I'll never forget the way you feel right now
+Oh no no way
+
+[R: D A(9), G A D(sus2/sus4) G A]
+And I would do anything for love
+Oh, I would do anything for love
+I would do anything for love
+But I won't do that
+No, I won't do that
+
+[2: Hm G Em D, G D Hm A G D Hm A Em G(dim) A D(sus4) A D A G D(sus4) A D A G Hm F#m G A]
+And some days it don't come easy
+and some days it don't come hard
+Some days it don't come at all and
+these are the days that never end
+And some nights you're breathing fire
+and some nights you're carved in ice
+Some nights are like nothing I've ever
+seen before or will again
+And maybe I'm crazy, oh it's crazy and it's true
+I know you can save me, no one else can save me now but you
+As long as the planets are turning,
+as long as the stars are burning
+As long as your dreams are coming true, you better believe me
+That I would do anything for love,
+and I'll be there till the final act
+And I would do anything for love,
+and I'll take my vow and seal a pact
+But I'll never forgive myself if we don't go all the way tonight
+
+[R: D G A D A(9) D A G A]
+And I would do anything for love
+I would do anything for love
+I would do anything for love
+But I won't do that
+No, I won't do that
+
+[B: D Hm G A]
+I would do anything for love, anything you've been dreaming of
+But I just won't do that
+
+[S: Em F#m G Em F#m A(7), D(sus2/sus4) G A D(sus2/sus4) G A]
+
+[3: Hm G Em D, G D Hm A G D Hm A Em G(dim) A D(sus4) A D A G D(sus4) A D A G Hm F#m G A]
+And some days I pray for silence,
+and some days I pray for a soul
+Some days I just pray to the god of
+Sex and Drugs and Rock 'n' Roll
+And some nights I lose the feeling,
+and some nights I lose control
+Some nights I just lose it all when I
+watch you dance and the thunder rolls
+And maybe I'm lonely, that's all I'm qualified to be
+There's just one and only, one and only promise I can keep
+As long as the wheels are turning,
+as long as the fires are burning
+As long as your prayers are coming true, you better believe it!
+That I would do anything for love,
+and you know it's true and that's a fact
+And I would do anything for love,
+and there'll never be no turning back
+But I'll never do it better than I do it with you,
+so long so long
+
+[R: D A(9), G A D]
+I would do anything for love
+Oh, I would do anything for love
+I would do anything for love
+But I won't do that
+No no no, I won't do that
+
+[B: D Hm G A D Hm F#m G A]
+I would do anything for love, anything you've been dreaming of
+But I just won't do that
+But I'll never stop dreaming of you every night of my life no way
+
+[R: D A(9), G A D]
+I would do anything for love
+Oh, I would do anything for love
+Oh, I would do anything for love
+But I won't do that
+No, I won't do that
+
+[4: D(sus4) G A D G A(9) D G A G A, A D(sus4) A(9) D(sus4) A G A D(sus2/sus4)]
+Will you raise me up, will you help me down
+Will you get me right out of this godforsaken town
+Will you make it all a little less cold
+I can do that, oh, I can do that!
+Will you hold me sacred, will you hold me tight
+Can you colorize my life, I'm so sick of black and white
+Can you make it all a little less old
+I can do that, oh oh oh, I can do that!
+Can you make me some magic with your own two hands
+Can you build an emerald city with these grains of sand
+Can you give me something I can take home
+I can do that, ooh now, I can do that!
+Will you cater to every fantasy I got,
+Will you hose me down with holy water - if I get too hot
+Will you take me places I've never known
+Now I can do that, I know I can do that!
+After a while you'll forget everything,
+It was a brief interlude and a midsummernights fling,
+and you'll see that it's time to move on
+I won't do that, I won't do that!
+I know the territory, I've been around
+It'll all turn to dust and we'll all fall down
+And sooner or later, you'll be screwing around
+I won't do that, no, I won't do that
+Anything for love
+Oh, I would do anything for love
+I would do anything for love
+But I won't do that
+No, I won't do that
+
+
+## Memories ##
+&& Maroon 5 &&
+++ vyřazeno 16. 11. 2026 · z akordy.kytary.cz, zatím bez kontroly ++
+
+[0: H F# G#m D#m E H E F#]
+x = mute string
+
+[0: H F# G#m D#m E H E F# H F# G#m D#m E H F# E]
+Here's to the ones that we got
+Cheers to the wish you were here but you're not
+'Cause the drinks bring back all the memories
+Of everything we've been through
+Toast to the ones here today
+Toast to the ones that we lost on the way
+'Cause the drinks bring back all the memories
+And the memories bring back memories, bring back you
+
+[1-2+R: H F# G#m D#m E H E F#]
+There's a time that I remember, when I did not know no pain
+When I believed in forever, and everything would stay the same
+Now my heart feel like December, when somebody say your name
+'Cause I can't reach out to call you, but I know I will one day, ayy
+
+Everybody hurts sometimes, everybody hurts someday, ayy-ayy
+But everything gon' be alright, go and raise a glass and say, ayy
+
+Here's to the ones that we got
+Cheers to the wish you were here but you're not
+'Cause the drinks bring back all the memories
+Of everything we've been through
+Toast to the ones here today
+Toast to the ones that we lost on the way
+'Cause the drinks bring back all the memories
+And the memories bring back memories, bring back you
+
+[R: F# G#m D#m E H F# E H]
+Doo-dooo doo-doo-doo-do
+Doo-doo-do dooo doo-doo-dooo-do
+Doo-doo-do-dooo doo-doo-dooo
+Memories bring back memories, bring back you
+
+[3-4+R: H F# G#m D#m E H E F#]
+There's a time that I remember, when I never felt so lost
+When I felt all of the hatred, was too powerful to stop (ooh yeah)
+Now my heart feel like an ember, and it's lighting up the dark
+I'll carry these torches for ya, and you know I never drop, yeah
+
+Everybody hurts sometimes, everybody hurts someday, ayy-ayy
+Everything gon' be alright, go and raise a glass and say, ayy
+
+Here's to the ones that we got (oh-oh)
+Cheers to the wish you were here but you're not
+'Cause the drinks bring back all the memories
+Of everything we've been through (no no)
+Toast to the ones here today (ay-ayy)
+Toast to the ones that we lost on the way
+'Cause the drinks bring back all the memories (yeah)
+And the memories bring back memories, bring back you
+
+[R: F# G#m D#m E H E F# H]
+Doo-dooo doo-doo-doo-do
+Doo-doo-do dooo doo-doo-dooo-do
+Doo-doo-do-dooo doo-doo-dooo
+Memories bring back memories, bring back you
+Doo-dooo doo-doo-doo-do
+Doo-doo-do dooo doo-doo-dooo-do
+Doo-doo-do-dooo doo-doo-dooo (ooh yeah)
+Memories bring back memories, bring back you
+
+[Z: F# G#m D#m E H F# E H]
+Yeah-yeah yeah yeah
+Yeah-yeah yeah yeah, yeah-no
+Memories bring back memories, bring back you
+
+
+## Muž číslo 1 ##
+&& Marie Rottrová &&
+++ vyřazeno 16. 11. 2026 · z akordy.kytary.cz, zatím bez kontroly ++
+
+[0: D# Gm Cm Gm Fm G# A#]
+
+[1: Cm D# Cm G# D# Cm D#(7) G# A#(7sus4)]
+Jsi růží mezi muži, holkám dech se úží
+mají husí kůži, když jdeš blíž
+ta hruď, ten zrak, ty vousy, holky vlasy rvou si
+navzájem se rdousí, ty to víš
+
+[R: D#(6) H(/C#) C#(7sus4)]
+Jsi jediný ze sta, jsi do ráje cesta
+jsi z jiného těsta, mezi muži klenot
+ten šarm a ta gesta, jsi ozdobou města
+jsi jediný ze sta, mezi muži klenot
+
+[2: Cm D# Cm G# D# Cm D#(7) G# A#(7sus4)]
+Jsi mistr slov a tance, extrakt elegance
+nejkrásnější šance, když jdeš blíž
+jsi král hercové hlášky, sprintér bez překážky
+a věčně bez porážky, ty to víš
+
+[R: D#(6) H(/C#) C#(7sus4)]
+Jsi jediný ze sta, jsi do ráje cesta
+jsi z jiného těsta, mezi muži klenot
+ten šarm a ta gesta, jsi ozdobou města
+jsi jediný ze sta, mezi muži klenot
+
+[B: D# Cm Fm A#(7sus4)]
+Supr muž, supr muž, čtyři, tři dva, jedna, už
+supr muž, supr muž, a ty holka slzy suš
+supr muž, supr muž, do srdcí už vniká nůž
+supr muž, supr muž, čtyři, tři dva, jedna, už
+
+[R: D#(6) H(/C#) C#(7sus4)]
+Ze sta, jsi jediný ze sta
+jsi do ráje cesta, mezi muži klenot
+ten šarm a ta gesta, jsi ozdobou města
+jsi jediný ze sta, mezi muži klenot
+
+[I: D# Gm Cm Gm Fm G# A#]
+
+[3: Cm D# Cm G# D# Cm D#(7) G# A#(7sus4)]
+Jsi mužem číslo jedna, růže koncem ledna
+a skála nedohledná když jdeš blíž
+jsi fotka z magazínů, první z manekýnů
+vývar cukerínu, ty to víš
+
+[R: D#(6) H(/C#) C#(7sus4)]
+Jsi jediný ze sta, jsi do ráje cesta
+jsi z jiného těsta, mezi muži klenot
+ten šarm a ta gesta, jsi ozdobou města
+jsi jediný ze sta, mezi muži klenot
+
+Jen ty, ze sta
+k štěstí cesta
+jen ty, ze sta
+k štěstí cesta
+
+Jen ty, ze sta, k štěstí cesta
+
 
 `;
