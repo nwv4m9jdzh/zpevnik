@@ -8,6 +8,7 @@
 <link rel="icon" type="image/png" sizes="180x180" href="apple-touch-icon.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <meta name="apple-mobile-web-app-title" content="Pivka a buřty">
+<script>if (/[?&]skryte(&|=|$)/.test(location.search)) document.documentElement.classList.add('skryte');</script>
 <style>
   :root {
     --bg:           #16120d;   
@@ -46,6 +47,25 @@
       --chord-color:  #957141;
       --chord-border: #dcccb7;
       --aktualni:     #b4640a;
+    }
+  }
+
+  /* Stránka Skryté (index.html?skryte): všechny barvy odbarvené na černobílou,
+     ať je na první pohled znát, že návštěvník není v hlavním zpěvníku. */
+  :root.skryte {
+    --bg: #141414; --surface: #1e1e1e; --border: #3a3a3a;
+    --accent: #cfcfcf; --accent-dim: #cfcfcf; --text: #bdbdbd;
+    --text-zvyraz: #f4f4f4; --text-dim: #cfcfcf; --ztlumene: #767676;
+    --chord-bg: #222222; --chord-color: #a8a8a8; --chord-border: #444444;
+    --aktualni: #e0e0e0;
+  }
+  @media (prefers-color-scheme: light) {
+    :root.skryte {
+      --bg: #eeeeee; --surface: #e6e6e6; --border: #cfcfcf;
+      --accent: #444444; --accent-dim: #444444; --text: #4a4a4a;
+      --text-zvyraz: #0e0e0e; --text-dim: #444444; --ztlumene: #9a9a9a;
+      --chord-bg: #e8e8e8; --chord-color: #777777; --chord-border: #d0d0d0;
+      --aktualni: #555555;
     }
   }
 
