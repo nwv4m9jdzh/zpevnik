@@ -373,5 +373,34 @@ k štěstí cesta
 
 Jen ty, ze sta, k štěstí cesta
 
+## Love Hurts ##
+&& Nazareth &&
+++ vyřazeno 16. 11. 2026 · z akordy.kytary.cz, zatím bez kontroly ++
+
+[0: G F C]
+
+[1-2: D(/C) G Em C D(/C) G H Em H C D(/C) G H Em D(/C) G F C G]
+Love hurts, love scars, love wounds and mars, any heart not tough or strong enough
+To take a lot of pain, take a lot of pain, love is like a cloud, it holds a lot of rain
+Love hurts, ooo-oo love hurts
+
+I'm young, I know, but even so, I know a thing or two, I learned from you
+I really learned a lot, really learned a lot, love is like a flame, it burns you when it's hot
+Love hurts, ooo-oo love hurts
+
+[3: H Em, D]
+Some fools think of happiness, blissfulness, togetherness
+Some fools fool themselves, I guess, they're not foolin' me
+
+[4: D(/C) G F C G F C G]
+I know it isn't true, I know it isn't true, love is just a lie made to make you blue
+Love hurts, ooo-oo love hurts, ooo-oo love hurts
+
+[4: G Em C D(/C)]
+
+[5: D(/C) G F C G F C G F C]
+I know it isn't true, I know it isn't true, love is just a lie made to make you blue
+Love hurts, ooo-oo love hurts, ooo-oo love hurts, ooo-oo
+
 
 `;
