@@ -1810,7 +1810,7 @@ Angie, Angie, they can't say we never tried
 
 ## Another Brick In The Wall ##
 && Pink Floyd &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [0: Dm]
 
@@ -1821,7 +1821,7 @@ No dark sarcasm in the classroom
 Teacher, leave them kids alone
 Hey! Teacher, leave them kids alone
 
-[I: Dm C, G F C Dm F C Dm]
+[I: F C Dm]
 All in all it's just a - nother brick in the wall
 All in all you're just a - nother brick in the wall
 
@@ -1832,7 +1832,7 @@ No dark sarcasm in the classroom
 Teachers, leave them kids alone
 Hey! Teacher, leave those kids alone
 
-[I: Dm C, G F C Dm F C Dm]
+[I: F C Dm]
 All in all you're just a - nother brick in the wall
 All in all you're just a - nother brick in the wall
 
