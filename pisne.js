@@ -1351,7 +1351,7 @@ Povídej, povídej, povídej.
 
 ## Maja ##
 && Nightwork &&
-++ čeká na kontrolu ++
+++ zkontrolováno 16. 11. 2026 ++
 [Fm  Es  C#  C]
 
 Maja, Maja, Maja, Maja...
@@ -7208,7 +7208,7 @@ a od zdi ke zdi šourat se my dva.
 
 ## Prvá ##
 && No Name &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [0: E H C#m(7) A(add9)]
 
@@ -7218,7 +7218,7 @@ Mňa nepresvedčí nikto
 že sa sebe ukloníme
 a naposledy si zamávajú dlane
 
-[B: A H(sus4)]
+[B: A, H(sus4)]
 Ja nechcem, aby tvoje srdce stíchlo
 aj tak sa stane, čo sa má stať
 veď život plynie rýchlo
@@ -7229,7 +7229,7 @@ Mňa nepresvedčí nikto
 človek potrebuje nádej
 aspoň niečo, aspoň tri bodky
 
-[B: A H(sus4)]
+[B: A, H(sus4)]
 Ja nechcem, aby tvoje srdce stíchlo
 aj tak sa stane, čo sa má stať
 veď život plynie rýchlo
@@ -7251,7 +7251,7 @@ Mňa nepresviedčí nikto
 to je asi hlavný dôvod
 prečo sa ľudia tak umerania boja
 
-[B: A H(sus4)]
+[B: A, H(sus4)]
 Ja nechcem, aby naše srdcia stíchli
 aj tak sa stane, čo sa má stať
 veď život je tak rýchly
@@ -9886,7 +9886,7 @@ Shattered dreams
 
 ## The Man Who Sold The World ##
 && Nirvana, David Bowie &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [0: A Dm F Dm]
 
@@ -10369,58 +10369,6 @@ a tak doufám, že to co mě i Tebe tak mrazí
 nejsou jen tři tečky na konci frází
 
 [Z: C F G C Em(/H)]
-
-
-
-## Ty a tvoja sestra ##
-&& No Name &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
-
-[0: E A(sus2), H(sus4)]
-
-[1: E(sus4) H(sus4) E A(sus2), A(sus2) E(sus4) C#m(7) H(sus4)]
-Jediné čo na tebe si cením
-tvoja sestra, kvôli nej sa mením
-ja viem že kvôli tebe vymyslel som ráno
-kvôli sestre však obetujem spánok
-
-[B: A(sus2) E(/G#) F#m(11)]
-Pozerám sa, v očiach vidím jas
-vďaka tvojej sestre ľúbim zas
-
-[2: E H(sus4) E A(sus2), C#m(7) H(sus4)]
-Na svete sú veci, čo sú krásne
-tvoja sestra mi ich dala, to je jasné
-to, čo mi ty dávaš, to je málo
-opýtaj sa sestry, čo sa stalo, uoó
-
-[R: A(sus2) H(sus4) C#m(7), E]
-Tak sa pýtam, pre ktorú mi srdce bije
-kvôli tebe dýcham, no kvôli sestre žijem
-a jedno čomu verím sú tvojej sestry pery
-a jedno čo ma mrzí, si ty a tvoje slzy
-
-[B: C#m(7) A(sus2) E H(sus4)]
-Pozerám sa ráno z okna, vidím teba, sestru
-neviem prísť na to, ktorú vezmem za nevestu
-
-[3: A(sus2) H(sus4) C#m(7), E]
-Tak sa pýtam, pre ktorú mi srdce bije
-kvôli tebe dýcham, no kvôli sestre žijem
-a jedno čomu verím, sú tvojej sestry pery
-a jedno čo ma mrzí, si ty a tvoje slzy
-
-[R: G C(add9) D(sus4)]
-Tak sa pýtam pre ktorú mi srdce bije
-kvôli tebe dýcham, no kvôli sestre žijem
-a jedno čomu verím, sú tvojej sestry pery
-a jedno čo ma mrzí, si ty a tvoje slzy
-ty a tvoja sestra, uóou, uóou
-uóou, uóou, uóou, uóou
-jedna kvôli ktorej dýcham, kvôli ktorej žijem
-ty a tvoja sestra, uoou, uoou
-
-[Z: E(sus4)]
 
 
 
@@ -11109,7 +11057,7 @@ I'll carry you home tonight
 
 ## Where Did You Sleep Last Night ##
 && Nirvana &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [Em A G H]
 My girl, my girl, don't lie to me,
@@ -11544,77 +11492,6 @@ Zatanči, jako se okolo ohně tančí
 zatanči jako na vodě loď
 zatanči jako to slunce mezi pomeranči
 zatanči, a pak ke mně pojď
-
-
-
-## Čím to je ##
-&& No Name &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
-
-[1-2: Fm Cm A#(sus2)]
-Čím to je, čím to je
-že rieka do mora sa vlieva
-a ten čo nevie spievat spieva?
-
-Čím to je, čím to je
-že mladí netúžia byť múdri
-a ženy ukryté sú v púdri?
-
-[R: A#(7sus4) G#(/A#) D#, G(5) G#]
-Možno zlodej a možno mních
-spísal knihu kníh
-čo raz a navždy vysvetlí
-prečo sú veci tak jak, sú
-život má chuť zápasu
-a človek ním len preletí
-
-[3-4: Fm Cm A#(sus2)]
-Čím to je, čím to je
-že Mesiac so Slnkom sa strieda
-na Zemi blahobyt a bieda?
-
-Čím to je, čím to je
-že leto nenávidí jeseň
-a kritik nenapíše pieseň?
-
-[R: G#(/A#) D# A#]
-Tá otázka je možno hlúpa
-no ja chcem vedieť, čím to je
-že dym z cigarety stúpa
-že husle rozozvučia iba sláky
-a lietať nedokážu ľudia
-ale vtáky
-
-[R: G#(/A#) D# A# G#(/A#) D# G(5)]
-Možno zlodej, možno mních
-spísal knihu kníh
-čo raz a navždy vysvetlí
-prečo sú veci tak, jak sú
-život má chuť zápasu
-a človek ním len preletí
-
-[B: Cm(/G) F, G# Cm]
-Snáď sa raz odpovedí dočkám
-nemusím všetko, stačí niečo
-otázok má každý plný zoznam
-čím to je a vobec prečo?
-
-[5-6: Gm Dm C]
-Čím to je, čím to je
-že neúspešní chcú piť z krvi tých
-čo úspesne sú prví?
-
-Čím to je, čím to je
-že maliar uznania sa dočká
-až keď zavrie svoje oči?
-
-[R: C(7sus4) A#(/C) F, A(5) A#]
-Možno zlodej, možno mních
-spísal knihu kníh
-čo raz a navždy vysvetlí
-prečo sú veci tak, jak sú
-život má chuť zápasu
-a človek ním len preletí
 
 
 

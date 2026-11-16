@@ -402,5 +402,125 @@ Love hurts, ooo-oo love hurts, ooo-oo love hurts
 I know it isn't true, I know it isn't true, love is just a lie made to make you blue
 Love hurts, ooo-oo love hurts, ooo-oo love hurts, ooo-oo
 
+## Čím to je ##
+&& No Name &&
+++ vyřazeno 16. 11. 2026 · z akordy.kytary.cz, zatím bez kontroly ++
+
+[1-2: Fm Cm A#(sus2)]
+Čím to je, čím to je
+že rieka do mora sa vlieva
+a ten čo nevie spievat spieva?
+
+Čím to je, čím to je
+že mladí netúžia byť múdri
+a ženy ukryté sú v púdri?
+
+[R: A#(7sus4) G#(/A#) D#, G(5) G#]
+Možno zlodej a možno mních
+spísal knihu kníh
+čo raz a navždy vysvetlí
+prečo sú veci tak jak, sú
+život má chuť zápasu
+a človek ním len preletí
+
+[3-4: Fm Cm A#(sus2)]
+Čím to je, čím to je
+že Mesiac so Slnkom sa strieda
+na Zemi blahobyt a bieda?
+
+Čím to je, čím to je
+že leto nenávidí jeseň
+a kritik nenapíše pieseň?
+
+[R: G#(/A#) D# A#]
+Tá otázka je možno hlúpa
+no ja chcem vedieť, čím to je
+že dym z cigarety stúpa
+že husle rozozvučia iba sláky
+a lietať nedokážu ľudia
+ale vtáky
+
+[R: G#(/A#) D# A# G#(/A#) D# G(5)]
+Možno zlodej, možno mních
+spísal knihu kníh
+čo raz a navždy vysvetlí
+prečo sú veci tak, jak sú
+život má chuť zápasu
+a človek ním len preletí
+
+[B: Cm(/G) F, G# Cm]
+Snáď sa raz odpovedí dočkám
+nemusím všetko, stačí niečo
+otázok má každý plný zoznam
+čím to je a vobec prečo?
+
+[5-6: Gm Dm C]
+Čím to je, čím to je
+že neúspešní chcú piť z krvi tých
+čo úspesne sú prví?
+
+Čím to je, čím to je
+že maliar uznania sa dočká
+až keď zavrie svoje oči?
+
+[R: C(7sus4) A#(/C) F, A(5) A#]
+Možno zlodej, možno mních
+spísal knihu kníh
+čo raz a navždy vysvetlí
+prečo sú veci tak, jak sú
+život má chuť zápasu
+a človek ním len preletí
+
+
+## Ty a tvoja sestra ##
+&& No Name &&
+++ vyřazeno 16. 11. 2026 · akordy nesedí minimálně ve sloce · z akordy.kytary.cz, zatím bez kontroly ++
+
+[0: E A(sus2), H(sus4)]
+
+[1: E(sus4) H(sus4) E A(sus2), A(sus2) E(sus4) C#m(7) H(sus4)]
+Jediné čo na tebe si cením
+tvoja sestra, kvôli nej sa mením
+ja viem že kvôli tebe vymyslel som ráno
+kvôli sestre však obetujem spánok
+
+[B: A(sus2) E(/G#) F#m(11)]
+Pozerám sa, v očiach vidím jas
+vďaka tvojej sestre ľúbim zas
+
+[2: E H(sus4) E A(sus2), C#m(7) H(sus4)]
+Na svete sú veci, čo sú krásne
+tvoja sestra mi ich dala, to je jasné
+to, čo mi ty dávaš, to je málo
+opýtaj sa sestry, čo sa stalo, uoó
+
+[R: A(sus2) H(sus4) C#m(7), E]
+Tak sa pýtam, pre ktorú mi srdce bije
+kvôli tebe dýcham, no kvôli sestre žijem
+a jedno čomu verím sú tvojej sestry pery
+a jedno čo ma mrzí, si ty a tvoje slzy
+
+[B: C#m(7) A(sus2) E H(sus4)]
+Pozerám sa ráno z okna, vidím teba, sestru
+neviem prísť na to, ktorú vezmem za nevestu
+
+[3: A(sus2) H(sus4) C#m(7), E]
+Tak sa pýtam, pre ktorú mi srdce bije
+kvôli tebe dýcham, no kvôli sestre žijem
+a jedno čomu verím, sú tvojej sestry pery
+a jedno čo ma mrzí, si ty a tvoje slzy
+
+[R: G C(add9) D(sus4)]
+Tak sa pýtam pre ktorú mi srdce bije
+kvôli tebe dýcham, no kvôli sestre žijem
+a jedno čomu verím, sú tvojej sestry pery
+a jedno čo ma mrzí, si ty a tvoje slzy
+ty a tvoja sestra, uóou, uóou
+uóou, uóou, uóou, uóou
+jedna kvôli ktorej dýcham, kvôli ktorej žijem
+ty a tvoja sestra, uoou, uoou
+
+[Z: E(sus4)]
+
 
 `;
