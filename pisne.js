@@ -4405,7 +4405,7 @@ Nah nah nah nah nah nah, nah nah nah, hey Jude
 
 ## Hey You ##
 && Pink Floyd &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 · šlo by učesat ++
 
 [0: Em Dm]
 
