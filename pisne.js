@@ -8182,7 +8182,7 @@ prečo nás tu takto nechal stá--áť?
 
 ## Ráno ##
 && Iné Kafe &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [1: Am F G C G]
 Keď máš doma opäť ďalší problém,
@@ -8194,7 +8194,7 @@ s ktorým si včera pil minimálne do rána.
 A sám si opäť zostal s tými,
 ktorí ťa vedú nevieš kam.
 
-[R: Am F G C F G Am F G C G]
+[R: Am F G C F G Am F G]
 Keď včera bola tma, tak dnes príde ráno
 a s ním sa skončí sen, čo kradol ti spánok.
 A svitanie ti úsmev na tvári pripraví.
@@ -8212,7 +8212,7 @@ A kruh sa ti už uzatvára, už je ti jasné,
 Ešte ti tu zostáva nádej
 a končiť s tým prečo.
 
-[R: Am F G C F G Am F G C G]
+[R: Am F G C F G Am F G]
 Keď včera bola tma, tak dnes príde ráno
 a s ním sa skončí sen, čo kradol ti spánok.
 A svitanie ti úsmev na tvári pripraví.
