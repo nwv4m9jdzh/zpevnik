@@ -181,6 +181,10 @@
     font-weight: normal;
   }
   nav.obsah li.polozka.zkontrolovano::before { color: var(--text); }
+  /* píseň, která kontrolou ještě neprošla: název stejně světlý jako číslo */
+  nav.obsah li.polozka:not(.zkontrolovano) a { color: var(--ztlumene); }
+  nav.obsah li.polozka:not(.zkontrolovano) a:hover,
+  nav.obsah li.polozka:not(.zkontrolovano) a:focus { color: var(--accent); }
   /* jméno interpreta vpravo na řádku jeho první písně — malým písmem,
      při nedostatku místa se zkracuje */
   nav.obsah li.polozka .interpret {
