@@ -404,7 +404,7 @@ jsi zvuk, když padnou mi na rety slzy múz.
 
 ## With Or Without You ##
 && U2 &&
-++ čeká na kontrolu ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [D A Hm G]
 See the stone set in your eyes
@@ -1178,12 +1178,12 @@ kterej si rád hraje, který je s tebou.
 
 ## Tu kytaru jsem koupil kvůli tobě ##
 && Václav Neckář &&
-++ čeká na kontrolu ++
+++ zkontrolováno 16. 11. 2026 ++
 
-[C A(7) Dm G(7) C]
+[D H(7) Em A(7) D]
 Jak můžeš bejt tak krutá, copak nemáš kouska citu v těle?
 
-[Verse: C G C(7) F Fm C G C]
+[Verse: D A D(7) G Gm D A D]
 Tu kytáru jsem koupil kvůli Tobě
 a dal jsem za ni celej tátův plat.
 Ta dávno ještě byla ve výrobě
@@ -1194,19 +1194,19 @@ a jenom vítr na to dřevo hrál.
 A já už trnul, jestli někdy snese,
 žár, který ve mně, denně narůstal.
 
-[Chorus: Am Em Am C F G(7) C(7) F Fm C G(7) C]
+[Chorus: Hm F#m Hm D G A(7) D(7) G Gm D A(7) D]
 S tou kytárou teď stojím před Tvým domem,
 měj soucit aspoň k tomu javoru.
 Jen kvůli Tobě přestal býti stromem,
 tak už nás oba, pozvi nahoru.
 
-[Verse: C G C(7) F Fm C G C]
+[Verse: D A D(7) G Gm D A D]
 Tu kytáru jsem koupil kvůli Tobě
 a dal jsem za ni celej tátův plat.
 Ta dávno ještě byla ve výrobě
 a já už věděl, co Ti budu hrát.
 
-[Chorus: Am Em Am C F G(7) C(7) F Fm C G(7) C G(7) C A# H C]
+[Chorus: Hm F#m Hm D G A(7) D(7) G Gm D A(7) D A(7) D C C# D]
 S tou kytárou teď stojím před Tvým domem,
 měj soucit aspoň k tomu javoru.
 Jen kvůli Tobě přestal býti stromem,
@@ -4094,7 +4094,7 @@ Get it on Bang a gong Get it on
 
 ## Girl You'll Be A Woman Soon ##
 && Urge Overkill &&
-++ Výzva! z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [0: G(5) C(5) F Gm]
 Girl, you'll be a woman soon
@@ -5496,7 +5496,7 @@ yeah Knock-knock-knockin' on heaven's door-oh-whoa, yeah-yeah-yeah
 
 ## Lady In Black ##
 && Uriah Heep &&
-++ z akordy.kytary.cz, zatím bez kontroly ++
+++ zkontrolováno 16. 11. 2026 ++
 
 [0: Am]
 
